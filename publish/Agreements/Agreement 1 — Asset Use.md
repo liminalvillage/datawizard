@@ -16,11 +16,11 @@ tags:
   - asset-use
   - comodato
 ---
-*Part of the [[ReGenerativa Constellation v3]]. Root layer of the constellation — establishes the legal basis for placing assets in purpose-bound use.*
+*Part of the [ReGenerativa Constellation v3](../Sources/ReGenerativa%20Constellation%20v3.md). Root layer of the constellation — establishes the legal basis for placing assets in purpose-bound use.*
 
-*Incorporates the [[General Terms and Conditions]] in full. Standard provisions (ecological covenant, network regeneration contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply to this Agreement without repetition.*
+*Incorporates the [General Terms and Conditions](General%20Terms%20and%20Conditions.md) in full. Standard provisions (ecological covenant, network regeneration contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply to this Agreement without repetition.*
 
-*Distinction from the [[Agreement 5 — Sponsorship Gift|Sponsorship / Gift Agreement]]: Under this Agreement, the Asset is lent, not given. Ownership does not transfer. The Asset must be returned upon termination. For resources where ownership fully transfers to the network (money, consumables, goods, services), see the Sponsorship / Gift Agreement.*
+*Distinction from the [Sponsorship / Gift Agreement](Agreement%205%20%E2%80%94%20Sponsorship%20Gift.md): Under this Agreement, the Asset is lent, not given. Ownership does not transfer. The Asset must be returned upon termination. For resources where ownership fully transfers to the network (money, consumables, goods, services), see the Sponsorship / Gift Agreement.*
 
 ---
 
@@ -168,22 +168,22 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A1-1 — Asset Description, Schedule and Access Conditions]]
-- [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]]
-- [[A1-3 — Maintenance Protocol]]
-- [[A1-4 — Cleaning and Restoration Protocol]]
-- [[A1-5 — Shared Infrastructure Contributions]]
+- [A1-1 — Asset Description, Schedule and Access Conditions](Annexes/A1-1%20%E2%80%94%20Asset%20Description%2C%20Schedule%20and%20Access%20Conditions.md)
+- [A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification](Annexes/A1-2%20%E2%80%94%20Permitted%20Purposes%2C%20Use%20Restrictions%20and%20Social%20DNA%20Classification.md)
+- [A1-3 — Maintenance Protocol](Annexes/A1-3%20%E2%80%94%20Maintenance%20Protocol.md)
+- [A1-4 — Cleaning and Restoration Protocol](Annexes/A1-4%20%E2%80%94%20Cleaning%20and%20Restoration%20Protocol.md)
+- [A1-5 — Shared Infrastructure Contributions](Annexes/A1-5%20%E2%80%94%20Shared%20Infrastructure%20Contributions.md)
 
 ---
 
 ## Linked Annexes
 
-- [[A1-1 — Asset Description, Schedule and Access Conditions]]
-- [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]]
-- [[A1-3 — Maintenance Protocol]]
-- [[A1-4 — Cleaning and Restoration Protocol]]
-- [[A1-5 — Shared Infrastructure Contributions]]
+- [A1-1 — Asset Description, Schedule and Access Conditions](Annexes/A1-1%20%E2%80%94%20Asset%20Description%2C%20Schedule%20and%20Access%20Conditions.md)
+- [A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification](Annexes/A1-2%20%E2%80%94%20Permitted%20Purposes%2C%20Use%20Restrictions%20and%20Social%20DNA%20Classification.md)
+- [A1-3 — Maintenance Protocol](Annexes/A1-3%20%E2%80%94%20Maintenance%20Protocol.md)
+- [A1-4 — Cleaning and Restoration Protocol](Annexes/A1-4%20%E2%80%94%20Cleaning%20and%20Restoration%20Protocol.md)
+- [A1-5 — Shared Infrastructure Contributions](Annexes/A1-5%20%E2%80%94%20Shared%20Infrastructure%20Contributions.md)
 
 ---
 
-*Cleanup note: Clause 1.2 lists the old Social DNA domain names inline. The canonical definition is in [[General Terms and Conditions]] GT-1.6. Update clause 1.2 at next substantive edit.*
+*Cleanup note: Clause 1.2 lists the old Social DNA domain names inline. The canonical definition is in [General Terms and Conditions](General%20Terms%20and%20Conditions.md) GT-1.6. Update clause 1.2 at next substantive edit.*

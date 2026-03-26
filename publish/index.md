@@ -2,8 +2,6 @@
 sidebar_position: 1
 ---
 
-# DataWizard Publish
+# ReGenerativa
 
-This folder is the public-facing subset of the vault.
-
-Only put notes here that are safe to publish.
+Full ReGenerativa vault content is published in this site.

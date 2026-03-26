@@ -14,9 +14,9 @@ tags:
   - ReGenerativa
   - stewardship
 ---
-*Part of the [[ReGenerativa Constellation v3]]. Operational layer of the constellation — delegates custodianship of a hub to a named steward.*
+*Part of the [ReGenerativa Constellation v3](../Sources/ReGenerativa%20Constellation%20v3.md). Operational layer of the constellation — delegates custodianship of a hub to a named steward.*
 
-*Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
+*Incorporates the [General Terms and Conditions](General%20Terms%20and%20Conditions.md) in full. Standard provisions are set out therein and apply without repetition.*
 
 ---
 
@@ -50,7 +50,7 @@ tags:
 
 ## 2. Relationship to the Asset Use Agreement
 
-**2.1** The Steward expressly acknowledges that the Association's use of the Hub is derived from the applicable [[Agreement 1 — Asset Use|Asset Use Agreement]] (Owner Agreement) or other lawful upstream title held by the Association.
+**2.1** The Steward expressly acknowledges that the Association's use of the Hub is derived from the applicable [Asset Use Agreement](Agreement%201%20%E2%80%94%20Asset%20Use.md) (Owner Agreement) or other lawful upstream title held by the Association.
 
 **2.2** The Steward's presence and role exist solely within the Association's framework and remain subordinate to the Association's rights and obligations under that upstream agreement.
 
@@ -112,7 +112,7 @@ tags:
 
 **8.1** Unless otherwise specified, stewardship under this Agreement is presumed to be either voluntary, or paired only with reimbursement of approved expenses, or accompanied by separately contracted paid services.
 
-**8.2** If the Steward also provides paid services (facilitation, teaching, consultancy, technical work, etc.), those paid activities **must** be governed by a separate written agreement (such as the [[Agreement 4 — Mentorship|Mentorship Agreement]] or a professional services contract) and documented through the proper fiscal channel.
+**8.2** If the Steward also provides paid services (facilitation, teaching, consultancy, technical work, etc.), those paid activities **must** be governed by a separate written agreement (such as the [Mentorship Agreement](Agreement%204%20%E2%80%94%20Mentorship.md) or a professional services contract) and documented through the proper fiscal channel.
 
 **8.3** No compensation shall be due merely because the Steward has stewarded the Hub, unless it is expressly stated in this Agreement, an annex, or a separate agreement.
 
@@ -248,14 +248,14 @@ Date: _________________________
 
 ## Referenced Annexes
 
-The Stewardship Agreement does not carry its own annexes. The following annexes to the [[Agreement 1 — Asset Use|Asset Use Agreement]] are directly referenced in this Agreement:
+The Stewardship Agreement does not carry its own annexes. The following annexes to the [Asset Use Agreement](Agreement%201%20%E2%80%94%20Asset%20Use.md) are directly referenced in this Agreement:
 
-- [[A1-3 — Maintenance Protocol]] — referenced in Clauses 10.1–10.2
-- [[A1-4 — Cleaning and Restoration Protocol]] — referenced in Clause 10.2
-- [[A1-5 — Shared Infrastructure Contributions]] — referenced in Clause 3.8 (wear and tear contributions)
+- [A1-3 — Maintenance Protocol](Annexes/A1-3%20%E2%80%94%20Maintenance%20Protocol.md) — referenced in Clauses 10.1–10.2
+- [A1-4 — Cleaning and Restoration Protocol](Annexes/A1-4%20%E2%80%94%20Cleaning%20and%20Restoration%20Protocol.md) — referenced in Clause 10.2
+- [A1-5 — Shared Infrastructure Contributions](Annexes/A1-5%20%E2%80%94%20Shared%20Infrastructure%20Contributions.md) — referenced in Clause 3.8 (wear and tear contributions)
 
 Cost-coverage targets and stewardship cycle terms may also be recorded in a separate signed annex appended to this Agreement.
 
 ---
 
-*Cleanup note: Clause 4.1 lists the old Social DNA domain names inline. The canonical definition is in [[General Terms and Conditions]] GT-1.6. Update clause 4.1 at next substantive edit.*
+*Cleanup note: Clause 4.1 lists the old Social DNA domain names inline. The canonical definition is in [General Terms and Conditions](General%20Terms%20and%20Conditions.md) GT-1.6. Update clause 4.1 at next substantive edit.*

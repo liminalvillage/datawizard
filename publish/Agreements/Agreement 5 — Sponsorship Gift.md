@@ -16,11 +16,11 @@ tags:
   - gift
   - donation
 ---
-*Part of the [[ReGenerativa Constellation v3]]. Support layer of the constellation — allows benefactors to channel resources into the commons without acquiring ownership or control.*
+*Part of the [ReGenerativa Constellation v3](../Sources/ReGenerativa%20Constellation%20v3.md). Support layer of the constellation — allows benefactors to channel resources into the commons without acquiring ownership or control.*
 
-*Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
+*Incorporates the [General Terms and Conditions](General%20Terms%20and%20Conditions.md) in full. Standard provisions are set out therein and apply without repetition.*
 
-*Distinction from the [[Agreement 1 — Asset Use|Asset Use Agreement]]: Under this Agreement, ownership of the supported resources fully transfers to the Association upon delivery and acceptance. For resources where the supporter retains ownership and grants a right of use, see the Asset Use Agreement.*
+*Distinction from the [Asset Use Agreement](Agreement%201%20%E2%80%94%20Asset%20Use.md): Under this Agreement, ownership of the supported resources fully transfers to the Association upon delivery and acceptance. For resources where the supporter retains ownership and grants a right of use, see the Asset Use Agreement.*
 
 ---
 
@@ -191,5 +191,5 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A5-1 — Support Schedule]] — form, value, timing, destination, and fiscal classification of each contribution
-- [[A5-2 — Recognition Terms]] — recognition items, timeline, and corrispettivo classification (if applicable)
+- [A5-1 — Support Schedule](Annexes/A5-1%20%E2%80%94%20Support%20Schedule.md) — form, value, timing, destination, and fiscal classification of each contribution
+- [A5-2 — Recognition Terms](Annexes/A5-2%20%E2%80%94%20Recognition%20Terms.md) — recognition items, timeline, and corrispettivo classification (if applicable)

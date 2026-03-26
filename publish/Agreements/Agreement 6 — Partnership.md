@@ -15,9 +15,9 @@ tags:
   - partnership
   - contribution-ledger
 ---
-*Part of the [[ReGenerativa Constellation v3]]. Collaboration layer of the constellation — provides a framework for multi-entity commercial projects with contribution-based value distribution.*
+*Part of the [ReGenerativa Constellation v3](../Sources/ReGenerativa%20Constellation%20v3.md). Collaboration layer of the constellation — provides a framework for multi-entity commercial projects with contribution-based value distribution.*
 
-*Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost. The digital infrastructure provisions (GT-3) govern the Contribution Ledger and blockchain validation. Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
+*Incorporates the [General Terms and Conditions](General%20Terms%20and%20Conditions.md) in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost. The digital infrastructure provisions (GT-3) govern the Contribution Ledger and blockchain validation. Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
 
 ---
 
@@ -264,9 +264,9 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A6-1 — Partner Register]] — canonical register of all current and former Partners
-- [[A6-2 — Adhesion Form Template]] — standard form for admitting new Partners
-- [[A6-3 — Structure Costs and Allocation]] — overhead costs deducted before Partner distribution
-- [[A6-4 — Project Sheet Template]] — one sheet per Project; governs scope, contributions, and revenue
-- [[A6-5 — Reference Hourly Rates]] — rates used to convert hours into contribution value
-- [[A6-6 — Validation Platform Description]] — technical architecture of the Contribution Ledger
+- [A6-1 — Partner Register](Annexes/A6-1%20%E2%80%94%20Partner%20Register.md) — canonical register of all current and former Partners
+- [A6-2 — Adhesion Form Template](Annexes/A6-2%20%E2%80%94%20Adhesion%20Form%20Template.md) — standard form for admitting new Partners
+- [A6-3 — Structure Costs and Allocation](Annexes/A6-3%20%E2%80%94%20Structure%20Costs%20and%20Allocation.md) — overhead costs deducted before Partner distribution
+- [A6-4 — Project Sheet Template](Annexes/A6-4%20%E2%80%94%20Project%20Sheet%20Template.md) — one sheet per Project; governs scope, contributions, and revenue
+- [A6-5 — Reference Hourly Rates](Annexes/A6-5%20%E2%80%94%20Reference%20Hourly%20Rates.md) — rates used to convert hours into contribution value
+- [A6-6 — Validation Platform Description](Annexes/A6-6%20%E2%80%94%20Validation%20Platform%20Description.md) — technical architecture of the Contribution Ledger

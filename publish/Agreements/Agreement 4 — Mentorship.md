@@ -15,9 +15,9 @@ tags:
   - mentorship
   - gift-economy
 ---
-*Part of the [[ReGenerativa Constellation v3]]. Expertise layer of the constellation — enables skilled practitioners to host programmes through the Association with a tiered access model grounded in the gift economy.*
+*Part of the [ReGenerativa Constellation v3](../Sources/ReGenerativa%20Constellation%20v3.md). Expertise layer of the constellation — enables skilled practitioners to host programmes through the Association with a tiered access model grounded in the gift economy.*
 
-*Incorporates the [[General Terms and Conditions]] in full. Fiscal compliance provisions (GT-12) apply to all compensation under this Agreement.*
+*Incorporates the [General Terms and Conditions](General%20Terms%20and%20Conditions.md) in full. Fiscal compliance provisions (GT-12) apply to all compensation under this Agreement.*
 
 ---
 
@@ -227,4 +227,4 @@ Each Programme governed by this Agreement shall have its own Programme Annex def
 
 ## Linked Annexes
 
-- [[A4 — Programme Annex Template]] — complete one per Programme; file as "A4 — [Programme Name] — [YYYY-MM]"
+- [A4 — Programme Annex Template](Annexes/A4%20%E2%80%94%20Programme%20Annex%20Template.md) — complete one per Programme; file as "A4 — [Programme Name] — [YYYY-MM]"

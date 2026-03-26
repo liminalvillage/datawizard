@@ -4,8 +4,9 @@
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "start": "docusaurus start",
-    "build": "docusaurus build",
+    "convert:wikilinks": "node scripts/convert-wikilinks.js",
+    "start": "npm run convert:wikilinks && docusaurus start",
+    "build": "npm run convert:wikilinks && docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",

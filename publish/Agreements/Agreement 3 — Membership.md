@@ -15,9 +15,9 @@ tags:
   - ReGenerativa
   - membership
 ---
-*Part of the [[ReGenerativa Constellation v3]]. Relational layer of the constellation — admits individuals as members with democratic rights and participatory duties under Italian Third Sector law.*
+*Part of the [ReGenerativa Constellation v3](../Sources/ReGenerativa%20Constellation%20v3.md). Relational layer of the constellation — admits individuals as members with democratic rights and participatory duties under Italian Third Sector law.*
 
-*Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
+*Incorporates the [General Terms and Conditions](General%20Terms%20and%20Conditions.md) in full. Standard provisions are set out therein and apply without repetition.*
 
 ---
 
