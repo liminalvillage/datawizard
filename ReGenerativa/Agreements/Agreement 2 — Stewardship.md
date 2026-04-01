@@ -1,21 +1,3 @@
----
-title: Agreement 2 — Stewardship
-type: agreement
-agreement_ref: '2'
-agreement_name: Stewardship Agreement
-layer: Operational
-parent: Constellation v3
-version: '3.0'
-created: '2026-03-17'
-updated: '2026-03-17'
-status: active
-tags:
-  - agreement
-  - ReGenerativa
-  - stewardship
----
-*Part of the [[ReGenerativa Constellation v3]]. Operational layer of the constellation — delegates custodianship of a hub to a named steward.*
-
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
 
 ---
@@ -50,7 +32,7 @@ tags:
 
 ## 2. Relationship to the Asset Use Agreement
 
-**2.1** The Steward expressly acknowledges that the Association's use of the Hub is derived from the applicable [[Agreement 1 — Asset Use|Asset Use Agreement]] (Owner Agreement) or other lawful upstream title held by the Association.
+**2.1** The Steward expressly acknowledges that the Association's use of the Hub is derived from the applicable [[Agreement 1 — Ownership|Ownership Agreement]] or other lawful upstream title held by the Association.
 
 **2.2** The Steward's presence and role exist solely within the Association's framework and remain subordinate to the Association's rights and obligations under that upstream agreement.
 
@@ -70,7 +52,7 @@ tags:
 
 ## 4. Hub DNA, Social DNA, and Mission Alignment
 
-**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, ecological care standards, behavioural boundaries, and use conditions communicated by the Association. The Hub DNA is informed by the Association's **Social DNA Framework**, which classifies regenerative impact across six domains: Environment and Natural Systems, Health and Well-Being, Education and Innovation, Economy and Infrastructure, Community and Culture, and Governance and Ethical Values.
+**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[A2-1 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
 
 **4.2** The Steward shall help ensure that all persons present at the Hub are informed of and expected to respect the applicable DNA and use conditions.
 
@@ -184,6 +166,20 @@ tags:
 
 ---
 
+## 14A. Network Passport and Stewardship Record
+
+**14A.1** All contributions made by the Steward under this Agreement — including ecological improvements, events hosted, community built, operational systems established, and any other validated contributions — are recorded in the Steward's **Network Passport** (GT-3A) in the Contribution Ledger throughout the duration of this Agreement.
+
+**14A.2** The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the hub or to this Agreement. It accompanies them across any future roles within the network.
+
+**14A.3** Upon termination of this Agreement for any reason, the Association shall provide the Steward with a written summary of their stewardship contributions within 30 days. This summary constitutes the Steward's stewardship record and may be shared with other hubs, owners, or venture members as evidence of their history and capacity.
+
+**14A.4** Any hub in the network receiving a prospective steward may request to view that person's Network Passport (with their consent) as part of the welcome process. A Steward arriving with a strong Passport is welcomed with the trust their record has earned — they do not start from zero.
+
+**14A.5** The perks unlocked by the Steward's Passport tier in this role are governed by the [[Network Passport]] companion document. At the **Sprout** tier: preferred placement when multiple candidates apply for a hub. At the **Branch** tier: 90-day termination notice protection regardless of actual tenure (see Clause 16.1); right to be consulted when incoming owner negotiations affect the Hub. At the **Canopy** tier: named stewardship legacy permanently recorded in the hub's history; formal consultation right on revisions to the Hub DNA of any hub they have stewarded.
+
+---
+
 ## 15. Duration
 
 **15.1** This Agreement begins on [start date] and continues until [end date], or for an indefinite term subject to periodic review, or for the specific stewardship cycle described in an Annex.
@@ -194,9 +190,18 @@ tags:
 
 ## 16. Termination
 
-**16.1** Either Party may terminate this Agreement without cause by giving **thirty (30) days' written notice**, unless otherwise agreed.
+**16.1 Termination by Notice.** Either Party may terminate this Agreement without cause by giving written notice. The minimum notice period is determined by the Steward's length of continuous service under this Agreement:
 
-**16.2** The Association may terminate immediately for serious cause, including: misuse of the Hub, unlawful conduct, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, serious financial opacity, refusal to hand over records or keys, conduct creating danger or serious harm, or persistent disregard of the Association's lawful instructions.
+| Length of service | Minimum notice |
+|---|---|
+| Under 3 months | 14 days |
+| 3 months to 1 year | 30 days |
+| 1 to 3 years | 60 days |
+| Over 3 years | 90 days |
+
+Notice periods run from the date of written receipt. The Parties may agree a shorter period by mutual written consent. A Steward at the **Branch** tier or above (per their Network Passport) is entitled to 90 days' notice regardless of tenure duration.
+
+**16.2 Immediate Termination for Cause.** The Association may terminate immediately for serious cause, including: misuse of the Hub, unlawful conduct, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, serious financial opacity, refusal to hand over records or keys, conduct creating danger or serious harm, or persistent disregard of the Association's lawful instructions.
 
 **16.3** The Steward may terminate immediately for serious cause where the Association materially breaches the agreed stewardship conditions or exposes the Steward to serious unaddressed risks.
 
@@ -213,18 +218,6 @@ tags:
 **17.3** Nothing in this Agreement limits liability for intentional wrongdoing.
 
 ---
-
-## General Legal Framework (Harmonized)
-
-These clauses apply to this Agreement unless a stricter rule is explicitly stated in a specific section or Annex.
-
-1. **Applicable law.** This Agreement is governed by Italian law.
-2. **Good-faith resolution first.** The Parties will first attempt to resolve disputes amicably through documented dialogue and, where useful, facilitated mediation.
-3. **Forum.** If amicable resolution fails, disputes are submitted to the court identified in the General Terms and Conditions and, where applicable, mandatory law.
-4. **Data protection and privacy.** Any processing of personal data under this Agreement must comply with GDPR and applicable Italian privacy law, limited to what is necessary for execution, administration, and legal compliance.
-5. **Confidentiality baseline.** Non-public operational, financial, and personal information exchanged under this Agreement is confidential unless disclosure is required by law or expressly authorized.
-6. **Interpretation and hierarchy.** This Agreement is interpreted together with the General Terms and Conditions and linked Annexes. In case of conflict, mandatory law prevails, then expressly stated special clauses, then the General Terms and Conditions.
-7. **Severability.** If a clause is invalid or unenforceable, the remainder remains effective; the Parties will replace the invalid clause with one that best reflects its original intent and legal effect.
 
 ## 18. Signatures
 
@@ -246,16 +239,16 @@ Date: _________________________
 
 ---
 
-## Referenced Annexes
+## Annexes
 
-The Stewardship Agreement does not carry its own annexes. The following annexes to the [[Agreement 1 — Asset Use|Asset Use Agreement]] are directly referenced in this Agreement:
+### Own Annexes
+
+- [[A2-1 — Hub DNA]] — complete one per hub; the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
+- [[A2-2 — Steward Onboarding Record]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
+
+### Annexes from the Ownership Agreement also referenced here
 
 - [[A1-3 — Maintenance Protocol]] — referenced in Clauses 10.1–10.2
 - [[A1-4 — Cleaning and Restoration Protocol]] — referenced in Clause 10.2
-- [[A1-5 — Shared Infrastructure Contributions]] — referenced in Clause 3.8 (wear and tear contributions)
 
 Cost-coverage targets and stewardship cycle terms may also be recorded in a separate signed annex appended to this Agreement.
-
----
-
-*Cleanup note: Clause 4.1 lists the old Social DNA domain names inline. The canonical definition is in [[General Terms and Conditions]] GT-1.6. Update clause 4.1 at next substantive edit.*

@@ -2,17 +2,18 @@
 title: A1-5 — Shared Infrastructure Contributions
 type: annex
 annex_ref: A1-5
-parent_agreement: Agreement 1 — Asset Use
+parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
 tags:
   - annex
   - ReGenerativa
+  - ownership
   - asset-use
   - infrastructure
 ---
-*Annex 5 to the [[Agreement 1 — Asset Use|Asset Use Agreement (Comodato d'Uso)]]. Governs shared investment in improvements to the Asset. Forms an integral part of that Agreement. Also referenced in the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 3.8).*
+*Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Governs shared investment in improvements to the Asset. Forms an integral part of that Agreement. Also referenced in the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 3.8).*
 
 ---
 

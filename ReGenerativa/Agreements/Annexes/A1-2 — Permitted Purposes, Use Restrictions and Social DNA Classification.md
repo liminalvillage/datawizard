@@ -2,17 +2,18 @@
 title: 'A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification'
 type: annex
 annex_ref: A1-2
-parent_agreement: Agreement 1 — Asset Use
+parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
 tags:
   - annex
   - ReGenerativa
+  - ownership
   - asset-use
   - social-dna
 ---
-*Annex 2 to the [[Agreement 1 — Asset Use|Asset Use Agreement (Comodato d'Uso)]]. Defines the permitted uses of the Asset and classifies them according to the Social DNA Framework. Forms an integral part of that Agreement.*
+*Annex 2 to the [[Agreement 1 — Ownership]]. Defines the permitted uses of the Asset and classifies them according to the Social DNA Framework. Forms an integral part of that Agreement.*
 
 ---
 

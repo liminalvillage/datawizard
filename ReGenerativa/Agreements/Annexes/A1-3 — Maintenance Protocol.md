@@ -2,17 +2,18 @@
 title: A1-3 — Maintenance Protocol
 type: annex
 annex_ref: A1-3
-parent_agreement: Agreement 1 — Asset Use
+parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
 tags:
   - annex
   - ReGenerativa
+  - ownership
   - asset-use
   - maintenance
 ---
-*Annex 3 to the [[Agreement 1 — Asset Use|Asset Use Agreement (Comodato d'Uso)]]. Sets out the division of maintenance responsibilities between the Association and the Owner. Forms an integral part of that Agreement. Also referenced in the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 10).*
+*Annex 3 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Sets out the division of maintenance responsibilities between the Association and the Owner. Forms an integral part of that Agreement. Also referenced in the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 10).*
 
 ---
 

@@ -2,7 +2,7 @@
 title: A5-2 — Recognition Terms
 type: annex
 annex_ref: A5-2
-parent_agreement: Agreement 5 — Sponsorship Gift
+parent_agreement: Agreement 5 — Sponsorship
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
@@ -12,7 +12,7 @@ tags:
   - sponsorship
   - recognition
 ---
-*Annex 2 to the [[Agreement 5 — Sponsorship Gift|Sponsorship / Gift Agreement]]. Specifies the recognition the Association will provide in exchange for the Supporter's contribution. Only required when recognition is agreed — for pure donations with no recognition, this Annex may be omitted. Forms an integral part of that Agreement.*
+*Annex 2 to the [[Agreement 5 — Sponsorship|Sponsorship Agreement]]. Specifies the recognition the Association will provide in exchange for the Supporter's contribution. Only required when recognition is agreed — for pure donations with no recognition, this Annex may be omitted. Forms an integral part of that Agreement.*
 
 ---
 
@@ -88,7 +88,7 @@ If recognition is classified as corrispettivo sponsorship:
 
 ## Signatures
 
-This Annex forms an integral part of the Sponsorship / Gift Agreement executed between the Parties on [Date].
+This Annex forms an integral part of the Sponsorship Agreement executed between the Parties on [Date].
 
 **For ReGenerativa APS — ETS:** _________________________  Date: _______
 

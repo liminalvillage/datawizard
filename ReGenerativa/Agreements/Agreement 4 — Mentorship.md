@@ -1,22 +1,3 @@
----
-title: Agreement 4 — Mentorship
-type: agreement
-agreement_ref: '4'
-agreement_name: Mentorship Agreement
-layer: Expertise
-parent: Constellation v3
-version: '3.0'
-created: '2026-03-17'
-updated: '2026-03-17'
-status: active
-tags:
-  - agreement
-  - ReGenerativa
-  - mentorship
-  - gift-economy
----
-*Part of the [[ReGenerativa Constellation v3]]. Expertise layer of the constellation — enables skilled practitioners to host programmes through the Association with a tiered access model grounded in the gift economy.*
-
 *Incorporates the [[General Terms and Conditions]] in full. Fiscal compliance provisions (GT-12) apply to all compensation under this Agreement.*
 
 ---
@@ -33,7 +14,7 @@ tags:
 
 ---
 
-## 1. Purpose and Gift Commitment
+## 1. Purpose and Commitment
 
 **1.1** The Association operates a network of regenerative hubs and mission-aligned programmes through which it organises educational, cultural, relational, ecological, and community-building activities.
 
@@ -41,7 +22,13 @@ tags:
 
 **1.3** The Mentor's core commitment is a **gift economy principle**: the Mentor commits to making their expertise available to the network's highest contributors **free of charge**. This gift is the foundation of the mentorship relationship and the basis upon which the Association supports the Mentor in designing and delivering paid Programmes to broader audiences.
 
+**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. For each confirmed Programme, the Association shall: identify from the Contribution Ledger the network members eligible for free access under Clause 4.1; offer those places to eligible members before the Programme opens to paid general registration; and confirm the number of free places taken when providing the registration status update under Clause 5A.3. Where the Programme Annex is silent on the minimum number of free places, at least one free place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement.
+
 **1.4** This Agreement is **not an employment contract**. It governs a professional, autonomous, occasional, or otherwise lawfully compensated collaboration, documented in accordance with applicable Italian law and the General Terms (GT-12).
+
+**1.5 Minimum Engagement under Framework Agreement.** Where this Agreement operates as a framework agreement covering multiple Programmes, the Association commits to scheduling and confirming at least one Programme with the Mentor within twelve (12) months of this Agreement's commencement date, provided the Mentor has proposed at least one Programme in writing during that period.
+
+If no Programme has been confirmed after twelve (12) months despite the Mentor having submitted at least one written proposal, either Party may terminate the framework agreement without further notice. This clause does not apply to single-Programme agreements, which are governed by their Programme Annex terms.
 
 ---
 
@@ -91,6 +78,20 @@ tags:
 
 ---
 
+## 5A. Association's Promotion Obligations
+
+*This clause applies once a Programme Annex has been signed and the programme is confirmed to proceed.*
+
+**5A.1** The Association shall publish the Programme to the membership and through its standard communication channels within **14 days** of confirmation that the Programme will proceed.
+
+**5A.2** The Association shall send at least one direct communication to members who, based on their Contribution Ledger record, are eligible for free or discounted access to the Programme, no later than **21 days** before the Programme date.
+
+**5A.3** The Association shall provide the Mentor with a registration status update — including the number of confirmed participants at each access tier — no later than **21 days** before the Programme date. If the confirmed participant count is below the minimum viable threshold defined in the Programme Annex, the Mentor may request rescheduling or cancellation in accordance with the cancellation terms of the Programme Annex, without prejudice to the relationship under this Agreement.
+
+**5A.4** The Association commits to making reasonable promotional efforts proportionate to the Programme's scale and the network's current membership. The Mentor may propose additional promotional approaches; the Association shall not unreasonably refuse. Neither Party guarantees minimum registration numbers, but both commit to good-faith effort to fill the Programme in a way that serves its gift economy purpose — prioritising network contributors first.
+
+---
+
 ## 6. Fiscal Documentation and Volunteer Distinction
 
 **6.1** All compensation is subject to the fiscal compliance provisions of General Terms Clause GT-12 (withholding, regime forfettario, occasional collaboration thresholds).
@@ -103,7 +104,9 @@ tags:
 
 ## 7. Use of Hubs and Logistics
 
-**7.1** The Association may provide the Mentor with access to hubs for preparing and delivering the Programme, including temporary use of workshop or accommodation spaces, kitchen use, access to tools, support from stewards or volunteers, and communication support.
+**7.1** Once a Programme Annex has been signed and the programme is confirmed, the Association **shall** provide the Mentor with access to the relevant hub(s) for preparing and delivering the Programme, including: temporary use of workshop or accommodation spaces for the Programme period; kitchen use where relevant to the Programme format; access to tools and equipment appropriate to the Programme; support from stewards or volunteers as reasonably available; and communication and logistical support.
+
+Hub access is a condition of Programme delivery, not a discretionary offer. If a hub confirmed in the Programme Annex becomes unavailable, the Association shall notify the Mentor immediately and propose an alternative venue of equivalent suitability. If no suitable alternative is identified within a reasonable time, the Programme may be rescheduled or cancelled per the Programme Annex cancellation terms, without penalty to either Party.
 
 **7.2** The Mentor shall use the spaces with care and in accordance with the Hub DNA, safety rules, environmental norms, and practical instructions.
 
@@ -177,18 +180,6 @@ tags:
 
 ---
 
-## General Legal Framework (Harmonized)
-
-These clauses apply to this Agreement unless a stricter rule is explicitly stated in a specific section or Annex.
-
-1. **Applicable law.** This Agreement is governed by Italian law.
-2. **Good-faith resolution first.** The Parties will first attempt to resolve disputes amicably through documented dialogue and, where useful, facilitated mediation.
-3. **Forum.** If amicable resolution fails, disputes are submitted to the court identified in the General Terms and Conditions and, where applicable, mandatory law.
-4. **Data protection and privacy.** Any processing of personal data under this Agreement must comply with GDPR and applicable Italian privacy law, limited to what is necessary for execution, administration, and legal compliance.
-5. **Confidentiality baseline.** Non-public operational, financial, and personal information exchanged under this Agreement is confidential unless disclosure is required by law or expressly authorized.
-6. **Interpretation and hierarchy.** This Agreement is interpreted together with the General Terms and Conditions and linked Annexes. In case of conflict, mandatory law prevails, then expressly stated special clauses, then the General Terms and Conditions.
-7. **Severability.** If a clause is invalid or unenforceable, the remainder remains effective; the Parties will replace the invalid clause with one that best reflects its original intent and legal effect.
-
 ## 14. Signatures
 
 **For ReGenerativa APS — ETS:**
@@ -209,22 +200,12 @@ Date: _________________________
 
 ---
 
-## Programme Annexes
-
-Each Programme governed by this Agreement shall have its own Programme Annex defining:
-- Programme title, description, dates, and location
-- Maximum number of free, discounted, and full-price places
-- Contribution criteria for free access
-- Discount rate for members
-- Full price for external participants
-- Minimum viable threshold
-- Financial model (fixed fee / revenue share / hybrid / cost-cover)
-- Revenue distribution formula
-- Cancellation terms
-- IP provisions specific to the Programme
-
----
-
 ## Linked Annexes
 
 - [[A4 — Programme Annex Template]] — complete one per Programme; file as "A4 — [Programme Name] — [YYYY-MM]"
+
+---
+
+## Network Passport — Mentor Recognition
+
+The Mentor's contributions under this Agreement — programmes delivered, knowledge shared, free places offered, participants transformed — are recorded in the Contribution Ledger and accumulate in their Network Passport (GT-3A). A mentor who gives first, consistently, across seasons, becomes one of the network's most valued presences. At the **Sprout** tier: increased free-place allocation per programme; featured listing in the network mentor directory. At the **Branch** tier: co-design input rights on the network's programme calendar; preferred hub access for programme delivery. At the **Canopy** tier: named knowledge custodian status; legacy programme designation — a programme permanently associated with the mentor's name in network records. Full perk details are governed by the [[Network Passport — Perk Framework]].

@@ -2,7 +2,7 @@
 title: A5-1 — Support Schedule
 type: annex
 annex_ref: A5-1
-parent_agreement: Agreement 5 — Sponsorship Gift
+parent_agreement: Agreement 5 — Sponsorship
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
@@ -12,7 +12,7 @@ tags:
   - sponsorship
   - gift
 ---
-*Annex 1 to the [[Agreement 5 — Sponsorship Gift|Sponsorship / Gift Agreement]]. Specifies the form, value, timing, destination, and fiscal classification of the support. Forms an integral part of that Agreement.*
+*Annex 1 to the [[Agreement 5 — Sponsorship|Sponsorship Agreement]]. Specifies the form, value, timing, destination, and fiscal classification of the support. Forms an integral part of that Agreement.*
 
 ---
 
@@ -106,7 +106,7 @@ For in-kind contributions of tangible goods or equipment:
 
 ## Signatures
 
-This Annex forms an integral part of the Sponsorship / Gift Agreement executed between the Parties on [Date].
+This Annex forms an integral part of the Sponsorship Agreement executed between the Parties on [Date].
 
 **For ReGenerativa APS — ETS:** _________________________  Date: _______
 

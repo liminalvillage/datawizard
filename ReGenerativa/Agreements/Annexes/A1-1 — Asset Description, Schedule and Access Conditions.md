@@ -2,16 +2,17 @@
 title: 'A1-1 — Asset Description, Schedule and Access Conditions'
 type: annex
 annex_ref: A1-1
-parent_agreement: Agreement 1 — Asset Use
+parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
 tags:
   - annex
   - ReGenerativa
+  - ownership
   - asset-use
 ---
-*Annex 1 to the [[Agreement 1 — Asset Use|Asset Use Agreement (Comodato d'Uso)]]. Forms an integral part of that Agreement. Complete one Annex per asset.*
+*Annex 1 to the [[Agreement 1 — Ownership]]. Forms an integral part of that Agreement. Complete one Annex per asset.*
 
 ---
 

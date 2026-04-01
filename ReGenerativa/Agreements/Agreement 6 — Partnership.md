@@ -1,23 +1,16 @@
----
-title: Agreement 6 — Partnership
-type: agreement
-agreement_ref: '6'
-agreement_name: Partnership Agreement
-layer: Collaboration
-parent: Constellation v3
-version: '3.0'
-created: '2026-03-17'
-updated: '2026-03-17'
-status: active
-tags:
-  - agreement
-  - ReGenerativa
-  - partnership
-  - contribution-ledger
----
-*Part of the [[ReGenerativa Constellation v3]]. Collaboration layer of the constellation — provides a framework for multi-entity commercial projects with contribution-based value distribution.*
+*Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost and is operationalised in Clause 10A. The digital infrastructure provisions (GT-3) govern the Contribution Ledger and blockchain validation. Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
 
-*Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost. The digital infrastructure provisions (GT-3) govern the Contribution Ledger and blockchain validation. Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
+---
+
+## Preamble
+
+Partnerships form at the edge where the network meets the world.
+
+Where the other agreements in this constellation govern the internal life of the network — the ownership of places, the stewardship of hubs, the membership of people, the hosting of knowledge — this Agreement governs what happens when the network extends outward: when entities with complementary capabilities choose to build something together, take it to market, and share what they create in proportion to what each brought.
+
+The logic is simple but demanding. There are no fixed shares here, no equity positions assigned before work begins. Value is tracked as it is created, validated as it is delivered, and distributed in proportion to actual contribution. The Contribution Ledger is the mechanism; the Network Passport is the memory; and the Network Regeneration Contribution is the thread that keeps every Project connected to the commons that made it possible.
+
+Partners who build through this framework earn something that outlasts any single Project: a record of trustworthy collaboration, visible to the whole network, that makes every future partnership easier to begin.
 
 ---
 
@@ -112,6 +105,7 @@ The collaboration is guided by:
 - Timeline
 - Rate logic or valuation method
 - Direct and structure costs
+- Applicable NRC rate (default 5% per Clause 10A.2 if not specified)
 - Validation method
 - Revenue distribution method
 - Intellectual property conditions
@@ -149,9 +143,19 @@ The collaboration is guided by:
 
 ## 10. Revenue Flow and Distribution
 
-**10.1** Project revenues flow as follows: the client pays the Vehicle Entity; agreed direct costs are covered; structure costs are deducted; the remaining Net Project Revenue is allocated among Partners according to validated shares.
+**10.1** Project revenues flow as follows: the client pays the Vehicle Entity; agreed direct costs are covered; structure costs (including the NRC per Clause 10A) are deducted; the remaining Net Project Revenue is allocated among Partners according to validated shares.
 
 **10.2** Each Partner shall issue the necessary invoice, receipt, or fiscal documentation. Distribution shall occur within thirty (30) days of receipt and accounting completion.
+
+---
+
+## 10A. Network Regeneration Contribution
+
+**10A.1** Economic activities carried out under this Agreement contribute to the **Network Regeneration Fund** (GT-4). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
+
+**10A.2** The base NRC rate is **five percent (5%) of Net Project Revenue**, unless the Parties agree a different rate within the range permitted by GT-4.3 (3%–10%). The applicable rate for each Project shall be stated in the Project Sheet (Clause 6.2). Where no rate is specified in the Project Sheet, the base rate of 5% applies.
+
+**10A.3** The NRC is transferred to the Network Regeneration Fund within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
 
 ---
 
@@ -211,18 +215,6 @@ The collaboration is guided by:
 
 ---
 
-## General Legal Framework (Harmonized)
-
-These clauses apply to this Agreement unless a stricter rule is explicitly stated in a specific section or Annex.
-
-1. **Applicable law.** This Agreement is governed by Italian law.
-2. **Good-faith resolution first.** The Parties will first attempt to resolve disputes amicably through documented dialogue and, where useful, facilitated mediation.
-3. **Forum.** If amicable resolution fails, disputes are submitted to the court identified in the General Terms and Conditions and, where applicable, mandatory law.
-4. **Data protection and privacy.** Any processing of personal data under this Agreement must comply with GDPR and applicable Italian privacy law, limited to what is necessary for execution, administration, and legal compliance.
-5. **Confidentiality baseline.** Non-public operational, financial, and personal information exchanged under this Agreement is confidential unless disclosure is required by law or expressly authorized.
-6. **Interpretation and hierarchy.** This Agreement is interpreted together with the General Terms and Conditions and linked Annexes. In case of conflict, mandatory law prevails, then expressly stated special clauses, then the General Terms and Conditions.
-7. **Severability.** If a clause is invalid or unenforceable, the remainder remains effective; the Parties will replace the invalid clause with one that best reflects its original intent and legal effect.
-
 ## 17. Signatures
 
 **Partner 1:**
@@ -251,17 +243,6 @@ Date: _________________________
 
 ---
 
-## Annexes
-
-- **Annex 1** — Partner Register
-- **Annex 2** — Adhesion Form Template
-- **Annex 3** — Structure Costs and Allocation
-- **Annex 4** — Project Sheet Template
-- **Annex 5** — Reference Hourly Rates by Activity Type
-- **Annex 6** — Technical Description of the Validation Platform
-
----
-
 ## Linked Annexes
 
 - [[A6-1 — Partner Register]] — canonical register of all current and former Partners
@@ -270,3 +251,9 @@ Date: _________________________
 - [[A6-4 — Project Sheet Template]] — one sheet per Project; governs scope, contributions, and revenue
 - [[A6-5 — Reference Hourly Rates]] — rates used to convert hours into contribution value
 - [[A6-6 — Validation Platform Description]] — technical architecture of the Contribution Ledger
+
+---
+
+## Network Passport — Partner Recognition
+
+Each Partner's contributions under this Agreement are recorded in the Contribution Ledger and accumulate in their Network Passport (GT-3A). Partners who build value through the network — consistently, transparently, over time — earn a depth of relational credibility that simplifies future collaboration and deepens their standing in the commons. At the **Sprout** tier: expedited contribution validation process; priority consideration in project lead selection. At the **Branch** tier: Trusted Partner status — simplified onboarding for new projects; reduced administrative overhead. At the **Canopy** tier: Elder Partner status — formally consulted on significant network commercial decisions; advisory input into partnership governance evolution. Full perk details are governed by the [[Network Passport — Perk Framework]].

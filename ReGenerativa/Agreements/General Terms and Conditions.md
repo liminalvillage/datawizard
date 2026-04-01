@@ -1,19 +1,4 @@
----
-title: General Terms and Conditions
-type: agreement
-agreement_ref: GT
-parent: Constellation v3
-version: '3.1'
-created: '2026-03-17'
-updated: '2026-03-17'
-status: active
-tags:
-  - agreement
-  - ReGenerativa
-  - general-terms
-  - regenerative-covenant
----
-*Part of the [[ReGenerativa Constellation v3]]. Applicable to all agreements. Where an individual agreement conflicts with these General Terms, the individual agreement prevails for that specific provision. Where the Statute conflicts with either, the Statute prevails.*
+*Where an individual agreement conflicts with these General Terms, the individual agreement prevails for that specific provision. Where the Statute conflicts with either, the Statute prevails.*
 
 ---
 
@@ -38,6 +23,12 @@ tags:
 **GT-1.9** **"Net Revenue"** means revenue remaining after deduction of direct costs, fiscal charges, and other deductions defined in the relevant agreement or annex.
 
 **GT-1.10** **"Network Regeneration Fund"** means the common fund administered by the Association for the purposes described in Clause GT-4.
+
+**GT-1.11** **"Network Passport"** means the portable, cumulative contribution record held by each participant in the Contribution Ledger, accumulating validated contributions across all roles held, and serving as the basis for recognition tier and role-scoped perks as described in GT-3A.
+
+**GT-1.12** **"Network Demand Signal"** means a documented pattern of recurring unmet peer-to-peer requests surfaced through normal network operation — through member interactions, steward observations, hub seasonal reports, or gathering discussions — and submitted to the Association for inclusion in the Network Demand Register. A Demand Signal is the network's own market research: evidence that a need exists, expressed by the community that experiences it.
+
+**GT-1.13** **"Network Demand Register"** means the living, publicly visible record maintained by the Association of active Network Demand Signals — patterns of unmet need that any member may respond to, including through the activation of a Venture Holon under the Intrapreneurship Agreement (Agreement 7). The Register is the foundation of the intrapreneurship system and the primary mechanism through which the network converts distributed peer-to-peer requests into structured ventures.
 
 ---
 
@@ -76,6 +67,31 @@ tags:
 **GT-3.3** Participation in tracking is voluntary. Access to **contribution-dependent benefits** (free Programme access, hub circulation, revenue shares) is conditioned upon recorded and Validated Contributions.
 
 **GT-3.4** Where blockchain is used, the system shall store **pseudonymised identifiers** on-chain. The right to rectification is implemented through off-chain correction records. The right to erasure is addressed through cryptographic unlinking, per EDPB guidance.
+
+---
+
+## GT-3A. Network Passport
+
+**GT-3A.1** Every participant in the network holds a **Network Passport** — a single, portable contribution record accumulated across all roles they hold, across all hubs they serve, across the full duration of their relationship with the network. The Passport lives in the Contribution Ledger and belongs to the person, not to any hub, agreement, or role.
+
+**GT-3A.2** The Passport tracks validated contributions continuously. It does not reset when a role ends, when a hub changes, or when a period of inactivity occurs. It is a living record of the whole arc of a person's relationship with the network.
+
+**GT-3A.3** Contributions accumulate toward four recognition tiers, named after the stages of ecological succession:
+
+- **Seed** — arriving, first contributions germinating
+- **Sprout** — establishing, first roots taking hold
+- **Branch** — extending into the network, shaping the ecosystem around them
+- **Canopy** — full presence, long-term sustainer, the network grows in their shade
+
+Tiers are milestones on a continuous growth curve, not hard gates. The Contribution Ledger accumulates without ceiling. The specific thresholds at which a participant moves from one tier to the next are defined by the network's governance body and published as a living governance document — they are not fixed in any agreement, and may evolve as the network matures.
+
+**GT-3A.4** Each tier unlocks **role-scoped perks** — recognition and access benefits that depend on both the participant's tier and the specific agreement(s) they hold. The same tier level grants different things to a Steward than to a Mentor, and to a Partner than to an Intrapreneur. The full perk table is maintained in the [[Network Passport]] companion document.
+
+**GT-3A.5** The Passport serves as a **trust signal** across the network. A participant arriving at a new hub, applying for a new role, or joining a Venture Holon carries their Passport with them. Hubs, stewards, and venture members may request to view a prospective participant's Passport (with their consent) as part of the welcome and admission process. A strong Passport is not a guarantee of admission — each community is its own whole — but it is a meaningful and recognised form of relational credibility.
+
+**GT-3A.6** Upon termination of any agreement, the Association provides the departing participant with a written summary of their Passport as it relates to that role, within 30 days. This summary is the participant's to share as they choose.
+
+**GT-3A.7** The Passport is subject to the same GDPR and data protection provisions as all other Contribution Ledger data (GT-3.4, GT-5). Participants may request access to, correction of, or cryptographic unlinking of their Passport data at any time.
 
 ---
 
@@ -151,7 +167,9 @@ tags:
 
 **GT-11.2** **Hierarchy**: (1) Statute prevails over all; (2) upstream agreement prevails over downstream as between the Association and the upstream counterparty; (3) individual agreement prevails over General Terms for specific conflicting provisions.
 
-**GT-11.3** The constellation comprises: the [[Agreement 1 — Asset Use|Asset Use Agreement]]; the [[Agreement 2 — Stewardship|Stewardship Agreement]]; the [[Agreement 3 — Membership|Membership Agreement]]; the [[Agreement 4 — Mentorship|Mentorship Agreement]]; the [[Agreement 5 — Sponsorship Gift|Sponsorship / Gift Agreement]]; the [[Agreement 6 — Partnership|Partnership Agreement]]; and these General Terms.
+**GT-11.3** The constellation comprises: the [[Agreement 1 — Ownership|Ownership Agreement]]; the [[Agreement 2 — Stewardship|Stewardship Agreement]]; the [[Agreement 3 — Membership|Membership Agreement]]; the [[Agreement 4 — Mentorship|Mentorship Agreement]]; the [[Agreement 5 — Sponsorship||Sponsorship Agreement]]; the [[Agreement 6 — Partnership|Partnership Agreement]]; the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]]; and these General Terms.
+
+**GT-11.4** **Agreement Stacking.** The agreements in this constellation are designed to be held simultaneously. A person or entity may be party to any number of agreements at the same time — a Member may also be a Steward, a Mentor, a Partner, and a Founding Member of a Venture Holon. Each agreement is self-contained and operates independently. Entering a new role requires signing the relevant agreement; it does not require amending or terminating any existing agreement. There is no prescribed sequence and no administrative transition process — the constellation expands naturally as relationships deepen and roles multiply.
 
 ---
 

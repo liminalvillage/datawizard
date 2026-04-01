@@ -2,17 +2,18 @@
 title: A1-4 — Cleaning and Restoration Protocol
 type: annex
 annex_ref: A1-4
-parent_agreement: Agreement 1 — Asset Use
+parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
 tags:
   - annex
   - ReGenerativa
+  - ownership
   - asset-use
   - cleaning
 ---
-*Annex 4 to the [[Agreement 1 — Asset Use|Asset Use Agreement (Comodato d'Uso)]]. Sets out the cleaning and restoration standards required at the end of each use period. Forms an integral part of that Agreement. To be used by stewards and departing participants.*
+*Annex 4 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Sets out the cleaning and restoration standards required at the end of each use period. Forms an integral part of that Agreement. To be used by stewards and departing participants.*
 
 ---
 

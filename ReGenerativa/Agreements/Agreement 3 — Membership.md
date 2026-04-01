@@ -1,22 +1,3 @@
----
-title: Agreement 3 — Membership
-type: agreement
-agreement_ref: '3'
-agreement_name: Membership Agreement
-layer: Relational
-annual_fee_eur: 25
-parent: Constellation v3
-version: '3.0'
-created: '2026-03-17'
-updated: '2026-03-17'
-status: active
-tags:
-  - agreement
-  - ReGenerativa
-  - membership
----
-*Part of the [[ReGenerativa Constellation v3]]. Relational layer of the constellation — admits individuals as members with democratic rights and participatory duties under Italian Third Sector law.*
-
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
 
 ---
@@ -33,6 +14,20 @@ tags:
 
 ---
 
+## Preamble
+
+Membership is the root of every other relationship in this network.
+
+Before a person can steward a hub, host a programme, build a venture, or enter a commercial partnership under this constellation, they must first be a member. Not because of administrative convention, but because membership is what makes the network real for a person — it is the threshold between visiting and belonging, between engaging with the Association and being part of it.
+
+Signing this Agreement does two things at once. It admits the Member into the democratic life of the Association — with the right to vote, to be heard, and to stand for election to its governing bodies. And it extends to the Member the insurance cover that Italian Third Sector law requires the Association to provide for all those who contribute through its activities: accident and injury insurance, illness contracted during volunteering, third-party liability for unintentional damage caused in the course of volunteer work.
+
+The annual fee is what makes that insurance possible. It is not a subscription to services or a price for access. It is the minimum material contribution that sustains the legal and financial framework within which the network can operate safely, accountably, and in compliance with the law. When a member pays their €25, they are not purchasing a product — they are participating in the maintenance of something that protects everyone in it.
+
+What the fee cannot cover is what actually makes membership valuable: showing up, contributing, being present to the place and the people and the purpose. That cannot be contracted. But it can be recognised — through the Network Passport, through the seasonal rhythms, through the gradual deepening of trust that happens when a person keeps choosing to return.
+
+---
+
 ## 1. Admission as Member
 
 **1.1** The Association hereby admits the Member as an official member of ReGenerativa APS, and the Member accepts admission, according to the terms of the Association's Statute and this Agreement.
@@ -40,6 +35,8 @@ tags:
 **1.2** By signing this Agreement, the Member confirms that they share the Association's mission and objectives and agree to abide by all applicable provisions of the Statute and internal regulations.
 
 **1.3** Membership is open and based on the spirit of participation and solidarity, in compliance with Article 23 of the Third Sector Code, which guarantees open, non-discriminatory membership.
+
+**1.4** Membership is a prerequisite for natural persons holding any active role in the ReGenerativa constellation (GT-11.4). A natural person may not serve as Steward, Mentor, or Intrapreneur unless they hold a current Membership Agreement in good standing. Legal entities — cooperatives, companies, and other organisations — may hold the Sponsorship Agreement (Agreement 5) or the Partnership Agreement (Agreement 6) without being members of the Association. A natural person entering a Partnership Agreement in their individual capacity is also required to hold a current Membership Agreement.
 
 ---
 
@@ -53,7 +50,9 @@ tags:
 
 **2.4 Benefit of Services.** The Member will have access to services, training, and resources offered to members under equal conditions, including use of shared spaces, workshops, courses, and member-only events.
 
-**2.5 Hub Circulation.** Subject to availability and the applicable Hub DNA conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
+**2.5 Hub Circulation.** Subject to availability and the applicable [[A2-1 — Hub DNA|Hub DNA]] conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
+
+**2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A), unlocking growing recognition and access as their involvement deepens. Membership is the root tier — all Passport growth begins here.
 
 ---
 
@@ -65,17 +64,21 @@ tags:
 
 **3.3 Access to Activities and Network.** Make reasonable efforts to provide members with meaningful opportunities to participate in the Association's programmes, events, and volunteer activities, and to access the regenerative capacity of the network's hubs in accordance with available resources.
 
-**3.4 Insurance.** Provide insurance coverage for members engaged in Association activities as required by Article 18 of the Third Sector Code, as further detailed in Clause 6.
+**3.4 Insurance.** Provide insurance coverage for members engaged in Association activities as required by Article 18 of the Third Sector Code, as further detailed in Clause 6. This coverage is a primary obligation of the Association and a primary benefit of membership — it is what the annual fee materially sustains.
 
 **3.5 Reinvestment.** Use all revenues, surpluses, and contributions exclusively for the pursuit of the Association's statutory purposes, in accordance with Art. 8 of the Third Sector Code. No profits, dividends, or surplus distributions shall be made to members.
 
-**3.6 Contribution Recognition.** Develop and maintain systems for the recognition of member contributions, including volunteer time, skills, presence, and other forms of value, through the Association's digital tracking infrastructure. Contribution records may inform eligibility for contribution-dependent benefits.
+**3.6 Contribution Recognition.** Develop and maintain systems for the recognition of member contributions, including volunteer time, skills, presence, and other forms of value, through the Association's digital tracking infrastructure. Contribution records inform eligibility for contribution-dependent benefits and Passport tier advancement.
+
+**3.7 Gateway Obligations.** Since membership is the prerequisite for all other roles held by natural persons, the Association commits to making the membership process clear, accessible, and humane. The admission process shall not be a barrier. The documentation shall be legible. The welcome shall be genuine.
 
 ---
 
 ## 4. Membership Duties
 
 **4.1 Annual Membership Fee.** Pay an annual membership contribution of **€25.00** (twenty-five euros) to the Association. The fee for the first year is due upon signing. Thereafter, the annual fee is due by 31 January of each year. The amount may be adjusted by the General Assembly. The fee is non-refundable.
+
+This fee covers the Association's insurance obligations under Article 18 of the Third Sector Code and sustains the legal and administrative framework within which all network activities are conducted. It is the material foundation of the member's protection while participating in Association activities.
 
 **4.2 Active Participation.** Contribute actively to the Association's activities and community, including volunteering time, sharing expertise, participating in meetings and discussions, and furthering the Association's mission.
 
@@ -97,13 +100,15 @@ tags:
 
 ## 6. Insurance and Liability
 
-**6.1** In accordance with Article 18 of the Third Sector Code, the Association will provide insurance coverage for its members engaged in activities, including: accident and injury insurance, illness contracted during volunteering, and third-party liability for unintentional damage caused during volunteer work.
+**6.1** In accordance with Article 18 of the Third Sector Code, the Association will provide insurance coverage for its members engaged in activities, including: accident and injury insurance; illness contracted during volunteering; and third-party liability for unintentional damage caused during volunteer work. This coverage is active for the duration of the Member's current membership year, from the date of fee payment.
 
 **6.2** Outside official volunteer activities, the Member is not covered by the Association's policy.
 
 **6.3** The Association will indemnify the Member for liabilities incurred in good-faith execution of duties assigned by the Association, provided the Member acted within their mandate and without gross negligence or wilful misconduct.
 
 **6.4** The Member may be held liable for damages resulting from the Member's breach of this Agreement, unlawful conduct, or violations of the Association's rules.
+
+**6.5** Members holding additional agreements (Stewardship, Mentorship, Partnership, Intrapreneurship) are covered by this Agreement's insurance while acting in their capacity as members or volunteers. Activities under those additional agreements may carry separate insurance obligations as specified therein.
 
 ---
 
@@ -115,7 +120,15 @@ tags:
 
 **7.3 Procedure.** Except for automatic termination due to non-payment as specified by the Statute, any suspension or exclusion shall follow a fair procedure: the Member shall be notified in writing of the intention and reasons, given an opportunity to respond within a reasonable time, and the decision communicated in writing. The Member may appeal to the General Assembly as provided in the Statute.
 
-**7.4 Effects.** Upon termination, the individual loses all membership rights effective from the date of termination. The former member is not entitled to any part of the Association's assets or funds.
+**7.4 Effects.** Upon termination of membership, the individual loses all membership rights effective from the date of termination. The downstream effect on any other constellation agreements the Member holds depends on the nature of termination.
+
+Where membership terminates due to **non-payment of the annual fee**: the Member has thirty (30) days from the date of the termination notice to renew and restore their standing. If not renewed within this period, any other active constellation agreements are suspended until membership is restored. Membership may be restored within ninety (90) days of the original termination notice without formality; after that point the Association may treat the downstream agreements as void, in accordance with their individual termination provisions.
+
+Where membership terminates for **serious cause** under Clause 7.2, or upon the Member's **voluntary resignation** under Clause 8: the effect on downstream agreements is immediate. The Member's eligibility to hold any other active constellation agreement is suspended from the date of termination; those agreements are not automatically terminated, but their conditions of validity are no longer met.
+
+The Association shall notify the Member of these consequences in the termination communication, and shall notify any directly affected counterparties within fourteen (14) days.
+
+**7.5** The former member is not entitled to any part of the Association's assets or funds. Their Network Passport record is preserved and remains accessible to them.
 
 ---
 
@@ -123,25 +136,17 @@ tags:
 
 **8.1** The Member may resign at any time by written notice. No refund of fees already paid is due.
 
+**8.2** Insurance coverage ceases at the date of resignation. Any other constellation agreements held by the resigning member are affected as described in Clause 7.4.
+
 ---
 
 ## 9. Duration
 
 **9.1** Membership is on-going, year-to-year. It remains in force as long as the Member continues to renew by paying the annual fee and is not suspended or expelled.
 
+**9.2** The membership year runs from the date of first admission and renews annually. For administrative simplicity, the Association may align all membership renewals to 31 January of each year, with a proportional fee for the first partial year.
+
 ---
-
-## General Legal Framework (Harmonized)
-
-These clauses apply to this Agreement unless a stricter rule is explicitly stated in a specific section or Annex.
-
-1. **Applicable law.** This Agreement is governed by Italian law.
-2. **Good-faith resolution first.** The Parties will first attempt to resolve disputes amicably through documented dialogue and, where useful, facilitated mediation.
-3. **Forum.** If amicable resolution fails, disputes are submitted to the court identified in the General Terms and Conditions and, where applicable, mandatory law.
-4. **Data protection and privacy.** Any processing of personal data under this Agreement must comply with GDPR and applicable Italian privacy law, limited to what is necessary for execution, administration, and legal compliance.
-5. **Confidentiality baseline.** Non-public operational, financial, and personal information exchanged under this Agreement is confidential unless disclosure is required by law or expressly authorized.
-6. **Interpretation and hierarchy.** This Agreement is interpreted together with the General Terms and Conditions and linked Annexes. In case of conflict, mandatory law prevails, then expressly stated special clauses, then the General Terms and Conditions.
-7. **Severability.** If a clause is invalid or unenforceable, the remainder remains effective; the Parties will replace the invalid clause with one that best reflects its original intent and legal effect.
 
 ## 10. Signatures
 
@@ -160,3 +165,15 @@ Name: [Member's Full Name]
 Signature: _________________________
 
 Date: _________________________
+
+---
+
+## Annexes
+
+- [[A3-1 — Member Onboarding Record]] — complete one per member per hub visit; the member's introduction to the hub — their skills, needs, rhythms, personal covenant, ecological practice, and story; read by the steward before arrival and retained in the hub's living record
+
+---
+
+## Network Passport — Member Recognition
+
+The Member's contributions under this Agreement — volunteer time, skills shared, presence offered, governance participation — are recorded in the Contribution Ledger and accumulate in their Network Passport (GT-3A). Membership is the root from which all other roles grow; the Passport recognises its depth over time. At the **Sprout** tier: discounted access to Mentorship Programmes; priority hub booking. At the **Branch** tier: free programme access; governance nomination rights. At the **Canopy** tier: lifetime membership option (fee waived by Board resolution); named in the network's founding story and living history. Full perk details are governed by the [[Network Passport — Perk Framework]].
