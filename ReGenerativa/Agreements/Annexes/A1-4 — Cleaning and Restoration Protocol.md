@@ -4,7 +4,7 @@ type: annex
 annex_ref: A1-4
 parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-04-02'
 status: template
 tags:
   - annex
@@ -19,7 +19,7 @@ tags:
 
 ## Section A — Purpose
 
-This protocol ensures that the Asset is left in a clean, orderly, and safe condition at the end of each stay, event, or use period — consistent with the Association's Ecological Covenant and duty of care under Clause 3.1 of the Asset Use Agreement.
+This protocol ensures that the Asset is left in a clean, orderly, and safe condition at the end of each stay, event, or use period — consistent with the Association's Regenerative Covenant (GT-2) and duty of care under Clause 3.1 of the Asset Use Agreement.
 
 **Who is responsible for ensuring compliance:** The designated steward for the use period, who may delegate tasks to participants but retains overall responsibility.
 

@@ -1,22 +1,4 @@
----
-title: Agreement 1 — Ownership (Asset Use)
-type: agreement
-agreement_ref: '1'
-agreement_name: Ownership (Asset Use) Agreement
-layer: Root
-parent: Constellation v3
-version: '3.1'
-created: '2026-03-17'
-updated: '2026-03-28'
-status: active
-tags:
-  - agreement
-  - ReGenerativa
-  - ownership
-  - asset-use
-  - network-passport
----
-*Incorporates the [[General Terms and Conditions]] in full. Standard provisions (ecological covenant, network regeneration contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply to this Agreement without repetition.*
+*Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, network regeneration contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply to this Agreement without repetition.*
 
 *Distinction from the [[Agreement 5 — Sponsorship|Sponsorship Agreement]]: Under this Agreement, the Asset is lent, not given. Ownership does not transfer. The Asset must be returned upon termination. For resources where ownership fully transfers to the network (money, consumables, goods, services), see the Sponsorship Agreement.*
 
@@ -163,6 +145,7 @@ Date: _________________________
 - [[A1-3 — Maintenance Protocol]]
 - [[A1-4 — Cleaning and Restoration Protocol]]
 - [[A1-5 — Shared Infrastructure Contributions]]
+- [[A1-6 — Hub DNA]]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: A3-1 — Member Onboarding Record
 type: annex
-agreement: Agreement 3 — Membership
+parent_agreement: Agreement 3 — Membership
 status: template
 created: '2026-04-02'
 updated: '2026-04-02'
@@ -12,7 +12,7 @@ tags:
   - onboarding
   - template
 ---
-*Annex to the [[Agreement 3 — Membership|Membership Agreement]]. Complete one per member per hub visit or role. Read alongside the hub's completed [[A2-1 — Hub DNA]] — that document is the place introducing itself; this one is the member introducing themselves to it. File completed documents as: "A3-1 — Member Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
+*Annex 1 to the [[Agreement 3 — Membership|Membership Agreement]]. Complete one per member per hub visit or role. Read alongside the hub's completed [[A1-6 — Hub DNA]] — that document is the place introducing itself; this one is the member introducing themselves to it. File completed documents as: "A3-1 — Member Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
 
 *This document is read by the steward before a member arrives. It makes contribution legible, conditions known, and story visible — so the community can receive the person as they actually are, not as a generic participant.*
 
@@ -22,7 +22,7 @@ tags:
 
 # Member Onboarding Record — [Full Name]
 
-**Hub:** [Hub name — link to completed [[A2-1 — Hub DNA]]]
+**Hub:** [Hub name — link to completed [[A1-6 — Hub DNA]]]
 **Arrival date:** [DD/MM/YYYY]
 **Intended duration:** [e.g. 3 weeks / seasonal / ongoing]
 **Membership status:** [Active — since MM/YYYY]
@@ -169,4 +169,4 @@ tags:
 
 *Contributions made during this stay are part of the Member's [[Network Passport]] and are carried forward across hubs and roles. Previous versions of this document are retained as part of the hub's human record.*
 
-*Annex to the [[Agreement 3 — Membership|Membership Agreement]]. Governed by the [[General Terms and Conditions]].*
+*Annex 1 to the [[Agreement 3 — Membership|Membership Agreement]]. Governed by the [[General Terms and Conditions]].*

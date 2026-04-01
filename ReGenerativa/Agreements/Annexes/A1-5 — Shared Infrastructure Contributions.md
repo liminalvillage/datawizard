@@ -4,7 +4,7 @@ type: annex
 annex_ref: A1-5
 parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-04-02'
 status: template
 tags:
   - annex
@@ -13,7 +13,7 @@ tags:
   - asset-use
   - infrastructure
 ---
-*Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Governs shared investment in improvements to the Asset. Forms an integral part of that Agreement. Also referenced in the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 3.8).*
+*Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Governs shared investment in improvements to the Asset. Forms an integral part of that Agreement.*
 
 ---
 

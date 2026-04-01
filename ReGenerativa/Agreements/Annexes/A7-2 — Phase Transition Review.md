@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-2
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-04-02'
 status: template
 tags:
   - annex
@@ -40,7 +40,7 @@ tags:
 
 ## Part A — Exit Criteria Assessment
 
-*For each criterion required to exit the current phase (as defined in [[A7-1 — Venture Sheet]] Section 6, or the equivalent for Phase 2), assess whether it has been met.*
+*For each criterion required to exit the current phase (as defined in [[A7-1 — Venture Sheet]] Section 5, or the equivalent for Phase 2), assess whether it has been met.*
 
 ### Exiting Phase 1 — Incubation
 
@@ -89,7 +89,7 @@ tags:
 
 **Planned external client types / sectors:** ___
 
-**NRC rate confirmed:** 10% of Net External Revenue
+**NRC rate confirmed:** **7%** of Net External Revenue (base rate); reduced to **5%** for Venture Members at Sprout tier or above per their Network Passport (GT-3A)
 
 **Fiscal arrangement:** ☐ Continue under Association umbrella  ☐ Venture will incorporate as: [legal form] by [DD/MM/YYYY]
 
@@ -110,7 +110,7 @@ tags:
 
 **Legal entity status:** ☐ Already incorporated as: [form, date]  ☐ Will incorporate by: [DD/MM/YYYY]
 
-**NRC rate confirmed:** 5% of Net External Revenue
+**NRC rate confirmed:** **5%** of Net External Revenue
 
 **Network service commitment for Phase 3:**
 [Describe specifically how the minimum 40% network service capacity will be maintained]

@@ -52,7 +52,7 @@
 
 ## 4. Hub DNA, Social DNA, and Mission Alignment
 
-**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[A2-1 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
+**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[A1-6 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
 
 **4.2** The Steward shall help ensure that all persons present at the Hub are informed of and expected to respect the applicable DNA and use conditions.
 
@@ -243,11 +243,11 @@ Date: _________________________
 
 ### Own Annexes
 
-- [[A2-1 — Hub DNA]] — complete one per hub; the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
-- [[A2-2 — Steward Onboarding Record]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
+- [[A2-1 — Steward Onboarding Record]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
 
 ### Annexes from the Ownership Agreement also referenced here
 
+- [[A1-6 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
 - [[A1-3 — Maintenance Protocol]] — referenced in Clauses 10.1–10.2
 - [[A1-4 — Cleaning and Restoration Protocol]] — referenced in Clause 10.2
 

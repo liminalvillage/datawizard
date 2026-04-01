@@ -1,7 +1,7 @@
 ---
-title: A2-2 — Steward Onboarding Record
+title: A2-1 — Steward Onboarding Record
 type: annex
-agreement: Agreement 2 — Stewardship
+parent_agreement: Agreement 2 — Stewardship
 status: template
 created: '2026-04-02'
 updated: '2026-04-02'
@@ -12,7 +12,7 @@ tags:
   - onboarding
   - template
 ---
-*Annex to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Complete one per steward per hub, before or at the start of stewardship. Read alongside the hub's completed [[A2-1 — Hub DNA]] — that document is the place introducing itself; this one is the steward introducing themselves. File completed documents as: "A2-2 — Steward Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
+*Annex 1 to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Complete one per steward per hub, before or at the start of stewardship. Read alongside the hub's completed [[A1-6 — Hub DNA]] — that document is the place introducing itself; this one is the steward introducing themselves. File completed documents as: "A2-1 — Steward Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
 
 *This is not a job description. It is a stewardship intention — written before the role begins, reviewed each season, and completed with handover notes when the stewardship ends. It is read by the Association, the Owner (where relevant), and the incoming steward.*
 
@@ -22,7 +22,7 @@ tags:
 
 # Steward Onboarding Record — [Full Name]
 
-**Hub:** [Hub name — link to completed [[A2-1 — Hub DNA]]]
+**Hub:** [Hub name — link to completed [[A1-6 — Hub DNA]]]
 **Stewardship start date:** [DD/MM/YYYY]
 **Stewardship type:** [Seasonal / Ongoing / Project-based]
 **Membership status:** [Active — since MM/YYYY]
@@ -123,4 +123,4 @@ tags:
 
 *Contributions recorded through this stewardship are part of the Steward's [[Network Passport]] and are carried forward across roles and hubs. Previous versions of this document are retained as part of the hub's living record.*
 
-*Annex to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Governed by the [[General Terms and Conditions]].*
+*Annex 1 to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Governed by the [[General Terms and Conditions]].*

@@ -4,7 +4,7 @@ type: annex
 annex_ref: A5-2
 parent_agreement: Agreement 5 — Sponsorship
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-04-02'
 status: template
 tags:
   - annex
@@ -20,7 +20,7 @@ tags:
 
 **Nature of recognition:**
 
-☐ **Non-promotional recognition** — Acknowledgement of the Supporter's contribution for transparency and community purposes (e.g. Holofame listing, mention in annual report). Does not constitute a counter-performance. Consistent with donation / erogazione liberale classification.
+☐ **Non-promotional recognition** — Acknowledgement of the Supporter's contribution for transparency and community purposes (e.g. supporter directory listing, mention in annual report). Does not constitute a counter-performance. Consistent with donation / erogazione liberale classification.
 
 ☐ **Corrispettivo promotional recognition** — The Supporter receives defined promotional visibility (e.g. logo placement, event co-branding, featured placement on website). This is a counter-performance and may affect the fiscal classification of the support. See Clause 4.3 of the Agreement and seek fiscal advice.
 
@@ -31,7 +31,7 @@ tags:
 *Check all that apply. Specify details where relevant.*
 
 **Digital presence:**
-☐ Listed in the Association's Holofame (contribution ledger / digital directory)
+☐ Listed in the Association's public supporter directory
 ☐ Name / logo on Association website — section: [___] — duration: [___]
 ☐ Mention in [e.g. newsletter / social media] — frequency: [e.g. once at announcement, once at completion]
 ☐ Featured in impact report / bilancio sociale
@@ -67,7 +67,7 @@ In all cases, recognition shall:
 | Recognition item | Start | Duration / end | Responsibility |
 |---|---|---|---|
 | [e.g. Website logo] | [DD/MM/YYYY] | [e.g. 12 months] | [e.g. Association web team] |
-| [e.g. Holofame entry] | [Upon delivery of support] | [Ongoing] | [Association — digital infrastructure] |
+| [e.g. Supporter directory entry] | [Upon delivery of support] | [Ongoing] | [Association — digital infrastructure] |
 | [e.g. Hub wall plaque] | [DD/MM/YYYY] | [Duration of Agreement] | [Association / steward] |
 
 ---

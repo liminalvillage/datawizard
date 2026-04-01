@@ -4,7 +4,7 @@ type: annex
 annex_ref: A1-2
 parent_agreement: Agreement 1 — Ownership (Asset Use)
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-04-02'
 status: template
 tags:
   - annex
@@ -55,37 +55,37 @@ Additional restrictions specified by the Owner:
 
 ## Section C — Social DNA Classification
 
-*The Association's Social DNA Framework classifies regenerative impact across six domains. For each domain, indicate whether the permitted uses are expected to generate impact, and describe how.*
+*The Association's Social DNA Framework (GT-1.6) classifies regenerative impact across six integral dimensions. For each dimension, indicate whether the permitted uses are expected to generate impact, and describe how.*
 
-**1. Environment and Natural Systems**
+**(a) Land and Ecological Systems**
 Expected activities: [e.g. "Land regeneration, composting, rewilding of hedgerow corridors, beekeeping"]
 Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applicable
 
-**2. Health and Well-Being**
+**(b) Human Health and Well-Being**
 Expected activities: [e.g. "Yoga and movement retreats, nature therapy, community meals"]
 Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applicable
 
-**3. Education and Innovation**
+**(c) Knowledge and Cultural Vitality**
 Expected activities: [e.g. "Permaculture design courses, regenerative agriculture training, skill-sharing"]
 Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applicable
 
-**4. Economy and Infrastructure**
+**(d) Economic Fairness and Material Infrastructure**
 Expected activities: [e.g. "Shared tool library, circular materials exchange, local procurement networks"]
 Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applicable
 
-**5. Community and Culture**
+**(e) Community and Relational Culture**
 Expected activities: [e.g. "Seasonal gatherings, storytelling, inter-generational exchange, art residencies"]
 Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applicable
 
-**6. Governance and Ethical Values**
+**(f) Governance and Ethical Integrity**
 Expected activities: [e.g. "Participatory decision-making workshops, commons governance research"]
 Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applicable
 
 ---
 
-## Section D — Ecological Covenant Targets
+## Section D — Regenerative Covenant Targets
 
-*In accordance with the Ecological Covenant (GT-2), the Parties may set specific measurable ecological targets for this Asset. These establish a shared commitment, not a personal financial liability for non-attainment.*
+*In accordance with the Regenerative Covenant (GT-2), the Parties may set specific measurable targets for this Asset across the six Social DNA dimensions. These establish a shared commitment, not a personal financial liability for non-attainment.*
 
 | Target | Baseline (at commencement) | Goal (by end of year __) | Measurement method |
 |---|---|---|---|
@@ -94,7 +94,7 @@ Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applic
 | [e.g. Water consumption] | [___] | [___] | [___] |
 | [e.g. Waste to landfill] | [___] | [___] | [___] |
 
-*Targets may be updated annually by mutual written agreement.*
+*Targets may be updated annually by mutual written agreement. The living picture of these targets at the Hub level is maintained in [[A1-6 — Hub DNA]].*
 
 ---
 

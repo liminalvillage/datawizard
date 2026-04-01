@@ -50,7 +50,7 @@ What the fee cannot cover is what actually makes membership valuable: showing up
 
 **2.4 Benefit of Services.** The Member will have access to services, training, and resources offered to members under equal conditions, including use of shared spaces, workshops, courses, and member-only events.
 
-**2.5 Hub Circulation.** Subject to availability and the applicable [[A2-1 — Hub DNA|Hub DNA]] conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
+**2.5 Hub Circulation.** Subject to availability and the applicable [[A1-6 — Hub DNA|Hub DNA]] conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
 
 **2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A), unlocking growing recognition and access as their involvement deepens. Membership is the root tier — all Passport growth begins here.
 

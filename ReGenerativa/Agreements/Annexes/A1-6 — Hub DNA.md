@@ -1,7 +1,7 @@
 ---
-title: A2-1 — Hub DNA
+title: A1-6 — Hub DNA
 type: annex
-agreement: Agreement 2 — Stewardship
+parent_agreement: Agreement 1 — Ownership
 status: template
 created: '2026-04-02'
 updated: '2026-04-02'
@@ -11,11 +11,11 @@ tags:
   - hub-dna
   - template
 ---
-*Annex to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Complete one per hub. The Hub DNA is the living expression of a hub's identity — its values, rhythms, expectations, and offerings. It is also referenced in the [[Agreement 1 — Ownership|Ownership Agreement]] (Annex 2) and the [[Agreement 4 — Mentorship|Mentorship Agreement]] (Clause 2.2). File completed documents as: "Hub DNA — [Hub Name].md" in the Hubs/[Hub Name]/ folder.*
+*Annex 6 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Complete one per hub. The Hub DNA is the living expression of a hub's identity — its values, rhythms, expectations, and offerings. It is also referenced in the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 4) and the [[Agreement 4 — Mentorship|Mentorship Agreement]] (Clause 2.2). File completed documents as: "Hub DNA — [Hub Name].md" in the Hubs/[Hub Name]/ folder.*
 
 *The Hub DNA is not a legal contract. It is a relational document — the first thing a new steward reads, the reference point a mentor consults before arriving, the promise made to every person who crosses the threshold. It should be written in the voice of the place.*
 
-*Read alongside [[A2-2 — Steward Onboarding Record]] and [[A3-1 — Member Onboarding Record]]: the Hub DNA is the place introducing itself; those documents are the person introducing themselves.*
+*Read alongside [[A2-1 — Steward Onboarding Record]] and [[A3-1 — Member Onboarding Record]]: the Hub DNA is the place introducing itself; those documents are the person introducing themselves.*
 
 ---
 
@@ -169,13 +169,13 @@ Contribution-based stays include participation in shared work. Types of work at 
 - Report any wildlife encounters or ecological concerns to the steward
 - [Any site-specific rules]
 
-**Social DNA targets for this hub** (per [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]]):
+**Regenerative Covenant targets for this hub** (formal targets are set in [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]]; this section tracks the living picture):
 
-| Dimension | Current baseline | Target | Review date |
+| Dimension | Current state | What we are working toward | Review date |
 |---|---|---|---|
 | Land and Ecological Systems | [e.g. Soil OM: 1.8%] | [e.g. 2.5% by 2027] | [MM/YYYY] |
-| Human Health and Well-Being | [e.g. Establish food sovereignty baseline] | [e.g. 40% food from on-site by 2027] | [MM/YYYY] |
-| Community and Relational Culture | [e.g. Establish seasonal gathering rhythm] | [e.g. 4 gatherings/year, avg 15 participants] | [MM/YYYY] |
+| Human Health and Well-Being | [e.g. Food sovereignty baseline TBD] | [e.g. 40% food from on-site by 2027] | [MM/YYYY] |
+| Community and Relational Culture | [e.g. Seasonal gathering rhythm establishing] | [e.g. 4 gatherings/year, avg 15 participants] | [MM/YYYY] |
 
 ---
 
@@ -223,4 +223,4 @@ Contribution-based stays include participation in shared work. Types of work at 
 
 *This document is reviewed seasonally and updated by the steward in consultation with the Association. Previous versions are retained as part of the hub's living record.*
 
-*Annex to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Governed by the [[General Terms and Conditions]].*
+*Annex 6 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Governed by the [[General Terms and Conditions]].*

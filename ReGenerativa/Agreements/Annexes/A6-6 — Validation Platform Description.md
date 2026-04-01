@@ -4,7 +4,7 @@ type: annex
 annex_ref: A6-6
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-04-02'
 status: template
 tags:
   - annex
@@ -83,13 +83,12 @@ Contributions are converted to a common unit (€ equivalent) using the rates in
 
 Distribution amounts are calculated by applying Partner shares to Net Project Revenue (after cost waterfall).
 
-### 2.4 Mutual Credit Module (Future)
+### 2.4 Planned Extensions
 
-When operational, the platform will support a mutual credit layer enabling Partners to exchange value within the network without immediate monetary settlement, per GT-3.1. This module is in design phase.
+Two modules are in design phase. This Annex will be amended when either becomes operational:
 
-### 2.5 Territorial Mapping (Future)
-
-H3 hexagonal indexing for visualising bioregional assets, hub locations, and ecological conditions. Integration timeline: [TBD].
+- **Mutual Credit** — will enable Partners to exchange value within the network without immediate monetary settlement, per GT-3.1
+- **Territorial Mapping** — H3 hexagonal indexing for bioregional visualisation of assets, hub locations, and ecological conditions
 
 ---
 
