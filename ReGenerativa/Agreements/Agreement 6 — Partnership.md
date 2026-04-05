@@ -4,13 +4,9 @@
 
 ## Preamble
 
-Partnerships form at the edge where the network meets the world.
+This Agreement governs collaboration between entities that choose to build Projects together through the network while retaining their separate legal identities.
 
-Where the other agreements in this constellation govern the internal life of the network — the ownership of places, the stewardship of hubs, the membership of people, the hosting of knowledge — this Agreement governs what happens when the network extends outward: when entities with complementary capabilities choose to build something together, take it to market, and share what they create in proportion to what each brought.
-
-The logic is simple but demanding. There are no fixed shares here, no equity positions assigned before work begins. Value is tracked as it is created, validated as it is delivered, and distributed in proportion to actual contribution. The Contribution Ledger is the mechanism; the Network Passport is the memory; and the Network Regeneration Contribution is the thread that keeps every Project connected to the commons that made it possible.
-
-Partners who build through this framework earn something that outlasts any single Project: a record of trustworthy collaboration, visible to the whole network, that makes every future partnership easier to begin.
+Its core logic is simple: Project value is recorded as it is created, validated as it is delivered, and distributed in proportion to actual contribution rather than fixed ownership shares alone. The Contribution Ledger provides the mechanism, and the Network Regeneration Contribution ensures that each Project remains connected to the commons that made it possible.
 
 ---
 
@@ -32,7 +28,7 @@ Partners who build through this framework earn something that outlasts any singl
 
 **1.2** This Agreement establishes a common framework preserving transparency, fair recognition of contributions, operational flexibility, legal autonomy of each Partner, and a distribution model based on validated value creation rather than fixed ownership shares alone.
 
-**1.3** The Partners intend this Agreement to function as a **syntropic collaboration framework**, enabling forms of collaboration in which each Partner may contribute according to its competencies, value is recognised in proportion to actual contribution, projects can scale without becoming extractive, and the success of one Partner strengthens the ecosystem of the others.
+**1.3** The Partners intend this Agreement to function as a **syntropic collaboration framework**, enabling collaboration in which each Partner contributes according to its competencies, value is recognised in proportion to actual contribution, and projects can scale without becoming extractive.
 
 **1.4** This is a framework agreement. Each specific initiative shall be described in one or more **Project Sheets** attached or linked to this Agreement.
 
@@ -85,11 +81,7 @@ The collaboration is guided by:
 
 **5.2** Governance participation in the Vehicle Entity does not automatically determine how Project revenues are distributed. Project economics shall be distributed based on Validated Contributions, not merely equity ownership.
 
-**5.3** The Partners acknowledge that the preferred legal form for the Vehicle Entity is a **cooperative** (cooperativa di comunità, cooperativa sociale, or società cooperativa), or alternatively a Società Benefit or Startup Innovativa a Vocazione Sociale, in order to ensure alignment with the regenerative, mutualistic, and non-extractive principles of the network. Where a conventional SRL is used, the Partners shall ensure that the Vehicle Entity's articles of association reflect the following cooperative principles:
-- Democratic governance among participating Partners
-- Reinvestment of surplus into the Vehicle Entity's purposes and the network's regenerative capacity
-- Separation of governance shares from revenue distribution
-- Transparency in the validation and allocation of contributions
+**5.3** The preferred legal form for the Vehicle Entity is a **cooperative** (cooperativa di comunità, cooperativa sociale, or società cooperativa), or alternatively a Società Benefit or Startup Innovativa a Vocazione Sociale, in order to align the Project with regenerative, mutualistic, and non-extractive principles. Where a conventional SRL is used, the Partners shall seek to reflect the same principles in the Vehicle Entity's articles of association, including democratic governance, reinvestment of surplus, separation of governance shares from revenue distribution, and transparency in contribution validation and allocation.
 
 ---
 
@@ -254,6 +246,8 @@ Date: _________________________
 
 ---
 
-## Network Passport — Partner Recognition
+## Contribution Recognition
 
-Each Partner's contributions under this Agreement are recorded in the Contribution Ledger and accumulate in their Network Passport (GT-3A). Partners who build value through the network — consistently, transparently, over time — earn a depth of relational credibility that simplifies future collaboration and deepens their standing in the commons. At the **Sprout** tier: expedited contribution validation process; priority consideration in project lead selection. At the **Branch** tier: Trusted Partner status — simplified onboarding for new projects; reduced administrative overhead. At the **Canopy** tier: Elder Partner status — formally consulted on significant network commercial decisions; advisory input into partnership governance evolution. Full perk details are governed by the [[Network Passport — Perk Framework]].
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+
+For Partners, Passport status may be used as a trust and collaboration signal in future Projects, including simplified onboarding, validation confidence, or preferred selection for network-aligned opportunities, as defined in the Network Passport framework.

@@ -174,6 +174,6 @@ Date: _________________________
 
 ---
 
-## Network Passport — Member Recognition
+## Contribution Recognition
 
-The Member's contributions under this Agreement — volunteer time, skills shared, presence offered, governance participation — are recorded in the Contribution Ledger and accumulate in their Network Passport (GT-3A). Membership is the root from which all other roles grow; the Passport recognises its depth over time. At the **Sprout** tier: discounted access to Mentorship Programmes; priority hub booking. At the **Branch** tier: free programme access; governance nomination rights. At the **Canopy** tier: lifetime membership option (fee waived by Board resolution); named in the network's founding story and living history. Full perk details are governed by the [[Network Passport — Perk Framework]].
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.

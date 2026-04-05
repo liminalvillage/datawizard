@@ -37,19 +37,17 @@ An intrapreneurial venture may eventually graduate into a more independent struc
 
 ## 1. Nature and Purpose
 
-**1.1** This network is a living system. As members circulate through hubs, stewards tend places, mentors share knowledge, and partners collaborate, patterns of unmet need emerge — recurring peer-to-peer requests that no existing role or agreement addresses. These patterns are the network's own market research: continuous, decentralised, and honest.
+**1.1** This Agreement governs the activation and incubation of a **Venture Holon** in response to a documented **Network Demand Signal** recorded in the **Network Demand Register**.
 
-**1.2** The Intrapreneurship Agreement governs the process by which a documented pattern of unmet network demand is transformed into a **Venture Holon** — a self-organising, purpose-defined unit built from within the network to serve the need the network has already named. A venture under this Agreement does not originate from an individual's ambition. It originates from the network's visible, accumulated demand. The Founding Member is not an entrepreneur who has found a market; they are a member who has recognised a signal the community has already produced and stepped forward to respond to it.
+**1.2** A Venture Holon under this Agreement is a purpose-defined unit created from within the network to respond to demand already expressed by the community. It is neither a department of the Association nor a standard Partnership between pre-existing equals.
 
-**1.3** A Venture Holon is simultaneously whole in itself and part of the larger network. It is not a department of the Association, not a project within an existing entity, and not a Partnership between pre-existing equals. It is something grown from inside: from proximity, from observed need, from the relational substrate of the network.
+**1.3** The Association acts as incubator: it maintains the visibility of demand signals and, during incubation, may provide ecosystem support including hub access, tools, legitimacy, fiscal hosting, introductions, and first-client commitment, in exchange for mission alignment, transparency, adherence to the Network-First Ruleset, and payment of the Network Regeneration Contribution where applicable.
 
-**1.4** The Association's role is that of **incubator**: it maintains the visibility of demand signals, provides ecosystem support during incubation — access to hubs, tools, networks, legitimacy, fiscal hosting, and the network's first patronage as a client — and receives in return mission alignment, transparency, adherence to the Network-First Ruleset (Clause 6), and the Network Regeneration Contribution.
+**1.4** The Founding Member initiates the Venture Holon by recognising a documented Demand Signal, proposing a credible response, and assuming responsibility for early coordination. This role is temporal and functional, not hierarchical.
 
-**1.5** The Founding Member's role is to recognise the demand signal, propose a credible response, activate the holon, and lead the incubation process. The Founding Member holds no permanent authority advantage over Contributing Members. Governance of the Venture Holon is participatory from the moment a second member joins.
+**1.5** This Agreement does not create an employment relationship, a tenancy, or any claim by the Association over the Venture Members' intellectual property except as expressly provided in Clause 9.
 
-**1.6** This Agreement does **not** create an employment relationship, a tenancy, a profit-sharing arrangement with the Association, or a claim by the Association over the intellectual property of the Venture Members beyond what is specified in Clause 9.
-
-**1.7** This Agreement does **not** preclude the Venture Holon from eventually becoming an independent legal entity. The process for graduation to independence is governed by Clause 10 and [[Agreement 7 Annex 3 — Graduation]].
+**1.6** This Agreement does not preclude the Venture Holon from eventually becoming an independent legal entity. Graduation is governed by Clause 10 and [[Agreement 7 Annex 3 — Graduation]].
 
 ---
 
@@ -114,7 +112,7 @@ An intrapreneurial venture may eventually graduate into a more independent struc
 
 ## 6. Network-First Ruleset
 
-**6.1** Every Venture Holon originates from documented network demand. The Network-First Ruleset ensures that the venture serves that demand before expanding to serve others. This is not a constraint on ambition — it is fidelity to origin. The first clients are the people who generated the signal that brought this venture into existence.
+**6.1** Every Venture Holon must remain responsive to the documented demand that justified its activation. The Network-First Ruleset ensures that service to the commons precedes external market expansion, and that the venture remains accountable to the network from which it emerged.
 
 **6.2** The ruleset defines three phases. Phase transitions are not automatic; each requires completion of a **[[Agreement 7 Annex 2 — Phase Review]]** agreed in writing by the Association and a two-thirds majority of Venture Members.
 
@@ -233,11 +231,9 @@ An intrapreneurial venture may eventually graduate into a more independent struc
 
 ## 12. Community Conduct and Mission Alignment
 
-**12.1** All Venture Members carry the Regenerative Covenant (GT-2) into their work. The venture is an expression of the network's values, not merely a commercial instrument operating under its banner.
+**12.1** Venture Members shall conduct the venture in a manner consistent with the Regenerative Covenant and shall not use the venture's Association affiliation in ways that undermine the commons, create undisclosed conflicts of interest, or divert value away from the network that incubated it.
 
-**12.2** Venture Members shall not use the venture's Association affiliation to compete with other network members, divert clients from the network, or create conflicts of interest that undermine the commons.
-
-**12.3** The venture's work, its relationship to the documented Demand Signal, and its progress through phases are expected to be legible to the community. Opacity is inconsistent with the holonic principle of integrative dependence.
+**12.2** The venture's relationship to the documented Demand Signal, its phase status, and its material obligations under this Agreement must remain legible to the Association and, where appropriate, to the wider community.
 
 ---
 
@@ -279,6 +275,8 @@ Date: _________________________
 
 ---
 
-## Network Passport — Intrapreneur Recognition
+## Contribution Recognition
 
-All Venture Members' contributions under this Agreement — from the Founding Member's recognition of a Demand Signal to every Contributing Member's validated work — are recorded in the Contribution Ledger and accumulate in their individual Network Passports (GT-3A). Responding to the network's own demand, building from within, serving the commons first: this is one of the most significant contributions a person can make. The Passport carries that history across whatever comes next. At the **Sprout** tier: Phase 2 NRC rate reduced to 5% (from base 7%). At the **Branch** tier: expedited Phase Transition Review process; preferred fiscal hosting arrangements. At the **Canopy** tier: reduced post-graduation NRC obligation period as defined in the [[Agreement 7 Annex 3 — Graduation]]. Full perk details are governed by the [[Network Passport]].
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+
+For Venture Members, Passport status may influence phase review priority, reduced Network Regeneration Contribution rates where expressly provided, and post-graduation conditions as defined in this Agreement, the Graduation Annex, and the Network Passport framework.

@@ -157,6 +157,6 @@ Date: _________________________
 
 ---
 
-## Network Passport — Supporter Recognition
+## Contribution Recognition
 
-The Supporter's contributions under this Agreement are recorded in the Contribution Ledger and accumulate in their Network Passport (GT-3A). Those who channel resources into the commons without seeking control are the network's most generous participants — the Passport carries that generosity forward across time. At the **Sprout** tier: named in the Association's annual report; invited to seasonal network gatherings. At the **Branch** tier: a named infrastructure element at a supported hub — a garden, tool library, or shared space permanently associated with their contribution. At the **Canopy** tier: network patron recognition; named in the founding story and living history of the network. Full perk details are governed by the [[Network Passport — Perk Framework]].
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.

@@ -16,7 +16,7 @@
 
 ## 1. Purpose and Commitment
 
-**1.1** The Association operates a network of regenerative hubs and mission-aligned programmes through which it organises educational, cultural, relational, ecological, and community-building activities.
+**1.1** The Association organises mission-aligned educational, cultural, relational, ecological, and community-building Programmes through its network of regenerative hubs.
 
 **1.2** By this Agreement, the Association appoints the Mentor to design, host, facilitate, or contribute to one or more workshops, retreats, courses, residencies, training programmes, mentoring journeys, or other educational or transformational activities (the "Programmes") under the umbrella of the Association.
 
@@ -206,6 +206,8 @@ Date: _________________________
 
 ---
 
-## Network Passport — Mentor Recognition
+## Contribution Recognition
 
-The Mentor's contributions under this Agreement — programmes delivered, knowledge shared, free places offered, participants transformed — are recorded in the Contribution Ledger and accumulate in their Network Passport (GT-3A). A mentor who gives first, consistently, across seasons, becomes one of the network's most valued presences. At the **Sprout** tier: increased free-place allocation per programme; featured listing in the network mentor directory. At the **Branch** tier: co-design input rights on the network's programme calendar; preferred hub access for programme delivery. At the **Canopy** tier: named knowledge custodian status; legacy programme designation — a programme permanently associated with the mentor's name in network records. Full perk details are governed by the [[Network Passport — Perk Framework]].
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording and validation of contributions under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+
+For Mentors, Passport status may influence programme visibility, free-place allocation, directory prominence, and priority access to programme-hosting opportunities, as defined in the Network Passport framework or any applicable Programme Annex.

@@ -1,6 +1,6 @@
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, network regeneration contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply to this Agreement without repetition.*
 
-*Distinction from the [[Agreement 5 — Sponsorship|Sponsorship Agreement]]: Under this Agreement, the Asset is lent, not given. Ownership does not transfer. The Asset must be returned upon termination. For resources where ownership fully transfers to the network (money, consumables, goods, services), see the Sponsorship Agreement.*
+*Distinction from the [[Agreement 5 — Sponsorship|Sponsorship Agreement]]: under this Agreement, the Asset is lent to the Association for use and must be returned upon termination. Ownership does not transfer. For money, consumables, goods, services, or other resources intended to transfer permanently to the network, see the Sponsorship Agreement.*
 
 ---
 
@@ -149,6 +149,6 @@ Date: _________________________
 
 ---
 
-## Network Passport — Owner Recognition
+## Contribution Recognition
 
-The Owner's contribution to the network through this Agreement is recorded in the Contribution Ledger as a Validated Contribution (GT-3, GT-3A). Making a place available to the commons is a significant act — it is recognised as such. The Owner's Network Passport accumulates this contribution alongside any other roles they hold in the network. At the **Sprout** tier: named in the Association's annual report and invited to seasonal gatherings. At the **Branch** tier: a named infrastructure element or space at the hub is permanently associated with their stewardship. At the **Canopy** tier: network patron recognition; named in the founding story and living history of the network. Full perk details are governed by the [[Network Passport]].
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.

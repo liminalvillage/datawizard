@@ -166,18 +166,11 @@
 
 ---
 
-## 14A. Network Passport and Stewardship Record
+## 14A. Contribution Recognition
 
-**14A.1** All contributions made by the Steward under this Agreement — including ecological improvements, events hosted, community built, operational systems established, and any other validated contributions — are recorded in the Steward's **Network Passport** (GT-3A) in the Contribution Ledger throughout the duration of this Agreement.
+**14A.1** Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
 
-**14A.2** The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the hub or to this Agreement. It accompanies them across any future roles within the network.
-
-**14A.3** Upon termination of this Agreement for any reason, the Association shall provide the Steward with a written summary of their stewardship contributions within 30 days. This summary constitutes the Steward's stewardship record and may be shared with other hubs, owners, or venture members as evidence of their history and capacity.
-
-**14A.4** Any hub in the network receiving a prospective steward may request to view that person's Network Passport (with their consent) as part of the welcome process. A Steward arriving with a strong Passport is welcomed with the trust their record has earned — they do not start from zero.
-
-**14A.5** The perks unlocked by the Steward's Passport tier in this role are governed by the [[Network Passport]] companion document. At the **Sprout** tier: preferred placement when multiple candidates apply for a hub. At the **Branch** tier: 90-day termination notice protection regardless of actual tenure (see Clause 16.1); right to be consulted when incoming owner negotiations affect the Hub. At the **Canopy** tier: named stewardship legacy permanently recorded in the hub's history; formal consultation right on revisions to the Hub DNA of any hub they have stewarded.
-
+**14A.2** The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the Hub or to this Agreement, and may be referenced with the Steward's consent when evaluating future stewardship roles or comparable responsibilities within the network.
 ---
 
 ## 15. Duration
