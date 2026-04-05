@@ -1,5 +1,5 @@
 ---
-title: A6-5 — Reference Hourly Rates
+title: Agreement 6 Annex 5 — Hourly Rates
 type: annex
 annex_ref: A6-5
 parent_agreement: Agreement 6 — Partnership
@@ -18,7 +18,7 @@ tags:
 
 ## Purpose
 
-When a Project Sheet (see [[A6-4 — Project Sheet Template]]) specifies that contributions will be measured by hours, this Annex provides the agreed reference rates. These rates convert hours into a monetary value for the purpose of calculating each Partner's proportional share in Net Project Revenue distribution.
+When a Project Sheet (see [[Agreement 6 Annex 4 — Project Sheet]]) specifies that contributions will be measured by hours, this Annex provides the agreed reference rates. These rates convert hours into a monetary value for the purpose of calculating each Partner's proportional share in Net Project Revenue distribution.
 
 **Important:** These are reference rates for internal accounting purposes — they do not represent actual payments to Partners during the Project. Distribution occurs from actual Net Project Revenue, not from an accumulation of notional hourly values.
 

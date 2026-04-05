@@ -1,8 +1,8 @@
 ---
-title: A1-5 — Shared Infrastructure Contributions
+title: Agreement 1 Annex 5 — Shared Infrastructure
 type: annex
 annex_ref: A1-5
-parent_agreement: Agreement 1 — Ownership (Asset Use)
+parent_agreement: Agreement 1 — Ownership
 created: '2026-03-17'
 updated: '2026-04-02'
 status: template
@@ -19,7 +19,7 @@ tags:
 
 ## Section A — Purpose and Scope
 
-The Asset Use Agreement provides that the Association bears ordinary operating costs and the Owner bears extraordinary maintenance. This Annex governs a third category: **shared infrastructure investments** — improvements, installations, and upgrades that benefit both Parties and that neither is solely obliged to fund under the Agreement's base terms.
+the Ownership Agreement provides that the Association bears ordinary operating costs and the Owner bears extraordinary maintenance. This Annex governs a third category: **shared infrastructure investments** — improvements, installations, and upgrades that benefit both Parties and that neither is solely obliged to fund under the Agreement's base terms.
 
 Examples of shared infrastructure contributions may include:
 - Installation of solar panels or renewable energy systems
@@ -76,7 +76,7 @@ No compensation is automatically due. Any agreed compensation shall be documente
 
 ## Signatures
 
-This Annex forms an integral part of the Asset Use Agreement executed between the Parties on [Date].
+This Annex forms an integral part of the Ownership Agreement executed between the Parties on [Date].
 
 **For ReGenerativa APS — ETS:** _________________________  Date: _______
 

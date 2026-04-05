@@ -30,13 +30,13 @@
 
 ---
 
-## 2. Relationship to the Asset Use Agreement
+## 2. Relationship to the Ownership Agreement
 
 **2.1** The Steward expressly acknowledges that the Association's use of the Hub is derived from the applicable [[Agreement 1 — Ownership|Ownership Agreement]] or other lawful upstream title held by the Association.
 
 **2.2** The Steward's presence and role exist solely within the Association's framework and remain subordinate to the Association's rights and obligations under that upstream agreement.
 
-**2.3** The Steward acquires no independent right against the Owner or against the underlying asset by virtue of this Agreement. In the event of conflict, the Asset Use Agreement shall prevail.
+**2.3** The Steward acquires no independent right against the Owner or against the underlying asset by virtue of this Agreement. In the event of conflict, the Ownership Agreement shall prevail.
 
 ---
 
@@ -52,7 +52,7 @@
 
 ## 4. Hub DNA, Social DNA, and Mission Alignment
 
-**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[A1-6 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
+**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[Agreement 1 Annex 6 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
 
 **4.2** The Steward shall help ensure that all persons present at the Hub are informed of and expected to respect the applicable DNA and use conditions.
 
@@ -74,7 +74,7 @@
 
 ## 6. Events, Retreats, and Hosted Programmes
 
-**6.1** The Steward may propose or support the organisation of workshops, retreats, educational programmes, gatherings, and other hosted activities at the Hub, provided they are consistent with the Association's mission, the Hub DNA, the Association's approval procedures, and the applicable Asset Use Agreement.
+**6.1** The Steward may propose or support the organisation of workshops, retreats, educational programmes, gatherings, and other hosted activities at the Hub, provided they are consistent with the Association's mission, the Hub DNA, the Association's approval procedures, and the applicable Ownership Agreement.
 
 **6.2** The Steward shall not independently appropriate event income as personal revenue merely because they are stewarding the Hub. All financial flows linked to events shall be accounted for through the Association or through a written structure expressly approved by the Association.
 
@@ -124,7 +124,7 @@
 
 **10.1** The Steward shall care for the Hub and its resources with due diligence, including keys, furniture, tools, equipment, food systems, common spaces, guest areas, and records.
 
-**10.2** The Steward shall help ensure that spaces are cleaned, restored, maintained, and secured after use, in accordance with the Hub protocols and the Annexes to the applicable Asset Use Agreement.
+**10.2** The Steward shall help ensure that spaces are cleaned, restored, maintained, and secured after use, in accordance with the Hub protocols and the Annexes to the applicable Ownership Agreement.
 
 **10.3** The Steward shall promptly report damage, structural concerns, conflicts, safety issues, breaches of use conditions, and any material issue affecting the viability of the Hub.
 
@@ -243,12 +243,12 @@ Date: _________________________
 
 ### Own Annexes
 
-- [[A2-1 — Steward Onboarding Record]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
+- [[Agreement 2 Annex 1 — Steward Onboarding]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
 
 ### Annexes from the Ownership Agreement also referenced here
 
-- [[A1-6 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
-- [[A1-3 — Maintenance Protocol]] — referenced in Clauses 10.1–10.2
-- [[A1-4 — Cleaning and Restoration Protocol]] — referenced in Clause 10.2
+- [[Agreement 1 Annex 6 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
+- [[Agreement 1 Annex 3 — Maintenance]] — referenced in Clauses 10.1–10.2
+- [[Agreement 1 Annex 4 — Cleaning and Restoration]] — referenced in Clause 10.2
 
 Cost-coverage targets and stewardship cycle terms may also be recorded in a separate signed annex appended to this Agreement.

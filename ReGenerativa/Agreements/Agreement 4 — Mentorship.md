@@ -202,7 +202,7 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A4 — Programme Annex Template]] — complete one per Programme; file as "A4 — [Programme Name] — [YYYY-MM]"
+- [[Agreement 4 Annex 1 — Programme Template]] — complete one per Programme; file as "A4 — [Programme Name] — [YYYY-MM]"
 
 ---
 

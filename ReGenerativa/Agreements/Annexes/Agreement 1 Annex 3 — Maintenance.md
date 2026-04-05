@@ -1,8 +1,8 @@
 ---
-title: A1-3 — Maintenance Protocol
+title: Agreement 1 Annex 3 — Maintenance
 type: annex
 annex_ref: A1-3
-parent_agreement: Agreement 1 — Ownership (Asset Use)
+parent_agreement: Agreement 1 — Ownership
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
@@ -29,7 +29,7 @@ tags:
 
 The following tasks are the responsibility of the Association during its periods of use:
 
-**Cleaning and tidying (see also [[A1-4 — Cleaning and Restoration Protocol]]):**
+**Cleaning and tidying (see also [[Agreement 1 Annex 4 — Cleaning and Restoration]]):**
 - Daily common area tidying during stays and events
 - Kitchen cleaning after each use (surfaces, appliances, floor)
 - Bathroom cleaning after each use (toilets, showers, sinks, floors)
@@ -101,7 +101,7 @@ This log shall be shared with the Owner upon request and reviewed at each period
 
 ## Signatures
 
-This Annex forms an integral part of the Asset Use Agreement executed between the Parties on [Date].
+This Annex forms an integral part of the Ownership Agreement executed between the Parties on [Date].
 
 **For ReGenerativa APS — ETS:** _________________________  Date: _______
 

@@ -1,5 +1,5 @@
 ---
-title: A7-3 — Graduation Agreement
+title: Agreement 7 Annex 3 — Graduation
 type: annex
 annex_ref: A7-3
 parent_agreement: Agreement 7 — Intrapreneurship

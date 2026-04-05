@@ -1,5 +1,5 @@
 ---
-title: A7-2 — Phase Transition Review
+title: Agreement 7 Annex 2 — Phase Review
 type: annex
 annex_ref: A7-2
 parent_agreement: Agreement 7 — Intrapreneurship
@@ -25,7 +25,7 @@ tags:
 
 **Current phase:** ☐ Phase 1 — Incubation  ☐ Phase 2 — Operational  ☐ Phase 3 — Mature
 
-**Proposed transition to:** ☐ Phase 2 — Operational  ☐ Phase 3 — Mature  ☐ Graduation *(use [[A7-3 — Graduation Agreement]])*
+**Proposed transition to:** ☐ Phase 2 — Operational  ☐ Phase 3 — Mature  ☐ Graduation *(use [[Agreement 7 Annex 3 — Graduation]])*
 
 **Review date:** [DD/MM/YYYY]
 
@@ -40,7 +40,7 @@ tags:
 
 ## Part A — Exit Criteria Assessment
 
-*For each criterion required to exit the current phase (as defined in [[A7-1 — Venture Sheet]] Section 5, or the equivalent for Phase 2), assess whether it has been met.*
+*For each criterion required to exit the current phase (as defined in [[Agreement 7 Annex 1 — Venture Sheet]] Section 5, or the equivalent for Phase 2), assess whether it has been met.*
 
 ### Exiting Phase 1 — Incubation
 
@@ -148,4 +148,4 @@ _________________________  Date: _______
 
 ---
 
-*Upon approval, update the [[A7-1 — Venture Sheet]] to reflect the new phase and file this Review document alongside it.*
+*Upon approval, update the [[Agreement 7 Annex 1 — Venture Sheet]] to reflect the new phase and file this Review document alongside it.*

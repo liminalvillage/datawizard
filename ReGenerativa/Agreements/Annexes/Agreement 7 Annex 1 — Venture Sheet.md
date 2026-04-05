@@ -1,5 +1,5 @@
 ---
-title: A7-1 — Venture Sheet
+title: Agreement 7 Annex 1 — Venture Sheet
 type: annex
 annex_ref: A7-1
 parent_agreement: Agreement 7 — Intrapreneurship
@@ -130,7 +130,7 @@ tags:
 
 ## 5. Milestones and Exit Criteria for Phase 1
 
-*Define what must be demonstrated before a Phase Transition Review ([[A7-2 — Phase Transition Review]]) can be requested.*
+*Define what must be demonstrated before a Phase Transition Review ([[Agreement 7 Annex 2 — Phase Review]]) can be requested.*
 
 | Milestone | Description | Target date | How measured |
 |---|---|---|---|
@@ -148,7 +148,7 @@ tags:
 | Phase 1 | Not applicable | Not applicable | No external revenue |
 | Phase 2 | 7% | 5% | Net External Revenue |
 | Phase 3 | 5% | 5% | Net External Revenue |
-| Post-Graduation | As per [[A7-3 — Graduation Agreement]] | | |
+| Post-Graduation | As per [[Agreement 7 Annex 3 — Graduation]] | | |
 
 *Passport tier is assessed at the level of the Venture Holon's Founding Member at the time of Phase 2 activation. If the Founding Member reaches Sprout tier during Phase 2, the reduced rate applies from the date of tier advancement.*
 

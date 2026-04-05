@@ -245,12 +245,12 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A6-1 — Partner Register]] — canonical register of all current and former Partners
-- [[A6-2 — Adhesion Form Template]] — standard form for admitting new Partners
-- [[A6-3 — Structure Costs and Allocation]] — overhead costs deducted before Partner distribution
-- [[A6-4 — Project Sheet Template]] — one sheet per Project; governs scope, contributions, and revenue
-- [[A6-5 — Reference Hourly Rates]] — rates used to convert hours into contribution value
-- [[A6-6 — Validation Platform Description]] — technical architecture of the Contribution Ledger
+- [[Agreement 6 Annex 1 — Partner Register]] — canonical register of all current and former Partners
+- [[Agreement 6 Annex 2 — Adhesion Form]] — standard form for admitting new Partners
+- [[Agreement 6 Annex 3 — Structure Costs]] — overhead costs deducted before Partner distribution
+- [[Agreement 6 Annex 4 — Project Sheet]] — one sheet per Project; governs scope, contributions, and revenue
+- [[Agreement 6 Annex 5 — Hourly Rates]] — rates used to convert hours into contribution value
+- [[Agreement 6 Annex 6 — Validation Platform]] — technical architecture of the Contribution Ledger
 
 ---
 

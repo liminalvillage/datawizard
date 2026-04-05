@@ -1,8 +1,8 @@
 ---
-title: 'A1-1 — Asset Description, Schedule and Access Conditions'
+title: Agreement 1 Annex 1 — Asset Description and Access
 type: annex
 annex_ref: A1-1
-parent_agreement: Agreement 1 — Ownership (Asset Use)
+parent_agreement: Agreement 1 — Ownership
 created: '2026-03-17'
 updated: '2026-03-17'
 status: template
@@ -88,7 +88,7 @@ tags:
 
 ## Signatures
 
-This Annex forms an integral part of the Asset Use Agreement executed between the Parties on [Date].
+This Annex forms an integral part of the Ownership Agreement executed between the Parties on [Date].
 
 **For ReGenerativa APS — ETS:** _________________________  Date: _______
 

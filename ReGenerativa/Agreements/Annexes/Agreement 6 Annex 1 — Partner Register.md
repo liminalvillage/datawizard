@@ -1,5 +1,5 @@
 ---
-title: A6-1 — Partner Register
+title: Agreement 6 Annex 1 — Partner Register
 type: annex
 annex_ref: A6-1
 parent_agreement: Agreement 6 — Partnership

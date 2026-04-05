@@ -1,8 +1,8 @@
 ---
-title: A1-4 — Cleaning and Restoration Protocol
+title: Agreement 1 Annex 4 — Cleaning and Restoration
 type: annex
 annex_ref: A1-4
-parent_agreement: Agreement 1 — Ownership (Asset Use)
+parent_agreement: Agreement 1 — Ownership
 created: '2026-03-17'
 updated: '2026-04-02'
 status: template
@@ -19,7 +19,7 @@ tags:
 
 ## Section A — Purpose
 
-This protocol ensures that the Asset is left in a clean, orderly, and safe condition at the end of each stay, event, or use period — consistent with the Association's Regenerative Covenant (GT-2) and duty of care under Clause 3.1 of the Asset Use Agreement.
+This protocol ensures that the Asset is left in a clean, orderly, and safe condition at the end of each stay, event, or use period — consistent with the Association's Regenerative Covenant (GT-2) and duty of care under Clause 3.1 of the Ownership Agreement.
 
 **Who is responsible for ensuring compliance:** The designated steward for the use period, who may delegate tasks to participants but retains overall responsibility.
 
@@ -93,7 +93,7 @@ Any damage, breakage, or defect discovered during the clean-up or handover must 
 - Photograph (if possible)
 - Assessment of cause (accidental, wear, unknown)
 
-The Association will notify the Owner per Clause 3.5 of the Asset Use Agreement.
+The Association will notify the Owner per Clause 3.5 of the Ownership Agreement.
 
 ---
 
@@ -111,7 +111,7 @@ In keeping with the Association's regenerative mandate, the following standards 
 
 ## Signatures
 
-This Annex forms an integral part of the Asset Use Agreement executed between the Parties on [Date].
+This Annex forms an integral part of the Ownership Agreement executed between the Parties on [Date].
 
 **For ReGenerativa APS — ETS:** _________________________  Date: _______
 

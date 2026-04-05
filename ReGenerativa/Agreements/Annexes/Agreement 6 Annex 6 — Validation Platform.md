@@ -1,5 +1,5 @@
 ---
-title: A6-6 — Validation Platform Description
+title: Agreement 6 Annex 6 — Validation Platform
 type: annex
 annex_ref: A6-6
 parent_agreement: Agreement 6 — Partnership
@@ -79,7 +79,7 @@ Partner Share (%) = Partner's Total Validated Contributions (€ equivalent)
                     Total Validated Contributions of All Partners (€ equivalent)
 ```
 
-Contributions are converted to a common unit (€ equivalent) using the rates in [[A6-5 — Reference Hourly Rates]] or the milestone values in the Project Sheet.
+Contributions are converted to a common unit (€ equivalent) using the rates in [[Agreement 6 Annex 5 — Hourly Rates]] or the milestone values in the Project Sheet.
 
 Distribution amounts are calculated by applying Partner shares to Net Project Revenue (after cost waterfall).
 
@@ -122,7 +122,7 @@ As the platform is built and deployed, this Annex will be updated to reflect:
 - Security audit results
 - GDPR impact assessment outcomes
 
-Updates require simple majority approval and recording in the Amendment Register of the [[A6-1 — Partner Register]].
+Updates require simple majority approval and recording in the Amendment Register of the [[Agreement 6 Annex 1 — Partner Register]].
 
 ---
 

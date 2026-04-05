@@ -1,5 +1,5 @@
 ---
-title: A6-4 — Project Sheet Template
+title: Agreement 6 Annex 4 — Project Sheet
 type: annex
 annex_ref: A6-4
 parent_agreement: Agreement 6 — Partnership
@@ -86,13 +86,13 @@ tags:
 
 **How contributions will be measured in this Project:**
 
-☐ **Hours** — at rates defined in [[A6-5 — Reference Hourly Rates]]
+☐ **Hours** — at rates defined in [[Agreement 6 Annex 5 — Hourly Rates]]
 ☐ **Fixed milestones** — as defined in Section 3 above
 ☐ **Agreed value units** — describe: ___
 ☐ **Market replacement value** — describe: ___
 ☐ **Hybrid** — describe: ___
 
-**Tracking tool / ledger:** [e.g. "Contribution Ledger platform — see [[A6-6 — Validation Platform Description]]" or "Shared spreadsheet until platform is operational"]
+**Tracking tool / ledger:** [e.g. "Contribution Ledger platform — see [[Agreement 6 Annex 6 — Validation Platform]]" or "Shared spreadsheet until platform is operational"]
 
 **Logging frequency:** ☐ Daily  ☐ Weekly  ☐ Per milestone  ☐ At close
 
@@ -125,7 +125,7 @@ Contributions become Validated when:
 | [e.g. Subcontractors] | €___ | |
 | **Total direct costs** | **€___** | |
 
-**Structure costs** (per [[A6-3 — Structure Costs and Allocation]]):** €___ (estimated)
+**Structure costs** (per [[Agreement 6 Annex 3 — Structure Costs]]):** €___ (estimated)
 
 **Network Regeneration Contribution** (min. 5%): ___% of Net Revenue = €___ (estimated)
 

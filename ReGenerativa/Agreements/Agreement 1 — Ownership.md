@@ -140,12 +140,12 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A1-1 — Asset Description, Schedule and Access Conditions]]
-- [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]]
-- [[A1-3 — Maintenance Protocol]]
-- [[A1-4 — Cleaning and Restoration Protocol]]
-- [[A1-5 — Shared Infrastructure Contributions]]
-- [[A1-6 — Hub DNA]]
+- [[Agreement 1 Annex 1 — Asset Description and Access]]
+- [[Agreement 1 Annex 2 — Permitted Use and Social DNA]]
+- [[Agreement 1 Annex 3 — Maintenance]]
+- [[Agreement 1 Annex 4 — Cleaning and Restoration]]
+- [[Agreement 1 Annex 5 — Shared Infrastructure]]
+- [[Agreement 1 Annex 6 — Hub DNA]]
 
 ---
 

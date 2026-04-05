@@ -45,7 +45,7 @@ Each dimension corresponds to a commitment in the Regenerative Covenant (GT-2.2)
 - Food: proportion of food consumed that is produced on-site or within the bioregion
 
 **Baseline and targets:**
-Each hub establishes a baseline assessment at commencement of the Asset Use Agreement (recorded in [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]]). Targets are set for 1-year and 3-year horizons. Methods are chosen for local relevance and practicability — a simple soil test and an annual species count is more valuable than an elaborate system that never gets done.
+Each hub establishes a baseline assessment at commencement of the Ownership Agreement (recorded in [[Agreement 1 Annex 2 — Permitted Use and Social DNA]]). Targets are set for 1-year and 3-year horizons. Methods are chosen for local relevance and practicability — a simple soil test and an annual species count is more valuable than an elaborate system that never gets done.
 
 **Reference practices:**
 - Annual soil test (basic: OM%, pH, P, K, N)
@@ -175,7 +175,7 @@ The Association synthesises all hub seasonal reports into an annual Social DNA r
 
 ### At agreement level — activation
 
-When a new agreement is activated (Asset Use, Intrapreneurship, Partnership), the Social DNA Framework is used to classify the activities and set baseline measurements. This is the function served by [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]] and [[A7-1 — Venture Sheet]].
+When a new agreement is activated (Ownership, Intrapreneurship, Partnership), the Social DNA Framework is used to classify the activities and set baseline measurements. This is the function served by [[Agreement 1 Annex 2 — Permitted Use and Social DNA]] and [[Agreement 7 Annex 1 — Venture Sheet]].
 
 ---
 
@@ -203,3 +203,4 @@ Proposed changes to the framework are discussed at the annual gathering and appr
 ---
 
 *Part of the ReGenerativa Companion Documents. Governed by the [[General Terms and Conditions]] GT-1.6 and GT-2.*
+1.6 and GT-2.*

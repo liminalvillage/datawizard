@@ -1,5 +1,5 @@
 ---
-title: A6-2 — Adhesion Form Template
+title: Agreement 6 Annex 2 — Adhesion Form
 type: annex
 annex_ref: A6-2
 parent_agreement: Agreement 6 — Partnership
@@ -11,7 +11,7 @@ tags:
   - ReGenerativa
   - partnership
 ---
-*Annex 2 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Standard form used when a new Partner joins the Framework. The new Partner signs this form; it is then recorded in [[A6-1 — Partner Register]]. Forms an integral part of the Agreement.*
+*Annex 2 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Standard form used when a new Partner joins the Framework. The new Partner signs this form; it is then recorded in [[Agreement 6 Annex 1 — Partner Register]]. Forms an integral part of the Agreement.*
 
 ---
 
@@ -105,4 +105,4 @@ This adhesion is subject to approval by a two-thirds majority of existing Partne
 
 **For ReGenerativa APS — ETS (or designated Partner coordinator):** _________________________  Date: _______
 
-*Record this adhesion in [[A6-1 — Partner Register]] upon signing.*
+*Record this adhesion in [[Agreement 6 Annex 1 — Partner Register]] upon signing.*

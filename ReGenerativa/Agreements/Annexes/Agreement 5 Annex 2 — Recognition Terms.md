@@ -1,5 +1,5 @@
 ---
-title: A5-2 — Recognition Terms
+title: Agreement 5 Annex 2 — Recognition Terms
 type: annex
 annex_ref: A5-2
 parent_agreement: Agreement 5 — Sponsorship

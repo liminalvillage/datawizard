@@ -1,5 +1,5 @@
 ---
-title: A4 — Programme Annex Template
+title: Agreement 4 Annex 1 — Programme Template
 type: annex
 annex_ref: A4
 parent_agreement: Agreement 4 — Mentorship

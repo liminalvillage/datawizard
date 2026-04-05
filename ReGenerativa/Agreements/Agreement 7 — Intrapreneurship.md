@@ -2,6 +2,23 @@
 
 *Relationship to other agreements: The Founding Member and all Contributing Members must hold a current [[Agreement 3 — Membership|Membership Agreement]]. Hub access during incubation follows the logic of the [[Agreement 2 — Stewardship|Stewardship Agreement]]. External partners who join a mature venture may require a [[Agreement 6 — Partnership|Partnership Agreement]]. Mentors engaged to support the venture are governed by the [[Agreement 4 — Mentorship|Mentorship Agreement]].*
 
+## What Intrapreneurship Means Here
+
+Entrepreneurship usually means building something as an independent founder: you create a venture outside an existing commons, take the risks directly, and retain primary control over the value structure it generates.
+
+**Intrapreneurship**, in this network, means something different. It is the creation of a new venture **from within the commons**. The venture is incubated through the network's relationships, infrastructure, trust, contribution systems, and visible patterns of unmet need. It begins inside an existing relational ecosystem rather than outside it.
+
+The difference is structural:
+
+- **Entrepreneurship** starts from independence and later seeks partnership.
+- **Intrapreneurship** starts from interdependence and may later graduate into greater autonomy.
+- **Entrepreneurship** is usually organised around founder ownership.
+- **Intrapreneurship** is organised around stewardship, contribution, reciprocity, and accountability to the network that made the venture possible.
+- **Entrepreneurship** asks: *How do I build this as my venture?*
+- **Intrapreneurship** asks: *How do I build this from within the network, in a way that strengthens both the venture and the commons?*
+
+An intrapreneurial venture may eventually graduate into a more independent structure, but it does not begin as an isolated enterprise. This Agreement governs that path.
+
 ---
 
 **This Agreement** is made and entered into on [Date] by and between:
@@ -32,7 +49,7 @@
 
 **1.6** This Agreement does **not** create an employment relationship, a tenancy, a profit-sharing arrangement with the Association, or a claim by the Association over the intellectual property of the Venture Members beyond what is specified in Clause 9.
 
-**1.7** This Agreement does **not** preclude the Venture Holon from eventually becoming an independent legal entity. The process for graduation to independence is governed by Clause 10 and [[A7-3 — Graduation Agreement]].
+**1.7** This Agreement does **not** preclude the Venture Holon from eventually becoming an independent legal entity. The process for graduation to independence is governed by Clause 10 and [[Agreement 7 Annex 3 — Graduation]].
 
 ---
 
@@ -56,7 +73,7 @@
 
 - The Founding Member submits a written proposal to the Association referencing the specific Demand Signal(s) they are responding to, describing their proposed response and the expected benefit to the network, and stating their initial commitment
 - The Association reviews the proposal for: (a) genuine match between the proposed venture and the documented demand; (b) mission alignment with the Regenerative Covenant (GT-2) and the Social DNA Framework (GT-1.6); (c) absence of duplication with existing ventures or activities
-- If approved, the Parties jointly complete **[[A7-1 — Venture Sheet]]**, which documents the Demand Signal, the venture's scope, phase, milestones, NRC rate, first client commitment, and initial membership
+- If approved, the Parties jointly complete **[[Agreement 7 Annex 1 — Venture Sheet]]**, which documents the Demand Signal, the venture's scope, phase, milestones, NRC rate, first client commitment, and initial membership
 - This Agreement is signed by the Association and the Founding Member, with Contributing Members joining by signing the Venture Sheet
 
 **3.2** Approval by the Association is a match validation, not an idea approval. The need has already been established by the Register. The Association's review focuses on whether the Founding Member is proposing a credible and mission-aligned response. The Association shall give written reasons for any refusal and, where possible, suggest how the proposal might be strengthened or reframed.
@@ -99,7 +116,7 @@
 
 **6.1** Every Venture Holon originates from documented network demand. The Network-First Ruleset ensures that the venture serves that demand before expanding to serve others. This is not a constraint on ambition — it is fidelity to origin. The first clients are the people who generated the signal that brought this venture into existence.
 
-**6.2** The ruleset defines three phases. Phase transitions are not automatic; each requires completion of a **[[A7-2 — Phase Transition Review]]** agreed in writing by the Association and a two-thirds majority of Venture Members.
+**6.2** The ruleset defines three phases. Phase transitions are not automatic; each requires completion of a **[[Agreement 7 Annex 2 — Phase Review]]** agreed in writing by the Association and a two-thirds majority of Venture Members.
 
 ### Phase 1 — Incubation
 
@@ -179,7 +196,7 @@
 
 **9.4 Co-created IP within the holon:** owned jointly by contributing Venture Members in proportion to Validated Contributions, unless the Venture Sheet specifies otherwise.
 
-**9.5** Upon Graduation, the IP ownership arrangement is confirmed in the [[A7-3 — Graduation Agreement]]. The Association's non-exclusive licence for Phase 1 IP survives Graduation in perpetuity.
+**9.5** Upon Graduation, the IP ownership arrangement is confirmed in the [[Agreement 7 Annex 3 — Graduation]]. The Association's non-exclusive licence for Phase 1 IP survives Graduation in perpetuity.
 
 ---
 
@@ -189,7 +206,7 @@
 
 **10.2** Graduation is initiated by a two-thirds majority of Venture Members and must be agreed in writing by the Association. Neither Party can force Graduation on the other.
 
-**10.3** The terms of Graduation are defined in **[[A7-3 — Graduation Agreement]]**, which addresses:
+**10.3** The terms of Graduation are defined in **[[Agreement 7 Annex 3 — Graduation]]**, which addresses:
 - The legal form of the graduating entity
 - Whether the Association holds a minority stake, a royalty right, or a preferred-client clause
 - The NRC obligation post-Graduation (a minimum 5% of Net External Revenue for a defined period)
@@ -250,18 +267,18 @@ Signature: _________________________
 
 Date: _________________________
 
-*Contributing Members join by signing the [[A7-1 — Venture Sheet]] at activation or upon admission.*
+*Contributing Members join by signing the [[Agreement 7 Annex 1 — Venture Sheet]] at activation or upon admission.*
 
 ---
 
 ## Linked Annexes
 
-- [[A7-1 — Venture Sheet]]
-- [[A7-2 — Phase Transition Review]]
-- [[A7-3 — Graduation Agreement]]
+- [[Agreement 7 Annex 1 — Venture Sheet]]
+- [[Agreement 7 Annex 2 — Phase Review]]
+- [[Agreement 7 Annex 3 — Graduation]]
 
 ---
 
 ## Network Passport — Intrapreneur Recognition
 
-All Venture Members' contributions under this Agreement — from the Founding Member's recognition of a Demand Signal to every Contributing Member's validated work — are recorded in the Contribution Ledger and accumulate in their individual Network Passports (GT-3A). Responding to the network's own demand, building from within, serving the commons first: this is one of the most significant contributions a person can make. The Passport carries that history across whatever comes next. At the **Sprout** tier: Phase 2 NRC rate reduced to 5% (from base 7%). At the **Branch** tier: expedited Phase Transition Review process; preferred fiscal hosting arrangements. At the **Canopy** tier: reduced post-graduation NRC obligation period as defined in the [[A7-3 — Graduation Agreement]]. Full perk details are governed by the [[Network Passport]].
+All Venture Members' contributions under this Agreement — from the Founding Member's recognition of a Demand Signal to every Contributing Member's validated work — are recorded in the Contribution Ledger and accumulate in their individual Network Passports (GT-3A). Responding to the network's own demand, building from within, serving the commons first: this is one of the most significant contributions a person can make. The Passport carries that history across whatever comes next. At the **Sprout** tier: Phase 2 NRC rate reduced to 5% (from base 7%). At the **Branch** tier: expedited Phase Transition Review process; preferred fiscal hosting arrangements. At the **Canopy** tier: reduced post-graduation NRC obligation period as defined in the [[Agreement 7 Annex 3 — Graduation]]. Full perk details are governed by the [[Network Passport]].

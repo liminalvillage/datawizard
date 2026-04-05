@@ -1,6 +1,6 @@
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
 
-*Distinction from the [[Agreement 1 — Ownership|Ownership Agreement]]: Under this Agreement, ownership of the supported resources fully transfers to the Association upon delivery and acceptance. For resources where the supporter retains ownership and grants a right of use, see the Asset Use Agreement.*
+*Distinction from the [[Agreement 1 — Ownership|Ownership Agreement]]: Under this Agreement, ownership of the supported resources fully transfers to the Association upon delivery and acceptance. For resources where the supporter retains ownership and grants a right of use, see the Ownership Agreement.*
 
 ---
 
@@ -20,7 +20,7 @@
 
 **1.1** By this Agreement, the Supporter undertakes to provide financial support, goods, services, consumables, or other resources to the Association or its designated beneficiaries.
 
-**1.2** **Ownership of the supported resources fully transfers to the Association** (or to the designated beneficiary) upon delivery and acceptance, unless the Parties expressly agree in Annex 1 that specific durable items are lent rather than given (in which case the Asset Use Agreement governs those items).
+**1.2** **Ownership of the supported resources fully transfers to the Association** (or to the designated beneficiary) upon delivery and acceptance, unless the Parties expressly agree in Annex 1 that specific durable items are lent rather than given (in which case the Ownership Agreement governs those items).
 
 **1.3** No return of gifted resources is expected. The Supporter receives recognition and contribution tracking through the Contribution Ledger (General Terms GT-3), not ownership, control, or financial return.
 
@@ -152,8 +152,8 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A5-1 — Support Schedule]] — form, value, timing, destination, and fiscal classification of each contribution
-- [[A5-2 — Recognition Terms]] — recognition items, timeline, and corrispettivo classification (if applicable)
+- [[Agreement 5 Annex 1 — Support Schedule]] — form, value, timing, destination, and fiscal classification of each contribution
+- [[Agreement 5 Annex 2 — Recognition Terms]] — recognition items, timeline, and corrispettivo classification (if applicable)
 
 ---
 

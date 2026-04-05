@@ -21,7 +21,7 @@ tags:
 
 | #   | Agreement                                            | Layer         | Parties                       | Core exchange                                                                                          |
 | --- | ---------------------------------------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 1   | [[Agreement 1 — Asset Use\|Asset Use]]               | Root          | Owner ↔ Association           | Owner lends place or asset; Association uses it for regenerative purposes; ownership stays with Owner  |
+| 1   | [[Agreement 1 — Ownership\|Ownership]]               | Root          | Owner ↔ Association           | Owner lends place or asset; Association uses it for regenerative purposes; ownership stays with Owner  |
 | 2   | [[Agreement 2 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | Association delegates hub custodianship; Steward optimises the place and its people                    |
 | 3   | [[Agreement 3 — Membership\|Membership]]             | Gateway       | Member ↔ Association          | Prerequisite for all other roles; €25/year covers insurance (Art. 18 CTS) and democratic participation |
 | 4   | [[Agreement 4 — Mentorship\|Mentorship]]             | Expertise     | Mentor ↔ Association          | Practitioner hosts programmes; highest contributors get free access first; paid tiers follow           |
@@ -94,7 +94,7 @@ Thresholds set by governance (not fixed in agreements). Continuous growth — no
 | Intrapreneurship Phase 2 NRC (base) | 7% of net external revenue | A7, Clause 6.2 |
 | Intrapreneurship Phase 2 NRC (Sprout+) | 5% | A7 + Perk Framework |
 | Intrapreneurship Phase 3 NRC | 5% | A7, Clause 6.2 |
-| Asset Use termination notice | 90 days | A1, Clause 6.1 |
+| Ownership termination notice | 90 days | A1, Clause 6.1 |
 | Stewardship notice — under 3 months | 14 days | A2, Clause 16.1 |
 | Stewardship notice — 3 months to 1 year | 30 days | A2, Clause 16.1 |
 | Stewardship notice — 1 to 3 years | 60 days | A2, Clause 16.1 |
@@ -123,7 +123,7 @@ Thresholds set by governance (not fixed in agreements). Continuous growth — no
 | 3 — Mature | ≥40% | ≤60% | 5% | 5% | Ecosystem only |
 | Post-graduation | Per A7-3 | Per A7-3 | ≥5% (defined period) | Reduced for Canopy | Per Graduation Agreement |
 
-Capacity = working capacity, not revenue. Phase transitions require Phase Transition Review ([[A7-2 — Phase Transition Review]]) + two-thirds majority of Venture Members.
+Capacity = working capacity, not revenue. Phase transitions require Phase Transition Review ([[Agreement 7 Annex 2 — Phase Review]]) + two-thirds majority of Venture Members.
 
 ---
 

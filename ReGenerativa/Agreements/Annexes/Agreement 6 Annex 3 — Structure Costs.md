@@ -1,5 +1,5 @@
 ---
-title: A6-3 — Structure Costs and Allocation
+title: Agreement 6 Annex 3 — Structure Costs
 type: annex
 annex_ref: A6-3
 parent_agreement: Agreement 6 — Partnership

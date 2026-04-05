@@ -1,5 +1,5 @@
 ---
-title: A1-6 — Hub DNA
+title: Agreement 1 Annex 6 — Hub DNA
 type: annex
 parent_agreement: Agreement 1 — Ownership
 status: template
@@ -15,7 +15,7 @@ tags:
 
 *The Hub DNA is not a legal contract. It is a relational document — the first thing a new steward reads, the reference point a mentor consults before arriving, the promise made to every person who crosses the threshold. It should be written in the voice of the place.*
 
-*Read alongside [[A2-1 — Steward Onboarding Record]] and [[A3-1 — Member Onboarding Record]]: the Hub DNA is the place introducing itself; those documents are the person introducing themselves.*
+*Read alongside [[Agreement 2 Annex 1 — Steward Onboarding]] and [[Agreement 3 Annex 1 — Member Onboarding]]: the Hub DNA is the place introducing itself; those documents are the person introducing themselves.*
 
 ---
 
@@ -169,7 +169,7 @@ Contribution-based stays include participation in shared work. Types of work at 
 - Report any wildlife encounters or ecological concerns to the steward
 - [Any site-specific rules]
 
-**Regenerative Covenant targets for this hub** (formal targets are set in [[A1-2 — Permitted Purposes, Use Restrictions and Social DNA Classification]]; this section tracks the living picture):
+**Regenerative Covenant targets for this hub** (formal targets are set in [[Agreement 1 Annex 2 — Permitted Use and Social DNA]]; this section tracks the living picture):
 
 | Dimension | Current state | What we are working toward | Review date |
 |---|---|---|---|

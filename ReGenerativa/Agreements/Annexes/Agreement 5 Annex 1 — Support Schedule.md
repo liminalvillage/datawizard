@@ -1,5 +1,5 @@
 ---
-title: A5-1 — Support Schedule
+title: Agreement 5 Annex 1 — Support Schedule
 type: annex
 annex_ref: A5-1
 parent_agreement: Agreement 5 — Sponsorship
@@ -100,7 +100,7 @@ For in-kind contributions of tangible goods or equipment:
 
 | Item | Ownership on delivery | Insurance responsibility | Maintenance responsibility | Return on termination? |
 |---|---|---|---|---|
-| [e.g. Tractor] | ☐ Transfers to Association  ☐ Remains with Supporter (loan — see Asset Use Agreement) | [___] | [___] | ☐ Yes  ☐ No |
+| [e.g. Tractor] | ☐ Transfers to Association  ☐ Remains with Supporter (loan — see Ownership Agreement) | [___] | [___] | ☐ Yes  ☐ No |
 
 ---
 
