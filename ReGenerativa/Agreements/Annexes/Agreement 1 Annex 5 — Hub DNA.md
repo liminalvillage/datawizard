@@ -1,21 +1,23 @@
 ---
-title: Agreement 1 Annex 6 — Hub DNA
-type: annex
+annex_ref: A1-5
+created: '2026-04-02'
 parent_agreement: Agreement 1 — Ownership
 status: template
-created: '2026-04-02'
-updated: '2026-04-02'
 tags:
   - annex
   - ReGenerativa
+  - ownership
   - hub-dna
-  - template
+  - place-identity
+title: Agreement 1 Annex 5 — Hub DNA
+type: annex
+updated: '2026-05-11'
 ---
-*Annex 6 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Complete one per hub. The Hub DNA is the living expression of a hub's identity — its values, rhythms, expectations, and offerings. It is also referenced in the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 4) and the [[Agreement 4 — Mentorship|Mentorship Agreement]] (Clause 2.2). File completed documents as: "Hub DNA — [Hub Name].md" in the Hubs/[Hub Name]/ folder.*
+*Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Complete one per hub. The Hub DNA is the living expression of a hub's identity — its values, rhythms, expectations, and offerings. It is also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4) and the [[Agreement 4 — Mentorship|Mentorship Agreement]] (Clause 2.2). File completed documents as: "Hub DNA — [Hub Name].md" in the Hubs/[Hub Name]/ folder.*
 
 *The Hub DNA is not a legal contract. It is a relational document — the first thing a new steward reads, the reference point a mentor consults before arriving, the promise made to every person who crosses the threshold. It should be written in the voice of the place.*
 
-*Read alongside [[Agreement 2 Annex 1 — Steward Onboarding]] and [[Agreement 3 Annex 1 — Member Onboarding]]: the Hub DNA is the place introducing itself; those documents are the person introducing themselves.*
+*Read alongside [[Agreement 3 Annex 1 — Steward Onboarding]] and [[Agreement 2 Annex 1 — Member Onboarding]]: the Hub DNA is the place introducing itself; those documents are the person introducing themselves.*
 
 ---
 
@@ -223,4 +225,4 @@ Contribution-based stays include participation in shared work. Types of work at 
 
 *This document is reviewed seasonally and updated by the steward in consultation with the Association. Previous versions are retained as part of the hub's living record.*
 
-*Annex 6 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Governed by the [[General Terms and Conditions]].*
+*Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Governed by the [[General Terms and Conditions]].*

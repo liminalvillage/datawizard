@@ -76,14 +76,14 @@
 
 **GT-3A.2** The Passport tracks validated contributions continuously. It does not reset when a role ends, when a hub changes, or when a period of inactivity occurs. It is a living record of the whole arc of a person's relationship with the network.
 
-**GT-3A.3** Contributions accumulate toward four recognition tiers, named after the stages of ecological succession:
+**GT-3A.3** Contributions accumulate toward four recognition tiers, named after the developmental arc from individual to ecology:
 
-- **Seed** — arriving, first contributions germinating
-- **Sprout** — establishing, first roots taking hold
-- **Branch** — extending into the network, shaping the ecosystem around them
-- **Canopy** — full presence, long-term sustainer, the network grows in their shade
+- 🌱 **Seed** — arriving, germination, first contributions taking root
+- 🌿 **Sprout** — establishing, growing into the role, first canopy forming
+- 🌳 **Tree** — mature presence, full vigour, the network gathers in their shade and grows from their seeds
+- 🌲 **Forest** — the Elder; no longer an individual contributor but the ecology in which new Seeds germinate; the network's deep holding
 
-Tiers are milestones on a continuous growth curve, not hard gates. The Contribution Ledger accumulates without ceiling. The specific thresholds at which a participant moves from one tier to the next are defined by the network's governance body and published as a living governance document — they are not fixed in any agreement, and may evolve as the network matures.
+The first three tiers are milestones on a continuous growth curve, reached through accumulated validated contribution. The fourth — Forest — is not accumulated. It is conferred through the Transition Rite under Agreement 8 (Eldership), and marks the passage from individual contribution into ecological role: the Elder becomes the conditions in which new Seeds germinate. The Contribution Ledger accumulates without ceiling. The specific thresholds at which a participant moves from one tier to the next are defined by the network's governance body and published as a living governance document — they are not fixed in any agreement, and may evolve as the network matures.
 
 **GT-3A.4** Each tier unlocks **role-scoped perks** — recognition and access benefits that depend on both the participant's tier and the specific agreement(s) they hold. The same tier level grants different things to a Steward than to a Mentor, and to a Partner than to an Intrapreneur. The full perk table is maintained in the [[Network Passport]] companion document.
 
@@ -129,7 +129,7 @@ Tiers are milestones on a continuous growth curve, not hard gates. The Contribut
 
 **GT-7.1** **Amicable resolution** first through good-faith discussion.
 
-**GT-7.2** **Internal mediation** (for disputes involving the Association and a natural person): refer to the Collegio dei Probiviri, if constituted, for a non-binding opinion.
+**GT-7.2** **Internal mediation** (for disputes involving the Association and a natural person): refer to the **Elder Council** for a non-binding opinion. The Elder Council, once constituted under Agreement 8, fulfils the role of the Collegio dei Probiviri for all purposes of this Agreement and the Statute. Until the Elder Council is constituted, the Collegio dei Probiviri (if elected) performs this function in the traditional form.
 
 **GT-7.3** **External mediation** (for inter-entity disputes, or if Probiviri unavailable): mediation pursuant to Legislative Decree 28/2010.
 
@@ -167,7 +167,7 @@ Tiers are milestones on a continuous growth curve, not hard gates. The Contribut
 
 **GT-11.2** **Hierarchy**: (1) Statute prevails over all; (2) upstream agreement prevails over downstream as between the Association and the upstream counterparty; (3) individual agreement prevails over General Terms for specific conflicting provisions.
 
-**GT-11.3** The constellation comprises: the [[Agreement 1 — Ownership|Ownership Agreement]]; the [[Agreement 2 — Stewardship|Stewardship Agreement]]; the [[Agreement 3 — Membership|Membership Agreement]]; the [[Agreement 4 — Mentorship|Mentorship Agreement]]; the [[Agreement 5 — Sponsorship||Sponsorship Agreement]]; the [[Agreement 6 — Partnership|Partnership Agreement]]; the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]]; and these General Terms.
+**GT-11.3** The constellation comprises: the [[Agreement 1 — Ownership|Ownership Agreement]]; the [[Agreement 2 — Membership|Membership Agreement]]; the [[Agreement 3 — Stewardship|Stewardship Agreement]]; the [[Agreement 4 — Mentorship|Mentorship Agreement]]; the [[Agreement 5 — Sponsorship|Sponsorship Agreement]]; the [[Agreement 6 — Partnership|Partnership Agreement]]; the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]]; the [[Agreement 8 — Eldership|Eldership Agreement]]; and these General Terms.
 
 **GT-11.4** **Agreement Stacking.** The agreements in this constellation are designed to be held simultaneously. A person or entity may be party to any number of agreements at the same time — a Member may also be a Steward, a Mentor, a Partner, and a Founding Member of a Venture Holon. Each agreement is self-contained and operates independently. Entering a new role requires signing the relevant agreement; it does not require amending or terminating any existing agreement. There is no prescribed sequence and no administrative transition process — the constellation expands naturally as relationships deepen and roles multiply.
 
@@ -182,3 +182,31 @@ Tiers are milestones on a continuous growth curve, not hard gates. The Contribut
 **GT-12.3** If operating under the occasional collaboration regime, the total annual compensation may not exceed the threshold set by Art. 67(1)(l) TUIR. The Association monitors cumulative payments.
 
 **GT-12.4** No agreement constitutes an employment contract unless a separate instrument expressly states otherwise.
+
+---
+
+## GT-13. Continuity and Dissolution Resilience
+
+**GT-13.1 — The Network Covenant Transcends Legal Form**
+The agreements in this constellation express relational obligations between people and communities. The Association is the current legal vessel through which those obligations are administered — it is not their source. The dissolution, insolvency, or deregistration of the Association does not extinguish the obligations the constellation records. It triggers a succession protocol.
+
+**GT-13.2 — Dissolution Protocol**
+In the event the Association enters liquidation or deregistration proceedings under the Third Sector Code, the following sequence applies:
+
+(a) The Association's liquidators are instructed — and by signing any agreement in this constellation the Association commits — to identify a successor Third Sector entity willing and able to assume the Association's relational obligations as a priority step, before distribution of any residual patrimony.
+
+(b) The Contribution Ledger, all Passport records, and all network data shall be transferred in full to the successor entity or, if none is identified within 90 days, to a Custodial Council constituted under GT-13.5.
+
+(c) Participants retain all vested Passport rights, tier recognitions, and named legacies regardless of the outcome of succession. These are personal records, not assets of the Association.
+
+**GT-13.3 — Relational Continuity at Hubs**
+Every person or entity that holds an Ownership Agreement (Agreement 1) acknowledges that the network's relational fabric — the standings, contributions, and recognitions of those who have participated in their hub — is part of what makes the hub a living place rather than a managed property. This acknowledgment creates no new operational obligation: the Owner's responsibilities remain exactly those set out in Agreement 1. It means only this: if the Association enters succession proceedings, the Owner commits to being informed, to participating in good faith in any Custodial Council convened under GT-13.5 should they choose to do so, and to not acting in ways that would actively obstruct the continuity of the network's relational commitments. The Owner's participation in the Custodial Council is voluntary. No financial obligation and no obligation to provide housing, meals, or services arises from this clause alone.
+
+**GT-13.4 — Ledger as Public Good**
+The Contribution Ledger and Network Passport data are network commons. No liquidator, successor entity, creditor, or third party may use them for commercial purposes, restrict participant access, or destroy them. If no successor entity is identified within 180 days of dissolution, the data shall be transferred to open public archive under a Creative Commons licence, with pseudonymisation preserved per GT-3.4.
+
+**GT-13.5 — Custodial Council**
+If no successor entity is identified within 90 days of the Association entering dissolution proceedings, the hub owners (Agreement 1 holders) and any Elder Council constituted under Agreement 8 shall convene a Custodial Council. The Custodial Council operates independently of the Association's legal form and has authority to: administer the remaining Network Regeneration Fund exclusively for participant welfare; nominate and constitute a successor entity; and maintain continuity of relational obligations until succession is complete or the network formally concludes. The Custodial Council is self-constituting — it requires no further instrument to convene beyond the conditions stated in this clause.
+
+**GT-13.6 — Individual Agreement Survival**
+The relational rights and recognitions established in each individual agreement — including Passport tier, Elder status, stewardship legacy, and named recognitions — survive the dissolution of the Association and are enforceable against any successor entity that assumes the constellation obligations under GT-13.2.

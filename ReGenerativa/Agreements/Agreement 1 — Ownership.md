@@ -1,6 +1,8 @@
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, network regeneration contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply to this Agreement without repetition.*
 
-*Distinction from the [[Agreement 5 — Sponsorship|Sponsorship Agreement]]: under this Agreement, the Asset is lent to the Association for use and must be returned upon termination. Ownership does not transfer. For money, consumables, goods, services, or other resources intended to transfer permanently to the network, see the Sponsorship Agreement.*
+---
+
+*Every regenerative network needs ground to stand on. Not metaphorically — literally: a roof, a piece of earth, a workshop, a tool. The Owner is the one who provides that ground. Not as a landlord, not as an investor, but as a foundation-bearer: someone who has acquired a place — by purchase, by inheritance, by long labour — and made the choice to put it to purpose larger than its market value. The Owner has not surrendered title. They have done something more difficult than that: unlocked the asset for the commons while continuing to hold it. This Agreement is the network's answer to that act. It honours the Owner's continuing ownership, names the conditions of shared use, and binds the Association to treat the place as if it were its own — knowing always that it is not.*
 
 ---
 
@@ -42,7 +44,7 @@
 
 ## 3. Association's Obligations
 
-**3.1 Proper Use and Maintenance.** Use the Asset with due care and diligence and solely for the purposes set forth in this Agreement. The Association shall keep the Asset in good condition, perform routine upkeep and ordinary maintenance (including cleaning, minor repairs, gardening, and other tasks as detailed in **Annex 3 — Maintenance Protocol** and **Annex 4 — Cleaning Protocol**) as necessary, and ensure compliance with all applicable laws and regulations during its use.
+**3.1 Proper Use and Maintenance.** Use the Asset with due care and diligence and solely for the purposes set forth in this Agreement. The Association shall keep the Asset in good condition, perform routine upkeep and ordinary maintenance (including cleaning, minor repairs, gardening, and other tasks as detailed in **Annex 3 — Hub Care Protocol**) as necessary, and ensure compliance with all applicable laws and regulations during its use.
 
 **3.2 Operating Costs.** Bear all ordinary operating expenses related to the Asset's use, calculated on a pro rata temporis basis (proportional to the effective time of use on an annual basis). This includes payment of utilities (electricity, water, gas), insurance premiums, asset depreciation rates as per official tables, and any ordinary local taxes or fees (property tax, waste charges) arising from effective time of use.
 
@@ -56,7 +58,7 @@
 
 **3.7 No Transfer of Use.** Not assign, sub-license, or lend the Asset or any portion of it to any third party outside the Association's network without the Owner's prior written consent. The Association may permit use of the Asset by its members, stewards, staff, mentors, and participants in the Association's organised activities within the terms of this Agreement. The Asset shall not be used as security or collateral for any obligation.
 
-**3.8 Wear and Tear.** The Association shall contribute to the maintenance, repair, or replacement of elements subject to wear resulting from intensive use by its members, participants, and visitors, as detailed in **Annex 3** and **Annex 5 — Shared Infrastructure Contributions**.
+**3.8 Wear and Tear.** The Association shall contribute to the maintenance, repair, or replacement of elements subject to wear resulting from intensive use by its members, participants, and visitors, as detailed in **Annex 3** and **Annex 4 — Shared Infrastructure Contributions**.
 
 **3.9 Hub Activation.** Within six (6) months of the commencement date of this Agreement, the Association shall: appoint at least one Steward for the Asset; schedule at least one activity at the Asset; and communicate the Hub's existence and availability to the Association's membership through its standard channels.
 
@@ -74,7 +76,7 @@ Persistent failure to activate, where the Association has not communicated or pr
 
 **4.3 Insurance and Title.** Maintain ownership of the Asset free and clear of any conditions that would prevent or compromise the Association's use as agreed. The Owner affirms that the Asset is currently free of mortgages, seizures, or legal disputes that would impede this Agreement (or has disclosed any such encumbrances to the Association in writing).
 
-**4.4 No Fees and Non-Profit Character.** Not request any rental fee or other economic compensation from the Association for the use of the Asset, as this loan for use is gratuitous in accordance with Italian civil law. The Owner confirms that this Agreement is made for purposes of social benefit and not for personal profit from the Association's use. This clause does not prevent the Parties from entering into a separate written arrangement for shared infrastructure investments as provided in Annex 5.
+**4.4 No Fees and Non-Profit Character.** Not request any rental fee or other economic compensation from the Association for the use of the Asset, as this loan for use is gratuitous in accordance with Italian civil law. The Owner confirms that this Agreement is made for purposes of social benefit and not for personal profit from the Association's use. This clause does not prevent the Parties from entering into a separate written arrangement for shared infrastructure investments as provided in Annex 4.
 
 ---
 
@@ -102,7 +104,7 @@ During this thirty-day period, the Stewardship Agreement remains in full effect 
 
 Unless the incoming owner agrees in writing to assume the Owner's obligations, this Agreement terminates upon such transfer. The Steward is entitled to the full notice period under the Stewardship Agreement from the date of termination notification.
 
-**6.4 No Compensation.** Upon termination, the Association shall not be entitled to compensation for improvements (except as separately agreed under Annex 5), and the Owner shall not owe compensation to the Association for cessation of use.
+**6.4 No Compensation.** Upon termination, the Association shall not be entitled to compensation for improvements (except as separately agreed under Annex 4), and the Owner shall not owe compensation to the Association for cessation of use.
 
 ---
 
@@ -142,10 +144,9 @@ Date: _________________________
 
 - [[Agreement 1 Annex 1 — Asset Description and Access]]
 - [[Agreement 1 Annex 2 — Permitted Use and Social DNA]]
-- [[Agreement 1 Annex 3 — Maintenance]]
-- [[Agreement 1 Annex 4 — Cleaning and Restoration]]
-- [[Agreement 1 Annex 5 — Shared Infrastructure]]
-- [[Agreement 1 Annex 6 — Hub DNA]]
+- [[Agreement 1 Annex 3 — Hub Care Protocol]]
+- [[Agreement 1 Annex 4 — Shared Infrastructure]]
+- [[Agreement 1 Annex 5 — Hub DNA]]
 
 ---
 

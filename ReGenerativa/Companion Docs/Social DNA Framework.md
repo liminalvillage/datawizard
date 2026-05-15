@@ -1,18 +1,18 @@
 ---
-title: Social DNA Framework
-type: companion-doc
-status: active
-version: '1.0'
 created: '2026-03-28'
-updated: '2026-03-28'
+status: active
 tags:
   - companion-doc
   - ReGenerativa
   - social-dna
   - measurement
   - regenerative-covenant
+title: Social DNA Framework
+type: companion-doc
+updated: '2026-05-10'
+version: '1.1'
 ---
-*The Association's proprietary framework for classifying and measuring regenerative impact. Referenced in the [[General Terms and Conditions]] (GT-1.6 and GT-2), the [[Agreement 1 — Ownership| Ownership Agreement]] (Annex 2), the [[Agreement 2 — Stewardship|Stewardship Agreement]] (Clause 4), and the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]] (Clause 2). This document specifies what the framework is, how it is applied, and how measurement works in practice.*
+*The Association's proprietary framework for classifying and measuring regenerative impact. Referenced in the [[General Terms and Conditions]] (GT-1.6 and GT-2), the [[Agreement 1 — Ownership| Ownership Agreement]] (Annex 2), the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4), and the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]] (Clause 2). This document specifies what the framework is, how it is applied, and how measurement works in practice.*
 
 ---
 
@@ -197,10 +197,9 @@ This framework is a living document. As the network learns what genuinely matter
 
 Proposed changes to the framework are discussed at the annual gathering and approved by the Board. Changes are recorded in the Decision Log with rationale.
 
-**Version:** 1.0 — March 2026
+**Version:** 1.1 — May 2026
 **Next review:** Spring Equinox 2027
 
 ---
 
 *Part of the ReGenerativa Companion Documents. Governed by the [[General Terms and Conditions]] GT-1.6 and GT-2.*
-1.6 and GT-2.*

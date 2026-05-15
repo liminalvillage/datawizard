@@ -1,18 +1,4 @@
----
-title: Agreement 2 Annex 1 — Steward Onboarding
-type: annex
-parent_agreement: Agreement 2 — Stewardship
-status: template
-created: '2026-04-02'
-updated: '2026-04-02'
-tags:
-  - annex
-  - ReGenerativa
-  - stewardship
-  - onboarding
-  - template
----
-*Annex 1 to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Complete one per steward per hub, before or at the start of stewardship. Read alongside the hub's completed [[Agreement 1 Annex 6 — Hub DNA]] — that document is the place introducing itself; this one is the steward introducing themselves. File completed documents as: "A2-1 — Steward Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
+*Annex 1 to the [[Agreement 3 — Stewardship|Stewardship Agreement]]. Complete one per steward per hub, before or at the start of stewardship. Read alongside the hub's completed [[Agreement 1 Annex 5 — Hub DNA]] — that document is the place introducing itself; this one is the steward introducing themselves. File completed documents as: "A3-1 — Steward Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
 
 *This is not a job description. It is a stewardship intention — written before the role begins, reviewed each season, and completed with handover notes when the stewardship ends. It is read by the Association, the Owner (where relevant), and the incoming steward.*
 
@@ -22,7 +8,7 @@ tags:
 
 # Steward Onboarding Record — [Full Name]
 
-**Hub:** [Hub name — link to completed [[Agreement 1 Annex 6 — Hub DNA]]]
+**Hub:** [Hub name — link to completed [[Agreement 1 Annex 5 — Hub DNA]]]
 **Stewardship start date:** [DD/MM/YYYY]
 **Stewardship type:** [Seasonal / Ongoing / Project-based]
 **Membership status:** [Active — since MM/YYYY]
@@ -74,7 +60,7 @@ tags:
 - [e.g. I address it early and directly — I don't let things fester]
 - [e.g. I use the [[Care Protocol — Hardship Support Governance|Care Protocol]] when situations go beyond my capacity to hold alone]
 
-**My limits of authority** (per [[Agreement 2 — Stewardship|Stewardship Agreement]] Clause 7.3):
+**My limits of authority** (per [[Agreement 3 — Stewardship|Stewardship Agreement]] Clause 7.3):
 - I will not sign contracts, take on debt, or make financial commitments without the Association's written approval
 - I will not make structural changes to the property without the Owner's consent
 - I will escalate [name specific situations] to the Association immediately
@@ -123,4 +109,4 @@ tags:
 
 *Contributions recorded through this stewardship are part of the Steward's [[Network Passport]] and are carried forward across roles and hubs. Previous versions of this document are retained as part of the hub's living record.*
 
-*Annex 1 to the [[Agreement 2 — Stewardship|Stewardship Agreement]]. Governed by the [[General Terms and Conditions]].*
+*Annex 1 to the [[Agreement 3 — Stewardship|Stewardship Agreement]]. Governed by the [[General Terms and Conditions]].*

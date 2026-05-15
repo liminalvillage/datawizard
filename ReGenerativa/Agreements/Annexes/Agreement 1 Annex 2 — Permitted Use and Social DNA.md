@@ -94,7 +94,7 @@ Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applic
 | [e.g. Water consumption] | [___] | [___] | [___] |
 | [e.g. Waste to landfill] | [___] | [___] | [___] |
 
-*Targets may be updated annually by mutual written agreement. The living picture of these targets at the Hub level is maintained in [[Agreement 1 Annex 6 — Hub DNA]].*
+*Targets may be updated annually by mutual written agreement. The living picture of these targets at the Hub level is maintained in [[Agreement 1 Annex 5 — Hub DNA]].*
 
 ---
 

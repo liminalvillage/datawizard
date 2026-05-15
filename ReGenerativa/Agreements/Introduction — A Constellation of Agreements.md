@@ -1,13 +1,13 @@
 ---
-title: Introduction — A Constellation of Agreements
-type: introduction
 created: '2026-03-28'
-updated: '2026-03-28'
 status: active
 tags:
   - ReGenerativa
   - introduction
   - constellation
+title: Introduction — A Constellation of Agreements
+type: introduction
+updated: '2026-05-10'
 ---
 
 # A Constellation of Agreements for a Regenerative Commons
@@ -60,11 +60,11 @@ The agreements that follow map the ways a person or entity can be in relationshi
 
 The root relationship is between the network and the **land itself** — the agreement through which a place enters the commons without its owner surrendering the ownership that makes the offering meaningful. Without this, there is nowhere to gather.
 
-From place comes **presence** — the relationship of the person who holds a hub, day to day, season to season. Not a tenant, not an employee, but a delegated guardian: someone who optimises the life of the place and the people in it, whose mandate is to leave both better than they found them.
+From place comes **belonging** — the relationship of the member who chooses to be part of this network: not yet stewarding a hub or leading a programme, but having crossed the threshold from visitor to participant. Membership is the first yes, and the gateway through which every other role becomes possible.
 
-From presence comes **belonging** — the relationship of the member who circulates through the network, contributing skills, time, and care, and receiving in return the hospitality, the learning, and the democratic participation that membership makes possible.
+From belonging comes **presence** — the relationship of the steward who holds a hub, day to day, season to season. Not a tenant, not an employee, but a delegated guardian: someone who optimises the life of the place and the people in it, whose mandate is to leave both better than they found them.
 
-From belonging comes **expertise** — the relationship of the practitioner who brings deep knowledge into the commons, who gives it first to those who have contributed most, and who builds programmes that sustain both the transmission of wisdom and their own livelihood.
+From presence comes **expertise** — the relationship of the practitioner who brings deep knowledge into the commons, who gives it first to those who have contributed most, and who builds programmes that sustain both the transmission of wisdom and their own livelihood.
 
 From expertise comes **support** — the relationship of the benefactor who channels material resources into the network without acquiring control over what those resources make possible. Money, tools, land, time: these enter the commons as gifts, not investments.
 
@@ -72,7 +72,7 @@ From support comes **collaboration** — the relationship of partners who join f
 
 And from collaboration comes **creation** — the relationship of the member who sees an unmet need in the network and builds a response to it from within, incubated by the commons, serving the commons first, and eventually capable of standing on its own without breaking the bond that gave it life.
 
-Together, these seven relationships form a system in which each role sustains the others. The owner's land makes the steward's presence possible. The steward's care makes the member's circulation possible. The member's contribution makes the mentor's gift meaningful. The mentor's knowledge makes the programme viable. The supporter's resources make the infrastructure real. The partner's collaboration makes the commercial layer sustainable. The intrapreneur's venture addresses needs the network couldn't otherwise serve. Each part sustains the whole. The whole sustains every part.
+Together, these seven relationships form a system in which each role sustains the others. The owner's land makes the member's belonging possible. The member's commitment makes the steward's role meaningful. The steward's care makes the mentor's gift sustainable. The mentor's knowledge makes the programmes worth supporting. The supporter's resources make the partnership infrastructure real. The partner's collaboration makes the commercial layer viable. The intrapreneur's venture addresses needs the network couldn't otherwise serve. Each part sustains the whole. The whole sustains every part.
 
 This is what the holonic principle names: every entity is simultaneously whole in itself and part of something larger. The hub is a whole. The network is a whole. Each relationship in the constellation is complete in its own right — and part of a living architecture that is greater than the sum of its agreements.
 
@@ -96,4 +96,4 @@ What animates all of it — the ground beneath every clause and commitment — i
 
 ---
 
-*ReGenerativa APS — ETS — March 2026*
+*ReGenerativa APS — ETS — May 2026*

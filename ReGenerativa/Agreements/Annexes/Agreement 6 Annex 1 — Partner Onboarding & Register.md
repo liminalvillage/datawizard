@@ -1,19 +1,28 @@
 ---
-title: Agreement 6 Annex 2 — Adhesion Form
-type: annex
-annex_ref: A6-2
+annex_ref: A6-1
+created: '2026-04-14'
 parent_agreement: Agreement 6 — Partnership
-created: '2026-03-17'
-updated: '2026-03-17'
 status: template
 tags:
   - annex
   - ReGenerativa
   - partnership
+  - register
+  - onboarding
+title: Agreement 6 Annex 1 — Partner Onboarding & Register
+type: annex
+updated: '2026-04-14'
+version: '2.0'
 ---
-*Annex 2 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Standard form used when a new Partner joins the Framework. The new Partner signs this form; it is then recorded in [[Agreement 6 Annex 1 — Partner Register]]. Forms an integral part of the Agreement.*
+*Annex 1 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Two-part document: **Part A** is the standard Adhesion Form signed by each new Partner; **Part B** is the canonical Register of all Partners (active, exited, with admission history). Forms an integral part of the Agreement.*
+
+*This annex consolidates what were previously two separate annexes (A6-1 Partner Register and A6-2 Adhesion Form). Onboarding a Partner and recording them in the Register are one continuous act — the form is signed, then the Register is updated. Keeping them in one document makes the workflow legible.*
 
 ---
+
+# Part A — Adhesion Form
+
+*Standard form used when a new Partner joins the Framework. The new Partner completes and signs Part A; the entry is then transcribed into Part B (Register).*
 
 ## ADHESION FORM
 ### ReGenerativa Partnership Framework
@@ -105,4 +114,64 @@ This adhesion is subject to approval by a two-thirds majority of existing Partne
 
 **For ReGenerativa APS — ETS (or designated Partner coordinator):** _________________________  Date: _______
 
-*Record this adhesion in [[Agreement 6 Annex 1 — Partner Register]] upon signing.*
+*Upon signing, transcribe this entry into Part B — Active Partners.*
+
+---
+
+# Part B — Partner Register
+
+*The canonical record of all Partners. Updated upon each new admission, each exit, and any contact or status change. Does not require re-execution of the full Partnership Agreement when updated — a signed amendment or signed Adhesion Form is sufficient.*
+
+## Active Partners
+
+| # | Partner name (legal) | Type | Tax code / VAT | Registered address | Contact person | Admission date | Signatory |
+|---|---|---|---|---|---|---|---|
+| 1 | [Full legal name] | [Individual / SRL / APS / etc.] | [___] | [Address] | [Name, email] | [DD/MM/YYYY] | [Name] |
+| 2 | | | | | | | |
+| 3 | | | | | | | |
+
+---
+
+## Admission History
+
+*Record each admission event. Do not delete rows when Partners exit — move them to the Exit History table below.*
+
+| Event | Partner | Date | Approved by | Notes |
+|---|---|---|---|---|
+| Foundation | [Partner 1] | [DD/MM/YYYY] | [All founding Partners] | |
+| Admission | [Partner 2] | [DD/MM/YYYY] | [Two-thirds majority — see minutes of DD/MM/YYYY] | |
+
+---
+
+## Exit History
+
+*Record Partners who have withdrawn or been excluded. Rights and obligations on exit are governed by Clause 16 of the Agreement.*
+
+| Partner | Exit type | Exit date | Validated Contributions at exit (total) | Notes |
+|---|---|---|---|---|
+| [Name] | ☐ Withdrawal  ☐ Exclusion | [DD/MM/YYYY] | [€ or units] | |
+
+---
+
+## Partner Roles and Competency Areas
+
+*Useful for project routing — identify each Partner's primary contribution domain (transcribed from the Competency Domains section of each Partner's Adhesion Form).*
+
+| Partner | Primary domains | Active Projects |
+|---|---|---|
+| [Partner 1] | [e.g. Ecological design, facilitation] | [Project A, Project B] |
+| [Partner 2] | [e.g. Software development, digital infrastructure] | [Project A] |
+
+---
+
+## Amendment Record
+
+Each amendment to this register (new Partner, exit, contact update) shall be recorded here and signed or confirmed in writing by the Partners.
+
+| Amendment | Date | Approved by | Notes |
+|---|---|---|---|
+| [e.g. Partner 3 admitted] | [DD/MM/YYYY] | [Two-thirds majority] | [Adhesion Form attached] |
+
+---
+
+*This register is a living document. It is the single source of truth for Partner identity and standing.*

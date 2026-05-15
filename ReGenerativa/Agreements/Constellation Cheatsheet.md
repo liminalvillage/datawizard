@@ -1,14 +1,14 @@
 ---
-title: Constellation Cheatsheet
-type: cheatsheet
-status: active
 created: '2026-03-28'
-updated: '2026-03-28'
+status: active
 tags:
   - ReGenerativa
   - cheatsheet
   - constellation
   - reference
+title: Constellation Cheatsheet
+type: cheatsheet
+updated: '2026-05-10'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -17,19 +17,20 @@ tags:
 
 ---
 
-## The Seven Agreements
+## The Eight Agreements
 
 | #   | Agreement                                            | Layer         | Parties                       | Core exchange                                                                                          |
 | --- | ---------------------------------------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 1   | [[Agreement 1 — Ownership\|Ownership]]               | Root          | Owner ↔ Association           | Owner lends place or asset; Association uses it for regenerative purposes; ownership stays with Owner  |
-| 2   | [[Agreement 2 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | Association delegates hub custodianship; Steward optimises the place and its people                    |
-| 3   | [[Agreement 3 — Membership\|Membership]]             | Gateway       | Member ↔ Association          | Prerequisite for all other roles; €25/year covers insurance (Art. 18 CTS) and democratic participation |
+| 2   | [[Agreement 2 — Membership\|Membership]]             | Gateway       | Member ↔ Association          | Prerequisite for all other roles; €25/year covers insurance (Art. 18 CTS) and democratic participation |
+| 3   | [[Agreement 3 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | Association delegates hub custodianship; Steward optimises the place and its people                    |
 | 4   | [[Agreement 4 — Mentorship\|Mentorship]]             | Expertise     | Mentor ↔ Association          | Practitioner hosts programmes; highest contributors get free access first; paid tiers follow           |
 | 5   | [[Agreement 5 — Sponsorship \|Sponsorship]]          | Support       | Supporter ↔ Association       | Resources enter the commons; ownership transfers; no control acquired                                  |
 | 6   | [[Agreement 6 — Partnership\|Partnership]]           | Collaboration | Partners ↔ each other         | Commercial projects; value distributed by validated contribution, not ownership stake                  |
 | 7   | [[Agreement 7 — Intrapreneurship\|Intrapreneurship]] | Generative    | Founding Member ↔ Association | Network demand signal → Venture Holon → serves commons first, then external market                     |
+| 8   | [[Agreement 8 — Eldership\|Eldership]]               | Wisdom        | Elder ↔ Association           | Long-term contributor transitions into governance and witness role; network serves the Elder; Elder Council holds Covenant authority |
 
-**Prerequisite chain:** Membership (A3) must be active before any other agreement can be held.
+**Prerequisite chain:** Membership (A2) must be active before any other agreement can be held by a natural person.
 **Stacking:** Any combination of agreements may be held simultaneously. New role = sign the relevant agreement only. No transition process required (GT-11.4).
 
 ---
@@ -41,16 +42,17 @@ tags:
 | GT-1 | Definitions (13 terms — Hub, Social DNA, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger, mutual credit, H3 mapping |
-| GT-3A | Network Passport — tiers, continuous growth, role-scoped perks, GDPR |
+| GT-3A | Network Passport — 4 tiers (Seed/Sprout/Tree/Forest), continuous growth + Eldership conferral, role-scoped perks, GDPR |
 | GT-4 | Network Regeneration Fund — ≥5% of net revenue; range 3–10% |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
-| GT-7 | Dispute resolution — amicable → Probiviri → external mediation → Ascoli Piceno |
+| GT-7 | Dispute resolution — amicable → Elder Council (Probiviri) → external mediation → Ascoli Piceno |
 | GT-8 | Governing law — Italian, RUNTS, APS-ETS |
 | GT-9 | Entire agreement + severability |
 | GT-10 | Anti-corruption |
 | GT-11 | Constellation cross-reference + Agreement Stacking (GT-11.4) |
 | GT-12 | Fiscal compliance for paid collaborations |
+| GT-13 | Continuity and dissolution resilience — covenant survives the Association via succession protocol, distributed hub obligations, ledger as public good, Custodial Council |
 
 **Hierarchy:** Statute > individual agreement > General Terms. English text; Italian certified translation prevails in court.
 
@@ -73,14 +75,14 @@ Assessed using the [[Social DNA Framework]]. Targets in Annexes. Reviewed season
 
 ## Network Passport — Tiers and Perks
 
-| Tier | Character | Steward | Member | Mentor | Intrapreneur |
-|---|---|---|---|---|---|
-| 🌱 Seed | Arriving | Standard terms | Standard terms | Standard terms | Phase 2 NRC 7% |
-| 🌿 Sprout | Establishing | Preferred hub placement | Discounted programmes; priority booking | Increased free places; directory listing | Phase 2 NRC 5% |
-| 🌳 Branch | Extending | 90-day notice regardless of tenure; owner negotiation input | Free programmes; governance nomination | Programme calendar co-design; preferred hub access | Expedited phase review; preferred fiscal hosting |
-| 🌲 Canopy | Full presence | Named legacy on hub history; Hub DNA consultation right | Lifetime membership option; named in founding story | Named knowledge custodian; legacy programme designation | Reduced post-graduation NRC period |
+| Tier | Character | Owner | Steward | Member | Mentor | Intrapreneur |
+|---|---|---|---|---|---|---|
+| 🌱 Seed | Arriving | Standard terms | Standard terms | Standard terms | Standard terms | Phase 2 NRC 7% |
+| 🌿 Sprout | Establishing | Network-wide recognition; cross-hub introductions | Preferred hub placement | Discounted programmes; priority booking | Increased free places; directory listing | Phase 2 NRC 5% |
+| 🌳 Tree | Mature presence | Voice in cross-hub coordination; named in hub legacy | 90-day notice; owner negotiation input; named hub legacy; Hub DNA consultation | Free programmes; governance nomination; lifetime membership option; named in living history | Programme calendar co-design; preferred hub access; named knowledge custodian; legacy programme designation | Expedited phase review; preferred fiscal hosting; reduced post-graduation NRC period |
+| 🌲 Forest | Elder | Network commons patron; Elder Council seat | Unconditional hub hospitality; obligations released; informal mentor by choice | Annual fee permanently waived; Elder Council seat | Honorary teacher; no delivery obligation; named in wisdom lineage | Forest Intrapreneur — venture mentor and Elder witness, not active lead |
 
-Thresholds set by governance (not fixed in agreements). Continuous growth — no hard gates. Full table: [[Network Passport]].
+Thresholds for Seed → Sprout → Tree set by governance (not fixed in agreements). Forest is conferred through Agreement 8 Transition Rite, not accumulated. Continuous growth — no hard gates. Full table: [[Network Passport]].
 
 ---
 
@@ -88,18 +90,15 @@ Thresholds set by governance (not fixed in agreements). Continuous growth — no
 
 | Parameter | Value | Where |
 |---|---|---|
-| Annual membership fee | €25 | A3, Clause 4.1 |
+| Annual membership fee | €25 | A2, Clause 4.1 |
 | NRC base rate | 5% of net revenue | GT-4.2 |
 | NRC range (negotiable) | 3–10% | GT-4.3 |
 | Intrapreneurship Phase 2 NRC (base) | 7% of net external revenue | A7, Clause 6.2 |
 | Intrapreneurship Phase 2 NRC (Sprout+) | 5% | A7 + Perk Framework |
 | Intrapreneurship Phase 3 NRC | 5% | A7, Clause 6.2 |
 | Ownership termination notice | 90 days | A1, Clause 6.1 |
-| Stewardship notice — under 3 months | 14 days | A2, Clause 16.1 |
-| Stewardship notice — 3 months to 1 year | 30 days | A2, Clause 16.1 |
-| Stewardship notice — 1 to 3 years | 60 days | A2, Clause 16.1 |
-| Stewardship notice — over 3 years | 90 days | A2, Clause 16.1 |
-| Stewardship notice — Branch tier | 90 days regardless | A2, Clause 16.1 |
+| Stewardship notice — standard | 30 days | A3, Clause 16.1 |
+| Stewardship notice — extended (12+ months tenure OR Tree tier) | 90 days | A3, Clause 16.1 |
 | Hub activation deadline | 6 months from commencement | A1, Clause 3.9 |
 | Ownership transfer notice (Owner → Association) | 60 days | A1, Clause 6.3 |
 | Incoming owner assumption period | 30 days | A1, Clause 6.3 |
@@ -111,6 +110,9 @@ Thresholds set by governance (not fixed in agreements). Continuous growth — no
 | Intrapreneurship network introductions | 3 within 60 days | A7, Clause 8.3b |
 | Association remedy period if obligations fail | 30 days from written notice | A7, Clause 8.4 |
 | Demand Signal publication | 30 days from submission | A7, Clause 2.2 |
+| Eldership eligibility | Tree tier | A8, Clause 2.1 |
+| Custodial Council activation (post-dissolution) | 90 days without successor | GT-13.5 |
+| Ledger public archive fallback | 180 days without successor | GT-13.4 |
 
 ---
 
@@ -121,9 +123,36 @@ Thresholds set by governance (not fixed in agreements). Continuous growth — no
 | 1 — Incubation | 100% | ✗ | N/A | N/A | Full: hubs, fiscal hosting, first client, 3 introductions |
 | 2 — Operational | ≥70% | ≤30% | 7% | 5% | Ecosystem + reference client |
 | 3 — Mature | ≥40% | ≤60% | 5% | 5% | Ecosystem only |
-| Post-graduation | Per A7-3 | Per A7-3 | ≥5% (defined period) | Reduced for Canopy | Per Graduation Agreement |
+| Post-graduation | Per A7-3 | Per A7-3 | ≥5% (defined period) | Reduced for Tree+ | Per Graduation Agreement |
 
 Capacity = working capacity, not revenue. Phase transitions require Phase Transition Review ([[Agreement 7 Annex 2 — Phase Review]]) + two-thirds majority of Venture Members.
+
+---
+
+## Eldership and the Elder Council
+
+The **Elder Council** is the standing governance body of all Forest-tier participants who hold [[Agreement 8 — Eldership|Agreement 8]]. It is not advisory — it holds the following authorities by right:
+
+- **Covenant Custody** — may issue a Covenant Signal that suspends contested decisions until publicly addressed (A8 §5.4a)
+- **Constellation Integrity Review** — 30-day consultation window before any GT or agreement amendment (A8 §5.4b)
+- **Living Probiviri** — primary internal mediation body (GT-7.2; absorbs the traditional Probiviri role)
+- **Custodial Council Activation** — core of the Custodial Council in dissolution scenarios (GT-13.5)
+
+The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
+
+The **Elder Fund** is a ring-fenced sub-reserve within the Network Regeneration Fund, dedicated to Elder hospitality costs. Entry of new Elders is governance-gated by Elder Fund reserves (A8 §4.2).
+
+---
+
+## Continuity Beyond the Association — GT-13
+
+The constellation survives the legal entity. Three independent layers carry the covenant:
+
+1. **Legal succession** — liquidators must seek a successor Third Sector entity (GT-13.2)
+2. **Distributed obligation** — hub owners (Agreement 1) acknowledge the relational fabric of their hub as a witness, not a service obligation (GT-13.3)
+3. **Ledger as public good** — Contribution Ledger and Passport data are network commons, with public archive fallback at 180 days (GT-13.4)
+
+If no successor is identified in 90 days, the **Custodial Council** self-constitutes from hub owners and the Elder Council to administer remaining obligations (GT-13.5).
 
 ---
 
@@ -132,21 +161,20 @@ Capacity = working capacity, not revenue. Phase transitions require Phase Transi
 | Document                                        | Purpose                                                                           |
 | ----------------------------------------------- | --------------------------------------------------------------------------------- |
 | [[Social DNA Framework]]                        | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
-| [[Hub DNA — Template]]                          | Template for each hub's identity, invitation, covenant, rhythms, ecology, economy |
-| [[Network Passport]]           | Full tier descriptions + role-scoped perk table + governance notes                |
+| [[Network Passport]]                            | Full tier descriptions + role-scoped perk table + governance notes                |
+| [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
 | [[Care Protocol — Hardship Support Governance]] | Care Circle model; hardship support from NRC Fund; systemic learning function     |
-
 
 ---
 
 ## Dispute Resolution Path
 
 1. Good-faith discussion between Parties
-2. Internal — Collegio dei Probiviri (non-binding opinion)
+2. Internal — **Elder Council** (or Collegio dei Probiviri until Elder Council is constituted) — non-binding opinion
 3. External mediation — Legislative Decree 28/2010
 4. Jurisdiction — Court of Ascoli Piceno
 
-*Partners (A6) go directly to external mediation (GT-7.3), bypassing Probiviri.*
+*Partners (A6) go directly to external mediation (GT-7.3), bypassing internal mediation.*
 
 ---
 
@@ -156,22 +184,24 @@ Capacity = working capacity, not revenue. Phase transitions require Phase Transi
 |---|---|---|
 | A1-1 | Asset Description, Schedule and Access Conditions | Agreement 1 |
 | A1-2 | Permitted Purposes, Use Restrictions and Social DNA Classification | Agreement 1 |
-| A1-3 | Maintenance Protocol | Agreement 1 |
-| A1-4 | Cleaning and Restoration Protocol | Agreement 1 |
-| A1-5 | Shared Infrastructure Contributions | Agreement 1 |
+| A1-3 | Hub Care Protocol *(consolidated: maintenance + cleaning)* | Agreement 1 |
+| A1-4 | Shared Infrastructure Contributions | Agreement 1 |
+| A1-5 | Hub DNA | Agreement 1 |
+| A2-1 | Member Onboarding | Agreement 2 |
+| A3-1 | Steward Onboarding | Agreement 3 |
 | A4 | Programme Annex Template | Agreement 4 |
 | A5-1 | Support Schedule | Agreement 5 |
 | A5-2 | Recognition Terms | Agreement 5 |
-| A6-1 | Partner Register | Agreement 6 |
-| A6-2 | Adhesion Form Template | Agreement 6 |
-| A6-3 | Structure Costs and Allocation | Agreement 6 |
-| A6-4 | Project Sheet Template | Agreement 6 |
-| A6-5 | Reference Hourly Rates | Agreement 6 |
-| A6-6 | Validation Platform Description | Agreement 6 |
+| A6-1 | Partner Onboarding & Register *(consolidated: register + adhesion form)* | Agreement 6 |
+| A6-2 | Economics Schedule *(consolidated: structure costs + hourly rates)* | Agreement 6 |
+| A6-3 | Project Sheet Template | Agreement 6 |
+| A6-4 | Validation Platform Description | Agreement 6 |
 | A7-1 | Venture Sheet | Agreement 7 |
 | A7-2 | Phase Transition Review | Agreement 7 |
 | A7-3 | Graduation Agreement | Agreement 7 |
+| A8-1 | Elder Council Charter *(to be drafted)* | Agreement 8 |
+| A8-2 | Transition Rite Record *(to be drafted)* | Agreement 8 |
 
 ---
 
-*This document is a reference tool, not a legal instrument. All legal content is in the individual agreements and the General Terms. Version reflects constellation state as of March 2026.*
+*This document is a reference tool, not a legal instrument. All legal content is in the individual agreements and the General Terms. Version reflects constellation state as of May 2026.*

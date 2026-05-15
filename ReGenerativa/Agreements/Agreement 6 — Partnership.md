@@ -2,11 +2,7 @@
 
 ---
 
-## Preamble
-
-This Agreement governs collaboration between entities that choose to build Projects together through the network while retaining their separate legal identities.
-
-Its core logic is simple: Project value is recorded as it is created, validated as it is delivered, and distributed in proportion to actual contribution rather than fixed ownership shares alone. The Contribution Ledger provides the mechanism, and the Network Regeneration Contribution ensures that each Project remains connected to the commons that made it possible.
+*A Partner is one who chooses to build with others while remaining themselves. They have their own legal identity, their own work, their own clients, their own life beyond the collaboration — and they have chosen to weave a part of that life into a Project that none of the Partners could build alone. This is not merger, and not consortium. It is something subtler: a framework in which separate entities pool their work without pooling themselves, and in which value is distributed not by the shares they hold but by the contributions they actually make. This Agreement is the network's answer to that choice. It records what each Partner brings, validates value as it is delivered, distributes revenue in proportion to actual contribution, and keeps every Project tethered to the commons that made it possible.*
 
 ---
 
@@ -237,12 +233,10 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[Agreement 6 Annex 1 — Partner Register]] — canonical register of all current and former Partners
-- [[Agreement 6 Annex 2 — Adhesion Form]] — standard form for admitting new Partners
-- [[Agreement 6 Annex 3 — Structure Costs]] — overhead costs deducted before Partner distribution
-- [[Agreement 6 Annex 4 — Project Sheet]] — one sheet per Project; governs scope, contributions, and revenue
-- [[Agreement 6 Annex 5 — Hourly Rates]] — rates used to convert hours into contribution value
-- [[Agreement 6 Annex 6 — Validation Platform]] — technical architecture of the Contribution Ledger
+- [[Agreement 6 Annex 1 — Partner Onboarding & Register]] — combined adhesion form and canonical Partner register *(Part A is the form new Partners sign; Part B is the living record)*
+- [[Agreement 6 Annex 2 — Economics Schedule]] — combined structure costs and reference hourly rates *(Part A is overhead deducted before distribution; Part B is the rate table for hours-based contributions)*
+- [[Agreement 6 Annex 3 — Project Sheet]] — one sheet per Project; governs scope, contributions, and revenue
+- [[Agreement 6 Annex 4 — Validation Platform]] — technical architecture of the Contribution Ledger
 
 ---
 

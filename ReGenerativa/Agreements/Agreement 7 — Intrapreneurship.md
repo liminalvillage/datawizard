@@ -1,23 +1,8 @@
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, Network Regeneration Contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply without repetition.*
 
-*Relationship to other agreements: The Founding Member and all Contributing Members must hold a current [[Agreement 3 — Membership|Membership Agreement]]. Hub access during incubation follows the logic of the [[Agreement 2 — Stewardship|Stewardship Agreement]]. External partners who join a mature venture may require a [[Agreement 6 — Partnership|Partnership Agreement]]. Mentors engaged to support the venture are governed by the [[Agreement 4 — Mentorship|Mentorship Agreement]].*
+---
 
-## What Intrapreneurship Means Here
-
-Entrepreneurship usually means building something as an independent founder: you create a venture outside an existing commons, take the risks directly, and retain primary control over the value structure it generates.
-
-**Intrapreneurship**, in this network, means something different. It is the creation of a new venture **from within the commons**. The venture is incubated through the network's relationships, infrastructure, trust, contribution systems, and visible patterns of unmet need. It begins inside an existing relational ecosystem rather than outside it.
-
-The difference is structural:
-
-- **Entrepreneurship** starts from independence and later seeks partnership.
-- **Intrapreneurship** starts from interdependence and may later graduate into greater autonomy.
-- **Entrepreneurship** is usually organised around founder ownership.
-- **Intrapreneurship** is organised around stewardship, contribution, reciprocity, and accountability to the network that made the venture possible.
-- **Entrepreneurship** asks: *How do I build this as my venture?*
-- **Intrapreneurship** asks: *How do I build this from within the network, in a way that strengthens both the venture and the commons?*
-
-An intrapreneurial venture may eventually graduate into a more independent structure, but it does not begin as an isolated enterprise. This Agreement governs that path.
+*An Intrapreneur is a founder who chose to begin from within. Most ventures are born from independence — a founder strikes out, takes the risks, retains control. The Intrapreneur does something structurally different. They build from inside a commons, drawing on its relationships, its infrastructure, and its visible patterns of unmet need recorded in the Network Demand Register. They are responding to demand the community has already expressed, not imposing a vision the market has not yet asked for. This is not a smaller kind of entrepreneurship; it is a different lineage of it, one in which interdependence is the starting condition rather than the eventual compromise. This Agreement is the network's answer to that choice. It offers incubation — hub access, fiscal hosting, first-client commitment, network introductions — in exchange for accountability to the commons that made the venture possible. And it names the path by which, in its time, the venture may graduate into autonomy without forgetting where it began.*
 
 ---
 
@@ -48,6 +33,8 @@ An intrapreneurial venture may eventually graduate into a more independent struc
 **1.5** This Agreement does not create an employment relationship, a tenancy, or any claim by the Association over the Venture Members' intellectual property except as expressly provided in Clause 9.
 
 **1.6** This Agreement does not preclude the Venture Holon from eventually becoming an independent legal entity. Graduation is governed by Clause 10 and [[Agreement 7 Annex 3 — Graduation]].
+
+**1.7 Relationship to other agreements.** The Founding Member and all Contributing Members must hold a current [[Agreement 2 — Membership|Membership Agreement]]. Hub access during incubation follows the logic of the [[Agreement 3 — Stewardship|Stewardship Agreement]]. External partners who join a mature venture may require a [[Agreement 6 — Partnership|Partnership Agreement]]. Mentors engaged to support the venture are governed by the [[Agreement 4 — Mentorship|Mentorship Agreement]].
 
 ---
 

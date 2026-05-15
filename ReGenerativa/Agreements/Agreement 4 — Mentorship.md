@@ -2,6 +2,10 @@
 
 ---
 
+*A Mentor is someone who has walked far enough down a path to turn back and show others how. They carry a craft, a practice, a body of knowledge that has taken years — sometimes decades — to build. And they have chosen to do something most experts do not: to give that expertise away to those who have earned it through contribution rather than through payment. The Mentor's gift is not free time or free advice. It is the gift of mastery, freely transmitted to those whom the network has already recognised as worthy of receiving it. This Agreement is the network's answer to that gift. It honours the Mentor's commitment by making their work legible, supporting their delivery to broader audiences, and ensuring that what they teach freely to the highest contributors is matched by what the Association does to carry their craft into the world.*
+
+---
+
 **This Agreement** is made and entered into on [Date] by and between:
 
 **ReGenerativa APS — ETS**, a recognised Association for Social Promotion and Third Sector Entity (Associazione di Promozione Sociale — Ente del Terzo Settore) under Italian law, registered pursuant to Legislative Decree 3 July 2017, No. 117 (Third Sector Code) and inscribed in the Registro Unico Nazionale del Terzo Settore (RUNTS), with registered office at [Address], Castorano (AP), Italy, tax code 92074380442, represented by [Name and Title of Authorised Representative] (hereinafter, the "Association");

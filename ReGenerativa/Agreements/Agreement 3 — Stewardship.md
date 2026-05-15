@@ -2,6 +2,10 @@
 
 ---
 
+*Every place needs a face. The Steward is the network's living presence at the Hub — not its owner, not its tenant, but its custodian: the one who opens the door, tends the rhythms, holds the conditions in which a regenerative space stays alive between gatherings. They are the bridge between ownership and community, between the asset and the people it serves. The Steward has chosen to put themselves between a place and its possibilities. This Agreement is the network's answer to that choice. It offers the standing of being entrusted with a place, the freedom of working within a framework rather than against one, and the recognition that comes from being the one others can call.*
+
+---
+
 **This Agreement** is made and entered into on [Date] by and between:
 
 **ReGenerativa APS — ETS**, a recognised Association for Social Promotion and Third Sector Entity (Associazione di Promozione Sociale — Ente del Terzo Settore) under Italian law, registered pursuant to Legislative Decree 3 July 2017, No. 117 (Third Sector Code) and inscribed in the Registro Unico Nazionale del Terzo Settore (RUNTS), with registered office at [Address], Castorano (AP), Italy, tax code 92074380442, represented by [Name and Title of Authorised Representative] (hereinafter, the "Association");
@@ -52,7 +56,7 @@
 
 ## 4. Hub DNA, Social DNA, and Mission Alignment
 
-**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[Agreement 1 Annex 6 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
+**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[Agreement 1 Annex 5 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
 
 **4.2** The Steward shall help ensure that all persons present at the Hub are informed of and expected to respect the applicable DNA and use conditions.
 
@@ -166,13 +170,6 @@
 
 ---
 
-## 14A. Contribution Recognition
-
-**14A.1** Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
-
-**14A.2** The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the Hub or to this Agreement, and may be referenced with the Steward's consent when evaluating future stewardship roles or comparable responsibilities within the network.
----
-
 ## 15. Duration
 
 **15.1** This Agreement begins on [start date] and continues until [end date], or for an indefinite term subject to periodic review, or for the specific stewardship cycle described in an Annex.
@@ -183,16 +180,9 @@
 
 ## 16. Termination
 
-**16.1 Termination by Notice.** Either Party may terminate this Agreement without cause by giving written notice. The minimum notice period is determined by the Steward's length of continuous service under this Agreement:
+**16.1 Termination by Notice.** Either Party may terminate this Agreement without cause by giving written notice. The minimum notice period is **30 days**, extended to **90 days** where either of the following applies: (a) the Steward has held this Agreement continuously for twelve (12) months or more; or (b) the Steward holds the **Tree** tier or higher on the Network Passport.
 
-| Length of service | Minimum notice |
-|---|---|
-| Under 3 months | 14 days |
-| 3 months to 1 year | 30 days |
-| 1 to 3 years | 60 days |
-| Over 3 years | 90 days |
-
-Notice periods run from the date of written receipt. The Parties may agree a shorter period by mutual written consent. A Steward at the **Branch** tier or above (per their Network Passport) is entitled to 90 days' notice regardless of tenure duration.
+Notice runs from the date of written receipt. The Parties may agree a shorter period by mutual written consent.
 
 **16.2 Immediate Termination for Cause.** The Association may terminate immediately for serious cause, including: misuse of the Hub, unlawful conduct, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, serious financial opacity, refusal to hand over records or keys, conduct creating danger or serious harm, or persistent disregard of the Association's lawful instructions.
 
@@ -232,16 +222,23 @@ Date: _________________________
 
 ---
 
-## Annexes
+## Linked Annexes
 
 ### Own Annexes
 
-- [[Agreement 2 Annex 1 — Steward Onboarding]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
+- [[Agreement 3 Annex 1 — Steward Onboarding]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
 
 ### Annexes from the Ownership Agreement also referenced here
 
-- [[Agreement 1 Annex 6 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
-- [[Agreement 1 Annex 3 — Maintenance]] — referenced in Clauses 10.1–10.2
-- [[Agreement 1 Annex 4 — Cleaning and Restoration]] — referenced in Clause 10.2
+- [[Agreement 1 Annex 5 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
+- [[Agreement 1 Annex 3 — Hub Care Protocol]] — referenced in Clauses 10.1–10.2; covers both ongoing maintenance and end-of-stay cleaning
 
 Cost-coverage targets and stewardship cycle terms may also be recorded in a separate signed annex appended to this Agreement.
+
+---
+
+## Contribution Recognition
+
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+
+The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the Hub or to this Agreement, and may be referenced with the Steward's consent when evaluating future stewardship roles or comparable responsibilities within the network.

@@ -1,10 +1,10 @@
 ---
-title: Agreement 6 Annex 4 — Project Sheet
+title: Agreement 6 Annex 3 — Project Sheet
 type: annex
-annex_ref: A6-4
+annex_ref: A6-3
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-05-11'
 status: template
 tags:
   - annex
@@ -12,7 +12,7 @@ tags:
   - partnership
   - project
 ---
-*Annex 4 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Template for activating a new Project under the Framework. Complete one sheet per Project. File as: "A6-4 — [Project Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
+*Annex 3 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Template for activating a new Project under the Framework. Complete one sheet per Project. File as: "A6-3 — [Project Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
 
 ---
 
@@ -86,13 +86,13 @@ tags:
 
 **How contributions will be measured in this Project:**
 
-☐ **Hours** — at rates defined in [[Agreement 6 Annex 5 — Hourly Rates]]
+☐ **Hours** — at rates defined in [[Agreement 6 Annex 2 — Economics Schedule]] (Part B)
 ☐ **Fixed milestones** — as defined in Section 3 above
 ☐ **Agreed value units** — describe: ___
 ☐ **Market replacement value** — describe: ___
 ☐ **Hybrid** — describe: ___
 
-**Tracking tool / ledger:** [e.g. "Contribution Ledger platform — see [[Agreement 6 Annex 6 — Validation Platform]]" or "Shared spreadsheet until platform is operational"]
+**Tracking tool / ledger:** [e.g. "Contribution Ledger platform — see [[Agreement 6 Annex 4 — Validation Platform]]" or "Shared spreadsheet until platform is operational"]
 
 **Logging frequency:** ☐ Daily  ☐ Weekly  ☐ Per milestone  ☐ At close
 
@@ -125,7 +125,7 @@ Contributions become Validated when:
 | [e.g. Subcontractors] | €___ | |
 | **Total direct costs** | **€___** | |
 
-**Structure costs** (per [[Agreement 6 Annex 3 — Structure Costs]]):** €___ (estimated)
+**Structure costs** (per [[Agreement 6 Annex 2 — Economics Schedule]] Part A):** €___ (estimated)
 
 **Network Regeneration Contribution** (min. 5%): ___% of Net Revenue = €___ (estimated)
 

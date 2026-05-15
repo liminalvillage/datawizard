@@ -1,6 +1,8 @@
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
 
-*Distinction from the [[Agreement 1 — Ownership|Ownership Agreement]]: Under this Agreement, ownership of the supported resources fully transfers to the Association upon delivery and acceptance. For resources where the supporter retains ownership and grants a right of use, see the Ownership Agreement.*
+---
+
+*A Supporter is someone who has chosen to give without taking back. Money, materials, expertise, infrastructure, access — whatever form their support takes, it is offered without claim on the Association's governance, surplus, or future. They are the patrons of the commons, the ones who make possible what others will then make real. There is something old in this role and something new: old, because every flourishing tradition has had its benefactors; new, because in a regenerative network the Supporter's gift is held not as a transaction but as a Validated Contribution — recorded in the Contribution Ledger as part of the network's living history. This Agreement is the network's answer to that giving. It accepts the support, names its destination, returns recognition, and remembers.*
 
 ---
 

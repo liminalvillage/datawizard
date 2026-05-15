@@ -1,10 +1,10 @@
 ---
-title: Agreement 6 Annex 6 — Validation Platform
+title: Agreement 6 Annex 4 — Validation Platform
 type: annex
-annex_ref: A6-6
+annex_ref: A6-4
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-04-02'
+updated: '2026-05-11'
 status: template
 tags:
   - annex
@@ -13,7 +13,7 @@ tags:
   - digital-infrastructure
   - contribution-ledger
 ---
-*Annex 6 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Describes the technical architecture of the Contribution Ledger and validation platform referenced throughout the Agreement and the General Terms (GT-3). Forms an integral part of the Agreement. This document reflects the current state of the platform — it is a living document to be updated as the architecture evolves.*
+*Annex 4 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Describes the technical architecture of the Contribution Ledger and validation platform referenced throughout the Agreement and the General Terms (GT-3). Forms an integral part of the Agreement. This document reflects the current state of the platform — it is a living document to be updated as the architecture evolves.*
 
 *Note: The Contribution Ledger is under active development. Until the full platform is operational, interim tracking methods (shared spreadsheets, signed records) may be used per mutual agreement of the Partners. This Annex describes the target architecture.*
 
@@ -79,7 +79,7 @@ Partner Share (%) = Partner's Total Validated Contributions (€ equivalent)
                     Total Validated Contributions of All Partners (€ equivalent)
 ```
 
-Contributions are converted to a common unit (€ equivalent) using the rates in [[Agreement 6 Annex 5 — Hourly Rates]] or the milestone values in the Project Sheet.
+Contributions are converted to a common unit (€ equivalent) using the rates in [[Agreement 6 Annex 2 — Economics Schedule]] (Part B) or the milestone values in the Project Sheet.
 
 Distribution amounts are calculated by applying Partner shares to Net Project Revenue (after cost waterfall).
 
@@ -122,7 +122,7 @@ As the platform is built and deployed, this Annex will be updated to reflect:
 - Security audit results
 - GDPR impact assessment outcomes
 
-Updates require simple majority approval and recording in the Amendment Register of the [[Agreement 6 Annex 1 — Partner Register]].
+Updates require simple majority approval and recording in the Amendment Register of the [[Agreement 6 Annex 1 — Partner Onboarding & Register]].
 
 ---
 

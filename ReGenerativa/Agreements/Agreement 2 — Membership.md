@@ -2,6 +2,10 @@
 
 ---
 
+*Membership is the first yes. Before stewardship, before mentoring, before building or partnering or supporting — there is the simple act of choosing to belong. The Member is the one who says: I am part of this. They may not yet be stewarding a hub or leading a programme; they may never do those things. But they have crossed the threshold from visitor to participant, and that crossing is the foundation of everything else. Membership is what makes the network real for a person. This Agreement is the network's answer to that yes. It opens the democratic life of the Association — voice, vote, the right to stand. It extends the insurance protection any honest commons must provide. And it begins the Network Passport: the soil from which every deeper relationship grows.*
+
+---
+
 **This Agreement** is made and entered into on [Date] by and between:
 
 **ReGenerativa APS — ETS**, a recognised Association for Social Promotion and Third Sector Entity (Associazione di Promozione Sociale — Ente del Terzo Settore) under Italian law, registered pursuant to Legislative Decree 3 July 2017, No. 117 (Third Sector Code) and inscribed in the Registro Unico Nazionale del Terzo Settore (RUNTS), with registered office at [Address], Castorano (AP), Italy, tax code 92074380442, represented by [Name and Title of Authorised Representative] (hereinafter, the "Association");
@@ -11,20 +15,6 @@
 **[Member's Full Name]**, born on [date] in [city], residing at [address], tax code/ID no. [ID number] (hereinafter, the "Member").
 
 *The Association and the Member are hereinafter jointly referred to as the "Parties" and individually as a "Party."*
-
----
-
-## Preamble
-
-Membership is the root of every other relationship in this network.
-
-Before a person can steward a hub, host a programme, build a venture, or enter a commercial partnership under this constellation, they must first be a member. Not because of administrative convention, but because membership is what makes the network real for a person — it is the threshold between visiting and belonging, between engaging with the Association and being part of it.
-
-Signing this Agreement does two things at once. It admits the Member into the democratic life of the Association — with the right to vote, to be heard, and to stand for election to its governing bodies. And it extends to the Member the insurance cover that Italian Third Sector law requires the Association to provide for all those who contribute through its activities: accident and injury insurance, illness contracted during volunteering, third-party liability for unintentional damage caused in the course of volunteer work.
-
-The annual fee is what makes that insurance possible. It is not a subscription to services or a price for access. It is the minimum material contribution that sustains the legal and financial framework within which the network can operate safely, accountably, and in compliance with the law. When a member pays their €25, they are not purchasing a product — they are participating in the maintenance of something that protects everyone in it.
-
-What the fee cannot cover is what actually makes membership valuable: showing up, contributing, being present to the place and the people and the purpose. That cannot be contracted. But it can be recognised — through the Network Passport, through the seasonal rhythms, through the gradual deepening of trust that happens when a person keeps choosing to return.
 
 ---
 
@@ -50,9 +40,9 @@ What the fee cannot cover is what actually makes membership valuable: showing up
 
 **2.4 Benefit of Services.** The Member will have access to services, training, and resources offered to members under equal conditions, including use of shared spaces, workshops, courses, and member-only events.
 
-**2.5 Hub Circulation.** Subject to availability and the applicable [[Agreement 1 Annex 6 — Hub DNA|Hub DNA]] conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
+**2.5 Hub Circulation.** Subject to availability and the applicable [[Agreement 1 Annex 5 — Hub DNA|Hub DNA]] conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
 
-**2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A), unlocking growing recognition and access as their involvement deepens. Membership is the root tier — all Passport growth begins here.
+**2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A), unlocking growing recognition and access as their involvement deepens. Membership is the soil from which every Passport grows — the Seed tier begins here.
 
 ---
 
@@ -168,9 +158,9 @@ Date: _________________________
 
 ---
 
-## Annexes
+## Linked Annexes
 
-- [[Agreement 3 Annex 1 — Member Onboarding]] — complete one per member per hub visit; the member's introduction to the hub — their skills, needs, rhythms, personal covenant, ecological practice, and story; read by the steward before arrival and retained in the hub's living record
+- [[Agreement 2 Annex 1 — Member Onboarding]] — complete one per member per hub visit; the member's introduction to the hub — their skills, needs, rhythms, personal covenant, ecological practice, and story; read by the steward before arrival and retained in the hub's living record
 
 ---
 
