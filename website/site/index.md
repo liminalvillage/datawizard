@@ -6,11 +6,12 @@ title: ReGenerativa — Constellation of Agreements
 
 A network of regenerative hubs, governed by a small constellation of clear agreements.
 
-**New here? Start with the [[Constellation Overview]]** — a 3-minute plain-language tour.
+**Read in order:**
 
-- [[Constellation Overview]] — the easy way in
-- [[Introduction — A Constellation of Agreements|Introduction]] — the deeper "why"
-- [[Constellation Cheatsheet]] — the full reference
+1. [[Introduction — A Constellation of Agreements|Introduction]] — the "why" behind the constellation
+2. [[Constellation Overview]] — a 3-minute plain-language tour
+3. The eight agreements — the constellation itself (listed below)
+4. [[Constellation Cheatsheet]] — the full reference
 
 ## The Eight Agreements
 
