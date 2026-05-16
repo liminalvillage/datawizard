@@ -1,6 +1,6 @@
 ---
 created: '2026-05-16'
-updated: '2026-05-16'
+updated: '2026-05-17'
 status: active
 type: overview
 maturity: draft
@@ -81,14 +81,7 @@ It looks after six things:
 
 Whatever you give the network is remembered in your **[[Network Passport]]**. It is yours, it is portable, and it grows as you contribute, across hubs and across roles.
 
-It has four tiers, named like a growing forest:
-
-- 🌱 **Seed** - arriving
-- 🌿 **Sprout** - establishing, growing into your role
-- 🌳 **Tree** - a mature, trusted presence the network gathers around
-- 🌲 **Forest** - an Elder, who has become part of the conditions in which new people grow
-
-Growth is continuous; there are no hard gates. Forest is not reached by accumulation alone; it is conferred when someone becomes an Elder.
+There are no tiers and no points to chase. One simple rule: **the more you have contributed, the higher your priority and the lower your price for the network's resources — up to and including free.** Each steward, mentor, or hub decides how that applies to what they hold. The aim is abundance and circulation, not gatekeeping.
 
 ---
 

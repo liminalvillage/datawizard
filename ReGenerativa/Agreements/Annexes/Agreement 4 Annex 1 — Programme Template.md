@@ -1,10 +1,10 @@
 ---
 title: Agreement 4 Annex 1 — Programme Template
 type: annex
-annex_ref: A4
+annex_ref: A4-1
 parent_agreement: Agreement 4 — Mentorship
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-05-16'
 status: template
 tags:
   - annex
@@ -98,6 +98,17 @@ Mentor's costs (travel €___, accommodation €___, materials €___) are reimb
 **Decision deadline** (cancel or confirm): [DD/MM/YYYY] — [e.g. 21 days before the Programme]
 
 **If threshold not met:** ☐ Cancel with full refund to registered participants  ☐ Renegotiate terms  ☐ Proceed at reduced scope (describe): ___
+
+---
+
+## Gift-Economy Downside Allocation
+
+Free access is a structural gift-economy obligation of the network (Agreement 4, Clause 1.3A), not a risk the Mentor underwrites.
+
+- **Estimated free / gift places this Programme:** ___
+- **Is Mentor compensation contingent on reaching the Minimum Viable Threshold?** ☐ No - not contingent  ☐ Yes - contingent, on this basis: ___
+- **Shortfall allocation.** If free places are offered and the Programme nonetheless runs below the Minimum Viable Threshold, the shortfall between Programme revenue and the Mentor's agreed compensation is borne by the Association, not the Mentor, funded where necessary from the Network Regeneration Fund contributor-support allocation (GT-4.2). The Mentor never carries a loss created by the network's own gift-economy obligation.
+- **Cap (optional):** Association shortfall cover for this Programme capped at €___ (blank = no cap).
 
 ---
 

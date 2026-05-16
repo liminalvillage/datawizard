@@ -60,7 +60,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ### B.1 Termination Notice (binding in agreement)
 - Standard: **30 days** from date of written receipt
-- Extended: **90 days** if either (a) 12+ months continuous tenure OR (b) Tree+ tier on the Network Passport (A3 §16.1)
+- Extended: **90 days** if 12+ months continuous tenure (A3 §16.1)
 
 ### B.2 Periodic Review
 - Maximum interval between Steward review meetings: **3 months** (A3 §14.2)
@@ -187,15 +187,15 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ## Section I — Network Passport (GT-3A)
 
-### I.1 Tier Thresholds
-- Specific contribution thresholds for Seed → Sprout → Tree are governance-defined and live as a **separate living governance resolution** (not in this document; see Network Passport companion doc §"Tier Thresholds")
-- Forest tier is conferred via Agreement 8 Transition Rite, not threshold-based
+### I.1 The Access Rule
+- There are **no tiers and no thresholds**. Access to network resources is offered on a sliding scale from full price to free, in order of standing contribution (GT-3A.3)
+- Each steward, mentor, or hub sets, in good faith, how many places are free and how price slides with contribution for the resource they hold
 
 ### I.2 Passport Summary at Exit
 - Written summary provided to departing participant: within **30 days** of role termination (GT-3A.6)
 
-### I.3 Tier Assessment Review
-- Disputed tier assessment: review through **Elder Council** (or Probiviri until Council constituted) per GT-7.2
+### I.3 Review
+- Disputed application of the access rule: review through **Elder Council** (or Probiviri until Council constituted) per GT-7.2
 
 ---
 
@@ -240,7 +240,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ### K.4 GDPR Compliance
 - On-chain identifiers are pseudonymised
 - Real identity mapping held off-chain by Association as data controller (GT-5.2)
-- Right to erasure: cryptographic unlinking per EDPB guidance (GT-3.4)
+- Right to erasure: deletion of records; historical entries become unattributable without destroying underlying activity (GT-3.4)
 - Right to rectification: off-chain correction records
 
 ### K.5 Distribution Calculator

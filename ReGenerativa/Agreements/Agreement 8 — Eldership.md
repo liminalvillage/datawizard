@@ -1,10 +1,10 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.1'
+version: '1.3'
 created: '2026-04-14'
-updated: '2026-05-10'
-status: draft
+updated: '2026-05-17'
+status: active
 tags:
   - agreement
   - eldership
@@ -42,13 +42,13 @@ tags:
 
 ## 2. Eligibility and Entry
 
-**2.1 Passport Requirement.** This Agreement is available exclusively to natural persons who hold a Network Passport at Tree tier (GT-3A.3) at the time of entry. No legal entity may hold this Agreement.
+**2.1 Contribution Requirement.** This Agreement is available exclusively to natural persons who, at the time of entry, have a long and substantial standing contribution record in the network (GT-3A). No legal entity may hold this Agreement.
 
-**2.2 Contribution Standing.** The Elder must hold, or have held, at least one other agreement in the constellation for a minimum period defined by the Association's governance body and published as a living governance resolution. The specific threshold is not fixed herein — it will reflect the network's understanding of what sustained, meaningful contribution looks like as the network matures.
+**2.2 Contribution Standing.** The Elder must hold, or have held, at least one other agreement in the constellation for a minimum period defined by the Association's governance body and published as a living governance resolution (see Living Governance Resolutions, Resolution LGR-1, dated 2026-05-16). The specific threshold is not fixed herein — it will reflect the network's understanding of what sustained, meaningful contribution looks like as the network matures.
 
 **2.3 Nomination and Invitation.** Entry into Eldership may occur by:
 
-(a) **Nomination** — the Association's governing body, an active Elder Council, or a minimum of three hub stewards collectively nominate a Tree-tier participant for Eldership; or
+(a) **Nomination** — the Association's governing body, an active Elder Council, or a minimum of three hub stewards collectively nominate a participant with a long and substantial contribution record for Eldership; or
 
 (b) **Self-application** — the participant applies directly to the Association, which refers the application to the Elder Council (if constituted) or the governing body for ratification.
 
@@ -74,11 +74,11 @@ In either case, the Elder's consent is required. Eldership cannot be conferred w
 
 Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordination with the hub's capacity. The Elder gives reasonable advance notice where possible. No hub is obligated to host an Elder beyond its genuine capacity, but no hub may decline without first consulting the Association and proposing an alternative arrangement within the network.
 
-**4.2 Elder Fund.** The Association maintains a dedicated sub-reserve within the Network Regeneration Fund, designated the **Elder Fund**, from which the costs of Elder hospitality are drawn. The Elder Fund is reported separately in the annual *bilancio sociale*. The Association may not admit a new Elder under this Agreement unless the Elder Fund holds reserves sufficient to cover a minimum defined by the governance body per current Elder per year. If the Fund falls below this threshold, the Elder Council is automatically convened.
+**4.2 Elder Fund.** The Association maintains a dedicated sub-reserve within the Network Regeneration Fund, designated the **Elder Fund**, from which the costs of Elder hospitality are drawn. The Elder Fund is reported separately in the annual *bilancio sociale*. The Association may not admit a new Elder under this Agreement unless the Elder Fund holds reserves sufficient to cover a minimum defined by the governance body per current Elder per year (see Living Governance Resolutions, Resolution LGR-2, dated 2026-05-16). If the Fund falls below this threshold, the Elder Council is automatically convened.
 
 **4.3 Membership Fee Waiver.** The annual membership fee under Agreement 2 is permanently waived for the Elder from the date of entry into this Agreement. The Association absorbs this cost as a recognition obligation.
 
-**4.4 Forest Tier Recognition.** Upon entry into this Agreement, the Elder's Network Passport is elevated to **Forest tier** — the fourth and final tier of the Passport, beyond Tree. Forest is not accumulated through further contribution; it is conferred through transition. It signals that the Elder is no longer an individual contributor but the ecology in which new Seeds germinate: shade, soil, mycelium, the conditions for next growth. The Elder *is* the forest.
+**4.4 Recognition.** Entry into this Agreement is the network's highest recognition of contribution. It is not a level on a scale and is not accumulated; it is a change of relationship — from individual contributor to one of the conditions in which others grow: shade, soil, mycelium, the conditions for next growth. It is conferred through the Transition Rite and inscribed permanently in the network's living history (Clause 3.3).
 
 **4.5 Named Legacy.** The Elder's contributions are permanently named in the records of every hub they have meaningfully served. These records survive the termination of any individual agreement and the dissolution of the Association.
 
@@ -130,7 +130,7 @@ Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordin
 
 **8.1** This Agreement is permanent. It does not expire, does not require renewal, and is not subject to termination for inactivity or absence.
 
-**8.2 Voluntary Withdrawal.** The Elder may voluntarily withdraw from this Agreement at any time by written notice to the Association. Upon withdrawal: the Forest tier designation is retained in the Passport as a permanent record; the Elder's named legacy and living history entries are preserved; hospitality rights and membership fee waiver cease; and Elder Council membership concludes.
+**8.2 Voluntary Withdrawal.** The Elder may voluntarily withdraw from this Agreement at any time by written notice to the Association. Upon withdrawal: the Elder's recognition is retained in the Passport as a permanent record; the Elder's named legacy and living history entries are preserved; hospitality rights and membership fee waiver cease; and Elder Council membership concludes.
 
 **8.3 Dissolution Continuity.** This Agreement survives the dissolution of the Association per GT-13. The rights and recognitions it establishes are enforceable against any successor entity. The Elder Fund, if remaining, is administered by the Custodial Council exclusively for the benefit of active Elders.
 
@@ -162,11 +162,11 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A8-1 — Elder Council Charter]] *(to be created)*
-- [[A8-2 — Transition Rite Record]] *(to be created)*
+- [[A8-1 — Elder Council Charter]]
+- [[A8-2 — Transition Rite Record]]
 
 ---
 
 ## Contribution Recognition
 
-The Elder's Forest tier designation and Transition Rite are recorded in the **Contribution Ledger** as Validated Contribution events in accordance with **GT-3** and **GT-3A**. The Network Passport is updated to reflect Forest tier status upon entry into this Agreement. All subsequent hospitality, Council participation, and informal contributions remain eligible for Ledger recording at the Elder's discretion.
+The Elder's Transition Rite is recorded in the **Contribution Ledger** as a Validated Contribution event in accordance with **GT-3** and **GT-3A**, and inscribed in the network's living history (Clause 3.3). All subsequent hospitality, Council participation, and informal contributions remain eligible for Ledger recording at the Elder's discretion.

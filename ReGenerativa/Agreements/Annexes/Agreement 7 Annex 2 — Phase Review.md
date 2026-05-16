@@ -89,7 +89,7 @@ tags:
 
 **Planned external client types / sectors:** ___
 
-**NRC rate confirmed:** **7%** of Net External Revenue (base rate); reduced to **5%** for Venture Members at Sprout tier or above per their Network Passport (GT-3A)
+**NRC rate confirmed:** **5%** of Net External Revenue (GT-4)
 
 **Fiscal arrangement:** ☐ Continue under Association umbrella  ☐ Venture will incorporate as: [legal form] by [DD/MM/YYYY]
 

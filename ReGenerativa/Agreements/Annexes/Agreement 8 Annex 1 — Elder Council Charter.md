@@ -2,7 +2,7 @@
 annex_ref: A8-1
 created: '2026-04-14'
 parent_agreement: Agreement 8 — Eldership
-status: draft
+status: active
 tags:
   - annex
   - ReGenerativa
@@ -11,8 +11,8 @@ tags:
   - governance
 title: Agreement 8 Annex 1 — Elder Council Charter
 type: annex
-updated: '2026-04-14'
-version: '1.0'
+updated: '2026-05-16'
+version: '1.1'
 ---
 *Annex 1 to the [[Agreement 8 — Eldership|Eldership Agreement]]. Defines the operational charter of the Elder Council — its convening, decision-making, designated Council Seat, and the procedures through which it exercises the authorities granted in Agreement 8 §5. Forms an integral part of the Agreement.*
 
@@ -42,7 +42,7 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 
 **2.1** The **Council Seat** is the hub formally recognised as the network's seat of elder governance. It hosts the annual gathering (§4 of this Charter) and serves as the standing point of reference for Council communications.
 
-**2.2** The Council Seat is designated by simple majority decision of the Council, in consultation with the relevant hub Owner (Agreement 1) and Steward (Agreement 2). Designation requires the host hub's affirmative consent, recorded in writing.
+**2.2** The Council Seat is designated by simple majority decision of the Council, in consultation with the relevant hub Owner (Agreement 1) and Steward (Agreement 3). Designation requires the host hub's affirmative consent, recorded in writing.
 
 **2.3** The Council Seat designation is for a term of three (3) years, renewable. The Council may rotate the Seat among hubs on a longer or shorter cycle by Council decision.
 

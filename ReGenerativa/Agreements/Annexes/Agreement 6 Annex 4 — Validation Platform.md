@@ -1,128 +1,87 @@
 ---
-title: Agreement 6 Annex 4 — Validation Platform
+title: Agreement 6 Annex 4 — Contribution Log
 type: annex
 annex_ref: A6-4
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-05-11'
+updated: '2026-05-17'
 status: template
 tags:
   - annex
   - ReGenerativa
   - partnership
-  - digital-infrastructure
-  - contribution-ledger
 ---
-*Annex 4 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Describes the technical architecture of the Contribution Ledger and validation platform referenced throughout the Agreement and the General Terms (GT-3). Forms an integral part of the Agreement. This document reflects the current state of the platform — it is a living document to be updated as the architecture evolves.*
-
-*Note: The Contribution Ledger is under active development. Until the full platform is operational, interim tracking methods (shared spreadsheets, signed records) may be used per mutual agreement of the Partners. This Annex describes the target architecture.*
-
----
-
-## 1. Purpose
-
-The Contribution Ledger is the digital infrastructure that enables the Partnership Framework to function as a transparent, decentralised, contribution-based system. It serves three functions:
-
-1. **Recording** — capturing contributions (hours, milestones, assets, funding) as they occur
-2. **Validating** — confirming that contributions meet agreed criteria before they count toward distribution
-3. **Calculating** — computing each Partner's dynamic share of Net Project Revenue based on cumulative validated contributions
-
-It is the technical expression of the holonic principle: each Partner is autonomous in logging their own contributions, but each contribution is subject to peer validation before becoming economically relevant — ensuring coherence and preventing unilateral manipulation.
+*Annex 4 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Describes how
+Partner contributions are logged, confirmed, and turned into distribution shares. Forms
+an integral part of the Agreement. As of 2026-05-17 this is deliberately a plain
+record, not a blockchain platform (see [[0.3 Decision Log]] and
+[[Radical Simplification - One Rule - 2026-05-16]]).*
 
 ---
 
-## 2. Core Components
+## 1. What it is
 
-### 2.1 Contribution Ledger (On-Chain Records)
+A simple, shared, visible log of Partner contributions. It does three things:
 
-**Technology:** [e.g. Ethereum / Polygon / Hyperledger Fabric / other — specify when decided]
+1. **Record** — each Partner logs their contributions (hours, milestones, assets,
+   funding) as they occur.
+2. **Confirm** — another Partner (or the project coordinator) confirms the contribution
+   in good faith. A confirmed contribution is a Validated Contribution (GT-1.8).
+3. **Distribute** — confirmed contributions determine each Partner's share of Net
+   Project Revenue.
 
-**What is stored on-chain:**
-- Pseudonymised Partner identifier (not name or personal data)
-- Project code
-- Contribution type
-- Quantity (hours / milestone ID / value units)
-- Timestamp of logging
-- Validation status (pending / validated / disputed / rejected)
-- Validator pseudonymised identifier
+It is the technical expression of the holonic principle: each Partner logs their own
+work; a peer confirms it; no one validates their own contribution into economic effect.
 
-**What is NOT stored on-chain:**
-- Personal data (names, addresses, contact details) — these remain off-chain per GDPR and GT-5
-- Financial amounts (to avoid disclosure of commercially sensitive pricing)
-- Client identities
+---
 
-**GDPR compliance:**
-- On-chain identifiers are pseudonymised. Mapping to real identities is held off-chain by the Association as data controller (GT-5.2)
-- Right to erasure: addressed through cryptographic unlinking per EDPB guidance (GT-3.4)
-- Right to rectification: implemented through off-chain correction records
+## 2. Form
 
-### 2.2 Validation Interface
+The log is a plain shared record — a shared spreadsheet or a simple shared app —
+accessible to all Partners on the Project. There is no blockchain, no token, no
+on-chain identifier, no automated validator assignment, and no formal dispute-threshold
+machinery. Personal data is kept off the shared log and held minimally by the
+Association as data controller (GT-5).
 
-**Access:** Partners access the platform via authenticated web interface (or mobile app when available)
+Recommended columns: date, Partner, project code, contribution type, quantity
+(hours / milestone / value units), confirmed-by, confirmed-on.
 
-**Validation workflow:**
-1. Partner A logs a contribution (type, quantity, Project code, supporting evidence if required)
-2. System notifies assigned validators (per Project Sheet validation rules)
-3. Validators review and approve / request clarification / reject within [e.g. 7 days]
-4. Upon validation threshold being met, contribution status changes to "Validated"
-5. Validated contributions are written to the on-chain ledger
+---
 
-**Dispute workflow:** If a contribution is contested, the system flags it for Partner discussion → two-thirds majority resolution → GT-7 if unresolved
+## 3. Distribution share
 
-### 2.3 Distribution Calculator
-
-The platform computes each Partner's current share in real time:
+Each Partner's share is their confirmed contributions over the total:
 
 ```
-Partner Share (%) = Partner's Total Validated Contributions (€ equivalent)
-                    ─────────────────────────────────────────────────────
-                    Total Validated Contributions of All Partners (€ equivalent)
+Partner Share (%) = Partner's Validated Contributions (€ equivalent)
+                    ─────────────────────────────────────────────────
+                    Total Validated Contributions of all Partners (€ eq.)
 ```
 
-Contributions are converted to a common unit (€ equivalent) using the rates in [[Agreement 6 Annex 2 — Economics Schedule]] (Part B) or the milestone values in the Project Sheet.
-
-Distribution amounts are calculated by applying Partner shares to Net Project Revenue (after cost waterfall).
-
-### 2.4 Planned Extensions
-
-Two modules are in design phase. This Annex will be amended when either becomes operational:
-
-- **Mutual Credit** — will enable Partners to exchange value within the network without immediate monetary settlement, per GT-3.1
-- **Territorial Mapping** — H3 hexagonal indexing for bioregional visualisation of assets, hub locations, and ecological conditions
+Contributions are converted to a common € equivalent using the rates in
+[[Agreement 6 Annex 2 — Economics Schedule]] (Part B) or the milestone values in the
+Project Sheet. Shares are applied to Net Project Revenue after the cost waterfall
+(Agreement 6, Clause 10).
 
 ---
 
-## 3. Interim Arrangements (Until Platform Is Operational)
+## 4. Disagreements
 
-Until the full platform is live, contributions are tracked using:
-
-☐ **Shared spreadsheet** — maintained by the coordination role, accessible to all Partners. Location: [URL / shared drive]
-☐ **Signed contribution records** — each contribution logged and countersigned by at least one other Partner
-☐ **Meeting minutes** — contributions and validations confirmed in regular Partner meetings and recorded in minutes
-
-Interim records shall be migrated to the platform upon launch.
+If a Partner contests a logged or confirmed contribution, the Partners discuss it and
+resolve it among themselves in good faith. If it cannot be resolved, it goes to the
+dispute-resolution process in GT-7. No special voting threshold is imposed by this
+Annex.
 
 ---
 
-## 4. Governance of the Platform
+## 5. Governance
 
-- Platform development decisions require simple majority of Partners
-- Changes to the validation algorithm or distribution formula require a two-thirds majority and an amendment to this Annex
-- The Association acts as data controller for off-chain personal data
-- Partners may request an audit of their own contribution records at any time
-
----
-
-## 5. Evolution of This Document
-
-As the platform is built and deployed, this Annex will be updated to reflect:
-- Chosen blockchain / DLT technology
-- Smart contract addresses (where applicable)
-- API documentation
-- Security audit results
-- GDPR impact assessment outcomes
-
-Updates require simple majority approval and recording in the Amendment Register of the [[Agreement 6 Annex 1 — Partner Onboarding & Register]].
+- Any Partner may inspect the full log and audit their own record at any time.
+- A change to how shares are calculated requires the agreement of the Partners and an
+  amendment to this Annex, recorded in the Amendment Register of
+  [[Agreement 6 Annex 1 — Partner Onboarding & Register]].
+- The log should stay as simple as the Project allows. Complexity is added only when a
+  real need demands it, never by default.
 
 ---
 

@@ -42,7 +42,7 @@
 
 **2.5 Hub Circulation.** Subject to availability and the applicable [[Agreement 1 Annex 5 — Hub DNA|Hub DNA]] conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
 
-**2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A), unlocking growing recognition and access as their involvement deepens. Membership is the soil from which every Passport grows — the Seed tier begins here.
+**2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A); the more a Member contributes, the higher their priority and the lower their price for network resources, up to free. Membership is the soil from which every Passport grows.
 
 ---
 
@@ -58,7 +58,7 @@
 
 **3.5 Reinvestment.** Use all revenues, surpluses, and contributions exclusively for the pursuit of the Association's statutory purposes, in accordance with Art. 8 of the Third Sector Code. No profits, dividends, or surplus distributions shall be made to members.
 
-**3.6 Contribution Recognition.** Develop and maintain systems for the recognition of member contributions, including volunteer time, skills, presence, and other forms of value, through the Association's digital tracking infrastructure. Contribution records inform eligibility for contribution-dependent benefits and Passport tier advancement.
+**3.6 Contribution Recognition.** Develop and maintain systems for the recognition of member contributions, including volunteer time, skills, presence, and other forms of value, through the Association's digital tracking infrastructure. Contribution records inform eligibility for contribution-dependent benefits under the sliding-scale access rule (GT-3A.3).
 
 **3.7 Gateway Obligations.** Since membership is the prerequisite for all other roles held by natural persons, the Association commits to making the membership process clear, accessible, and humane. The admission process shall not be a barrier. The documentation shall be legible. The welcome shall be genuine.
 
@@ -166,4 +166,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.

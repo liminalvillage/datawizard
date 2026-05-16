@@ -3,7 +3,7 @@ title: Care Protocol — Hardship Support Governance
 type: governance-protocol
 status: draft
 created: '2026-03-28'
-updated: '2026-03-28'
+updated: '2026-05-16'
 tags:
   - governance
   - ReGenerativa
@@ -144,8 +144,14 @@ The protocol should become simpler over time, not more complex. As trust in the 
 
 ---
 
-*Approved by the Board of ReGenerativa APS — ETS on: [DD/MM/YYYY]*
+> **NOT YET APPROVED — DRAFT.** This protocol is awaiting formal approval by the Board
+> of ReGenerativa APS — ETS. It must not be circulated or relied upon as a final
+> instrument until approved. On approval, replace this banner with: "Approved by the
+> Board of ReGenerativa APS — ETS on: [date]" and set the next review date (annually,
+> at the Association's winter gathering). Tracked in [[0.5 Open Questions]] OQ6.
 
-*Next review: [DD/MM/YYYY]*
+*Board approval date: awaiting Board approval (not yet granted).*
+
+*Next review: one year after Board approval (annually, at the winter gathering).*
 
 *Operates under the authority of [[General Terms and Conditions]] GT-4 (Network Regeneration Fund). Governed by Italian Third Sector law and the Association's Statute.*

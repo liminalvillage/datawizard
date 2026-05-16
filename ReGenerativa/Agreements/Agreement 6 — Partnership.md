@@ -1,4 +1,4 @@
-*Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost and is operationalised in Clause 10A. The digital infrastructure provisions (GT-3) govern the Contribution Ledger and blockchain validation. Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
+*Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost and is operationalised in Clause 10A. The digital infrastructure provisions (GT-3) govern the Contribution Ledger (a plain, shared log — not a blockchain). Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
 
 ---
 
@@ -115,7 +115,7 @@ The collaboration is guided by:
 
 **8.1** Contributions shall be recorded in the Contribution Ledger. A Contribution becomes Validated when accepted according to the Project rules, which may include: peer validation, project lead approval, milestone confirmation, majority approval, or documentary evidence.
 
-**8.2** The Partners may use a distributed digital system, including blockchain or another shared ledger, to ensure traceability, transparency, and immutability.
+**8.2** The Partners use a simple shared digital record to ensure traceability and transparency of contributions (see [[Agreement 6 Annex 4 — Validation Platform|A6-4]]).
 
 **8.3** Disputes regarding validation shall be addressed first among participating Partners, then by two-thirds majority if unresolved.
 
@@ -170,6 +170,8 @@ The collaboration is guided by:
 **13.1** New Partners may join by application, two-thirds majority approval, and signing an accession instrument.
 
 **13.2** A Partner may be excluded by two-thirds majority for serious breach, repeated non-performance, fraud or manipulation of validation data, serious reputational damage, or loss of legal capacity.
+
+**13.3** Where a Partner is a natural person entering in individual capacity, that Partner must hold a current Membership Agreement in good standing per Agreement 2, Clause 1.4 (see GT-11.4).
 
 ---
 
@@ -242,6 +244,6 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
 
 For Partners, Passport status may be used as a trust and collaboration signal in future Projects, including simplified onboarding, validation confidence, or preferred selection for network-aligned opportunities, as defined in the Network Passport framework.

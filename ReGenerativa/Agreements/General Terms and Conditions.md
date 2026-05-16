@@ -16,15 +16,15 @@
 
 **GT-1.6** **"Social DNA Framework"** means the Association's framework for classifying and measuring regenerative impact across six integral dimensions: (a) Land and Ecological Systems; (b) Human Health and Well-Being; (c) Knowledge and Cultural Vitality; (d) Economic Fairness and Material Infrastructure; (e) Community and Relational Culture; and (f) Governance and Ethical Integrity. These dimensions correspond to the six commitments of the Regenerative Covenant (GT-2) and serve as the evaluative vocabulary through which the network assesses whether its activities are genuinely regenerative.
 
-**GT-1.7** **"Contribution Ledger"** means the digital or blockchain-based system used to record, validate, and calculate contributions made by participants in the network.
+**GT-1.7** **"Contribution Ledger"** means the simple, shared, visible record in which participants' contributions are logged and confirmed. It is a plain record, not a blockchain or automated calculation system.
 
-**GT-1.8** **"Validated Contribution"** means a contribution recorded in the Contribution Ledger and accepted according to the applicable validation rules.
+**GT-1.8** **"Validated Contribution"** means a contribution recorded in the Contribution Ledger and confirmed, in good faith, by a steward or a peer.
 
 **GT-1.9** **"Net Revenue"** means revenue remaining after deduction of direct costs, fiscal charges, and other deductions defined in the relevant agreement or annex.
 
 **GT-1.10** **"Network Regeneration Fund"** means the common fund administered by the Association for the purposes described in Clause GT-4.
 
-**GT-1.11** **"Network Passport"** means the portable, cumulative contribution record held by each participant in the Contribution Ledger, accumulating validated contributions across all roles held, and serving as the basis for recognition tier and role-scoped perks as described in GT-3A.
+**GT-1.11** **"Network Passport"** means each participant's portable, cumulative record of validated contributions across all roles, hubs, and time, held in the Contribution Ledger. It carries no tiers and no fixed perk schedule; it is the basis for the single sliding-scale access rule in GT-3A.
 
 **GT-1.12** **"Network Demand Signal"** means a documented pattern of recurring unmet peer-to-peer requests surfaced through normal network operation — through member interactions, steward observations, hub seasonal reports, or gathering discussions — and submitted to the Association for inclusion in the Network Demand Register. A Demand Signal is the network's own market research: evidence that a need exists, expressed by the community that experiences it.
 
@@ -60,38 +60,31 @@
 
 ## GT-3. Digital Infrastructure and Contribution Tracking
 
-**GT-3.1** The Association develops and maintains digital infrastructure for transparent tracking of contributions, resource flows, and regenerative outcomes, including: a **Contribution Ledger** (digital or blockchain-based); a **resource allocation system** for shared spaces, tools, and finances; a **mutual credit system** enabling reciprocal exchange without immediate monetary settlement; and **territorial mapping tools** (H3 hexagonal indexing) for bioregional visualisation.
+**GT-3.1** The Association maintains simple, transparent infrastructure for tracking contributions and sharing resources: a **Contribution Ledger** — a plain, shared record, not a blockchain. It may, over time and as real need arises, also develop lightweight tools for resource sharing and bioregional (H3) visualisation; these are roadmap directions, not present obligations.
 
-**GT-3.2** The digital infrastructure serves as the network's **cognitive glue**: the mechanism through which autonomous agents coordinate plans and allocate resources toward areas of highest need, without centralised command.
+**GT-3.2** This infrastructure exists to make contribution and need visible across the network, so that resources can flow toward where they are most needed without centralised command.
 
 **GT-3.3** Participation in tracking is voluntary. Access to **contribution-dependent benefits** (free Programme access, hub circulation, revenue shares) is conditioned upon recorded and Validated Contributions.
 
-**GT-3.4** Where blockchain is used, the system shall store **pseudonymised identifiers** on-chain. The right to rectification is implemented through off-chain correction records. The right to erasure is addressed through cryptographic unlinking, per EDPB guidance.
+**GT-3.4** The Contribution Ledger stores only what is needed to recognise contribution; personal data is held separately and minimally. Participants may access, correct, or request deletion of their records per GT-5. Deletion renders historical entries unattributable without destroying the underlying record of network activity.
 
 ---
 
-## GT-3A. Network Passport
+## GT-3A. Network Passport and the Access Rule
 
-**GT-3A.1** Every participant in the network holds a **Network Passport** — a single, portable contribution record accumulated across all roles they hold, across all hubs they serve, across the full duration of their relationship with the network. The Passport lives in the Contribution Ledger and belongs to the person, not to any hub, agreement, or role.
+**GT-3A.1** Every participant holds a **Network Passport** — a single, portable, cumulative record of their validated contributions across all roles, all hubs, and the full duration of their relationship with the network. It lives in the Contribution Ledger and belongs to the person, not to any hub, agreement, or role.
 
-**GT-3A.2** The Passport tracks validated contributions continuously. It does not reset when a role ends, when a hub changes, or when a period of inactivity occurs. It is a living record of the whole arc of a person's relationship with the network.
+**GT-3A.2** The Passport accumulates continuously. It does not reset when a role ends, a hub changes, or a period of inactivity occurs. There are no tiers, levels, or named ranks — it is a single, continuous record.
 
-**GT-3A.3** Contributions accumulate toward four recognition tiers, named after the developmental arc from individual to ecology:
+**GT-3A.3 The Access Rule.** Access to the network's shared resources — programmes, hub stays, priority booking, and other contribution-dependent benefits — is offered on a sliding scale from full price to free, in order of standing contribution. The more a participant has contributed, the higher their priority and the lower their price, up to and including free. There is no fixed perk schedule: each steward, mentor, or hub sets, for the resource they hold, how many places are free and how price slides with contribution, applying this rule in good faith. The purpose is abundance and circulation, not gatekeeping.
 
-- 🌱 **Seed** — arriving, germination, first contributions taking root
-- 🌿 **Sprout** — establishing, growing into the role, first canopy forming
-- 🌳 **Tree** — mature presence, full vigour, the network gathers in their shade and grows from their seeds
-- 🌲 **Forest** — the Elder; no longer an individual contributor but the ecology in which new Seeds germinate; the network's deep holding
-
-The first three tiers are milestones on a continuous growth curve, reached through accumulated validated contribution. The fourth — Forest — is not accumulated. It is conferred through the Transition Rite under Agreement 8 (Eldership), and marks the passage from individual contribution into ecological role: the Elder becomes the conditions in which new Seeds germinate. The Contribution Ledger accumulates without ceiling. The specific thresholds at which a participant moves from one tier to the next are defined by the network's governance body and published as a living governance document — they are not fixed in any agreement, and may evolve as the network matures.
-
-**GT-3A.4** Each tier unlocks **role-scoped perks** — recognition and access benefits that depend on both the participant's tier and the specific agreement(s) they hold. The same tier level grants different things to a Steward than to a Mentor, and to a Partner than to an Intrapreneur. The full perk table is maintained in the [[Network Passport]] companion document.
+**GT-3A.4** Standing contribution is a single cumulative measure, confirmed by steward or peer in good faith (GT-1.8). It is deliberately not reduced to hours alone; quality, diversity, and the judgement of those close to the work all count. A participant who disputes how the rule was applied to them may seek review per GT-7.2.
 
 **GT-3A.5** The Passport serves as a **trust signal** across the network. A participant arriving at a new hub, applying for a new role, or joining a Venture Holon carries their Passport with them. Hubs, stewards, and venture members may request to view a prospective participant's Passport (with their consent) as part of the welcome and admission process. A strong Passport is not a guarantee of admission — each community is its own whole — but it is a meaningful and recognised form of relational credibility.
 
 **GT-3A.6** Upon termination of any agreement, the Association provides the departing participant with a written summary of their Passport as it relates to that role, within 30 days. This summary is the participant's to share as they choose.
 
-**GT-3A.7** The Passport is subject to the same GDPR and data protection provisions as all other Contribution Ledger data (GT-3.4, GT-5). Participants may request access to, correction of, or cryptographic unlinking of their Passport data at any time.
+**GT-3A.7** The Passport is subject to the same GDPR and data protection provisions as all other Contribution Ledger data (GT-3.4, GT-5). Participants may request access to, correction of, or deletion of their Passport data at any time.
 
 ---
 
@@ -197,7 +190,7 @@ In the event the Association enters liquidation or deregistration proceedings un
 
 (b) The Contribution Ledger, all Passport records, and all network data shall be transferred in full to the successor entity or, if none is identified within 90 days, to a Custodial Council constituted under GT-13.5.
 
-(c) Participants retain all vested Passport rights, tier recognitions, and named legacies regardless of the outcome of succession. These are personal records, not assets of the Association.
+(c) Participants retain all vested Passport rights and named legacies regardless of the outcome of succession. These are personal records, not assets of the Association.
 
 **GT-13.3 — Relational Continuity at Hubs**
 Every person or entity that holds an Ownership Agreement (Agreement 1) acknowledges that the network's relational fabric — the standings, contributions, and recognitions of those who have participated in their hub — is part of what makes the hub a living place rather than a managed property. This acknowledgment creates no new operational obligation: the Owner's responsibilities remain exactly those set out in Agreement 1. It means only this: if the Association enters succession proceedings, the Owner commits to being informed, to participating in good faith in any Custodial Council convened under GT-13.5 should they choose to do so, and to not acting in ways that would actively obstruct the continuity of the network's relational commitments. The Owner's participation in the Custodial Council is voluntary. No financial obligation and no obligation to provide housing, meals, or services arises from this clause alone.
@@ -209,4 +202,4 @@ The Contribution Ledger and Network Passport data are network commons. No liquid
 If no successor entity is identified within 90 days of the Association entering dissolution proceedings, the hub owners (Agreement 1 holders) and any Elder Council constituted under Agreement 8 shall convene a Custodial Council. The Custodial Council operates independently of the Association's legal form and has authority to: administer the remaining Network Regeneration Fund exclusively for participant welfare; nominate and constitute a successor entity; and maintain continuity of relational obligations until succession is complete or the network formally concludes. The Custodial Council is self-constituting — it requires no further instrument to convene beyond the conditions stated in this clause.
 
 **GT-13.6 — Individual Agreement Survival**
-The relational rights and recognitions established in each individual agreement — including Passport tier, Elder status, stewardship legacy, and named recognitions — survive the dissolution of the Association and are enforceable against any successor entity that assumes the constellation obligations under GT-13.2.
+The relational rights and recognitions established in each individual agreement — including Passport record, Elder status, stewardship legacy, and named recognitions — survive the dissolution of the Association and are enforceable against any successor entity that assumes the constellation obligations under GT-13.2.

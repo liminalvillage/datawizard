@@ -143,14 +143,14 @@ tags:
 
 ## 6. Network Regeneration Contribution Rates
 
-| Phase | Base NRC Rate | Sprout tier rate | Base |
-|---|---|---|---|
-| Phase 1 | Not applicable | Not applicable | No external revenue |
-| Phase 2 | 7% | 5% | Net External Revenue |
-| Phase 3 | 5% | 5% | Net External Revenue |
-| Post-Graduation | As per [[Agreement 7 Annex 3 — Graduation]] | | |
+| Phase | NRC Rate | Base |
+|---|---|---|
+| Phase 1 | Not applicable | No external revenue |
+| Phase 2 | 5% | Net External Revenue |
+| Phase 3 | 5% | Net External Revenue |
+| Post-Graduation | As per [[Agreement 7 Annex 3 — Graduation]] | |
 
-*Passport tier is assessed at the level of the Venture Holon's Founding Member at the time of Phase 2 activation. If the Founding Member reaches Sprout tier during Phase 2, the reduced rate applies from the date of tier advancement.*
+*The NRC rate is flat per phase. There are no tier-based reductions — the Network Passport tier system was removed (see GT-3A and the Decision Log).*
 
 ---
 

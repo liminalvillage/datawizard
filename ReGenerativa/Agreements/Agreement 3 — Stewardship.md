@@ -32,6 +32,8 @@
 
 **1.6** The Steward accepts the role in order to help the Association ensure that the Hub remains active, coherent, safe, and welcoming, and that it functions as a regenerative node capable of creating more value with fewer extractive inputs.
 
+**1.7 Membership prerequisite.** The Steward must hold a current Membership Agreement in good standing per Agreement 2, Clause 1.4 (see GT-11.4).
+
 ---
 
 ## 2. Relationship to the Ownership Agreement
@@ -180,7 +182,7 @@
 
 ## 16. Termination
 
-**16.1 Termination by Notice.** Either Party may terminate this Agreement without cause by giving written notice. The minimum notice period is **30 days**, extended to **90 days** where either of the following applies: (a) the Steward has held this Agreement continuously for twelve (12) months or more; or (b) the Steward holds the **Tree** tier or higher on the Network Passport.
+**16.1 Termination by Notice.** Either Party may terminate this Agreement without cause by giving written notice. The minimum notice period is **30 days**, extended to **90 days** where the Steward has held this Agreement continuously for twelve (12) months or more.
 
 Notice runs from the date of written receipt. The Parties may agree a shorter period by mutual written consent.
 
@@ -239,6 +241,6 @@ Cost-coverage targets and stewardship cycle terms may also be recorded in a sepa
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
 
 The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the Hub or to this Agreement, and may be referenced with the Steward's consent when evaluating future stewardship roles or comparable responsibilities within the network.

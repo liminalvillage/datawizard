@@ -34,6 +34,8 @@
 
 If no Programme has been confirmed after twelve (12) months despite the Mentor having submitted at least one written proposal, either Party may terminate the framework agreement without further notice. This clause does not apply to single-Programme agreements, which are governed by their Programme Annex terms.
 
+**1.6 Membership prerequisite.** The Mentor must hold a current Membership Agreement in good standing per Agreement 2, Clause 1.4 (see GT-11.4).
+
 ---
 
 ## 2. Role of the Mentor
@@ -64,7 +66,7 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 
 **4.2** The Parties may define in a Programme Annex: the maximum number of free, discounted, and member-only places; the criteria for determining "highest contribution"; the discount rate for members; and the full price for external participants.
 
-**4.3** Free and discounted places are part of the Programme design and not a personal loss claimable against the Association by the Mentor, unless expressly agreed in the financial annex.
+**4.3** Free and discounted places are part of the Programme design and not a personal loss claimable against the Association by the Mentor, unless expressly agreed in the financial annex. Where, however, free places are offered pursuant to the gift economy principle (Clause 1.3A) and the Programme nonetheless falls below its minimum viable threshold, any resulting shortfall against the Mentor's agreed compensation is borne by the Association and not by the Mentor, as set out in A4-1 (Gift-Economy Downside Allocation). The Mentor never carries a loss created by the network's own gift-economy obligation.
 
 ---
 
@@ -90,7 +92,7 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 
 **5A.2** The Association shall send at least one direct communication to members who, based on their Contribution Ledger record, are eligible for free or discounted access to the Programme, no later than **21 days** before the Programme date.
 
-**5A.3** The Association shall provide the Mentor with a registration status update — including the number of confirmed participants at each access tier — no later than **21 days** before the Programme date. If the confirmed participant count is below the minimum viable threshold defined in the Programme Annex, the Mentor may request rescheduling or cancellation in accordance with the cancellation terms of the Programme Annex, without prejudice to the relationship under this Agreement.
+**5A.3** The Association shall provide the Mentor with a registration status update — including the number of confirmed participants at each access level — no later than **21 days** before the Programme date. If the confirmed participant count is below the minimum viable threshold defined in the Programme Annex, the Mentor may request rescheduling or cancellation in accordance with the cancellation terms of the Programme Annex, without prejudice to the relationship under this Agreement.
 
 **5A.4** The Association commits to making reasonable promotional efforts proportionate to the Programme's scale and the network's current membership. The Mentor may propose additional promotional approaches; the Association shall not unreasonably refuse. Neither Party guarantees minimum registration numbers, but both commit to good-faith effort to fill the Programme in a way that serves its gift economy purpose — prioritising network contributors first.
 
@@ -212,6 +214,6 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording and validation of contributions under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording and validation of contributions under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
 
 For Mentors, Passport status may influence programme visibility, free-place allocation, directory prominence, and priority access to programme-hosting opportunities, as defined in the Network Passport framework or any applicable Programme Annex.

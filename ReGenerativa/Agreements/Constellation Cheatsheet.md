@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-05-16'
+updated: '2026-05-17'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -24,7 +24,7 @@ updated: '2026-05-16'
 | 1   | [[Agreement 1 — Ownership\|Ownership]]               | Root          | Owner ↔ Association           | Owner lends place or asset; Association uses it for regenerative purposes; ownership stays with Owner  |
 | 2   | [[Agreement 2 — Membership\|Membership]]             | Gateway       | Member ↔ Association          | Prerequisite for all other roles; €25/year covers insurance (Art. 18 CTS) and democratic participation |
 | 3   | [[Agreement 3 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | Association delegates hub custodianship; Steward optimises the place and its people                    |
-| 4   | [[Agreement 4 — Mentorship\|Mentorship]]             | Expertise     | Mentor ↔ Association          | Practitioner hosts programmes; highest contributors get free access first; paid tiers follow           |
+| 4   | [[Agreement 4 — Mentorship\|Mentorship]]             | Expertise     | Mentor ↔ Association          | Practitioner hosts programmes; highest contributors get free access first; others pay on a sliding scale |
 | 5   | [[Agreement 5 — Sponsorship \|Sponsorship]]          | Support       | Supporter ↔ Association       | Resources enter the commons; ownership transfers; no control acquired                                  |
 | 6   | [[Agreement 6 — Partnership\|Partnership]]           | Collaboration | Partners ↔ each other         | Commercial projects; value distributed by validated contribution, not ownership stake                  |
 | 7   | [[Agreement 7 — Intrapreneurship\|Intrapreneurship]] | Generative    | Founding Member ↔ Association | Network demand signal → Venture Holon → serves commons first, then external market                     |
@@ -41,8 +41,8 @@ updated: '2026-05-16'
 |---|---|
 | GT-1 | Definitions (13 terms — Hub, Social DNA, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
-| GT-3 | Digital infrastructure — Contribution Ledger, mutual credit, H3 mapping |
-| GT-3A | Network Passport — 4 tiers (Seed/Sprout/Tree/Forest), continuous growth + Eldership conferral, role-scoped perks, GDPR |
+| GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
+| GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
 | GT-4 | Network Regeneration Fund — ≥5% of net revenue; range 3–10% |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
@@ -73,16 +73,13 @@ Assessed using the [[Social DNA Framework]]. Targets in Annexes. Reviewed season
 
 ---
 
-## Network Passport — Tiers and Perks
+## Network Passport — The Access Rule
 
-| Tier | Character | Owner | Steward | Member | Mentor | Intrapreneur |
-|---|---|---|---|---|---|---|
-| 🌱 Seed | Arriving | Standard terms | Standard terms | Standard terms | Standard terms | Phase 2 NRC 7% |
-| 🌿 Sprout | Establishing | Network-wide recognition; cross-hub introductions | Preferred hub placement | Discounted programmes; priority booking | Increased free places; directory listing | Phase 2 NRC 5% |
-| 🌳 Tree | Mature presence | Voice in cross-hub coordination; named in hub legacy | 90-day notice; owner negotiation input; named hub legacy; Hub DNA consultation | Free programmes; governance nomination; lifetime membership option; named in living history | Programme calendar co-design; preferred hub access; named knowledge custodian; legacy programme designation | Expedited phase review; preferred fiscal hosting; reduced post-graduation NRC period |
-| 🌲 Forest | Elder | Network commons patron; Elder Council seat | Unconditional hub hospitality; obligations released; informal mentor by choice | Annual fee permanently waived; Elder Council seat | Honorary teacher; no delivery obligation; named in wisdom lineage | Forest Intrapreneur — venture mentor and Elder witness, not active lead |
+There are **no tiers and no perk table**. One rule governs access to all network resources:
 
-Thresholds for Seed → Sprout → Tree set by governance (not fixed in agreements). Forest is conferred through Agreement 8 Transition Rite, not accumulated. Continuous growth — no hard gates. Full table: [[Network Passport]].
+> The more you have contributed, the higher your priority and the lower your price — up to and including free.
+
+Each steward, mentor, or hub sets, in good faith, how many places are free and how price slides with contribution for the resource they hold. The purpose is abundance and circulation, not gatekeeping. The Passport is simply the portable, cumulative record of contribution the rule reads from. Full detail: [[Network Passport]].
 
 ---
 
@@ -93,12 +90,11 @@ Thresholds for Seed → Sprout → Tree set by governance (not fixed in agreemen
 | Annual membership fee | €25 | A2, Clause 4.1 |
 | NRC base rate | 5% of net revenue | GT-4.2 |
 | NRC range (negotiable) | 3–10% | GT-4.3 |
-| Intrapreneurship Phase 2 NRC (base) | 7% of net external revenue | A7, Clause 6.2 |
-| Intrapreneurship Phase 2 NRC (Sprout+) | 5% | A7 + Perk Framework |
+| Intrapreneurship Phase 2 NRC | 5% of net external revenue | A7, Clause 6.2 |
 | Intrapreneurship Phase 3 NRC | 5% | A7, Clause 6.2 |
 | Ownership termination notice | 90 days | A1, Clause 6.1 |
 | Stewardship notice — standard | 30 days | A3, Clause 16.1 |
-| Stewardship notice — extended (12+ months tenure OR Tree tier) | 90 days | A3, Clause 16.1 |
+| Stewardship notice — extended (12+ months tenure) | 90 days | A3, Clause 16.1 |
 | Hub activation deadline | 6 months from commencement | A1, Clause 3.9 |
 | Ownership transfer notice (Owner → Association) | 60 days | A1, Clause 6.3 |
 | Incoming owner assumption period | 30 days | A1, Clause 6.3 |
@@ -110,7 +106,7 @@ Thresholds for Seed → Sprout → Tree set by governance (not fixed in agreemen
 | Intrapreneurship network introductions | 3 within 60 days | A7, Clause 8.3b |
 | Association remedy period if obligations fail | 30 days from written notice | A7, Clause 8.4 |
 | Demand Signal publication | 30 days from submission | A7, Clause 2.2 |
-| Eldership eligibility | Tree tier | A8, Clause 2.1 |
+| Eldership eligibility | long, substantial contribution record | A8, Clause 2.1 |
 | Custodial Council activation (post-dissolution) | 90 days without successor | GT-13.5 |
 | Ledger public archive fallback | 180 days without successor | GT-13.4 |
 
@@ -118,12 +114,12 @@ Thresholds for Seed → Sprout → Tree set by governance (not fixed in agreemen
 
 ## Intrapreneurship — Phase Structure
 
-| Phase | Network capacity | External | NRC (base) | NRC (Sprout+) | Association support |
-|---|---|---|---|---|---|
-| 1 — Incubation | 100% | ✗ | N/A | N/A | Full: hubs, fiscal hosting, first client, 3 introductions |
-| 2 — Operational | ≥70% | ≤30% | 7% | 5% | Ecosystem + reference client |
-| 3 — Mature | ≥40% | ≤60% | 5% | 5% | Ecosystem only |
-| Post-graduation | Per A7-3 | Per A7-3 | ≥5% (defined period) | Reduced for Tree+ | Per Graduation Agreement |
+| Phase | Network capacity | External | NRC | Association support |
+|---|---|---|---|---|
+| 1 — Incubation | 100% | ✗ | N/A | Full: hubs, fiscal hosting, first client, 3 introductions |
+| 2 — Operational | ≥70% | ≤30% | 5% | Ecosystem + reference client |
+| 3 — Mature | ≥40% | ≤60% | 5% | Ecosystem only |
+| Post-graduation | Per A7-3 | Per A7-3 | ≥5% (defined period) | Per Graduation Agreement |
 
 Capacity = working capacity, not revenue. Phase transitions require Phase Transition Review ([[Agreement 7 Annex 2 — Phase Review]]) + two-thirds majority of Venture Members.
 
@@ -131,7 +127,7 @@ Capacity = working capacity, not revenue. Phase transitions require Phase Transi
 
 ## Eldership and the Elder Council
 
-The **Elder Council** is the standing governance body of all Forest-tier participants who hold [[Agreement 8 — Eldership|Agreement 8]]. It is not advisory — it holds the following authorities by right:
+The **Elder Council** is the standing governance body of all participants who hold [[Agreement 8 — Eldership|Agreement 8]]. It is not advisory — it holds the following authorities by right:
 
 - **Covenant Custody** — may issue a Covenant Signal that suspends contested decisions until publicly addressed (A8 §5.4a)
 - **Constellation Integrity Review** — 30-day consultation window before any GT or agreement amendment (A8 §5.4b)
@@ -161,7 +157,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | Document                                        | Purpose                                                                           |
 | ----------------------------------------------- | --------------------------------------------------------------------------------- |
 | [[Social DNA Framework]]                        | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
-| [[Network Passport]]                            | Full tier descriptions + role-scoped perk table + governance notes                |
+| [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
 | [[Care Protocol — Hardship Support Governance]] | Care Circle model; hardship support from NRC Fund; systemic learning function     |
 
@@ -199,8 +195,8 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | A7-1 | Venture Sheet | Agreement 7 |
 | A7-2 | Phase Transition Review | Agreement 7 |
 | A7-3 | Graduation Agreement | Agreement 7 |
-| A8-1 | Elder Council Charter *(to be drafted)* | Agreement 8 |
-| A8-2 | Transition Rite Record *(to be drafted)* | Agreement 8 |
+| A8-1 | Elder Council Charter | Agreement 8 |
+| A8-2 | Transition Rite Record | Agreement 8 |
 
 ---
 

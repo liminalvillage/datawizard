@@ -46,7 +46,7 @@
 
 **2.3** The Association publishes Demand Signals in the Register with appropriate anonymisation — preserving the pattern and its evidence without exposing the identities of individual requesters unless they have consented. The Register is accessible to all current members.
 
-**2.4** The Association commits to actively curating the Register: consolidating similar signals, retiring signals that have been adequately addressed, flagging signals that have been visible and unaddressed for more than six months, and communicating the Register's state at each seasonal gathering.
+**2.4** The Association's governing body, acting through a designated **Register Curator**, actively curates the Register: consolidating similar signals, retiring signals that have been adequately addressed, flagging signals that have been visible and unaddressed for more than six months, and communicating the Register's state at each seasonal gathering. Until the network's digital infrastructure (GT-3.1) is operational, the Register is maintained by the Curator as a network-accessible controlled record; thereafter it lives in that infrastructure.
 
 **2.5** The existence of a Demand Signal in the Register does not obligate the Association or any member to respond to it. It makes the need visible and invites a response. The response may come as a Venture Holon under this Agreement, or through other means — a new mentorship programme, a stewardship adaptation, a partnership project. The Register is the network's antenna, not its command structure.
 
@@ -116,7 +116,7 @@
 
 - **Capacity allocation:** Minimum 70% of capacity continues to serve the network; up to 30% may serve external clients
 - **External trading:** Permitted; the venture may operate under the Association's fiscal umbrella or its own legal entity if formed
-- **Network Regeneration Contribution:** **7% of Net External Revenue** (base rate). Reduced to **5%** for Venture Members at Sprout tier or above in their Network Passport
+- **Network Regeneration Contribution:** **5% of Net External Revenue** (the standard network rate per GT-4)
 - **Association support:** Continued ecosystem access; reduced direct involvement; Association acts as reference client
 - **Duration:** As defined in the Venture Sheet; reviewed annually
 - **Exit criteria:** The venture is financially self-sustaining; has established external client relationships; has a governance structure capable of operating independently; and has a proposal for Phase 3 or Graduation
@@ -264,6 +264,6 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport governs cumulative recognition, tier status, and any network-wide benefits or preferences associated with such contributions.
+Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
 
-For Venture Members, Passport status may influence phase review priority, reduced Network Regeneration Contribution rates where expressly provided, and post-graduation conditions as defined in this Agreement, the Graduation Annex, and the Network Passport framework.
+For Venture Members, the Passport is a portable, cumulative record of contribution. It does not alter the Network Regeneration Contribution rates set in this Agreement, which are flat per phase.
