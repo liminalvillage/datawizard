@@ -16,6 +16,13 @@ rm -f "content/0.0 Project Guidelines.md" \
       "content/0.3 Decision Log.md"
 rm -rf content/.obsidian
 
+# Flatten: no folders in the nav. Every document sits at the site root.
+# (Vault filenames are unique across Agreements/Annexes/Companion Docs.)
+find content -mindepth 2 -type f -print0 | while IFS= read -r -d '' f; do
+  mv -n "$f" "content/$(basename "$f")"
+done
+find content -mindepth 1 -type d -exec rm -rf {} +
+
 # Synthesize the public homepage (keeps the Obsidian vault free of an index.md).
 cp site/index.md content/index.md
 
