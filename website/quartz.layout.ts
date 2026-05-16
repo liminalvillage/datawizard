@@ -1,9 +1,10 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-// Explicit flat reading order in the Explorer sidebar (no folders):
-// Introduction -> Constellation Overview -> Agreement N (each followed
-// by its annexes) -> companion docs -> General Terms -> Cheatsheet.
+// Explorer ordering: root-level standalone docs first (Introduction,
+// Constellation Overview, General Terms, Cheatsheet), then the
+// Agreements / Annexes / Companion Docs folders. Within a folder,
+// items are ranked by agreement number.
 // NOTE: sortFn is serialized (.toString) and re-run in the browser via
 // `new Function`, so it must be fully self-contained AND must not contain
 // any inner named function — esbuild's keepNames would inject a `__name`
