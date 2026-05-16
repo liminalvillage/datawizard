@@ -6,4 +6,11 @@ website/build/
 website/.docusaurus/
 website/.cache-loader/
 website/.netlify/
+# Quartz build artifacts and the build-time copy of the vault
+website/public/
+website/content/
+website/.quartz-cache/
 .DS_Store
+
+# DataWizard Seed (nested git repo, see Git Guide 4.0)
+_DataWizard/Seed/

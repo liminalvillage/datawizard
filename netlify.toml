@@ -1,0 +1,11 @@
+# Build and deploy the ReGenerativa constellation as a website (Quartz v4).
+# Every push to the connected branch triggers this build.
+
+[build]
+  base = "website"
+  command = "bash build.sh"
+  publish = "public"
+
+[build.environment]
+  # Quartz v4 requires Node >= 22.
+  NODE_VERSION = "22"
