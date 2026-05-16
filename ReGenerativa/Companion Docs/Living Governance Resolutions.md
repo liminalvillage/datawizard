@@ -112,19 +112,6 @@ EUR 1,200 floor is reviewed by the Board at least every two (2) years. Pairs wit
 
 ---
 
-## LGR-3 — Withdrawn 2026-05-17 (tiers removed)
-
-**Status.** Withdrawn. LGR-3 set Network Passport tier thresholds
-(Seed/Sprout/Tree). The tier system was removed entirely in the radical-simplification
-reversal of 2026-05-17 (see [[0.3 Decision Log]] and
-[[Radical Simplification - One Rule - 2026-05-16]]). There are no tiers, therefore no
-thresholds. Access now follows the single sliding-scale rule in GT-3A.3 (the more you
-have contributed, the higher your priority and the lower your price, up to free), with
-each steward/mentor/hub setting the dial for their own resource in good faith. This
-entry is retained as a tombstone so LGR numbering stays stable.
-
----
-
 ## LGR-4 — GT-3.1 infrastructure: minimal v1 scope (bounds the commitment)
 
 **Serves.** GT-3.1 commits the Association to maintain, beyond the Contribution Ledger,
