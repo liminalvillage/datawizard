@@ -1,5 +1,5 @@
 ---
-title: ReGenerativa — Constellation of Agreements
+title: ReGenerativa
 ---
 
 # ReGenerativa

@@ -1,5 +1,7 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
-const currentTheme = localStorage.getItem("theme") ?? userPref
+// Default to light (green-and-white). The visitor's OS dark-mode
+// preference is intentionally ignored; the user can still toggle to
+// dark and that explicit choice is persisted in localStorage.
+const currentTheme = localStorage.getItem("theme") ?? "light"
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
 const emitThemeChangeEvent = (theme: "light" | "dark") => {
@@ -30,8 +32,7 @@ document.addEventListener("nav", () => {
     window.addCleanup(() => darkmodeButton.removeEventListener("click", switchTheme))
   }
 
-  // Listen for changes in prefers-color-scheme
-  const colorSchemeMediaQuery = window.matchMedia("(prefers-color-scheme: dark)")
-  colorSchemeMediaQuery.addEventListener("change", themeChange)
-  window.addCleanup(() => colorSchemeMediaQuery.removeEventListener("change", themeChange))
+  // OS prefers-color-scheme is intentionally NOT followed: the site
+  // defaults to light and only changes when the user clicks the toggle.
+  void themeChange
 })
