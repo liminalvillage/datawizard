@@ -8,12 +8,12 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-05-10'
+updated: '2026-05-16'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
 
-*Quick-reference map of the full architecture. Read the [[Introduction — A Constellation of Agreements|Introduction]] for the why. Use this for the what and how.*
+*Quick-reference map of the full architecture. New here? Start with the [[Constellation Overview]]. Read the [[Introduction — A Constellation of Agreements|Introduction]] for the why. Use this for the what and how.*
 
 ---
 
