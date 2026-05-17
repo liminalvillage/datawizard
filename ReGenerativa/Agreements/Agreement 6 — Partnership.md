@@ -246,4 +246,4 @@ Date: _________________________
 
 Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
 
-For Partners, Passport status may be used as a trust and collaboration signal in future Projects, including simplified onboarding, validation confidence, or preferred selection for network-aligned opportunities, as defined in the Network Passport framework.
+For Partners, the Network Passport is a portable, cumulative record of contribution and a trust signal for future Projects (GT-3A.5). It carries no tiers or fixed perks; any contribution-based access follows the single rule in GT-3A.3.

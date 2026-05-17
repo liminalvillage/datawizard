@@ -42,9 +42,9 @@ tags:
 
 ## 2. Eligibility and Entry
 
-**2.1 Contribution Requirement.** This Agreement is available exclusively to natural persons who, at the time of entry, have a long and substantial standing contribution record in the network (GT-3A). No legal entity may hold this Agreement.
+**2.1 Eligibility.** This Agreement is available exclusively to natural persons; no legal entity may hold it. It recognises sustained, long-term contribution to the network; the operative eligibility requirement is the contribution standing set out in Clause 2.2.
 
-**2.2 Contribution Standing.** The Elder must hold, or have held, at least one other agreement in the constellation for a minimum period defined by the Association's governance body and published as a living governance resolution (see Living Governance Resolutions, Resolution LGR-1, dated 2026-05-16). The specific threshold is not fixed herein — it will reflect the network's understanding of what sustained, meaningful contribution looks like as the network matures.
+**2.2 Contribution Standing.** The Elder must hold, or have held, at least one other agreement in the constellation for a minimum period defined by the Association's governance body and published as a living governance resolution (see Living Governance Resolutions, Resolution LGR-1, dated 2026-05-16). The threshold is set in that resolution (currently five (5) years; see LGR-1), not in this Agreement, so it can evolve without amending this Agreement.
 
 **2.3 Nomination and Invitation.** Entry into Eldership may occur by:
 
