@@ -1,6 +1,6 @@
 ---
 created: '2026-05-16'
-updated: '2026-05-17'
+updated: '2026-05-22'
 status: active
 type: overview
 maturity: draft
@@ -59,6 +59,7 @@ The word *constellation* is deliberate. These are not rungs on a ladder, and no 
 - **Each agreement is complete on its own.** You do not need the others for one to work.
 - **They are designed to be held together.** A member can also steward a hub and mentor in it. Adding a role never reopens the ones you already hold; you just sign the new agreement.
 - **Two things sit in the background.** One shared rulebook (the General Terms) keeps every agreement consistent, and the Association's Statute sits above them all. You do not need to read either to take part.
+- **The Association holds the network's money.** It acts as one shared account through which every hub, project, and venture passes its earnings — each one keeping its own envelope inside, directed by its own stewards.
 
 ---
 

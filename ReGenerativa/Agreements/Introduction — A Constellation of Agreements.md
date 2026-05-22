@@ -7,7 +7,7 @@ tags:
   - constellation
 title: Introduction — A Constellation of Agreements
 type: introduction
-updated: '2026-05-10'
+updated: '2026-05-22'
 ---
 
 # A Constellation of Agreements for a Regenerative Commons
@@ -72,7 +72,9 @@ From support comes **collaboration** — the relationship of partners who join f
 
 And from collaboration comes **creation** — the relationship of the member who sees an unmet need in the network and builds a response to it from within, incubated by the commons, serving the commons first, and eventually capable of standing on its own without breaking the bond that gave it life.
 
-Together, these seven relationships form a system in which each role sustains the others. The owner's land makes the member's belonging possible. The member's commitment makes the steward's role meaningful. The steward's care makes the mentor's gift sustainable. The mentor's knowledge makes the programmes worth supporting. The supporter's resources make the partnership infrastructure real. The partner's collaboration makes the commercial layer viable. The intrapreneur's venture addresses needs the network couldn't otherwise serve. Each part sustains the whole. The whole sustains every part.
+And from creation, eventually, comes **wisdom** — the relationship of the elder who has given through many of the other roles over years and seasons, and now holds the network's memory, names its drift, and directs the network's surplus toward what serves the next generation. From doing to witnessing, from building to holding.
+
+Together, these eight relationships form a system in which each role sustains the others. The owner's land makes the member's belonging possible. The member's commitment makes the steward's role meaningful. The steward's care makes the mentor's gift sustainable. The mentor's knowledge makes the programmes worth supporting. The supporter's resources make the partnership infrastructure real. The partner's collaboration makes the commercial layer viable. The intrapreneur's venture addresses needs the network couldn't otherwise serve. The elder's wisdom directs the network's surplus back into the conditions that make all the rest possible. Each part sustains the whole. The whole sustains every part.
 
 This is what the holonic principle names: every entity is simultaneously whole in itself and part of something larger. The hub is a whole. The network is a whole. Each relationship in the constellation is complete in its own right — and part of a living architecture that is greater than the sum of its agreements.
 
