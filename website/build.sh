@@ -15,6 +15,7 @@ rm -f "content/0.0 Project Guidelines.md" \
       "content/0.2 Session Log.md" \
       "content/0.3 Decision Log.md"
 rm -rf content/.obsidian
+rm -rf "content/Strategy" "content/Archive"
 
 # Site structure:
 #   root            -> standalone reference docs
