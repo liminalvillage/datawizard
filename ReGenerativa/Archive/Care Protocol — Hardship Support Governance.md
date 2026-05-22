@@ -1,18 +1,16 @@
 ---
 title: Care Protocol — Hardship Support Governance
 type: governance-protocol
-status: draft
+status: archived
 created: '2026-03-28'
-updated: '2026-05-16'
+updated: '2026-05-22'
 tags:
   - governance
   - ReGenerativa
   - care
-  - network-regeneration-fund
+  - archive
 ---
-*Governance protocol for the hardship support function of the Network Regeneration Fund. Addresses the gap in the current constellation: the Fund explicitly allocates to "steward/contributor hardship support" (GT-4.2) but no document governs how this works in practice. This protocol does not require a new agreement — it operates under the Association's governance powers and the General Terms.*
-
-*This document is internal governance, not a contract. It is approved by the Association's Board and reviewed annually.*
+*Archived 2026-05-22. The hardship-support function this protocol covered is now expressed in the Unified Fund architecture: steward operating support flows through the cascade's Stewards bucket (GT-4A.3(b)); general mutual aid is directed by the Elder Council as Mission Allocation (GT-4A.5(b)); both are reported in the bilancio sociale (GT-4A.8). Retained here as a design artefact.*
 
 ---
 
