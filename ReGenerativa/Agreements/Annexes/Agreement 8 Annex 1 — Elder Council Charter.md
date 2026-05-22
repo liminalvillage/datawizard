@@ -11,8 +11,8 @@ tags:
   - governance
 title: Agreement 8 Annex 1 — Elder Council Charter
 type: annex
-updated: '2026-05-16'
-version: '1.1'
+updated: '2026-05-22'
+version: '1.2'
 ---
 *Annex 1 to the [[Agreement 8 — Eldership|Eldership Agreement]]. Defines the operational charter of the Elder Council — its convening, decision-making, designated Council Seat, and the procedures through which it exercises the authorities granted in Agreement 8 §5. Forms an integral part of the Agreement.*
 
@@ -49,7 +49,7 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 **2.4** The host hub of the Council Seat receives:
 - Formal recognition in network communications and the Cheatsheet
 - Inclusion of "Council Seat" status in its Hub DNA record (Agreement 1 Annex 5) for the duration of the designation
-- Coverage of incremental hospitality costs for annual gatherings from the Elder Fund (Agreement 8 §4.2)
+- Coverage of incremental hospitality costs for annual gatherings from the Council's Operating bucket per GT-4A.5(a) and Agreement 8 §5.5
 
 **2.5** If no hub volunteers as Council Seat, or if the current host withdraws, the Council convenes virtually until a successor is designated. The annual gathering may be held at any willing hub on a one-off basis until the Seat is re-established.
 
@@ -146,7 +146,21 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 - Selection of a successor entity requires two-thirds majority
 - The Council Seat continues to serve as the operational base unless the host hub withdraws
 
-**5.4.4** The Custodial Council's authority is defined by GT-13.5: administering the remaining Network Regeneration Fund for participant welfare; nominating and constituting a successor entity; maintaining continuity of relational obligations.
+**5.4.4** The Custodial Council's authority is defined by GT-13.5: administering the remaining Unified Fund for participant welfare; nominating and constituting a successor entity; maintaining continuity of relational obligations.
+
+### 5.5 Mission Allocation (Agreement 8 §5.4(e) and GT-4A.5)
+
+**5.5.1** The Elder Council holds allocation rights over the portion of the Unified Fund routed to it (cascade and waterfall flows per GT-4A). Allocation is directed by collective Council deliberation toward Association mission spending serving integral regeneration.
+
+**5.5.2** **Operating bucket.** The Council retains a portion for its own governance operating costs (convening, deliberation, documentation, annual gathering costs), bounded by the target O_e per LGR-2. This bucket covers Council governance work only; it is not personal income to elders.
+
+**5.5.3** **Allocation bucket.** Beyond Operating, the Council deliberates collectively to direct mission spending. Recipients may include any holon, Steward, or programme serving integral regeneration. Allocation may include elderly-focused hubs and elder-serving programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
+
+**5.5.4** **Procedure.** Allocation decisions are made at a Council session (annual or specially convened), per the default decision rule (§4.1) for routine allocations and the supermajority rule (§4.2) for allocations exceeding the published delegated-authority ceiling (LGR-2). Each allocation decision is recorded in the Council Record with recipient, amount, mission purpose, and any conditions.
+
+**5.5.5** **Anti-self-dealing.** The Council's Allocation bucket cannot fund personal payments to Council members or to any elder; Council members may participate in mission-aligned programmes the Council funds (e.g. activities at an elderly-focused hub), but participation is in mission activity, not as recipients of personal income. The Council's Operating bucket covers Council governance work only.
+
+**5.5.6** **Reporting.** All allocation decisions are reported in the annual *bilancio sociale*, consolidated with the Association's overall Unified Fund reporting.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.3'
+version: '1.4'
 created: '2026-04-14'
-updated: '2026-05-17'
+updated: '2026-05-22'
 status: active
 tags:
   - agreement
@@ -74,7 +74,13 @@ In either case, the Elder's consent is required. Eldership cannot be conferred w
 
 Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordination with the hub's capacity. The Elder gives reasonable advance notice where possible. No hub is obligated to host an Elder beyond its genuine capacity, but no hub may decline without first consulting the Association and proposing an alternative arrangement within the network.
 
-**4.2 Elder Fund.** The Association maintains a dedicated sub-reserve within the Network Regeneration Fund, designated the **Elder Fund**, from which the costs of Elder hospitality are drawn. The Elder Fund is reported separately in the annual *bilancio sociale*. The Association may not admit a new Elder under this Agreement unless the Elder Fund holds reserves sufficient to cover a minimum defined by the governance body per current Elder per year (see Living Governance Resolutions, Resolution LGR-2, dated 2026-05-16). If the Fund falls below this threshold, the Elder Council is automatically convened.
+**4.2 Unified Fund and Council Allocation Rights.** The Association operates the Unified Fund as its single financial account (GT-1.10), of which the Elder Council holds allocation rights over a portion routed to it under GT-4A.5. The Council allocates that portion through two buckets:
+
+(a) **Operating** — for the Council's governance operating costs (convening, deliberation, documentation, annual gathering), bounded by the target O_e set by the Board with the Council (see Living Governance Resolutions, Resolution LGR-2);
+
+(b) **Allocation** — for Association mission spending directed by collective Council deliberation toward integral regeneration, which may include elderly-focused hubs and elder-serving programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
+
+The Council's allocation rights are exercised collectively per its charter (Annex 1 §5.5) and bounded by the hard rails of GT-4A.6. Reported in the annual *bilancio sociale*.
 
 **4.3 Membership Fee Waiver.** The annual membership fee under Agreement 2 is permanently waived for the Elder from the date of entry into this Agreement. The Association absorbs this cost as a recognition obligation.
 
@@ -102,7 +108,9 @@ Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordin
 
 **(d) Custodial Council Activation.** In the event of Association dissolution, the Elder Council constitutes the core of the Custodial Council under GT-13.5 and assumes the authorities defined therein.
 
-**5.5 Annual Gathering.** The Elder Council convenes at minimum once per year at the Council Seat. The Association bears the costs of this gathering from the Elder Fund. The annual gathering is open to observation by all network members, though deliberation may be conducted in closed session at the Council's discretion.
+**(e) Mission Allocation.** Per GT-4A.5, the Elder Council holds allocation rights over the portion of the Unified Fund routed to it. The Council deliberates collectively to direct its Allocation bucket toward Association mission spending serving integral regeneration. Allocation decisions are recorded in the Council Record (Charter §6.1) and consolidated annually in the *bilancio sociale*.
+
+**5.5 Annual Gathering.** The Elder Council convenes at minimum once per year at the Council Seat. The Association bears the costs of this gathering from the Council's Operating bucket under GT-4A.5(a). The annual gathering is open to observation by all network members, though deliberation may be conducted in closed session at the Council's discretion.
 
 ---
 
@@ -132,7 +140,7 @@ Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordin
 
 **8.2 Voluntary Withdrawal.** The Elder may voluntarily withdraw from this Agreement at any time by written notice to the Association. Upon withdrawal: the Elder's recognition is retained in the Passport as a permanent record; the Elder's named legacy and living history entries are preserved; hospitality rights and membership fee waiver cease; and Elder Council membership concludes.
 
-**8.3 Dissolution Continuity.** This Agreement survives the dissolution of the Association per GT-13. The rights and recognitions it establishes are enforceable against any successor entity. The Elder Fund, if remaining, is administered by the Custodial Council exclusively for the benefit of active Elders.
+**8.3 Dissolution Continuity.** This Agreement survives the dissolution of the Association per GT-13. The rights and recognitions it establishes are enforceable against any successor entity. Any Council Operating reserves remaining at dissolution are administered by the Custodial Council per GT-13.5.
 
 **8.4** There is no termination for cause provision in this Agreement. The network does not revoke Eldership. If an Elder's conduct is seriously harmful to the network or its participants, the matter is addressed through the dispute resolution process (GT-7) and, if warranted, through legal process — but the Eldership itself is not a sanction to be withdrawn.
 

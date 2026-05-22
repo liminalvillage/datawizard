@@ -6,7 +6,7 @@
 
 **GT-1.1** **"Association"** means ReGenerativa APS — ETS, tax code 92074380442, registered in the RUNTS, with registered office in Castorano (AP), Italy.
 
-**GT-1.2** **"Statute"** means the Association's foundational constitutional document, registered 21 December 2024.
+**GT-1.2** **"Statute"** means the Association's foundational constitutional document, registered 21 June 2025.
 
 **GT-1.3** **"Third Sector Code"** means Italian Legislative Decree 3 July 2017, No. 117.
 
@@ -22,7 +22,7 @@
 
 **GT-1.9** **"Net Revenue"** means revenue remaining after deduction of direct costs, fiscal charges, and other deductions defined in the relevant agreement or annex.
 
-**GT-1.10** **"Network Regeneration Fund"** means the common fund administered by the Association for the purposes described in Clause GT-4.
+**GT-1.10** **"Unified Fund"** (the "Fund") means the Association's single financial architecture, operated through a public fiscal-hosting platform, through which all economic activity of the Association and its holons passes. The Association is the fiscal host for all holons (Hubs under Agreement 1, Projects under Agreement 6, Venture Holons under Agreement 7, the Elder Council under Agreement 8): each holon maintains a dedicated collective on the platform, with its revenues and expenses moving through the Fund while operational autonomy is retained within mandate. The Unified Fund comprises the Association's central pool together with all holon collectives. Inflows are governed by Clause GT-4. Allocations are governed by Clause GT-4A.
 
 **GT-1.11** **"Network Passport"** means each participant's portable, cumulative record of validated contributions across all roles, hubs, and time, held in the Contribution Ledger. It carries no tiers and no fixed perk schedule; it is the basis for the single sliding-scale access rule in GT-3A.
 
@@ -88,17 +88,60 @@
 
 **GT-3A.7** The Passport is subject to the same GDPR and data protection provisions as all other Contribution Ledger data (GT-3.4, GT-5). Participants may request access to, correction of, or deletion of their Passport data at any time.
 
+**GT-3A.8 - Guaranteed access floor.** In addition to the contribution-graded access of GT-3A.3, every Member in good standing holds the following unconditional access entitlements:
+(a) **Priority booking** — Members may book hub stays and programme places a stated number of days ahead of non-member/public access. The advance window is published by the Association and adjustable by Board resolution;
+(b) **No turn-away with spare capacity** — Where a hub holds genuine spare capacity, no Member shall be turned away from a contribution-based stay solely for inability to pay a contribution; the steward shall apply the sliding scale of GT-3A.3 in good faith.
+
+These entitlements require no funding from the Unified Fund; they are absorbed at the hub level as foregone revenue. They form the floor below the sliding-scale rule of GT-3A.3, not a replacement for it.
+
 ---
 
 ## GT-4. Network Regeneration Contribution
 
-**GT-4.1** Economic activities benefiting from the network's resources shall contribute a portion of revenue to the **Network Regeneration Fund**.
+**GT-4.1** Economic activities benefiting from the network's resources shall contribute a portion of revenue to the **Unified Fund** (GT-1.10).
 
 **GT-4.2** Unless otherwise agreed, **a minimum of five percent (5%) of Net Revenue** shall be allocated. The Fund supports: ecological restoration; shared infrastructure; steward/contributor hardship support; digital infrastructure; and inter-hub mobility and knowledge transfer.
 
 **GT-4.3** The rate may be adjusted within three percent (3%) to ten percent (10%) by mutual agreement. For Partnership Agreement activities, this is a structure cost deducted before Partner distribution.
 
 **GT-4.4** The Association reports annually on the Fund as part of its bilancio sociale.
+
+---
+
+## GT-4A. Unified Fund Allocation
+
+**GT-4A.1 - Fiscal hosting.** The Association is the fiscal host for all holons. All economic activity — revenues, expenses, contributions, allocations — passes through the Unified Fund. Each holon operates within the Fund as a governance and accounting unit, with its own mandate, dedicated collective, and one or more Stewards. The Association's central pool receives the Network Regeneration Contribution (GT-4) and direct unrestricted contributions, and is allocated by the Board per GT-4A.3. The legal person remains the Association at all times.
+
+**GT-4A.2 - Steward allocation rights.** Every Steward of a holon holds a *delega di spesa* from the Association: delegated authority to allocate resources within the holon's collective, within the holon's mandate, under the ceiling, and within the hard rails of GT-4A.6. Where a holon has more than one Steward, allocation rights are shared and exercised collectively through the holon's own internal decision-making process — which the Stewards establish (consensus, sociocracy, majority, or other), with each co-Steward holding voice and participation, and every relevant decision recorded. Where a holon has a single Steward, the Steward decides alone under personal responsibility. For the Elder Council (Agreement 8), the Council acts as the collective Steward of its own holon per its charter.
+
+**GT-4A.3 - Network cascade (Board allocates the central pool).** The Board allocates the central-pool balance through priority buckets, in the following order:
+(a) **Holons** — operating support transferred to holon collectives, with a published target;
+(b) **Stewards** — active steward operating support (activity-cost reimbursement per Agreement 3 §8 and Clause GT-12), with a published target;
+(c) **Elder Council** — any balance beyond the saturated Holons and Stewards buckets routes to the Elder Council, without cap.
+
+The two saturating buckets fill smoothly; when one is nearly saturated, the next begins to fill. In a lean year, lower-priority buckets visibly shrink; in a healthy year, the Elder Council receives the residual to direct toward mission. Targets and shape parameters are held as Living Governance Resolutions per GT-4A.7.
+
+**GT-4A.4 - Holon waterfall (Stewards allocate the holon collective).** A holon's locally generated revenue, after the Network Regeneration Contribution (GT-4) has been deducted at source, is allocated by its Stewards through the same shape within the holon's collective:
+(a) **Place** — the holon's tenure operating cost reserve, with a published target;
+(b) **Discretionary envelope** — the Stewards' discretionary deployment envelope for activity expenses within mandate, with a published cap;
+(c) **Excess** — any surplus above the discretionary cap is transferred upward to the Elder Council via inter-collective transfer on the fiscal-hosting platform.
+
+**GT-4A.5 - Elder Council allocation rights.** The Elder Council receives all flows routed to it from the network cascade and the holon waterfalls as a single combined inflow. The Council is treated as a holon for allocation purposes and allocates its inflow through two buckets:
+(a) **Operating** — the Council's own governance operating costs (convening, deliberation, documentation), with a published target. Not personal income to elders;
+(b) **Allocation** — Association mission spending under the Council's Agreement 8 mandate, uncapped, directed by collective Council deliberation to any holon, Steward, or programme serving integral regeneration. May include elderly-focused hubs and programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
+
+**GT-4A.6 - Hard rails.** Every allocator (Board, Stewards, Elder Council) operates within the same procedural rails:
+(a) **Subsidiarity** — within mandate, under the ceiling, with the cost-coverage bucket secured, the allocator decides; no higher-level pre-approval of in-scope spend;
+(b) **Two-part purpose test** — every expense must serve both the local mandate AND the Association's integral-regeneration purpose;
+(c) **Delegated-authority ceiling** — single-signature up to a published cap; second signature above the cap; second signature always required on the allocator's own payments or reimbursements;
+(d) **Anti-self-dealing** — no allocator may allocate to their own personal benefit; participation in mission-aligned programmes is mission participation, not personal income;
+(e) **Reconciliation** — Stewards reconcile at tenure handover; the Elder Council per its Agreement 8 charter; cost-coverage reserves are intact at reconciliation, no deficit passed forward;
+(f) **No application process for routine flows** — flows are structural per the cascade and waterfall shapes; the Elder Council deliberates as the Agreement 8 mandated allocation body; all decisions recorded and reported in the *bilancio sociale*;
+(g) **Non-distribution constraint** — no flow at any scale constitutes personal income, salary, pension, or profit distribution to any natural person. Personal compensation of natural persons engaged by the Association, where it occurs, is a separate matter governed by Agreement 3 §8 and Clause GT-12, outside the Unified Fund's allocation cascade.
+
+**GT-4A.7 - Targets and parameters.** The cascade targets, the holon cost target, the Council operating target, the cascade stiffness, and the delegated-authority ceiling are set by Board resolution and held as Living Governance Resolutions, revisable through the same instrument class.
+
+**GT-4A.8 - Annual reporting.** The Association reports annually on the Unified Fund — inflows, allocations across all buckets at every scale, and Council Allocation decisions — as part of its *bilancio sociale*.
 
 ---
 
@@ -201,7 +244,7 @@ Every person or entity that holds an Ownership Agreement (Agreement 1) acknowled
 The Contribution Ledger and Network Passport data are network commons. No liquidator, successor entity, creditor, or third party may use them for commercial purposes, restrict participant access, or destroy them. If no successor entity is identified within 180 days of dissolution, the data shall be transferred to open public archive under a Creative Commons licence, with pseudonymisation preserved per GT-3.4.
 
 **GT-13.5 — Custodial Council**
-If no successor entity is identified within 90 days of the Association entering dissolution proceedings, the hub owners (Agreement 1 holders) and any Elder Council constituted under Agreement 8 shall convene a Custodial Council. The Custodial Council operates independently of the Association's legal form and has authority to: administer the remaining Network Regeneration Fund exclusively for participant welfare; nominate and constitute a successor entity; and maintain continuity of relational obligations until succession is complete or the network formally concludes. The Custodial Council is self-constituting — it requires no further instrument to convene beyond the conditions stated in this clause.
+If no successor entity is identified within 90 days of the Association entering dissolution proceedings, the hub owners (Agreement 1 holders) and any Elder Council constituted under Agreement 8 shall convene a Custodial Council. The Custodial Council operates independently of the Association's legal form and has authority to: administer the remaining Unified Fund exclusively for participant welfare; nominate and constitute a successor entity; and maintain continuity of relational obligations until succession is complete or the network formally concludes. The Custodial Council is self-constituting — it requires no further instrument to convene beyond the conditions stated in this clause.
 
 **GT-13.6 — Individual Agreement Survival**
 The relational rights and recognitions established in each individual agreement — including Passport record, Elder status, stewardship legacy, and named recognitions — survive the dissolution of the Association and are enforceable against any successor entity that assumes the constellation obligations under GT-13.2.

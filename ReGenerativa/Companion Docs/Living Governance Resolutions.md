@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.0'
+version: '1.1'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-22
 tags:
   - governance
   - ReGenerativa
@@ -42,12 +42,11 @@ basis, its review cadence, and a **status**:
 - **Ratified** — confirmed by the governing body; still revisable, but now the network's
   settled position.
 
-LGR-1 and LGR-2 were **Ratified** by the vault owner on 2026-05-16. **LGR-3 (Network
-Passport tier thresholds) was withdrawn on 2026-05-17** when the tier system was removed
-in the radical-simplification reversal (see [[0.3 Decision Log]] 2026-05-17 and
-[[Radical Simplification - One Rule - 2026-05-16]]); there are no tiers, so there are no
-thresholds. LGR-4 remains a **Provisional** scope-bounding resolution. Ratified figures
-remain revisable by a Decision Log entry, never an agreement amendment.
+LGR-1 was **Ratified** by the vault owner on 2026-05-16. **LGR-2 (Unified Fund cascade
+and waterfall parameters)** is **Provisional** (framework) as of 2026-05-22, with
+specific figures awaiting Board ratification. **LGR-3** has been withdrawn; **LGR-4**
+remains a **Provisional** scope-bounding resolution. Ratified figures remain revisable
+by a Decision Log entry, never an agreement amendment.
 
 ---
 
@@ -84,31 +83,52 @@ contribution-history data; revisable by Decision Log entry.
 
 ---
 
-## LGR-2 — Elder Fund minimum reserve (Agreement 8, Clause 4.2)
+## LGR-2 — Unified Fund cascade and waterfall parameters (GT-4A.7)
 
-**Serves.** A8 Cl 4.2: the Association "may not admit a new Elder under this Agreement
-unless the Elder Fund holds reserves sufficient to cover a minimum defined by the
-governance body per current Elder per year."
+**Serves.** GT-4A.7: "The cascade targets, the holon cost target, the Council operating
+target, the cascade stiffness, and the delegated-authority ceiling are set by Board
+resolution and held as Living Governance Resolutions, revisable through the same
+instrument class." Also serves Agreement 8 §4.2 (Council Operating target) and §5.4(e)
+(Mission Allocation).
 
-**Resolution (Ratified).** Before a new Elder may be admitted, the Elder Fund must hold
-reserves of at least **the greater of (a) one thousand two hundred euro (EUR 1,200) per
-current Elder per year, or (b) the trailing-twelve-month actual incremental hospitality
-cost per current Elder**, computed at the most recent annual *bilancio sociale*.
+**Resolution (Provisional - framework).** Specific figures are deferred to Board
+ratification. The following framework applies:
 
-**Basis.** A flat figure would under-reserve once Elders exercise unconditional
-hospitality (A8 Cl 4.1) heavily, quietly pushing real cost onto host hubs. The
-self-correcting formula keeps the low EUR 1,200 floor - so admission is never blocked
-purely on early liquidity - while auto-escalating to true observed cost as soon as
-there is data. Reported as a separate line in the annual *bilancio sociale* per A8
-Cl 4.2; if the Fund falls below the threshold the Elder Council is automatically
-convened (A8 Cl 4.2 unchanged).
+- **Network cascade targets** (per GT-4A.3):
+  - `K_h` - Holons bucket target (operating support and infrastructure for holons),
+    set by Board, projected against integral-regeneration holon support needs;
+  - `K_s` - Stewards bucket target (active steward operating support), set by Board,
+    projected against active steward needs.
+- **Council Operating target** (per GT-4A.5(a)):
+  - `O_e` - Elder Council Operating target (governance operating costs), set by Board
+    in consultation with the Council.
+- **Holon Place target** (per GT-4A.4(a)):
+  - `C` - set per holon at Steward appointment, recorded in the holon's mandate
+    document (Hub DNA / Project Sheet / Venture Sheet).
+- **Cascade stiffness** (per GT-4A.7):
+  - `α` - recommended value 1, shared across scales; may be split into `α_network`
+    and `α_holon` if scale-specific stiffness is preferred by the Board.
+- **Delegated-authority ceiling** (per GT-4A.6(c)):
+  - Single-signature ceiling - EUR amount per transaction, set by Board;
+  - Supermajority threshold for Council Allocation - EUR amount triggering
+    full-Council supermajority, set by Board.
 
-**Review.** The actual-cost component recomputes at each annual *bilancio sociale*; the
-EUR 1,200 floor is reviewed by the Board at least every two (2) years. Pairs with LGR-1.
+**Basis.** The Unified Fund's cascade and waterfall mechanism (GT-4A) requires
+parameters to operate. Setting these as Living Governance Resolutions allows them to
+evolve without amending the agreements. Specific figures are deferred to Board
+ratification, informed by initial operational data and integral-regeneration
+projections. The Council target `O_e` is set with the Council itself to honour its A8
+mandate.
 
-**Citation.** A8 Cl 4.2 cites this resolution by ID and date (applied 2026-05-16).
+**Review.** Reviewed by the Board at least annually alongside the *bilancio sociale*;
+revisable by Decision Log entry at any time.
 
-**Status.** Ratified - 2026-05-16 (owner). Self-correcting formula adopted.
+**Citation.** GT-4A.7 and the operative clauses (GT-4A.3, GT-4A.4, GT-4A.5, GT-4A.6)
+cite this resolution. Agreement 8 §4.2 and §5.4(e) cite this resolution for the Council
+Operating target.
+
+**Status.** Provisional (framework) - 2026-05-22. Specific figures awaiting Board
+ratification.
 
 ---
 
