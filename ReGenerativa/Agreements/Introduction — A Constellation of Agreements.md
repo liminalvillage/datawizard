@@ -80,6 +80,22 @@ This is what the holonic principle names: every entity is simultaneously whole i
 
 ---
 
+## Access as Abundance
+
+In a transactional economy, resources flow to whoever can pay for them. Price rations access; the inability to pay is the same as the absence of need. This is what a market does well — and what a market does worst, because willingness to pay is not the same as genuine need, mission alignment, or the long arc of contribution.
+
+A relational economy rations differently. Access flows in order of standing contribution: the more a participant has given the network across roles, hubs, and time, the higher their priority and the lower their price, up to and including free. The newcomer is welcomed at full price; those who have given most over years and seasons may receive freely. This is not charity. It is the network keeping faith with its own.
+
+The financial architecture is the operational form of this principle. The Association holds one shared account through which all network economic activity passes — and inside it, each hub, each project, each venture has its own envelope, directed by its own stewards within their mandate. What a holon does not spend on operations flows upward to the Elder Council, which directs the surplus back into the network as mission spending — never as personal income, never as profit, always as care turned into circulation.
+
+There is no application process. The cascade does the work the application form would. Each role earns its allocation by being in standing relationship to the network. The steward decides what their holon needs. The Council decides what the wider network needs. The flows are structural; the deliberation is human.
+
+This is what abundance means here. Not unlimited resources — the architecture is honest when resources are lean, and lean years are politically pointed. Abundance is what emerges when resources circulate well within mission: when money does not silt up in private accumulation; when those closest to a need are the ones who direct the response; when long-form contribution earns the responsibility, not the salary, of stewarding the commons.
+
+Resources travel with relationships. They do not travel without them.
+
+---
+
 ## The Invitation
 
 These agreements are thresholds. Crossing one is a choice to be in relationship in a specific way — with specific commitments on both sides, specific protections, and specific freedoms. No one is coerced across any threshold. The constellation is designed so that a person can participate at the level that feels true to them, at the depth they are ready for, for as long as that depth is genuine.
