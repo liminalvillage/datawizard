@@ -139,11 +139,11 @@ The collaboration is guided by:
 
 ## 10A. Network Regeneration Contribution
 
-**10A.1** Economic activities carried out under this Agreement contribute to the **Network Regeneration Fund** (GT-4). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
+**10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
 
 **10A.2** The base NRC rate is **five percent (5%) of Net Project Revenue**, unless the Parties agree a different rate within the range permitted by GT-4.3 (3%–10%). The applicable rate for each Project shall be stated in the Project Sheet (Clause 6.2). Where no rate is specified in the Project Sheet, the base rate of 5% applies.
 
-**10A.3** The NRC is transferred to the Network Regeneration Fund within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
+**10A.3** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
 
 ---
 

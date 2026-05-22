@@ -43,7 +43,7 @@ updated: '2026-05-17'
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Network Regeneration Fund — ≥5% of net revenue; range 3–10% |
+| GT-4 / GT-4A | Unified Fund — NRC ≥5% of net revenue at source; range 3–10%; cascade allocation per GT-4A (Holons → Stewards → Elder Council) |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-7 | Dispute resolution — amicable → Elder Council (Probiviri) → external mediation → Ascoli Piceno |
@@ -136,7 +136,7 @@ The **Elder Council** is the standing governance body of all participants who ho
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
-The **Elder Fund** is a ring-fenced sub-reserve within the Network Regeneration Fund, dedicated to Elder hospitality costs. Entry of new Elders is governance-gated by Elder Fund reserves (A8 §4.2).
+The **Elder Council** holds allocation rights over a portion of the Unified Fund routed to it (GT-4A.5). The Council allocates that portion through two buckets: **Operating** (Council governance costs) and **Allocation** (Association mission spending under the Council's A8 mandate, never personal income to elders). Council Operating is funded through the cascade (GT-4A.3); the Council itself directs all further mission allocation.
 
 ---
 

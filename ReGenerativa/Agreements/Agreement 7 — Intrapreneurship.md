@@ -139,7 +139,7 @@
 
 **7.1 During Phase 1:** The Association acts as fiscal host for any income the venture generates from network activities. This is governed by Italian Third Sector fiscal rules and GT-12.
 
-**7.2 During Phases 2 and 3:** External revenue may be invoiced through the Association (if the venture has not yet incorporated) or through the venture's own legal entity. In either case, the Network Regeneration Contribution is calculated on Net External Revenue and transferred to the Network Regeneration Fund within 30 days of receipt.
+**7.2 During Phases 2 and 3:** External revenue may be invoiced through the Association (if the venture has not yet incorporated) or through the venture's own legal entity. In either case, the Network Regeneration Contribution is calculated on Net External Revenue and transferred to the Unified Fund (GT-1.10) within 30 days of receipt.
 
 **7.3 Distribution among Venture Members:** After the NRC and any agreed operating costs, Net Revenue is distributed among Venture Members in proportion to their Validated Contributions, following the dynamic share logic of Agreement 6 (Clauses 9–10). Distribution occurs within 30 days of revenue receipt and accounting completion.
 

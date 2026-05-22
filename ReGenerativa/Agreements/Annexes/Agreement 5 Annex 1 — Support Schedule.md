@@ -84,7 +84,7 @@ tags:
 ☐ Person / role: [e.g. "scholarship for a steward"]
 ☐ Infrastructure: [e.g. "solar installation at Hub X"]
 ☐ Programme: [e.g. "mentorship programme on regenerative design"]
-☐ Network Regeneration Fund
+☐ Unified Fund (central pool)
 ☐ Other: ___
 
 **If milestone-based, specify conditions for release:**

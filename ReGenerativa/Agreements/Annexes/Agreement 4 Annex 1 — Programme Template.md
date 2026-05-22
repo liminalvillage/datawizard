@@ -107,7 +107,7 @@ Free access is a structural gift-economy obligation of the network (Agreement 4,
 
 - **Estimated free / gift places this Programme:** ___
 - **Is Mentor compensation contingent on reaching the Minimum Viable Threshold?** ☐ No - not contingent  ☐ Yes - contingent, on this basis: ___
-- **Shortfall allocation.** If free places are offered and the Programme nonetheless runs below the Minimum Viable Threshold, the shortfall between Programme revenue and the Mentor's agreed compensation is borne by the Association, not the Mentor, funded where necessary from the Network Regeneration Fund contributor-support allocation (GT-4.2). The Mentor never carries a loss created by the network's own gift-economy obligation.
+- **Shortfall allocation.** If free places are offered and the Programme nonetheless runs below the Minimum Viable Threshold, the shortfall between Programme revenue and the Mentor's agreed compensation is borne by the Association, not the Mentor, funded where necessary from the Unified Fund — under the Council's Allocation bucket per GT-4A.5(b) where the Council so directs, or otherwise from the cascade's Stewards bucket per GT-4A.3(b) where the Mentor is the activity Steward. The Mentor never carries a loss created by the network's own gift-economy obligation.
 - **Cap (optional):** Association shortfall cover for this Programme capped at €___ (blank = no cap).
 
 ---

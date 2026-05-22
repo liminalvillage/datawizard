@@ -117,7 +117,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - If Venture falls to one Member: Association + remaining/former Members agree path within **30 days** (A7 §11.5)
 
 ### D.7 NRC Remittance
-- NRC transferred to Network Regeneration Fund within **30 days** of revenue receipt and accounting completion (A7 §7.2)
+- NRC transferred to Unified Fund (GT-1.10) within **30 days** of revenue receipt and accounting completion (A7 §7.2)
 - Distributions to Venture Members within **30 days** of revenue receipt and accounting completion (A7 §7.3)
 
 ---
@@ -199,18 +199,23 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ---
 
-## Section J — Network Regeneration Fund (GT-4)
+## Section J — Unified Fund (GT-4 + GT-4A)
 
-### J.1 Standard Rate
-- Base NRC: **5% of Net Revenue** (GT-4.2)
+### J.1 Inflow rate (GT-4)
+- Base NRC: **5% of Net Revenue** at source (GT-4.2)
 - Negotiable range: **3%–10%** by mutual agreement (GT-4.3)
-- Annual report to membership in *bilancio sociale* (GT-4.4)
 
-### J.2 Elder Fund Sub-Reserve (per Agreement 8 §4.2)
-- Dedicated sub-reserve within NRF for Elder hospitality costs
-- Reported separately in annual *bilancio sociale*
-- Minimum reserve threshold per current Elder per year: **to be defined by governance**; below threshold triggers Elder Council convening
-- Board may not redeploy without supermajority + Elder Council consent
+### J.2 Allocation cascade (GT-4A.3)
+- Priority order: **Holons → Stewards → Elder Council**
+- Targets `K_h`, `K_s` (plus Council Operating target `O_e`) set by Board resolution and held as Living Governance Resolutions (LGR-2)
+- Anything beyond the saturated buckets routes to the Elder Council (GT-4A.3(c) / GT-4A.5)
+
+### J.3 Holon waterfall (GT-4A.4)
+- **Place** (cost reserve, bounded by `C` set per holon) → **Discretionary envelope** (bounded by α·C) → **Excess** to Elder Council
+- Each holon's Referente/Steward(s) hold a *delega di spesa* (GT-4A.2)
+
+### J.4 Reporting
+- Annual *bilancio sociale* — inflows, allocations across all buckets at every scale, Council Allocation decisions (GT-4A.8)
 
 ---
 
@@ -246,20 +251,6 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ### K.5 Distribution Calculator
 - Partner Share (%) = Partner's Validated Contributions (€ equivalent) ÷ Total Validated Contributions (€ equivalent)
 - Conversion to € equivalent uses rates in **A6-2 Economics Schedule Part B** (or Project Sheet milestone values)
-
----
-
-## Section L — Care Protocol — Hardship Support
-
-*See [[Care Protocol — Hardship Support Governance]] companion doc for full details.*
-
-### L.1 Care Circle Constitution
-- Convened by Association in response to participant hardship request
-- Operates under Care Protocol governance
-- Funded from NRF per GT-4.2 (steward/contributor hardship support)
-
-### L.2 Hardship Request Workflow
-*To be defined in Care Protocol companion doc; cross-referenced here for completeness.*
 
 ---
 

@@ -97,11 +97,10 @@ Holons    = K_h · tanh(Pool_0 / (α·K_h))     → operating support & infrastr
 Pool_1    = Pool_0 − Holons
 Stewards  = K_s · tanh(Pool_1 / (α·K_s))     → active steward operating support (activity-cost reimbursement; see F1)
 Pool_2    = Pool_1 − Stewards
-Council   = K_e · tanh(Pool_2 / (α·K_e))     → Elder Council allocation envelope (treasury portion the Council directs to mission; see F1)
-Overflow  = Pool_2 − Council                   → additional treasury routed to Council for further mission-directed allocation
+Council   = Pool_2                             → routed to the Elder Council without cap, for mission-directed allocation per GT-4A.5
 ```
 
-**Order follows the lifecycle:** the *holons* where stewardship happens, then those *actively practicing* it, then the Council's *allocation envelope* over which the Council holds direction rights; anything beyond saturation routes to the Council as additional treasury to direct.
+**Order follows the lifecycle:** the *holons* where stewardship happens, then those *actively practicing* it, then the Elder Council which holds allocation rights over the residual treasury for mission-directed redistribution.
 
 ### Scale 2 - The holon waterfall (steward allocates the holon envelope)
 
@@ -119,15 +118,10 @@ The steward is the treasurer of the holon's envelope within the mandate. They ha
 
 ### The Elder Council - holding allocation rights over a treasury portion
 
-The Council receives three streams of inflow, all forming the treasury portion over which it holds allocation rights:
-1. **Cascade Council bucket** (`K_e` from the network cascade) — the saturating allocation envelope.
-2. **Cascade Overflow** (cascade overflow above `K_e`) — additional treasury for direction.
-3. **Excess from every other holon** (each holon's surplus above its Place + Stewards) — further treasury for direction.
-
-The Council allocates its total inflow `P` via a simple two-bucket structure: a small `Operating` bucket for its own governance work, and an `Allocation` bucket containing everything else, which the Council directs as mission spending under its A8 mandate:
+The Council receives a single combined inflow over which it holds allocation rights — combining all flows routed to it from the network cascade (Scale 1) and the holon waterfalls (Scale 2). The Council allocates this inflow `P` through a simple two-bucket structure: a small `Operating` bucket for its own governance work, and an `Allocation` bucket containing everything else, which the Council directs as mission spending under its A8 mandate:
 
 ```
-Pool       = P  (the three inflows summed)
+Pool       = P  (combined inflow from cascade + all holon excess)
 Operating  = O_e · tanh(Pool / (α·O_e))           → cap = O_e  (Council's own governance operating costs: convening, deliberation, documentation, charter administration — never personal income for elders)
 Allocation = Pool − Operating                       → Council-directed mission spending under A8 delegated mandate — to any holon, project, steward, or programme serving integral regeneration. May include elderly-focused hubs and elder-serving programmes as mission-aligned uses within the integral-regeneration mission, but always as mission spending on programmes, never as personal payments to elders or to Council members. Bounded by hard rails; reported in the bilancio sociale.
 ```

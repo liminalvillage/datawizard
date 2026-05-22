@@ -65,7 +65,7 @@ The Vehicle Entity maintains an operating reserve to cover structure costs in ad
 
 **How reserve is funded:** [e.g. "Deducted from first Project revenues; topped up by Partners equally if reserve falls below €___"]
 
-**Surplus in operating account at year-end:** [e.g. "Rolled forward to next year / distributed to Partners pro rata / allocated to Network Regeneration Fund"]
+**Surplus in operating account at year-end:** [e.g. "Rolled forward to next year / distributed to Partners pro rata / allocated to the Unified Fund (central pool)"]
 
 ---
 

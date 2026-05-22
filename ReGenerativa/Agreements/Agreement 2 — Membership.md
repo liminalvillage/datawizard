@@ -50,7 +50,7 @@
 
 **3.1 Democratic Governance.** Ensure that the Association is governed democratically in accordance with its Statute and the Third Sector Code (Art. 23 CTS), including the equal treatment of members, the right to vote, and the right to stand for election to governing bodies.
 
-**3.2 Transparency and Information.** Provide members with timely access to annual reports, financial statements (bilancio di esercizio), the social balance sheet (bilancio sociale) where applicable, meeting minutes, programme updates, and reports on the Network Regeneration Fund.
+**3.2 Transparency and Information.** Provide members with timely access to annual reports, financial statements (bilancio di esercizio), the social balance sheet (bilancio sociale) where applicable, meeting minutes, programme updates, and reports on the Unified Fund (GT-1.10).
 
 **3.3 Access to Activities and Network.** Make reasonable efforts to provide members with meaningful opportunities to participate in the Association's programmes, events, and volunteer activities, and to access the regenerative capacity of the network's hubs in accordance with available resources.
 
