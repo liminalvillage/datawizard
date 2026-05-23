@@ -1,3 +1,15 @@
+---
+title: Agreement 6 — Partnership
+type: agreement
+version: '3.1'
+status: active
+created: '2026-03-17'
+updated: '2026-05-23'
+tags:
+  - agreement
+  - partnership
+  - ReGenerativa
+---
 *Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost and is operationalised in Clause 10A. The digital infrastructure provisions (GT-3) govern the Contribution Ledger (a plain, shared log — not a blockchain). Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
 
 ---
@@ -27,6 +39,8 @@
 **1.3** The Partners intend this Agreement to function as a **syntropic collaboration framework**, enabling collaboration in which each Partner contributes according to its competencies, value is recognised in proportion to actual contribution, and projects can scale without becoming extractive.
 
 **1.4** This is a framework agreement. Each specific initiative shall be described in one or more **Project Sheets** attached or linked to this Agreement.
+
+**1.5 Holon status.** For the purposes of GT-4A (Unified Fund Allocation), each Project activated under this Framework is a **holon**: a governance and accounting unit within the Unified Fund, with its own mandate, dedicated collective on the fiscal-hosting platform, and coordination role (or Vehicle Entity) acting on behalf of participating Partners. The Network Regeneration Contribution (GT-4) feeds the Unified Fund central pool; allocation across the Fund follows GT-4A.
 
 ---
 
@@ -115,7 +129,7 @@ The collaboration is guided by:
 
 **8.1** Contributions shall be recorded in the Contribution Ledger. A Contribution becomes Validated when accepted according to the Project rules, which may include: peer validation, project lead approval, milestone confirmation, majority approval, or documentary evidence.
 
-**8.2** The Partners use a simple shared digital record to ensure traceability and transparency of contributions (see [[Agreement 6 Annex 4 — Validation Platform|A6-4]]).
+**8.2** The Partners use a simple shared digital record to ensure traceability and transparency of contributions (see [[Agreement 6 Annex 4 — Contribution Log|A6-4]]).
 
 **8.3** Disputes regarding validation shall be addressed first among participating Partners, then by two-thirds majority if unresolved.
 
@@ -238,7 +252,7 @@ Date: _________________________
 - [[Agreement 6 Annex 1 — Partner Onboarding & Register]] — combined adhesion form and canonical Partner register *(Part A is the form new Partners sign; Part B is the living record)*
 - [[Agreement 6 Annex 2 — Economics Schedule]] — combined structure costs and reference hourly rates *(Part A is overhead deducted before distribution; Part B is the rate table for hours-based contributions)*
 - [[Agreement 6 Annex 3 — Project Sheet]] — one sheet per Project; governs scope, contributions, and revenue
-- [[Agreement 6 Annex 4 — Validation Platform]] — technical architecture of the Contribution Ledger
+- [[Agreement 6 Annex 4 — Contribution Log]] — the simple shared log in which Partner contributions are recorded, confirmed, and turned into distribution shares
 
 ---
 

@@ -12,8 +12,8 @@ tags:
   - rates
 title: Agreement 6 Annex 2 — Economics Schedule
 type: annex
-updated: '2026-05-11'
-version: '2.0'
+updated: '2026-05-23'
+version: '2.1'
 ---
 *Annex 2 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Two-part document defining the economic parameters of the Framework: **Part A** sets out structure costs (overhead deducted before Partner distribution); **Part B** sets out reference hourly rates (used when contributions are measured in hours). Forms an integral part of the Agreement. Reviewed annually.*
 
@@ -30,7 +30,7 @@ Structure costs are the recurring overhead costs of operating the Partnership Fr
 Structure costs are distinct from:
 - **Direct Project costs** (costs specific to delivering a particular Project — included in the Project Sheet)
 - **Partner contributions** (tracked in the Contribution Ledger — these are the basis for distribution)
-- **The Network Regeneration Contribution** (GT-4 — a separate deduction also treated as a structure cost)
+- **The Network Regeneration Contribution** (GT-4 — a deduction made before Partner distribution; pass-through to the Unified Fund central pool, governed by §10A of the Agreement, not a Vehicle Entity overhead)
 
 ## A.2 Standard Structure Cost Categories
 
@@ -41,7 +41,7 @@ Structure costs are distinct from:
 | Digital platform (Contribution Ledger) | Hosting, development, maintenance of the validation platform | Per Project or flat monthly fee | €___ / month |
 | Insurance | Professional liability and other covers for the Framework | Pro rata across Projects by revenue | €___ / year |
 | Communication and administration | Coordination, communications tooling, meeting costs | Per Project or flat fee | €___ / Project or €___ / month |
-| Network Regeneration Contribution | Min. 5% of Net Revenue per GT-4 — deducted here as a structure cost | 5% (or agreed rate) of Net Revenue per Project | 5% |
+| Network Regeneration Contribution | Min. 5% of Net Revenue per GT-4 — pass-through to the Unified Fund central pool (not a Vehicle Entity overhead); see §10A of the Agreement | 5% (or agreed rate) of Net Revenue per Project | 5% |
 
 **Total estimated annual structure costs:** €___
 
@@ -73,7 +73,7 @@ The Vehicle Entity maintains an operating reserve to cover structure costs in ad
 
 ## B.1 Purpose
 
-When a Project Sheet (see [[Agreement 6 Annex 4 — Project Sheet]]) specifies that contributions will be measured by hours, this Part provides the agreed reference rates. These rates convert hours into a monetary value for the purpose of calculating each Partner's proportional share in Net Project Revenue distribution.
+When a Project Sheet (see [[Agreement 6 Annex 3 — Project Sheet]]) specifies that contributions will be measured by hours, this Part provides the agreed reference rates. These rates convert hours into a monetary value for the purpose of calculating each Partner's proportional share in Net Project Revenue distribution.
 
 **Important:** These are reference rates for internal accounting purposes — they do not represent actual payments to Partners during the Project. Distribution occurs from actual Net Project Revenue, not from an accumulation of notional hourly values.
 

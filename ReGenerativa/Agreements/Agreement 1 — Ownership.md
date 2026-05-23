@@ -1,3 +1,15 @@
+---
+title: Agreement 1 — Ownership
+type: agreement
+version: '3.2'
+status: active
+created: '2026-03-17'
+updated: '2026-05-23'
+tags:
+  - agreement
+  - ownership
+  - ReGenerativa
+---
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, network regeneration contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply to this Agreement without repetition.*
 
 ---
@@ -27,6 +39,8 @@
 **1.3** The Association may organise activities at or with the Asset that generate lawful revenue, provided that such revenue is used exclusively to cover operating costs, fund the Association's statutory activities, and support the regenerative mission of the network. Such activities do not constitute commercial exploitation of the Asset by the Owner.
 
 **1.4** Any use of the Asset outside the agreed Purpose is prohibited unless the Parties agree otherwise in writing by way of amendment to Annex 2.
+
+**1.5 Holon status.** For the purposes of GT-4A (Unified Fund Allocation), the Hub established under this Agreement is a **holon**: a governance and accounting unit within the Unified Fund, with its own mandate, dedicated collective on the fiscal-hosting platform, and Steward(s) holding *delega di spesa* per GT-4A.2.
 
 ---
 

@@ -1,3 +1,17 @@
+---
+title: Agreement 2 Annex 1 — Member Onboarding
+type: annex
+annex_ref: A2-1
+parent_agreement: Agreement 2 — Membership
+status: template
+created: '2026-04-02'
+updated: '2026-05-23'
+tags:
+  - annex
+  - ReGenerativa
+  - membership
+  - onboarding
+---
 *Annex 1 to the [[Agreement 2 — Membership|Membership Agreement]]. Complete one per member per hub visit or role. Read alongside the hub's completed [[Agreement 1 Annex 5 — Hub DNA]] — that document is the place introducing itself; this one is the member introducing themselves to it. File completed documents as: "A2-1 — Member Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
 
 *This document is read by the steward before a member arrives. It makes contribution legible, conditions known, and story visible — so the community can receive the person as they actually are, not as a generic participant.*

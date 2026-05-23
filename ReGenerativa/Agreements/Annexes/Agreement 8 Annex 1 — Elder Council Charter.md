@@ -11,8 +11,8 @@ tags:
   - governance
 title: Agreement 8 Annex 1 — Elder Council Charter
 type: annex
-updated: '2026-05-22'
-version: '1.2'
+updated: '2026-05-23'
+version: '1.3'
 ---
 *Annex 1 to the [[Agreement 8 — Eldership|Eldership Agreement]]. Defines the operational charter of the Elder Council — its convening, decision-making, designated Council Seat, and the procedures through which it exercises the authorities granted in Agreement 8 §5. Forms an integral part of the Agreement.*
 
@@ -184,7 +184,7 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 
 **7.2 Collegio dei Probiviri (transitional).** Until the Council is constituted, the Collegio dei Probiviri (if elected) performs the internal mediation role per GT-7.2. Once the Council is constituted, the Probiviri role is absorbed into the Council per §5.3 of this Charter; the formal Probiviri body is not separately maintained.
 
-**7.3 Care Circle and Other Standing Bodies.** Where the network establishes other standing bodies (Care Circle, governance committees), the Council relates to them as peer bodies, not as a higher authority. The Council's authorities under Agreement 8 §5.4 are exercised in relation to network-wide matters; day-to-day operational governance remains with the Association's governing body and its delegated structures.
+**7.3 Other Standing Bodies.** Where the network establishes other standing bodies (governance committees, working groups, mission-aligned circles), the Council relates to them as peer bodies, not as a higher authority. The Council's authorities under Agreement 8 §5.4 are exercised in relation to network-wide matters; day-to-day operational governance remains with the Association's governing body and its delegated structures.
 
 ---
 

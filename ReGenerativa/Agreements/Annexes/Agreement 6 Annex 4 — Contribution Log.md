@@ -4,18 +4,18 @@ type: annex
 annex_ref: A6-4
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-05-17'
+updated: '2026-05-23'
 status: template
 tags:
   - annex
   - ReGenerativa
   - partnership
+version: '2.0'
 ---
 *Annex 4 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Describes how
-Partner contributions are logged, confirmed, and turned into distribution shares. Forms
-an integral part of the Agreement. As of 2026-05-17 this is deliberately a plain
-record, not a blockchain platform (see [[0.3 Decision Log]] and
-[[Radical Simplification - One Rule - 2026-05-16]]).*
+Partner contributions are logged, confirmed, and turned into distribution shares. The
+log is a plain shared record, not a blockchain platform. Forms an integral part of the
+Agreement.*
 
 ---
 

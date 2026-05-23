@@ -1,3 +1,17 @@
+---
+title: Agreement 3 Annex 1 — Steward Onboarding
+type: annex
+annex_ref: A3-1
+parent_agreement: Agreement 3 — Stewardship
+status: template
+created: '2026-04-02'
+updated: '2026-05-23'
+tags:
+  - annex
+  - ReGenerativa
+  - stewardship
+  - onboarding
+---
 *Annex 1 to the [[Agreement 3 — Stewardship|Stewardship Agreement]]. Complete one per steward per hub, before or at the start of stewardship. Read alongside the hub's completed [[Agreement 1 Annex 5 — Hub DNA]] — that document is the place introducing itself; this one is the steward introducing themselves. File completed documents as: "A3-1 — Steward Onboarding — [Name] — [Hub Name].md" in the Hubs/[Hub Name]/People/ folder.*
 
 *This is not a job description. It is a stewardship intention — written before the role begins, reviewed each season, and completed with handover notes when the stewardship ends. It is read by the Association, the Owner (where relevant), and the incoming steward.*
@@ -58,7 +72,7 @@
 
 **My approach to conflict:**
 - [e.g. I address it early and directly — I don't let things fester]
-- [e.g. I use the [[Care Protocol — Hardship Support Governance|Care Protocol]] when situations go beyond my capacity to hold alone]
+- [e.g. I escalate situations beyond my capacity to the Association and, where hardship support is needed, request a Council Allocation under GT-4A.5(b)]
 
 **My limits of authority** (per [[Agreement 3 — Stewardship|Stewardship Agreement]] Clause 7.3):
 - I will not sign contracts, take on debt, or make financial commitments without the Association's written approval

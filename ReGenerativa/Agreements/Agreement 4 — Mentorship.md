@@ -1,3 +1,15 @@
+---
+title: Agreement 4 — Mentorship
+type: agreement
+version: '3.2'
+status: active
+created: '2026-03-17'
+updated: '2026-05-23'
+tags:
+  - agreement
+  - mentorship
+  - ReGenerativa
+---
 *Incorporates the [[General Terms and Conditions]] in full. Fiscal compliance provisions (GT-12) apply to all compensation under this Agreement.*
 
 ---
@@ -58,7 +70,7 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 
 ## 4. Pricing and Access Structure
 
-**4.1** Unless otherwise agreed in the Programme Annex, access to each Programme shall follow this tiered structure:
+**4.1** Unless otherwise agreed in the Programme Annex, access to each Programme shall follow this banded structure:
 
 - **Free access** for persons with the highest Validated Contribution to the network, as determined by the Association (or jointly with the Mentor) based on the Contribution Ledger (General Terms GT-3)
 - **Discounted access** for Association members in good standing

@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-1
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-03-28'
+updated: '2026-05-23'
 status: template
 tags:
   - annex
@@ -12,6 +12,7 @@ tags:
   - intrapreneurship
   - venture
   - demand-signal
+version: '1.1'
 ---
 *Annex 1 to the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]]. Activated at the moment a Venture Holon is approved. Documents the Demand Signal the venture is responding to, defines the venture's scope, phase, milestones, NRC rate, and membership. Contributing Members join by signing this document. File completed copies as: "A7-1 — [Venture Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
 
@@ -150,7 +151,7 @@ tags:
 | Phase 3 | 5% | Net External Revenue |
 | Post-Graduation | As per [[Agreement 7 Annex 3 — Graduation]] | |
 
-*The NRC rate is flat per phase. There are no tier-based reductions — the Network Passport tier system was removed (see GT-3A and the Decision Log).*
+*The NRC rate is flat per phase.*
 
 ---
 

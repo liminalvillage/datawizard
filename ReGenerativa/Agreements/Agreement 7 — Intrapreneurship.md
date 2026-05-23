@@ -1,3 +1,15 @@
+---
+title: Agreement 7 — Intrapreneurship
+type: agreement
+version: '1.3'
+status: active
+created: '2026-03-28'
+updated: '2026-05-23'
+tags:
+  - agreement
+  - intrapreneurship
+  - ReGenerativa
+---
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, Network Regeneration Contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply without repetition.*
 
 ---
@@ -101,7 +113,7 @@
 
 **6.1** Every Venture Holon must remain responsive to the documented demand that justified its activation. The Network-First Ruleset ensures that service to the commons precedes external market expansion, and that the venture remains accountable to the network from which it emerged.
 
-**6.2** The ruleset defines three phases. Phase transitions are not automatic; each requires completion of a **[[Agreement 7 Annex 2 — Phase Review]]** agreed in writing by the Association and a two-thirds majority of Venture Members.
+**6.2** The ruleset defines three phases. Phase transitions are not automatic; each requires completion of a **[[Agreement 7 Annex 2 — Phase Review]]** agreed in writing by the Association and a two-thirds majority of Venture Members. **Exceptional Phase 2 entry at activation** is permitted in writing where the venture already demonstrates network service and has at least two active Venture Members at activation; in such cases the standard Phase 1 review is bypassed and the venture begins under Phase 2 obligations from the date of activation (Venture Sheet §3).
 
 ### Phase 1 — Incubation
 

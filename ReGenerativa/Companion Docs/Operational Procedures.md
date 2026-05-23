@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-05-10'
-version: '1.1'
+updated: '2026-05-23'
+version: '1.2'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -219,38 +219,35 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ---
 
-## Section K — Validation Platform (currently in A6-4, migration planned)
+## Section K — Contribution Log (operational detail in A6-4)
 
-### K.1 What Is Recorded On-Chain
-- Pseudonymised Partner identifier
+### K.1 What Is Recorded in the Shared Log
+- Date
+- Partner (pseudonymised identifier where required)
 - Project code
 - Contribution type
-- Quantity (hours / milestone ID / value units)
-- Timestamp of logging
-- Validation status (pending / validated / disputed / rejected)
-- Validator pseudonymised identifier
+- Quantity (hours / milestone / value units)
+- Confirmed by
+- Confirmed on
 
-### K.2 What Is Not Recorded On-Chain
-- Personal data (held off-chain per GDPR/GT-5)
-- Financial amounts (commercially sensitive)
+### K.2 What Is Not in the Shared Log
+- Personal data (held off-log by the Association as data controller per GT-5)
+- Financial amounts where commercially sensitive
 - Client identities
 
-### K.3 Validation Workflow
-1. Partner logs contribution with supporting evidence if required
-2. System notifies assigned validators per Project Sheet rules
-3. Validators review within **7 days**: approve / request clarification / reject
-4. On validation threshold met: status → "Validated", written to ledger
-5. Disputed contributions flagged for Partner discussion → two-thirds → GT-7
+### K.3 Confirmation Workflow
+1. A Partner logs a contribution with supporting evidence if required.
+2. Another Partner (or the Project coordinator) confirms the contribution in good faith. A confirmed contribution is a Validated Contribution (GT-1.8).
+3. Disputed contributions go to Partner discussion → two-thirds majority → GT-7 if unresolved. No special voting threshold is imposed by this Annex.
 
 ### K.4 GDPR Compliance
-- On-chain identifiers are pseudonymised
-- Real identity mapping held off-chain by Association as data controller (GT-5.2)
-- Right to erasure: deletion of records; historical entries become unattributable without destroying underlying activity (GT-3.4)
-- Right to rectification: off-chain correction records
+- The shared log holds operational entries; personal-identity mapping is held off-log by the Association as data controller (GT-5.2).
+- Right to erasure: deletion of records; historical entries become unattributable without destroying the underlying record of activity (GT-3.4).
+- Right to rectification: off-log correction records.
 
 ### K.5 Distribution Calculator
 - Partner Share (%) = Partner's Validated Contributions (€ equivalent) ÷ Total Validated Contributions (€ equivalent)
-- Conversion to € equivalent uses rates in **A6-2 Economics Schedule Part B** (or Project Sheet milestone values)
+- Conversion to € equivalent uses rates in **A6-2 Economics Schedule Part B** (or Project Sheet milestone values).
 
 ---
 

@@ -9,8 +9,8 @@ tags:
   - regenerative-covenant
 title: Social DNA Framework
 type: companion-doc
-updated: '2026-05-10'
-version: '1.1'
+updated: '2026-05-23'
+version: '1.2'
 ---
 *The Association's proprietary framework for classifying and measuring regenerative impact. Referenced in the [[General Terms and Conditions]] (GT-1.6 and GT-2), the [[Agreement 1 — Ownership| Ownership Agreement]] (Annex 2), the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4), and the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]] (Clause 2). This document specifies what the framework is, how it is applied, and how measurement works in practice.*
 
@@ -105,7 +105,7 @@ At the network level, the Association maintains a skills and knowledge inventory
 - Precarity reduction: are members less economically precarious than they were?
 
 **How we assess:**
-Financial transparency is built into the annual reporting cycle. Each hub reports its cost coverage annually. The Association publishes aggregate NRC flows in the bilancio sociale. The Care Protocol (see [[Care Protocol — Hardship Support Governance]]) provides indirect evidence — persistent patterns of hardship indicate structural economic failure, not just individual misfortune.
+Financial transparency is built into the annual reporting cycle. Each hub reports its cost coverage annually. The Association publishes aggregate Unified Fund flows in the *bilancio sociale* (GT-4A.8). Patterns of hardship escalating into Council Allocation requests under GT-4A.5(b) provide indirect evidence — persistent demand indicates structural economic failure, not individual misfortune.
 
 **Note:** This dimension is where the gap between stated values and operational reality most often appears. A network that talks about care while leaving its stewards unable to pay rent has not yet made good on its covenant.
 
@@ -124,7 +124,7 @@ Financial transparency is built into the annual reporting cycle. Each hub report
 - New member integration: how quickly do new members move from stranger to participant to contributor?
 
 **How we assess:**
-This dimension resists quantification most strongly. The primary instruments are: the seasonal gatherings (which are themselves both a measurement and a practice of community), the Care Protocol conversations (which reveal the quality of relational trust), and the stewards' seasonal reports, which include a qualitative community section.
+This dimension resists quantification most strongly. The primary instruments are: the seasonal gatherings (which are themselves both a measurement and a practice of community), conflict-mediation conversations and Council Allocation requests (which reveal the quality of relational trust and where it is breaking down), and the stewards' seasonal reports, which include a qualitative community section.
 
 A simple annual question asked at the winter gathering: *Who here would you call in an emergency?* The breadth and depth of that answer is the most honest measure of community health the network has.
 

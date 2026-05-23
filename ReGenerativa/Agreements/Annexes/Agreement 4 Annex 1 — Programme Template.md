@@ -4,13 +4,14 @@ type: annex
 annex_ref: A4-1
 parent_agreement: Agreement 4 — Mentorship
 created: '2026-03-17'
-updated: '2026-05-16'
+updated: '2026-05-23'
 status: template
 tags:
   - annex
   - ReGenerativa
   - mentorship
   - programme
+version: '1.1'
 ---
 *Programme Annex template for use with the [[Agreement 4 — Mentorship|Mentorship Agreement]]. One annex per Programme. Complete and sign before each Programme is opened for registration. File as: "A4 — [Programme Name] — [YYYY-MM]".*
 
@@ -36,7 +37,7 @@ tags:
 
 ## Access Structure and Capacity
 
-| Tier | Eligibility | Places available | Price |
+| Band | Eligibility | Places available | Price |
 |---|---|---|---|
 | Free | Persons with the highest Validated Contribution (see criteria below) | ___ | €0 |
 | Member discounted | Association members in good standing | ___ | €___ |

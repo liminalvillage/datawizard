@@ -1,9 +1,9 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.4'
+version: '1.5'
 created: '2026-04-14'
-updated: '2026-05-22'
+updated: '2026-05-23'
 status: active
 tags:
   - agreement
@@ -37,6 +37,8 @@ tags:
 **1.2** The network recognises that long-term contribution creates a debt that cannot be repaid in money. It can only be honoured through reverence: through hospitality freely given, through a governance seat with real authority, through the permanent inscription of the Elder's name and story in the network's living history.
 
 **1.3** This Agreement is the instrument of that honour. It creates enforceable rights in favour of the Elder and binding obligations on the Association and its successors. It survives the dissolution of the Association per GT-13.
+
+**1.4 Holon status.** For the purposes of GT-4A (Unified Fund Allocation), the Elder Council is treated as a **holon**: the Council holds allocation rights over a portion of the Unified Fund routed to it (GT-4A.5), exercising those rights collectively per its charter ([[Agreement 8 Annex 1 — Elder Council Charter|A8-1]] §5.5).
 
 ---
 

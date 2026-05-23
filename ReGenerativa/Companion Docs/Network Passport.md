@@ -9,14 +9,11 @@ tags:
   - access-rule
 title: Network Passport — Portable Contribution Record
 type: companion-doc
-updated: '2026-05-17'
-version: '3.0'
+updated: '2026-05-23'
+version: '3.1'
 ---
 *Companion document to [[General Terms and Conditions]] GT-3A. It describes the
-Network Passport and the single access rule. It is not a legal agreement. As of
-2026-05-17 the four-tier system and role-scoped perk tables have been removed in favour
-of one continuous rule (see [[0.3 Decision Log]] and
-[[Radical Simplification - One Rule - 2026-05-16]]).*
+Network Passport and the single access rule. It is not a legal agreement.*
 
 ---
 

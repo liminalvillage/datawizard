@@ -1,3 +1,14 @@
+---
+title: General Terms and Conditions
+type: general-terms
+version: '3.9'
+status: active
+created: '2026-03-17'
+updated: '2026-05-23'
+tags:
+  - general-terms
+  - ReGenerativa
+---
 *Where an individual agreement conflicts with these General Terms, the individual agreement prevails for that specific provision. Where the Statute conflicts with either, the Statute prevails.*
 
 ---
@@ -96,19 +107,19 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 ---
 
-## GT-4. Network Regeneration Contribution
+## GT-4. Network Regeneration Contribution (Unified Fund Inflow)
 
-**GT-4.1** Economic activities benefiting from the network's resources shall contribute a portion of revenue to the **Unified Fund** (GT-1.10).
+**GT-4.1** Economic activities benefiting from the network's resources shall contribute a portion of revenue to the **Unified Fund** (GT-1.10). This clause governs only the inflow rate; allocation of the Fund is governed by GT-4A.
 
-**GT-4.2** Unless otherwise agreed, **a minimum of five percent (5%) of Net Revenue** shall be allocated. The Fund supports: ecological restoration; shared infrastructure; steward/contributor hardship support; digital infrastructure; and inter-hub mobility and knowledge transfer.
+**GT-4.2** Unless otherwise agreed, **a minimum of five percent (5%) of Net Revenue** shall be allocated.
 
 **GT-4.3** The rate may be adjusted within three percent (3%) to ten percent (10%) by mutual agreement. For Partnership Agreement activities, this is a structure cost deducted before Partner distribution.
 
-**GT-4.4** The Association reports annually on the Fund as part of its bilancio sociale.
+**GT-4.4** The Association reports annually on the Fund as part of its *bilancio sociale*.
 
 ---
 
-## GT-4A. Unified Fund Allocation
+## GT-4A. Unified Fund Allocation (Unified Fund Outflow)
 
 **GT-4A.1 - Fiscal hosting.** The Association is the fiscal host for all holons. All economic activity — revenues, expenses, contributions, allocations — passes through the Unified Fund. Each holon operates within the Fund as a governance and accounting unit, with its own mandate, dedicated collective, and one or more Stewards. The Association's central pool receives the Network Regeneration Contribution (GT-4) and direct unrestricted contributions, and is allocated by the Board per GT-4A.3. The legal person remains the Association at all times.
 

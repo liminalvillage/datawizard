@@ -1,3 +1,16 @@
+---
+title: Agreement 2 — Membership
+type: agreement
+version: '3.2'
+status: active
+created: '2026-03-17'
+updated: '2026-05-23'
+tags:
+  - agreement
+  - membership
+  - gateway
+  - ReGenerativa
+---
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
 
 ---

@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-05-17'
+updated: '2026-05-23'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -159,7 +159,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | [[Social DNA Framework]]                        | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
-| [[Care Protocol — Hardship Support Governance]] | Care Circle model; hardship support from NRC Fund; systemic learning function     |
+| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2, LGR-4 provisional) |
 
 ---
 
@@ -191,7 +191,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | A6-1 | Partner Onboarding & Register *(consolidated: register + adhesion form)* | Agreement 6 |
 | A6-2 | Economics Schedule *(consolidated: structure costs + hourly rates)* | Agreement 6 |
 | A6-3 | Project Sheet Template | Agreement 6 |
-| A6-4 | Validation Platform Description | Agreement 6 |
+| A6-4 | Contribution Log | Agreement 6 |
 | A7-1 | Venture Sheet | Agreement 7 |
 | A7-2 | Phase Transition Review | Agreement 7 |
 | A7-3 | Graduation Agreement | Agreement 7 |

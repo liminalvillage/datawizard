@@ -4,13 +4,14 @@ type: annex
 annex_ref: A6-3
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-05-11'
+updated: '2026-05-23'
 status: template
 tags:
   - annex
   - ReGenerativa
   - partnership
   - project
+version: '1.1'
 ---
 *Annex 3 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Template for activating a new Project under the Framework. Complete one sheet per Project. File as: "A6-3 — [Project Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
 
@@ -92,7 +93,7 @@ tags:
 ☐ **Market replacement value** — describe: ___
 ☐ **Hybrid** — describe: ___
 
-**Tracking tool / ledger:** [e.g. "Contribution Ledger platform — see [[Agreement 6 Annex 4 — Validation Platform]]" or "Shared spreadsheet until platform is operational"]
+**Tracking tool / ledger:** [e.g. "Shared Contribution Log per [[Agreement 6 Annex 4 — Contribution Log]]" or "Shared spreadsheet, in line with A6-4"]
 
 **Logging frequency:** ☐ Daily  ☐ Weekly  ☐ Per milestone  ☐ At close
 
@@ -127,7 +128,9 @@ Contributions become Validated when:
 
 **Structure costs** (per [[Agreement 6 Annex 2 — Economics Schedule]] Part A):** €___ (estimated)
 
-**Network Regeneration Contribution** (min. 5%): ___% of Net Revenue = €___ (estimated)
+**Applicable NRC rate for this Project:** ___% of Net Revenue (per A6 §10A.2; default 5%, range 3–10%)
+
+**Network Regeneration Contribution** (computed): €___ (estimated)
 
 **Estimated Net Project Revenue available for Partner distribution:** €___
 

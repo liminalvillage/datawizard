@@ -1,3 +1,15 @@
+---
+title: Agreement 5 — Sponsorship
+type: agreement
+version: '3.0'
+status: active
+created: '2026-03-17'
+updated: '2026-05-23'
+tags:
+  - agreement
+  - sponsorship
+  - ReGenerativa
+---
 *Incorporates the [[General Terms and Conditions]] in full. Standard provisions are set out therein and apply without repetition.*
 
 ---
