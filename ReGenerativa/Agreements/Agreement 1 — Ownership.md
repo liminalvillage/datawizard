@@ -1,7 +1,7 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.2'
+version: '3.3'
 status: active
 created: '2026-03-17'
 updated: '2026-05-23'
@@ -34,7 +34,7 @@ tags:
 
 **1.1** The Owner hereby grants to the Association a **gratuitous, purpose-bound right of use** of the asset described in **Annex 1** (the "Asset"), in accordance with the terms of this Agreement and the provisions of Articles 1803–1812 of the Italian Civil Code on comodato d'uso.
 
-**1.2** The Asset may consist of real property, land, equipment, tools, vehicles, or other items as detailed in Annex 1. The Association shall use the Asset **exclusively for purposes related to its non-profit mission and statutory activities**, in furtherance of its social and community objectives, and limited to the specific uses specified by the Owner in **Annex 2** (the "Purpose"). Annex 2 shall classify the permitted uses according to the Association's **Social DNA Framework** (GT-1.6), which organises regenerative impact across six integral dimensions.
+**1.2** The Asset may consist of real property, land, equipment, tools, vehicles, or other items as detailed in Annex 1. The Association shall use the Asset **exclusively for purposes related to its non-profit mission and statutory activities**, in furtherance of its social and community objectives, and limited to the specific uses specified by the Owner in **Annex 2** (the "Purpose"). Annex 2 shall classify the permitted uses according to the Association's **Regenerative Impact Framework** (GT-1.6), which organises regenerative impact across six integral dimensions.
 
 **1.3** The Association may organise activities at or with the Asset that generate lawful revenue, provided that such revenue is used exclusively to cover operating costs, fund the Association's statutory activities, and support the regenerative mission of the network. Such activities do not constitute commercial exploitation of the Asset by the Owner.
 
@@ -157,7 +157,7 @@ Date: _________________________
 ## Linked Annexes
 
 - [[Agreement 1 Annex 1 — Asset Description and Access]]
-- [[Agreement 1 Annex 2 — Permitted Use and Social DNA]]
+- [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]
 - [[Agreement 1 Annex 3 — Hub Care Protocol]]
 - [[Agreement 1 Annex 4 — Shared Infrastructure]]
 - [[Agreement 1 Annex 5 — Hub DNA]]

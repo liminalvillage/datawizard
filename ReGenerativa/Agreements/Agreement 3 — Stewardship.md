@@ -1,7 +1,7 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.2'
+version: '3.3'
 status: active
 created: '2026-03-17'
 updated: '2026-05-23'
@@ -68,9 +68,9 @@ tags:
 
 ---
 
-## 4. Hub DNA, Social DNA, and Mission Alignment
+## 4. Hub DNA, Regenerative Impact, and Mission Alignment
 
-**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[Agreement 1 Annex 5 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Social DNA Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
+**4.1** The Steward shall safeguard the specific DNA of the Hub, meaning the values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions communicated by the Association, as set out in the **[[Agreement 1 Annex 5 — Hub DNA]]** for this Hub. The Hub DNA is informed by the Association's **Regenerative Impact Framework** (GT-1.6), which classifies regenerative impact across six integral dimensions.
 
 **4.2** The Steward shall help ensure that all persons present at the Hub are informed of and expected to respect the applicable DNA and use conditions.
 

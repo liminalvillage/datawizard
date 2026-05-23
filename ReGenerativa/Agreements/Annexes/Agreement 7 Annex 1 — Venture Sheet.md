@@ -80,9 +80,9 @@ version: '1.1'
 
 ---
 
-## 2. Social DNA Classification
+## 2. Regenerative Impact Classification
 
-*Classify the venture's primary regenerative contribution using the Social DNA Framework (GT-1.6):*
+*Classify the venture's primary regenerative contribution using the Regenerative Impact Framework (GT-1.6):*
 
 | Dimension | Expected contribution | Priority |
 |---|---|---|

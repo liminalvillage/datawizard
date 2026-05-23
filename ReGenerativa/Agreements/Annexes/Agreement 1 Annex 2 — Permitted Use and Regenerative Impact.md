@@ -1,10 +1,10 @@
 ---
-title: Agreement 1 Annex 2 — Permitted Use and Social DNA
+title: Agreement 1 Annex 2 — Permitted Use and Regenerative Impact
 type: annex
 annex_ref: A1-2
 parent_agreement: Agreement 1 — Ownership
 created: '2026-03-17'
-updated: '2026-04-02'
+updated: '2026-05-23'
 status: template
 tags:
   - annex
@@ -12,8 +12,9 @@ tags:
   - ownership
   - asset-use
   - social-dna
+version: '1.1'
 ---
-*Annex 2 to the [[Agreement 1 — Ownership]]. Defines the permitted uses of the Asset and classifies them according to the Social DNA Framework. Forms an integral part of that Agreement.*
+*Annex 2 to the [[Agreement 1 — Ownership]]. Defines the permitted uses of the Asset and classifies them according to the Regenerative Impact Framework. Forms an integral part of that Agreement.*
 
 ---
 
@@ -53,9 +54,9 @@ Additional restrictions specified by the Owner:
 
 ---
 
-## Section C — Social DNA Classification
+## Section C — Regenerative Impact Classification
 
-*The Association's Social DNA Framework (GT-1.6) classifies regenerative impact across six integral dimensions. For each dimension, indicate whether the permitted uses are expected to generate impact, and describe how.*
+*The Association's Regenerative Impact Framework (GT-1.6) classifies regenerative impact across six integral dimensions. For each dimension, indicate whether the permitted uses are expected to generate impact, and describe how.*
 
 **(a) Land and Ecological Systems**
 Expected activities: [e.g. "Land regeneration, composting, rewilding of hedgerow corridors, beekeeping"]
@@ -85,7 +86,7 @@ Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applic
 
 ## Section D — Regenerative Covenant Targets
 
-*In accordance with the Regenerative Covenant (GT-2), the Parties may set specific measurable targets for this Asset across the six Social DNA dimensions. These establish a shared commitment, not a personal financial liability for non-attainment.*
+*In accordance with the Regenerative Covenant (GT-2), the Parties may set specific measurable targets for this Asset across the six Regenerative Impact dimensions. These establish a shared commitment, not a personal financial liability for non-attainment.*
 
 | Target | Baseline (at commencement) | Goal (by end of year __) | Measurement method |
 |---|---|---|---|

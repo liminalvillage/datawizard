@@ -39,7 +39,7 @@ updated: '2026-05-23'
 
 | Section | What it governs |
 |---|---|
-| GT-1 | Definitions (13 terms — Hub, Social DNA, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
+| GT-1 | Definitions (13 terms — Hub, Regenerative Impact, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
@@ -69,7 +69,7 @@ updated: '2026-05-23'
 | e | Community and Relational Culture | Village model, proximity, shared meals, seasonal rhythms |
 | f | Governance and Ethical Integrity | Participatory, transparent, subsidiarity-respecting |
 
-Assessed using the [[Social DNA Framework]]. Targets in Annexes. Reviewed seasonally.
+Assessed using the [[Regenerative Impact Framework]]. Targets in Annexes. Reviewed seasonally.
 
 ---
 
@@ -156,7 +156,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 
 | Document                                        | Purpose                                                                           |
 | ----------------------------------------------- | --------------------------------------------------------------------------------- |
-| [[Social DNA Framework]]                        | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
+| [[Regenerative Impact Framework]]               | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
 | [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2, LGR-4 provisional) |
@@ -179,7 +179,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | Ref | Title | Belongs to |
 |---|---|---|
 | A1-1 | Asset Description, Schedule and Access Conditions | Agreement 1 |
-| A1-2 | Permitted Purposes, Use Restrictions and Social DNA Classification | Agreement 1 |
+| A1-2 | Permitted Purposes, Use Restrictions and Regenerative Impact Classification | Agreement 1 |
 | A1-3 | Hub Care Protocol *(consolidated: maintenance + cleaning)* | Agreement 1 |
 | A1-4 | Shared Infrastructure Contributions | Agreement 1 |
 | A1-5 | Hub DNA | Agreement 1 |

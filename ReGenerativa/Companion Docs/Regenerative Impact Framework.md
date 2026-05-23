@@ -7,18 +7,18 @@ tags:
   - social-dna
   - measurement
   - regenerative-covenant
-title: Social DNA Framework
+title: Regenerative Impact Framework
 type: companion-doc
 updated: '2026-05-23'
-version: '1.2'
+version: '1.3'
 ---
 *The Association's proprietary framework for classifying and measuring regenerative impact. Referenced in the [[General Terms and Conditions]] (GT-1.6 and GT-2), the [[Agreement 1 — Ownership| Ownership Agreement]] (Annex 2), the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4), and the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]] (Clause 2). This document specifies what the framework is, how it is applied, and how measurement works in practice.*
 
 ---
 
-## What the Social DNA Framework Is
+## What the Regenerative Impact Framework Is
 
-The Social DNA Framework is the evaluative vocabulary through which ReGenerativa assesses whether its activities are genuinely regenerative. It answers a question that is easy to ask and hard to answer: *how do we know if we are actually getting better?*
+The Regenerative Impact Framework is the evaluative vocabulary through which ReGenerativa assesses whether its activities are genuinely regenerative. It answers a question that is easy to ask and hard to answer: *how do we know if we are actually getting better?*
 
 "Regenerative" is one of the most overused words in contemporary discourse. It can mean anything from composting a vegetable peel to redesigning a global supply chain. The Framework does not attempt to be a universal standard — it is ReGenerativa's specific articulation of what better looks like, grounded in the six dimensions of the Regenerative Covenant (GT-2).
 
@@ -45,7 +45,7 @@ Each dimension corresponds to a commitment in the Regenerative Covenant (GT-2.2)
 - Food: proportion of food consumed that is produced on-site or within the bioregion
 
 **Baseline and targets:**
-Each hub establishes a baseline assessment at commencement of the Ownership Agreement (recorded in [[Agreement 1 Annex 2 — Permitted Use and Social DNA]]). Targets are set for 1-year and 3-year horizons. Methods are chosen for local relevance and practicability — a simple soil test and an annual species count is more valuable than an elaborate system that never gets done.
+Each hub establishes a baseline assessment at commencement of the Ownership Agreement (recorded in [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]). Targets are set for 1-year and 3-year horizons. Methods are chosen for local relevance and practicability — a simple soil test and an annual species count is more valuable than an elaborate system that never gets done.
 
 **Reference practices:**
 - Annual soil test (basic: OM%, pH, P, K, N)
@@ -152,7 +152,7 @@ The Decision Log ([[0.3 Decision Log]]) is the primary instrument of this dimens
 
 ### At hub level — seasonal assessment
 
-Each hub, at each equinox and solstice gathering, holds a brief Social DNA review. This does not need to be formal. The steward prepares a one-page summary — a paragraph per dimension — describing what has moved, what has stalled, and what needs attention. The group discusses it. Key observations go into the hub's seasonal report to the Association.
+Each hub, at each equinox and solstice gathering, holds a brief Regenerative Impact review. This does not need to be formal. The steward prepares a one-page summary — a paragraph per dimension — describing what has moved, what has stalled, and what needs attention. The group discusses it. Key observations go into the hub's seasonal report to the Association.
 
 **Format (one page per hub per season):**
 
@@ -167,7 +167,7 @@ Each hub, at each equinox and solstice gathering, holds a brief Social DNA revie
 
 ### At network level — annual synthesis
 
-The Association synthesises all hub seasonal reports into an annual Social DNA report, included in the bilancio sociale. This report:
+The Association synthesises all hub seasonal reports into an annual Regenerative Impact report, included in the *bilancio sociale*. This report:
 - Identifies which dimensions are consistently improving across the network
 - Names which dimensions are consistently lagging
 - Surfaces patterns that individual hubs might not see (e.g. economic precarity appearing across multiple hubs suggests a structural issue)
@@ -175,13 +175,13 @@ The Association synthesises all hub seasonal reports into an annual Social DNA r
 
 ### At agreement level — activation
 
-When a new agreement is activated (Ownership, Intrapreneurship, Partnership), the Social DNA Framework is used to classify the activities and set baseline measurements. This is the function served by [[Agreement 1 Annex 2 — Permitted Use and Social DNA]] and [[Agreement 7 Annex 1 — Venture Sheet]].
+When a new agreement is activated (Ownership, Intrapreneurship, Partnership), the Regenerative Impact Framework is used to classify the activities and set baseline measurements. This is the function served by [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]] and [[Agreement 7 Annex 1 — Venture Sheet]].
 
 ---
 
 ## What the Framework Is Not
 
-The Social DNA Framework is not:
+The Regenerative Impact Framework is not:
 - A certification or label that can be achieved and then forgotten
 - A compliance checklist that can be satisfied by ticking boxes
 - A ranking system that puts hubs or ventures in competition with each other

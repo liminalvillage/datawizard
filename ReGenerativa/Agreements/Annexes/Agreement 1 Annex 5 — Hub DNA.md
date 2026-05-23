@@ -171,7 +171,7 @@ Contribution-based stays include participation in shared work. Types of work at 
 - Report any wildlife encounters or ecological concerns to the steward
 - [Any site-specific rules]
 
-**Regenerative Covenant targets for this hub** (formal targets are set in [[Agreement 1 Annex 2 — Permitted Use and Social DNA]]; this section tracks the living picture):
+**Regenerative Covenant targets for this hub** (formal targets are set in [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]; this section tracks the living picture):
 
 | Dimension | Current state | What we are working toward | Review date |
 |---|---|---|---|

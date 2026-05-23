@@ -1,7 +1,7 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.9'
+version: '3.10'
 status: active
 created: '2026-03-17'
 updated: '2026-05-23'
@@ -25,7 +25,7 @@ tags:
 
 **GT-1.5** **"Hub DNA"** means the specific values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions applicable to a particular Hub.
 
-**GT-1.6** **"Social DNA Framework"** means the Association's framework for classifying and measuring regenerative impact across six integral dimensions: (a) Land and Ecological Systems; (b) Human Health and Well-Being; (c) Knowledge and Cultural Vitality; (d) Economic Fairness and Material Infrastructure; (e) Community and Relational Culture; and (f) Governance and Ethical Integrity. These dimensions correspond to the six commitments of the Regenerative Covenant (GT-2) and serve as the evaluative vocabulary through which the network assesses whether its activities are genuinely regenerative.
+**GT-1.6** **"Regenerative Impact Framework"** means the Association's framework for classifying and measuring regenerative impact across six integral dimensions: (a) Land and Ecological Systems; (b) Human Health and Well-Being; (c) Knowledge and Cultural Vitality; (d) Economic Fairness and Material Infrastructure; (e) Community and Relational Culture; and (f) Governance and Ethical Integrity. These dimensions correspond to the six commitments of the Regenerative Covenant (GT-2) and serve as the evaluative vocabulary through which the network assesses whether its activities are genuinely regenerative.
 
 **GT-1.7** **"Contribution Ledger"** means the simple, shared, visible record in which participants' contributions are logged and confirmed. It is a plain record, not a blockchain or automated calculation system.
 
@@ -63,7 +63,7 @@ tags:
 
 **GT-2.3** Every Hub is understood as a community ark: a node of resilience that operates alongside existing institutions rather than against them, building parallel capacity for mutual aid, care, and regenerative practice. This is not a retreat from the world but a different way of inhabiting it.
 
-**GT-2.4** Regenerative targets may be defined in relevant Annexes and assessed using the Social DNA Framework (GT-1.6). Targets are reviewed seasonally where possible, and aligned with the network's natural coordination rhythms. The covenant establishes a shared commitment, not a personal financial liability for non-attainment.
+**GT-2.4** Regenerative targets may be defined in relevant Annexes and assessed using the Regenerative Impact Framework (GT-1.6). Targets are reviewed seasonally where possible, and aligned with the network's natural coordination rhythms. The covenant establishes a shared commitment, not a personal financial liability for non-attainment.
 
 **GT-2.5** Every agreement in this constellation incorporates this covenant. It is not a standard provision to be acknowledged and set aside — it is the animating purpose of every relationship the constellation governs.
 

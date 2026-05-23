@@ -1,7 +1,7 @@
 ---
 title: Agreement 7 — Intrapreneurship
 type: agreement
-version: '1.3'
+version: '1.4'
 status: active
 created: '2026-03-28'
 updated: '2026-05-23'
@@ -54,7 +54,7 @@ tags:
 
 **2.1** The Association maintains a **Network Demand Register** — a living, publicly visible record of recurring unmet needs surfaced through network operation. The Register is the foundation of the intrapreneurship system. Without it, ventures risk being solutions looking for problems; with it, every activated venture is a response to demand the community has already expressed.
 
-**2.2** Any member, steward, hub, or participant in the network may submit a **Network Demand Signal** to the Register. A Demand Signal documents: the nature of the unmet need; the contexts in which it has been observed; the frequency and breadth of the demand; and the Social DNA dimensions it affects. Signals are submitted to the Association and reviewed for publication within 30 days.
+**2.2** Any member, steward, hub, or participant in the network may submit a **Network Demand Signal** to the Register. A Demand Signal documents: the nature of the unmet need; the contexts in which it has been observed; the frequency and breadth of the demand; and the regenerative-impact dimensions it affects. Signals are submitted to the Association and reviewed for publication within 30 days.
 
 **2.3** The Association publishes Demand Signals in the Register with appropriate anonymisation — preserving the pattern and its evidence without exposing the identities of individual requesters unless they have consented. The Register is accessible to all current members.
 
@@ -69,7 +69,7 @@ tags:
 **3.1** A Venture Holon is activated when a Founding Member identifies a documented Demand Signal in the Register and proposes a credible response to it. The activation process is:
 
 - The Founding Member submits a written proposal to the Association referencing the specific Demand Signal(s) they are responding to, describing their proposed response and the expected benefit to the network, and stating their initial commitment
-- The Association reviews the proposal for: (a) genuine match between the proposed venture and the documented demand; (b) mission alignment with the Regenerative Covenant (GT-2) and the Social DNA Framework (GT-1.6); (c) absence of duplication with existing ventures or activities
+- The Association reviews the proposal for: (a) genuine match between the proposed venture and the documented demand; (b) mission alignment with the Regenerative Covenant (GT-2) and the Regenerative Impact Framework (GT-1.6); (c) absence of duplication with existing ventures or activities
 - If approved, the Parties jointly complete **[[Agreement 7 Annex 1 — Venture Sheet]]**, which documents the Demand Signal, the venture's scope, phase, milestones, NRC rate, first client commitment, and initial membership
 - This Agreement is signed by the Association and the Founding Member, with Contributing Members joining by signing the Venture Sheet
 
