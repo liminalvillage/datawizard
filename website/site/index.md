@@ -24,4 +24,4 @@ A network of regenerative hubs, governed by a small constellation of clear agree
 7. [[Agreement 7 — Intrapreneurship|Intrapreneurship]]
 8. [[Agreement 8 — Eldership|Eldership]]
 
-Underpinning them all: the [[General Terms and Conditions]] and the Regenerative Covenant.
+Underpinning them all: the [[General Terms and Conditions]] — including the **Regenerative Covenant** (GT-2) that animates every clause.
