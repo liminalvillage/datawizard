@@ -107,7 +107,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 ---
 
-## GT-4. Network Regeneration Contribution (Unified Fund Inflow)
+## GT-4. Network Regeneration Contribution
 
 **GT-4.1** Economic activities benefiting from the network's resources shall contribute a portion of revenue to the **Unified Fund** (GT-1.10). This clause governs only the inflow rate; allocation of the Fund is governed by GT-4A.
 
@@ -119,7 +119,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 ---
 
-## GT-4A. Unified Fund Allocation (Unified Fund Outflow)
+## GT-4A. Unified Fund Allocation
 
 **GT-4A.1 - Fiscal hosting.** The Association is the fiscal host for all holons. All economic activity — revenues, expenses, contributions, allocations — passes through the Unified Fund. Each holon operates within the Fund as a governance and accounting unit, with its own mandate, dedicated collective, and one or more Stewards. The Association's central pool receives the Network Regeneration Contribution (GT-4) and direct unrestricted contributions, and is allocated by the Board per GT-4A.3. The legal person remains the Association at all times.
 

@@ -40,7 +40,7 @@ tags:
 
 **1.4** This is a framework agreement. Each specific initiative shall be described in one or more **Project Sheets** attached or linked to this Agreement.
 
-**1.5 Holon status.** For the purposes of GT-4A (Unified Fund Allocation), each Project activated under this Framework is a **holon**: a governance and accounting unit within the Unified Fund, with its own mandate, dedicated collective on the fiscal-hosting platform, and coordination role (or Vehicle Entity) acting on behalf of participating Partners. The Network Regeneration Contribution (GT-4) feeds the Unified Fund central pool; allocation across the Fund follows GT-4A.
+**1.5 Holon status.** For the purposes of GT-4A, each Project activated under this Framework is a **holon** (as defined in GT-1.10 and GT-4A.1), with the coordination role or Vehicle Entity acting on behalf of participating Partners. NRC inflow and allocation are governed by §10A of this Agreement together with GT-4 and GT-4A.
 
 ---
 

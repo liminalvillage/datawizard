@@ -38,7 +38,7 @@ tags:
 
 **1.3** This Agreement is the instrument of that honour. It creates enforceable rights in favour of the Elder and binding obligations on the Association and its successors. It survives the dissolution of the Association per GT-13.
 
-**1.4 Holon status.** For the purposes of GT-4A (Unified Fund Allocation), the Elder Council is treated as a **holon**: the Council holds allocation rights over a portion of the Unified Fund routed to it (GT-4A.5), exercising those rights collectively per its charter ([[Agreement 8 Annex 1 — Elder Council Charter|A8-1]] §5.5).
+**1.4 Holon status.** For the purposes of GT-4A, the Elder Council is treated as a **holon** (as defined in GT-1.10 and GT-4A.1), holding allocation rights over a portion of the Unified Fund routed to it (GT-4A.5), exercised collectively per its charter ([[Agreement 8 Annex 1 — Elder Council Charter|A8-1]] §5.5).
 
 ---
 

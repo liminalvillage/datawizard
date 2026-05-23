@@ -134,9 +134,9 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ### E.3 Confidentiality
 - Confidentiality obligation continues for **3 years** after cessation of participation (A6 §14.2)
 
-### E.4 Validation Workflow (currently in A6-4 Validation Platform Annex; migration to this document planned)
-- Standard validation review window: **7 days** from validator notification
-- Dispute resolution path: Partner discussion → two-thirds majority → GT-7 if unresolved
+### E.4 Contribution log (operational detail in A6-4)
+- Confirmation by another Partner or the Project coordinator, in good faith (A6-4 §K of this document also mirrors the workflow).
+- Dispute resolution path: Partner discussion → two-thirds majority → GT-7 if unresolved.
 
 ---
 
@@ -260,7 +260,6 @@ The sections marked **(Migration Pending)** above are domains where operational 
 1. **Mentorship (A4)** — high frequency of operational changes likely as the network grows; biggest near-term benefit
 2. **Intrapreneurship (A7)** — many timeframes that may need tuning as ventures emerge
 3. **Membership (A2)** — small, contained set of timeframes
-4. **Validation Platform (A6-4)** — entire annex migrates here; A6-4 retired
 
 Some timeframes should remain in agreements because they protect substantive rights (notice periods that protect a participant from sudden termination, for instance). Marked **(binding in agreement)** above; not candidates for migration.
 

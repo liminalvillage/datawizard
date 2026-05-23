@@ -77,7 +77,7 @@ tags:
 
 **3.3** A Founding Member may also propose activation in response to a pattern of demand they have themselves observed but that is not yet formally in the Register. In this case, they must document the observed demand as a Demand Signal submission alongside their proposal. If the Association accepts both the Signal and the proposal, they may be processed together.
 
-**3.4** Activation commits the Association to the minimum Phase 1 support obligations specified in Clause 8. Within 30 days of activation, the Association shall confirm in writing: the specific hub access available to the venture, the fiscal hosting mechanism in place, and at least one concrete network introduction or first client commitment.
+**3.4** Activation commits the Association to the minimum Phase 1 support obligations specified in Clause 8 — or the equivalent obligations for the entry phase, where Exceptional Phase 2 entry under §6.2 applies. Within 30 days of activation, the Association shall confirm in writing: the specific hub access available to the venture, the fiscal hosting mechanism in place, and at least one concrete network introduction or first client commitment.
 
 ---
 

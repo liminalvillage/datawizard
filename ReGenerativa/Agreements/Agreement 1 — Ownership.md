@@ -40,7 +40,7 @@ tags:
 
 **1.4** Any use of the Asset outside the agreed Purpose is prohibited unless the Parties agree otherwise in writing by way of amendment to Annex 2.
 
-**1.5 Holon status.** For the purposes of GT-4A (Unified Fund Allocation), the Hub established under this Agreement is a **holon**: a governance and accounting unit within the Unified Fund, with its own mandate, dedicated collective on the fiscal-hosting platform, and Steward(s) holding *delega di spesa* per GT-4A.2.
+**1.5 Holon status.** For the purposes of GT-4A, the Hub established under this Agreement is a **holon** (as defined in GT-1.10 and GT-4A.1), with Steward(s) holding *delega di spesa* per GT-4A.2.
 
 ---
 
