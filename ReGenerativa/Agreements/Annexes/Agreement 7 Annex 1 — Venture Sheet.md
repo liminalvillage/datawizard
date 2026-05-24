@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-1
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 status: template
 tags:
   - annex
@@ -149,7 +149,7 @@ version: '1.1'
 | Phase 1 | Not applicable | No external revenue |
 | Phase 2 | 5% | Net External Revenue |
 | Phase 3 | 5% | Net External Revenue |
-| Post-Graduation | As per [[Agreement 7 Annex 3 — Graduation]] | |
+| Post-Emergence | As per [[Agreement 7 Annex 3 — Emergence]] | |
 
 *The NRC rate is flat per phase.*
 

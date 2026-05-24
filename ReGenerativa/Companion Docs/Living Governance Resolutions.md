@@ -96,6 +96,11 @@ their own holon), held as Living Governance Resolutions. Also serves Agreement 8
 holon is the parameter values. Specific figures are deferred to Board ratification;
 the following framework applies:
 
+- **Network NRC Rate** (per GT-4.4(a)):
+  - `r_NRC` - the single uniform rate, within 3–10%, applied to all active holons at
+    source. Set by Board. Absent a Board-ratified figure, the rate is 5%. Note: this
+    is the rate for active operations; post-Emergence entities (A7-3 §2) carry their
+    own perpetual rate set at the moment of Emergence and locked thereafter.
 - **Association-holon cost-coverage target** (per GT-4.4(b), Association-holon row):
   - `K_a` - Association legal-entity operating costs (administration, Article 18 CTS
     insurance, fiscal-hosting platform fees, network-level structural costs), set

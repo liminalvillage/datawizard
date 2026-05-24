@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-2
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-04-02'
+updated: '2026-05-24'
 status: template
 tags:
   - annex
@@ -25,7 +25,7 @@ tags:
 
 **Current phase:** ☐ Phase 1 — Incubation  ☐ Phase 2 — Operational  ☐ Phase 3 — Mature
 
-**Proposed transition to:** ☐ Phase 2 — Operational  ☐ Phase 3 — Mature  ☐ Graduation *(use [[Agreement 7 Annex 3 — Graduation]])*
+**Proposed transition to:** ☐ Phase 2 — Operational  ☐ Phase 3 — Mature  ☐ Emergence *(use [[Agreement 7 Annex 3 — Emergence]])*
 
 **Review date:** [DD/MM/YYYY]
 
@@ -61,7 +61,7 @@ tags:
 | Governance structure capable of independent operation | ☐ Yes  ☐ Partially  ☐ No | [describe decision-making processes, internal roles] |
 | NRC payments current and compliant | ☐ Yes  ☐ No | [confirm rate, amounts paid, dates] |
 | Network service obligation maintained (min. 70% capacity) | ☐ Yes  ☐ Partially  ☐ No | [evidence of network service during Phase 2] |
-| Proposal for Phase 3 or Graduation submitted | ☐ Yes  ☐ No | [attach or reference] |
+| Proposal for Phase 3 or Emergence submitted | ☐ Yes  ☐ No | [attach or reference] |
 
 ---
 
@@ -115,7 +115,7 @@ tags:
 **Network service commitment for Phase 3:**
 [Describe specifically how the minimum 40% network service capacity will be maintained]
 
-**Graduation timeline:** ☐ No current intention  ☐ Target graduation by: [DD/MM/YYYY]
+**Emergence timeline:** ☐ No current intention  ☐ Target emergence by: [DD/MM/YYYY]
 
 ---
 

@@ -4,7 +4,7 @@ type: agreement
 version: '1.4'
 status: active
 created: '2026-03-28'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - agreement
   - intrapreneurship
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-*An Intrapreneur is a founder who chose to begin from within. Most ventures are born from independence — a founder strikes out, takes the risks, retains control. The Intrapreneur does something structurally different. They build from inside a commons, drawing on its relationships, its infrastructure, and its visible patterns of unmet need recorded in the Network Demand Register. They are responding to demand the community has already expressed, not imposing a vision the market has not yet asked for. This is not a smaller kind of entrepreneurship; it is a different lineage of it, one in which interdependence is the starting condition rather than the eventual compromise. This Agreement is the network's answer to that choice. It offers incubation — hub access, fiscal hosting, first-client commitment, network introductions — in exchange for accountability to the commons that made the venture possible. And it names the path by which, in its time, the venture may graduate into autonomy without forgetting where it began.*
+*An Intrapreneur is a founder who chose to begin from within. Most ventures are born from independence — a founder strikes out, takes the risks, retains control. The Intrapreneur does something structurally different. They build from inside a commons, drawing on its relationships, its infrastructure, and its visible patterns of unmet need recorded in the Network Demand Register. They are responding to demand the community has already expressed, not imposing a vision the market has not yet asked for. This is not a smaller kind of entrepreneurship; it is a different lineage of it, one in which interdependence is the starting condition rather than the eventual compromise. This Agreement is the network's answer to that choice. It offers incubation — hub access, fiscal hosting, first-client commitment, network introductions — in exchange for accountability to the commons that made the venture possible. And it names the path by which, in its time, the venture may emerge into autonomy without forgetting where it began.*
 
 ---
 
@@ -44,7 +44,7 @@ tags:
 
 **1.5** This Agreement does not create an employment relationship, a tenancy, or any claim by the Association over the Venture Members' intellectual property except as expressly provided in Clause 9.
 
-**1.6** This Agreement does not preclude the Venture Holon from eventually becoming an independent legal entity. Graduation is governed by Clause 10 and [[Agreement 7 Annex 3 — Graduation]].
+**1.6** This Agreement does not preclude the Venture Holon from eventually becoming an independent legal entity. Emergence is governed by Clause 10 and [[Agreement 7 Annex 3 — Emergence]].
 
 **1.7 Relationship to other agreements.** The Founding Member and all Contributing Members must hold a current [[Agreement 2 — Membership|Membership Agreement]]. Hub access during incubation follows the logic of the [[Agreement 3 — Stewardship|Stewardship Agreement]]. External partners who join a mature venture may require a [[Agreement 6 — Partnership|Partnership Agreement]]. Mentors engaged to support the venture are governed by the [[Agreement 4 — Mentorship|Mentorship Agreement]].
 
@@ -87,7 +87,7 @@ tags:
 
 **4.2** Opening the holon to all Members is not merely an administrative option — it is a design principle. A venture that cannot attract co-founders from within the network is a signal that the proposed response may not be credible, or that the demand signal was weaker than it appeared.
 
-**4.3** The Venture Holon governs itself internally. Once two or more Venture Members are active, decisions are made by simple majority of Venture Members for operational matters, and by two-thirds majority for structural matters (admission, exit, phase transition, dissolution, and graduation). The Association retains oversight rights per Clause 8 but does not participate in the holon's internal governance.
+**4.3** The Venture Holon governs itself internally. Once two or more Venture Members are active, decisions are made by simple majority of Venture Members for operational matters, and by two-thirds majority for structural matters (admission, exit, phase transition, dissolution, and emergence). The Association retains oversight rights per Clause 8 but does not participate in the holon's internal governance.
 
 **4.4** The Founding Member serves as the initial coordination point but holds no veto, no enhanced voting weight, and no claim to a larger share of revenue than their Validated Contributions justify. Their distinction is temporal, not hierarchical.
 
@@ -128,18 +128,18 @@ tags:
 
 - **Capacity allocation:** Minimum 70% of capacity continues to serve the network; up to 30% may serve external clients
 - **External trading:** Permitted; the venture may operate under the Association's fiscal umbrella or its own legal entity if formed
-- **Network Regeneration Contribution:** **5% of Net External Revenue** (the standard network rate per GT-4)
+- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (Board-set within 3–10% per GT-4.4(a); default 5%)
 - **Association support:** Continued ecosystem access; reduced direct involvement; Association acts as reference client
 - **Duration:** As defined in the Venture Sheet; reviewed annually
-- **Exit criteria:** The venture is financially self-sustaining; has established external client relationships; has a governance structure capable of operating independently; and has a proposal for Phase 3 or Graduation
+- **Exit criteria:** The venture is financially self-sustaining; has established external client relationships; has a governance structure capable of operating independently; and has a proposal for Phase 3 or Emergence
 
 ### Phase 3 — Mature
 
 - **Capacity allocation:** Minimum 40% of capacity continues to serve the network; up to 60% may serve external clients
 - **External trading:** Fully permitted; the venture is expected to operate under its own legal entity
-- **Network Regeneration Contribution:** **5% of Net External Revenue** (standard rate, GT-4)
+- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (per GT-4.4(a))
 - **Association support:** Ecosystem membership; no direct incubation support
-- **Graduation trigger:** Venture Holon may initiate the Graduation process (Clause 10) at any point in Phase 3
+- **Emergence trigger:** Venture Holon may initiate the Emergence process (Clause 10) at any point in Phase 3
 
 **6.3** At each phase, the minimum network-service obligation applies to capacity, not revenue.
 
@@ -193,24 +193,24 @@ tags:
 
 **9.4 Co-created IP within the holon:** owned jointly by contributing Venture Members in proportion to Validated Contributions, unless the Venture Sheet specifies otherwise.
 
-**9.5** Upon Graduation, the IP ownership arrangement is confirmed in the [[Agreement 7 Annex 3 — Graduation]]. The Association's non-exclusive licence for Phase 1 IP survives Graduation in perpetuity.
+**9.5** Upon Emergence, the IP ownership arrangement is confirmed in the [[Agreement 7 Annex 3 — Emergence]]. The Association's non-exclusive licence for Phase 1 IP survives Emergence in perpetuity.
 
 ---
 
-## 10. Graduation to Independence
+## 10. Emergence
 
-**10.1** Graduation is the process by which the Venture Holon formally separates from the Association's incubation framework and becomes a fully independent legal entity. It is available from Phase 3 onward.
+**10.1** Emergence is the process by which the Venture Holon formally separates from the Association's incubation framework and becomes a fully independent legal entity. It is available from Phase 3 onward.
 
-**10.2** Graduation is initiated by a two-thirds majority of Venture Members and must be agreed in writing by the Association. Neither Party can force Graduation on the other.
+**10.2** Emergence is initiated by a two-thirds majority of Venture Members and must be agreed in writing by the Association. Neither Party can force Emergence on the other.
 
-**10.3** The terms of Graduation are defined in **[[Agreement 7 Annex 3 — Graduation]]**, which addresses:
-- The legal form of the graduating entity
+**10.3** The terms of Emergence are defined in **[[Agreement 7 Annex 3 — Emergence]]**, which addresses:
+- The legal form of the Emerged Entity
 - Whether the Association holds a minority stake, a royalty right, or a preferred-client clause
-- The NRC obligation post-Graduation (a minimum 5% of Net External Revenue for a defined period)
+- The NRC obligation post-Emergence — negotiated at the moment of Emergence within 3–10%, **locked perpetually as an undilutable share** and encoded in the Emerged Entity's bylaws (see A7-3 §2)
 - Surviving IP licences
-- The graduated entity's ongoing eligibility to access the network as a Partner (Agreement 6) or Supporter (Agreement 5)
+- The Emerged Entity's ongoing eligibility to access the network as a Partner (Agreement 6) or Supporter (Agreement 5)
 
-**10.4** A graduated entity that ceases to honour its post-graduation obligations loses its preferred access to the network and may be required to return a portion of the value received during incubation, as defined in the Graduation Agreement.
+**10.4** An Emerged Entity that ceases to honour its post-Emergence obligations loses its preferred access to the network and may be required to return a portion of the value received during incubation, as defined in the Emergence Agreement.
 
 ---
 
@@ -238,7 +238,7 @@ tags:
 
 ## 13. Duration
 
-**13.1** This Agreement enters into force on signature and remains in effect until the venture Graduates, dissolves, or this Agreement is terminated in accordance with Clause 11.
+**13.1** This Agreement enters into force on signature and remains in effect until the venture Emerges, dissolves, or this Agreement is terminated in accordance with Clause 11.
 
 **13.2** The Phase structure does not impose a maximum duration. A venture may remain in Phase 2 or Phase 3 indefinitely if it continues to serve the network and meet its obligations.
 
@@ -270,7 +270,7 @@ Date: _________________________
 
 - [[Agreement 7 Annex 1 — Venture Sheet]]
 - [[Agreement 7 Annex 2 — Phase Review]]
-- [[Agreement 7 Annex 3 — Graduation]]
+- [[Agreement 7 Annex 3 — Emergence]]
 
 ---
 

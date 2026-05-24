@@ -202,10 +202,11 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ## Section J — Unified Fund (GT-4)
 
 ### J.1 NRC at source (GT-4.4(a))
-- Base NRC: **5% of Net Revenue** at source
-- Negotiable range: **3%–10%** by mutual agreement
+- **Network NRC Rate** is set by Board resolution within **3%–10%** and applies uniformly to all active holons — no per-holon, per-Project, or per-Venture negotiation
+- Held as LGR-2 (`r_NRC`); absent a Board-ratified figure, the rate is **5%**
 - Routed to the Association holon before any local allocation
 - Association holon, Elder Council, and non-economic inflows are exempt from the carve-out
+- **Post-Emergence entities** (A7-3 §2) carry their own perpetual rate, negotiated at the moment of Emergence within 3–10% and locked thereafter as an undilutable share encoded in the entity's bylaws
 
 ### J.2 The shape (every holon — GT-4.4)
 Every holon (Association, Hub, Project, Venture, Elder Council) runs the same self-similar shape, in order:

@@ -43,7 +43,7 @@ updated: '2026-05-24'
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — NRC ≥5% of net revenue at source (range 3–10%); every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal) |
+| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal) |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-7 | Dispute resolution — amicable → Elder Council (Probiviri) → external mediation → Ascoli Piceno |
@@ -88,10 +88,8 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 | Parameter | Value | Where |
 |---|---|---|
 | Annual membership fee | €25 | A2, Clause 4.1 |
-| NRC base rate | 5% of net revenue | GT-4.2 |
-| NRC range (negotiable) | 3–10% | GT-4.3 |
-| Intrapreneurship Phase 2 NRC | 5% of net external revenue | A7, Clause 6.2 |
-| Intrapreneurship Phase 3 NRC | 5% | A7, Clause 6.2 |
+| Network NRC Rate (active holons, Board-set, uniform) | within 3–10% (default 5% absent Board figure) | GT-4.4(a), LGR-2 |
+| Post-Emergence NRC (negotiated at Emergence, locked perpetually as undilutable share) | within 3–10% | A7-3 §2 |
 | Ownership termination notice | 90 days | A1, Clause 6.1 |
 | Stewardship notice — standard | 30 days | A3, Clause 16.1 |
 | Stewardship notice — extended (12+ months tenure) | 90 days | A3, Clause 16.1 |
@@ -119,7 +117,7 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 | 1 — Incubation | 100% | ✗ | N/A | Full: hubs, fiscal hosting, first client, 3 introductions |
 | 2 — Operational | ≥70% | ≤30% | 5% | Ecosystem + reference client |
 | 3 — Mature | ≥40% | ≤60% | 5% | Ecosystem only |
-| Post-graduation | Per A7-3 | Per A7-3 | ≥5% (defined period) | Per Graduation Agreement |
+| Post-emergence | Per A7-3 | Per A7-3 | ≥5% (defined period) | Per Emergence Agreement |
 
 Capacity = working capacity, not revenue. Phase transitions require Phase Transition Review ([[Agreement 7 Annex 2 — Phase Review]]) + two-thirds majority of Venture Members.
 
@@ -194,7 +192,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | A6-4 | Contribution Log | Agreement 6 |
 | A7-1 | Venture Sheet | Agreement 7 |
 | A7-2 | Phase Transition Review | Agreement 7 |
-| A7-3 | Graduation Agreement | Agreement 7 |
+| A7-3 | Emergence Agreement | Agreement 7 |
 | A8-1 | Elder Council Charter | Agreement 8 |
 | A8-2 | Transition Rite Record | Agreement 8 |
 

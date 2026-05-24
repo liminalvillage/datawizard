@@ -107,7 +107,6 @@ The collaboration is guided by:
 - Timeline
 - Rate logic or valuation method
 - Direct and structure costs
-- Applicable NRC rate (default 5% per Clause 10A.2 if not specified)
 - Validation method
 - Revenue distribution method
 - Intellectual property conditions
@@ -155,7 +154,7 @@ The collaboration is guided by:
 
 **10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
 
-**10A.2** The base NRC rate is **five percent (5%) of Net Project Revenue**, unless the Parties agree a different rate within the range permitted by GT-4.3 (3%–10%). The applicable rate for each Project shall be stated in the Project Sheet (Clause 6.2). Where no rate is specified in the Project Sheet, the base rate of 5% applies.
+**10A.2** The applicable rate is the **prevailing Network NRC Rate** set by Board resolution under GT-4.4(a) and held as a Living Governance Resolution (LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue. Absent a Board-ratified figure, the rate is 5%.
 
 **10A.3** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
 
