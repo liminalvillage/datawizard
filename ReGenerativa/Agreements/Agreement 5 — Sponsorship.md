@@ -4,7 +4,7 @@ type: agreement
 version: '3.0'
 status: active
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - agreement
   - sponsorship
@@ -58,7 +58,7 @@ tags:
 - Operational costs of a specific hub
 - Regeneration or improvement of a place
 - Support of a steward or contributor
-- Scholarships or free places for high-contributing members
+- Scholarships or sponsored places (e.g. covering Resource-cost or Member-friendly access under Agreement 4 for participants who cannot otherwise afford it)
 - Equipment or tools for common use
 - Educational or cultural programming
 - Communication and documentation

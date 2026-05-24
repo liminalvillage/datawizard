@@ -1,10 +1,10 @@
 ---
 title: Agreement 4 — Mentorship
 type: agreement
-version: '3.2'
+version: '3.3'
 status: active
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - agreement
   - mentorship
@@ -36,9 +36,9 @@ tags:
 
 **1.2** By this Agreement, the Association appoints the Mentor to design, host, facilitate, or contribute to one or more workshops, retreats, courses, residencies, training programmes, mentoring journeys, or other educational or transformational activities (the "Programmes") under the umbrella of the Association.
 
-**1.3** The Mentor's core commitment is a **gift economy principle**: the Mentor commits to making their expertise available to the network's highest contributors **free of charge**. This gift is the foundation of the mentorship relationship and the basis upon which the Association supports the Mentor in designing and delivering paid Programmes to broader audiences.
+**1.3** The Mentor's core commitment is a **gift economy principle**: the Mentor commits to making their **labour, time, and expertise** available to the network's highest contributors at **resource cost** (the slot's direct delivery cost only — hub usage, materials, food, direct logistics — with no Mentor-fee component). This gift is the foundation of the mentorship relationship and the basis upon which the Association supports the Mentor in designing and delivering paid Programmes to broader audiences.
 
-**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. For each confirmed Programme, the Association shall: identify from the Contribution Ledger the network members eligible for free access under Clause 4.1; offer those places to eligible members before the Programme opens to paid general registration; and confirm the number of free places taken when providing the registration status update under Clause 5A.3. Where the Programme Annex is silent on the minimum number of free places, at least one free place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement.
+**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. For each confirmed Programme, the Association shall: identify from the Contribution Ledger the network members eligible for Resource-cost access under Clause 4.1; offer those places to eligible members before the Programme opens to paid general registration; and confirm the number of Resource-cost places taken when providing the registration status update under Clause 5A.3. Where the framework Mentorship Agreement and the Programme Annex are both silent on the minimum number of Resource-cost places, at least one such place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement.
 
 **1.4** This Agreement is **not an employment contract**. It governs a professional, autonomous, occasional, or otherwise lawfully compensated collaboration, documented in accordance with applicable Italian law and the General Terms (GT-12).
 
@@ -70,15 +70,26 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 
 ## 4. Pricing and Access Structure
 
-**4.1** Unless otherwise agreed in the Programme Annex, access to each Programme shall follow this banded structure:
+**4.1 Three pricing bands.** Access to each Programme follows three bands:
 
-- **Free access** for persons with the highest Validated Contribution to the network, as determined by the Association (or jointly with the Mentor) based on the Contribution Ledger (General Terms GT-3)
-- **Discounted access** for Association members in good standing
-- **Full price** for external participants and the general public
+- **Market rate** — full price for external participants and the general public;
+- **Member-friendly rate** — a discounted price for Association members in good standing;
+- **Resource-cost places** — for persons with the highest Validated Contribution to the network (per the Contribution Ledger, GT-3), priced to cover only the slot's direct delivery cost (a generalised composition of: hub usage per hour + materials + food + direct logistical costs). The Mentor's labour, time, and expertise are the gift; the recipient covers the resources their slot consumes. Eligibility is determined by the Association, or jointly with the Mentor, from the Contribution Ledger.
 
-**4.2** The Parties may define in a Programme Annex: the maximum number of free, discounted, and member-only places; the criteria for determining "highest contribution"; the discount rate for members; and the full price for external participants.
+The Network Regeneration Contribution (GT-4) is deducted at source from each band's revenue.
 
-**4.3** Free and discounted places are part of the Programme design and not a personal loss claimable against the Association by the Mentor, unless expressly agreed in the financial annex. Where, however, free places are offered pursuant to the gift economy principle (Clause 1.3A) and the Programme nonetheless falls below its minimum viable threshold, any resulting shortfall against the Mentor's agreed compensation is borne by the Association and not by the Mentor, as set out in A4-1 (Gift-Economy Downside Allocation). The Mentor never carries a loss created by the network's own gift-economy obligation.
+**4.2 Per-Programme parameters.** The Programme Annex defines for each Programme: the number of places in each band; the resource-cost composition (€ value per item — hub/hour, materials, food, logistics) for the Resource-cost band; the market rate; the member-friendly rate (or % discount from market); and the eligibility criteria for "highest contribution."
+
+**4.3 Framework Defaults (Mentor onboarding).** At signing of this Agreement (where it operates as a framework agreement for multiple Programmes), the Parties record default parameters that apply unless a specific Programme Annex deviates:
+- Default market rate (per Programme hour or per Programme format);
+- Default member-friendly rate or % discount from market;
+- Resource-cost composition — the categories of direct cost that comprise the Resource-cost price (default: hub usage per hour + materials + food + direct logistics; € values set per Programme);
+- **Committed Resource-cost slots cadence** — the number of Resource-cost slots the Mentor reserves, expressed either **per session** (for one-off Programmes) or **per lunation** (~29.5 days, for ongoing/framework Programmes); the Mentor chooses the unit at onboarding;
+- Criteria for "highest contributor" eligibility.
+
+Where the framework agreement is silent on a parameter, at least one (1) Resource-cost slot per Programme is offered on the Association's standard eligibility criteria.
+
+**4.4 Mentor's labour as the gift.** The Mentor's labour, time, and expertise are the gift; the network's reciprocal obligation (Clause 1.3A) is to make Resource-cost places visible and effective. Because Resource-cost places cover their own direct delivery cost, the network does not carry a money-losing-slot risk under this Agreement. General Programme under-subscription risk (e.g. paid bands not filling to the Minimum Viable Threshold) is addressed separately through the financial model and shortfall provisions in the Programme Annex (§5 and A4-1).
 
 ---
 

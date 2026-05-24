@@ -11,7 +11,7 @@ tags:
   - ReGenerativa
   - mentorship
   - programme
-version: '1.1'
+version: '1.2'
 ---
 *Programme Annex template for use with the [[Agreement 4 — Mentorship|Mentorship Agreement]]. One annex per Programme. Complete and sign before each Programme is opened for registration. File as: "A4 — [Programme Name] — [YYYY-MM]".*
 
@@ -39,15 +39,24 @@ version: '1.1'
 
 | Band | Eligibility | Places available | Price |
 |---|---|---|---|
-| Free | Persons with the highest Validated Contribution (see criteria below) | ___ | €0 |
-| Member discounted | Association members in good standing | ___ | €___ |
-| Full price | External participants / general public | ___ | €___ |
+| Resource-cost | Persons with the highest Validated Contribution (see criteria below) | ___ | €___ (composition below) |
+| Member-friendly | Association members in good standing | ___ | €___ |
+| Market rate | External participants / general public | ___ | €___ |
 | **Total capacity** | | **___** | |
 
-**Criteria for free-access eligibility:**
+**Resource-cost composition** (Resource-cost band price = sum of the direct delivery costs per slot):
+- Hub usage: €___ per hour × ___ hours = €___
+- Materials: €___
+- Food: €___
+- Direct logistics (if any): €___
+- **Total Resource-cost price per slot:** €___
+
+**Committed Resource-cost slots this Programme:** ___ (framework default: ___ slots per ☐ session ☐ lunation, per Agreement 4 §4.3)
+
+**Criteria for Resource-cost eligibility:**
 [e.g. "Top 5% of validated contributions in the last 12 months, as determined by the Contribution Ledger; or as jointly agreed by the Association and the Mentor no later than 30 days before the Programme"]
 
-**Member discount rate:** ___% off full price (equivalent to €___ discount)
+**Member-friendly rate:** ___% off market rate (equivalent to €___ discount)
 
 **Early bird pricing (if applicable):** €___ until [DD/MM/YYYY]
 
@@ -102,14 +111,13 @@ Mentor's costs (travel €___, accommodation €___, materials €___) are reimb
 
 ---
 
-## Gift-Economy Downside Allocation
+## Resource-Cost Places (Gift-Economy Structure)
 
-Free access is a structural gift-economy obligation of the network (Agreement 4, Clause 1.3A), not a risk the Mentor underwrites.
+Resource-cost places cover their own direct delivery cost (Agreement 4 Clause 4.1). The Mentor's labour, time, and expertise are the gift; the recipient covers the resources their slot consumes. These places do not create a money-losing slot for the network.
 
-- **Estimated free / gift places this Programme:** ___
+- **Committed Resource-cost places this Programme:** ___ (framework default: ___ slots per ☐ session ☐ lunation, per Agreement 4 §4.3)
 - **Is Mentor compensation contingent on reaching the Minimum Viable Threshold?** ☐ No - not contingent  ☐ Yes - contingent, on this basis: ___
-- **Shortfall allocation.** If free places are offered and the Programme nonetheless runs below the Minimum Viable Threshold, the shortfall between Programme revenue and the Mentor's agreed compensation is borne by the Association, not the Mentor, funded where necessary from the Unified Fund — under the Elder Council's discretionary allocation per GT-4.4(c) (Elder Council row) where the Council so directs, or otherwise from the relevant Hub holon's cost-coverage bucket (GT-4.4(b)) where the Mentor is the activity Steward, with top-up via the Association holon's discretionary allocation (GT-4.4(c)) if needed. The Mentor never carries a loss created by the network's own gift-economy obligation.
-- **Cap (optional):** Association shortfall cover for this Programme capped at €___ (blank = no cap).
+- **Programme-level shortfall risk** (paid bands not filling to the Minimum Viable Threshold) is independent of the Resource-cost commitment and is addressed by the financial model selected above and the cancellation terms below. If the Parties agree to any residual Association top-up for this Programme, document it here (or leave blank): ___
 
 ---
 

@@ -76,9 +76,9 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ### C.1 Programme Publication and Promotion (Migration Pending)
 - Programme published within **14 days** of confirmation that it will proceed (A4 §5A.1)
-- Direct communication to eligible free/discounted members no later than **21 days** before programme date (A4 §5A.2)
+- Direct communication to eligible Resource-cost and Member-friendly members no later than **21 days** before programme date (A4 §5A.2)
 - Registration status update to Mentor no later than **21 days** before programme date (A4 §5A.3)
-- Free-place allocation: minimum **1 free place per programme** unless higher specified in Programme Annex (A4 §1.3A)
+- Resource-cost place allocation: minimum **1 Resource-cost place per programme** unless higher specified in the framework Mentorship Agreement (§4.3) or Programme Annex (A4 §1.3A)
 
 ### C.2 Framework Agreement Continuity
 - Minimum engagement: **1 confirmed programme within 12 months** of framework commencement, provided the Mentor has proposed at least one programme in writing (A4 §1.5)
