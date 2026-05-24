@@ -11,7 +11,7 @@ tags:
   - governance
 title: Agreement 8 Annex 1 — Elder Council Charter
 type: annex
-updated: '2026-05-23'
+updated: '2026-05-24'
 version: '1.3'
 ---
 *Annex 1 to the [[Agreement 8 — Eldership|Eldership Agreement]]. Defines the operational charter of the Elder Council — its convening, decision-making, designated Council Seat, and the procedures through which it exercises the authorities granted in Agreement 8 §5. Forms an integral part of the Agreement.*
@@ -49,7 +49,7 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 **2.4** The host hub of the Council Seat receives:
 - Formal recognition in network communications and the Cheatsheet
 - Inclusion of "Council Seat" status in its Hub DNA record (Agreement 1 Annex 5) for the duration of the designation
-- Coverage of incremental hospitality costs for annual gatherings from the Council's Operating bucket per GT-4A.5(a) and Agreement 8 §5.5
+- Coverage of incremental hospitality costs for annual gatherings from the Council's Operating bucket (cost-coverage under GT-4.4(b)) and Agreement 8 §5.5
 
 **2.5** If no hub volunteers as Council Seat, or if the current host withdraws, the Council convenes virtually until a successor is designated. The annual gathering may be held at any willing hub on a one-off basis until the Seat is re-established.
 
@@ -148,9 +148,9 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 
 **5.4.4** The Custodial Council's authority is defined by GT-13.5: administering the remaining Unified Fund for participant welfare; nominating and constituting a successor entity; maintaining continuity of relational obligations.
 
-### 5.5 Mission Allocation (Agreement 8 §5.4(e) and GT-4A.5)
+### 5.5 Mission Allocation (Agreement 8 §5.4(e) and GT-4.4)
 
-**5.5.1** The Elder Council holds allocation rights over the portion of the Unified Fund routed to it (cascade and waterfall flows per GT-4A). Allocation is directed by collective Council deliberation toward Association mission spending serving integral regeneration.
+**5.5.1** The Elder Council holds allocation rights over the portion of the Unified Fund routed to it via upward overflow from all holons (GT-4.4(d)). Allocation is directed by collective Council deliberation toward Association mission spending serving integral regeneration.
 
 **5.5.2** **Operating bucket.** The Council retains a portion for its own governance operating costs (convening, deliberation, documentation, annual gathering costs), bounded by the target O_e per LGR-2. This bucket covers Council governance work only; it is not personal income to elders.
 

@@ -4,7 +4,7 @@ type: agreement
 version: '3.3'
 status: active
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - agreement
   - stewardship
@@ -135,6 +135,8 @@ tags:
 **9.1** The Association may reimburse the Steward only for expenses actually incurred, connected with the stewardship role, pre-approved or otherwise accepted, and documented appropriately.
 
 **9.2** Reimbursable expenses may include travel, fuel, tolls, local purchases, food for common activities, materials, emergency operational expenses, and communication or logistical expenses.
+
+**9.3 Source of reimbursement.** Reimbursements are paid from the Hub holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row).
 
 ---
 

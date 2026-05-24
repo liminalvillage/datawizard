@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-05-23'
+updated: '2026-05-24'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -43,7 +43,7 @@ updated: '2026-05-23'
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 / GT-4A | Unified Fund — NRC ≥5% of net revenue at source; range 3–10%; cascade allocation per GT-4A (Holons → Stewards → Elder Council) |
+| GT-4 | Unified Fund — NRC ≥5% of net revenue at source (range 3–10%); every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal) |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-7 | Dispute resolution — amicable → Elder Council (Probiviri) → external mediation → Ascoli Piceno |
@@ -136,7 +136,7 @@ The **Elder Council** is the standing governance body of all participants who ho
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
-The **Elder Council** holds allocation rights over a portion of the Unified Fund routed to it (GT-4A.5). The Council allocates that portion through two buckets: **Operating** (Council governance costs) and **Allocation** (Association mission spending under the Council's A8 mandate, never personal income to elders). Council Operating is funded through the cascade (GT-4A.3); the Council itself directs all further mission allocation.
+The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4.
 
 ---
 

@@ -8,7 +8,7 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-05-23'
+updated: '2026-05-24'
 version: '1.2'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
@@ -199,23 +199,25 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ---
 
-## Section J — Unified Fund (GT-4 + GT-4A)
+## Section J — Unified Fund (GT-4)
 
-### J.1 Inflow rate (GT-4)
-- Base NRC: **5% of Net Revenue** at source (GT-4.2)
-- Negotiable range: **3%–10%** by mutual agreement (GT-4.3)
+### J.1 NRC at source (GT-4.4(a))
+- Base NRC: **5% of Net Revenue** at source
+- Negotiable range: **3%–10%** by mutual agreement
+- Routed to the Association holon before any local allocation
+- Association holon, Elder Council, and non-economic inflows are exempt from the carve-out
 
-### J.2 Allocation cascade (GT-4A.3)
-- Priority order: **Holons → Stewards → Elder Council**
-- Targets `K_h`, `K_s` (plus Council Operating target `O_e`) set by Board resolution and held as Living Governance Resolutions (LGR-2)
-- Anything beyond the saturated buckets routes to the Elder Council (GT-4A.3(c) / GT-4A.5)
+### J.2 The shape (every holon — GT-4.4)
+Every holon (Association, Hub, Project, Venture, Elder Council) runs the same self-similar shape, in order:
+1. **NRC out** to the Association holon (where applicable)
+2. **Cost-coverage bucket** — published target (`K_a` for Association, `C` per Hub/Project/Venture, `O_e` for Elder Council); includes Steward activity-cost reimbursement (A3 §8–§9 + GT-12)
+3. **Steward discretionary allocation** — bounded by ceiling `D` (recommended `α·C`); uncapped for Elder Council
+4. **Upward overflow** — surplus above the discretionary ceiling routes to the Elder Council (terminal)
 
-### J.3 Holon waterfall (GT-4A.4)
-- **Place** (cost reserve, bounded by `C` set per holon) → **Discretionary envelope** (bounded by α·C) → **Excess** to Elder Council
-- Each holon's Referente/Steward(s) hold a *delega di spesa* (GT-4A.2)
+Each holon's Steward(s) hold a *delega di spesa* (GT-4.3). Parameters held as Living Governance Resolutions (LGR-2).
 
-### J.4 Reporting
-- Annual *bilancio sociale* — inflows, allocations across all buckets at every scale, Council Allocation decisions (GT-4A.8)
+### J.3 Reporting
+- Annual *bilancio sociale* — inflows, allocations at every scale (Association holon, each holon, Elder Council), discretionary decisions (GT-4.7)
 
 ---
 

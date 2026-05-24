@@ -5,7 +5,7 @@ annex_ref: A3-1
 parent_agreement: Agreement 3 — Stewardship
 status: template
 created: '2026-04-02'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - annex
   - ReGenerativa
@@ -72,7 +72,7 @@ tags:
 
 **My approach to conflict:**
 - [e.g. I address it early and directly — I don't let things fester]
-- [e.g. I escalate situations beyond my capacity to the Association and, where hardship support is needed, request a Council Allocation under GT-4A.5(b)]
+- [e.g. I escalate situations beyond my capacity to the Association and, where hardship support is needed, request a Council Allocation under GT-4.4(c) (Elder Council row)]
 
 **My limits of authority** (per [[Agreement 3 — Stewardship|Stewardship Agreement]] Clause 7.3):
 - I will not sign contracts, take on debt, or make financial commitments without the Association's written approval

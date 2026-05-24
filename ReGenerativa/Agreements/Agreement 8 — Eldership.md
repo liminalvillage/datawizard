@@ -3,7 +3,7 @@ title: Agreement 8 — Eldership
 type: agreement
 version: '1.5'
 created: '2026-04-14'
-updated: '2026-05-23'
+updated: '2026-05-24'
 status: active
 tags:
   - agreement
@@ -38,7 +38,7 @@ tags:
 
 **1.3** This Agreement is the instrument of that honour. It creates enforceable rights in favour of the Elder and binding obligations on the Association and its successors. It survives the dissolution of the Association per GT-13.
 
-**1.4 Holon status.** For the purposes of GT-4A, the Elder Council is treated as a **holon** (as defined in GT-1.10 and GT-4A.1), holding allocation rights over a portion of the Unified Fund routed to it (GT-4A.5), exercised collectively per its charter ([[Agreement 8 Annex 1 — Elder Council Charter|A8-1]] §5.5).
+**1.4 Holon status.** For the purposes of GT-4, the Elder Council is treated as the **Elder Council holon** (as defined in GT-1.10 and GT-4.2(e)) — the terminal holon in the upward overflow per GT-4.4(d) — holding allocation rights over the portion of the Unified Fund routed to it, exercised collectively per its charter ([[Agreement 8 Annex 1 — Elder Council Charter|A8-1]] §5.5).
 
 ---
 
@@ -76,13 +76,13 @@ In either case, the Elder's consent is required. Eldership cannot be conferred w
 
 Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordination with the hub's capacity. The Elder gives reasonable advance notice where possible. No hub is obligated to host an Elder beyond its genuine capacity, but no hub may decline without first consulting the Association and proposing an alternative arrangement within the network.
 
-**4.2 Unified Fund and Council Allocation Rights.** The Association operates the Unified Fund as its single financial account (GT-1.10), of which the Elder Council holds allocation rights over a portion routed to it under GT-4A.5. The Council allocates that portion through two buckets:
+**4.2 Unified Fund and Council Allocation Rights.** The Association operates the Unified Fund as its single financial account (GT-1.10), of which the Elder Council holds allocation rights over the portion routed to it under GT-4.4(d). The Council runs the same allocation shape as every other holon (GT-4.4), through two buckets:
 
 (a) **Operating** — for the Council's governance operating costs (convening, deliberation, documentation, annual gathering), bounded by the target O_e set by the Board with the Council (see Living Governance Resolutions, Resolution LGR-2);
 
 (b) **Allocation** — for Association mission spending directed by collective Council deliberation toward integral regeneration, which may include elderly-focused hubs and elder-serving programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
 
-The Council's allocation rights are exercised collectively per its charter (Annex 1 §5.5) and bounded by the hard rails of GT-4A.6. Reported in the annual *bilancio sociale*.
+The Council's allocation rights are exercised collectively per its charter (Annex 1 §5.5) and bounded by the hard rails of GT-4.5. Reported in the annual *bilancio sociale*.
 
 **4.3 Membership Fee Waiver.** The annual membership fee under Agreement 2 is permanently waived for the Elder from the date of entry into this Agreement. The Association absorbs this cost as a recognition obligation.
 
@@ -110,9 +110,9 @@ The Council's allocation rights are exercised collectively per its charter (Anne
 
 **(d) Custodial Council Activation.** In the event of Association dissolution, the Elder Council constitutes the core of the Custodial Council under GT-13.5 and assumes the authorities defined therein.
 
-**(e) Mission Allocation.** Per GT-4A.5, the Elder Council holds allocation rights over the portion of the Unified Fund routed to it. The Council deliberates collectively to direct its Allocation bucket toward Association mission spending serving integral regeneration. Allocation decisions are recorded in the Council Record (Charter §6.1) and consolidated annually in the *bilancio sociale*.
+**(e) Mission Allocation.** Per GT-4.4 (Elder Council row of the shape), the Elder Council holds allocation rights over the portion of the Unified Fund routed to it. The Council deliberates collectively to direct its Allocation bucket toward Association mission spending serving integral regeneration. Allocation decisions are recorded in the Council Record (Charter §6.1) and consolidated annually in the *bilancio sociale*.
 
-**5.5 Annual Gathering.** The Elder Council convenes at minimum once per year at the Council Seat. The Association bears the costs of this gathering from the Council's Operating bucket under GT-4A.5(a). The annual gathering is open to observation by all network members, though deliberation may be conducted in closed session at the Council's discretion.
+**5.5 Annual Gathering.** The Elder Council convenes at minimum once per year at the Council Seat. The Association bears the costs of this gathering from the Council's Operating bucket (cost-coverage under GT-4.4(b)). The annual gathering is open to observation by all network members, though deliberation may be conducted in closed session at the Council's discretion.
 
 ---
 

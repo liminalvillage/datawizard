@@ -1,10 +1,10 @@
 ---
 title: Agreement 2 — Membership
 type: agreement
-version: '3.2'
+version: '3.3'
 status: active
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - agreement
   - membership
@@ -83,13 +83,15 @@ tags:
 
 This fee covers the Association's insurance obligations under Article 18 of the Third Sector Code and sustains the legal and administrative framework within which all network activities are conducted. It is the material foundation of the member's protection while participating in Association activities.
 
-**4.2 Active Participation.** Contribute actively to the Association's activities and community, including volunteering time, sharing expertise, participating in meetings and discussions, and furthering the Association's mission.
+**4.2 Active Participation.** Contribute actively to the Association's activities and community. Members commit to **gift time and competences** — guided by the relevant Hub Steward (Agreement 3) — toward regenerating the **six dimensions of the Regenerative Covenant (GT-2)**, assessed through the [[Regenerative Impact Framework]] (GT-1.6). Contribution may take the form of volunteer time, skills sharing, presence at gatherings, mentorship, hub care, or participation in governance, and is recorded in the Network Passport (GT-3A).
 
 **4.3 Compliance with Statute and Decisions.** Abide by the Association's Statute, bylaws, and the lawful resolutions of its governing bodies, including internal regulations and codes of conduct.
 
 **4.4 Good Conduct and Loyalty.** Maintain appropriate conduct, act respectfully toward other members and participants, and refrain from behaviour that could harm the Association's activities, reputation, or legal standing. The Member shall not misuse the Association's name or assets, and owes a duty of loyalty to the Association.
 
 **4.5 Volunteer Protocol.** When volunteering, the Member agrees to follow health and safety guidelines, sign-in requirements, and any specific volunteer protocols. Volunteering is unpaid except for reimbursement of pre-approved expenses.
+
+**4.6 Hub Solidarity.** Where a Hub at which the Member is active faces operating costs not covered by the Hub holon's own cost-coverage bucket (GT-4.4(b)) or by top-up via the Association holon's discretionary allocation (GT-4.4(c)), Members are expected to either **chip in directly** via a voluntary contribution to the Hub holon, or **help co-create programmes** (Mentorship, Sponsorship, Partnership, or Intrapreneurship) that generate the missing resources. Consistent with GT-2.4, this is a shared commitment of solidarity, not a personal financial liability — the form and scale of participation are voluntary and proportionate to each Member's capacity.
 
 ---
 

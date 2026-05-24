@@ -4,7 +4,7 @@ type: agreement
 version: '3.3'
 status: active
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - agreement
   - ownership
@@ -40,7 +40,7 @@ tags:
 
 **1.4** Any use of the Asset outside the agreed Purpose is prohibited unless the Parties agree otherwise in writing by way of amendment to Annex 2.
 
-**1.5 Holon status.** For the purposes of GT-4A, the Hub established under this Agreement is a **holon** (as defined in GT-1.10 and GT-4A.1), with Steward(s) holding *delega di spesa* per GT-4A.2.
+**1.5 Holon status.** For the purposes of GT-4, the Hub established under this Agreement is a **Hub holon** (as defined in GT-1.10 and GT-4.2(b)), with Steward(s) holding *delega di spesa* per GT-4.3.
 
 ---
 

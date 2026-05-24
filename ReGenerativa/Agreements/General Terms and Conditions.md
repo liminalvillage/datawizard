@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.10'
+version: '3.11'
 status: active
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - general-terms
   - ReGenerativa
@@ -33,7 +33,7 @@ tags:
 
 **GT-1.9** **"Net Revenue"** means revenue remaining after deduction of direct costs, fiscal charges, and other deductions defined in the relevant agreement or annex.
 
-**GT-1.10** **"Unified Fund"** (the "Fund") means the Association's single financial architecture, operated through a public fiscal-hosting platform, through which all economic activity of the Association and its holons passes. The Association is the fiscal host for all holons (Hubs under Agreement 1, Projects under Agreement 6, Venture Holons under Agreement 7, the Elder Council under Agreement 8): each holon maintains a dedicated collective on the platform, with its revenues and expenses moving through the Fund while operational autonomy is retained within mandate. The Unified Fund comprises the Association's central pool together with all holon collectives. Inflows are governed by Clause GT-4. Allocations are governed by Clause GT-4A.
+**GT-1.10** **"Unified Fund"** (the "Fund") means the Association's single financial architecture, operated through a public fiscal-hosting platform, through which all economic activity of the Association and its holons passes. The Association is the fiscal host for all holons (Hubs under Agreement 1, Projects under Agreement 6, Venture Holons under Agreement 7, the Elder Council under Agreement 8): each holon maintains a dedicated collective on the platform, with its revenues and expenses moving through the Fund while operational autonomy is retained within mandate. The Unified Fund comprises the **Association holon** (the network-level collective, stewarded by the Board — the term replaces "central pool" used in earlier drafts) together with all other holon collectives. Inflows and allocations are governed by Clause GT-4.
 
 **GT-1.11** **"Network Passport"** means each participant's portable, cumulative record of validated contributions across all roles, hubs, and time, held in the Contribution Ledger. It carries no tiers and no fixed perk schedule; it is the basis for the single sliding-scale access rule in GT-3A.
 
@@ -107,52 +107,45 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 ---
 
-## GT-4. Network Regeneration Contribution
+## GT-4. Unified Fund: Inflows and Allocation
 
-**GT-4.1** Economic activities benefiting from the network's resources shall contribute a portion of revenue to the **Unified Fund** (GT-1.10). This clause governs only the inflow rate; allocation of the Fund is governed by GT-4A.
+**GT-4.1 — Fiscal hosting.** The Association is the fiscal host for all holons. All economic activity — revenues, expenses, contributions, allocations — passes through the Unified Fund (GT-1.10). Each holon operates within the Fund as a governance and accounting unit, with its own mandate, dedicated collective on the fiscal-hosting platform, and one or more Stewards. The legal person remains the Association at all times.
 
-**GT-4.2** Unless otherwise agreed, **a minimum of five percent (5%) of Net Revenue** shall be allocated.
+**GT-4.2 — Holons within the Fund.** For the purposes of allocation, the following are treated as holons, each running the shape set out in GT-4.4:
+(a) **Association holon** — the network-level collective, stewarded by the Board, receiving the Network Regeneration Contribution and unrestricted contributions. (Replaces the term *"central pool"* used in earlier drafts and strategy documents.)
+(b) **Hub holons** — under Agreement 1, stewarded per Agreement 3;
+(c) **Project holons** — under Agreement 6;
+(d) **Venture holons** — under Agreement 7;
+(e) **Elder Council holon** — under Agreement 8, the Council acting as its own collective Steward; terminal in the upward flow.
 
-**GT-4.3** The rate may be adjusted within three percent (3%) to ten percent (10%) by mutual agreement. For Partnership Agreement activities, this is a structure cost deducted before Partner distribution.
+**GT-4.3 — Steward allocation rights.** Every Steward of a holon holds a *delega di spesa* from the Association: delegated authority to allocate resources within the holon's collective, within the holon's mandate, under the ceiling, and within the hard rails of GT-4.5. Where a holon has more than one Steward, allocation rights are shared and exercised collectively through the holon's own internal decision-making process — which the Stewards establish (consensus, sociocracy, majority, or other), with each co-Steward holding voice and participation, and every relevant decision recorded. Where a holon has a single Steward, the Steward decides alone under personal responsibility. For the Association holon, the Board acts as the collective Steward, exercising allocation rights through collective Board deliberation per the Statute and its bylaws. For the Elder Council, the Council acts as the collective Steward of its own holon per its charter.
 
-**GT-4.4** The Association reports annually on the Fund as part of its *bilancio sociale*.
+**GT-4.4 — The shape (every holon).** Every holon's allocation runs through the same shape, in this order:
 
----
+(a) **Network Regeneration Contribution at source.** Where the holon generates Net Revenue from economic activity, a contribution of **a minimum of five percent (5%) of Net Revenue** is deducted at source and routed to the Association holon before any local allocation. The rate may be adjusted within **three percent (3%) to ten percent (10%)** by mutual agreement; for Partnership Agreement activities, this is a structure cost deducted before Partner distribution. The Association holon, the Elder Council, and non-economic inflows (unrestricted contributions, grants) are exempt from this carve-out.
 
-## GT-4A. Unified Fund Allocation
+(b) **Cost-coverage bucket.** The holon's own operating costs are reserved first against a published target, including Steward activity-cost reimbursement under Agreement 3 §8–§9 and Clause GT-12. Contents per holon type:
+- *Association holon:* the Association's legal-entity operating costs — administration, Article 18 CTS insurance, fiscal-hosting platform fees, and similar network-level structural costs;
+- *Hub holons:* tenure operating costs;
+- *Venture and Project holons:* per their Annex;
+- *Elder Council holon:* convening, deliberation, and documentation costs (not personal income to elders).
 
-**GT-4A.1 - Fiscal hosting.** The Association is the fiscal host for all holons. All economic activity — revenues, expenses, contributions, allocations — passes through the Unified Fund. Each holon operates within the Fund as a governance and accounting unit, with its own mandate, dedicated collective, and one or more Stewards. The Association's central pool receives the Network Regeneration Contribution (GT-4) and direct unrestricted contributions, and is allocated by the Board per GT-4A.3. The legal person remains the Association at all times.
+(c) **Steward discretionary allocation.** Once the cost-coverage bucket is secured, the holon's Steward(s) allocate funds to clearly defined proposals within the holon's mandate, up to a published ceiling. For the Association holon, this is the Board's allocation to network-wide programmes and to top-up support for holons whose local cost-coverage cannot meet their target. For the Elder Council, this bucket is uncapped — it is the network's allocator of last resort under its Agreement 8 mandate, directed by collective Council deliberation to any holon, Steward, or programme serving integral regeneration. May include elderly-focused hubs and programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
 
-**GT-4A.2 - Steward allocation rights.** Every Steward of a holon holds a *delega di spesa* from the Association: delegated authority to allocate resources within the holon's collective, within the holon's mandate, under the ceiling, and within the hard rails of GT-4A.6. Where a holon has more than one Steward, allocation rights are shared and exercised collectively through the holon's own internal decision-making process — which the Stewards establish (consensus, sociocracy, majority, or other), with each co-Steward holding voice and participation, and every relevant decision recorded. Where a holon has a single Steward, the Steward decides alone under personal responsibility. For the Elder Council (Agreement 8), the Council acts as the collective Steward of its own holon per its charter.
+(d) **Upward overflow.** Any surplus above the discretionary ceiling flows upward to the Elder Council holon via inter-collective transfer on the fiscal-hosting platform. The Elder Council is terminal: it has no upward outflow.
 
-**GT-4A.3 - Network cascade (Board allocates the central pool).** The Board allocates the central-pool balance through priority buckets, in the following order:
-(a) **Holons** — operating support transferred to holon collectives, with a published target;
-(b) **Stewards** — active steward operating support (activity-cost reimbursement per Agreement 3 §8 and Clause GT-12), with a published target;
-(c) **Elder Council** — any balance beyond the saturated Holons and Stewards buckets routes to the Elder Council, without cap.
-
-The two saturating buckets fill smoothly; when one is nearly saturated, the next begins to fill. In a lean year, lower-priority buckets visibly shrink; in a healthy year, the Elder Council receives the residual to direct toward mission. Targets and shape parameters are held as Living Governance Resolutions per GT-4A.7.
-
-**GT-4A.4 - Holon waterfall (Stewards allocate the holon collective).** A holon's locally generated revenue, after the Network Regeneration Contribution (GT-4) has been deducted at source, is allocated by its Stewards through the same shape within the holon's collective:
-(a) **Place** — the holon's tenure operating cost reserve, with a published target;
-(b) **Discretionary envelope** — the Stewards' discretionary deployment envelope for activity expenses within mandate, with a published cap;
-(c) **Excess** — any surplus above the discretionary cap is transferred upward to the Elder Council via inter-collective transfer on the fiscal-hosting platform.
-
-**GT-4A.5 - Elder Council allocation rights.** The Elder Council receives all flows routed to it from the network cascade and the holon waterfalls as a single combined inflow. The Council is treated as a holon for allocation purposes and allocates its inflow through two buckets:
-(a) **Operating** — the Council's own governance operating costs (convening, deliberation, documentation), with a published target. Not personal income to elders;
-(b) **Allocation** — Association mission spending under the Council's Agreement 8 mandate, uncapped, directed by collective Council deliberation to any holon, Steward, or programme serving integral regeneration. May include elderly-focused hubs and programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
-
-**GT-4A.6 - Hard rails.** Every allocator (Board, Stewards, Elder Council) operates within the same procedural rails:
+**GT-4.5 — Hard rails.** Every allocator (Board for the Association holon, Stewards for Hub/Venture/Project holons, Elder Council for its own holon) operates within the same procedural rails:
 (a) **Subsidiarity** — within mandate, under the ceiling, with the cost-coverage bucket secured, the allocator decides; no higher-level pre-approval of in-scope spend;
 (b) **Two-part purpose test** — every expense must serve both the local mandate AND the Association's integral-regeneration purpose;
 (c) **Delegated-authority ceiling** — single-signature up to a published cap; second signature above the cap; second signature always required on the allocator's own payments or reimbursements;
 (d) **Anti-self-dealing** — no allocator may allocate to their own personal benefit; participation in mission-aligned programmes is mission participation, not personal income;
 (e) **Reconciliation** — Stewards reconcile at tenure handover; the Elder Council per its Agreement 8 charter; cost-coverage reserves are intact at reconciliation, no deficit passed forward;
-(f) **No application process for routine flows** — flows are structural per the cascade and waterfall shapes; the Elder Council deliberates as the Agreement 8 mandated allocation body; all decisions recorded and reported in the *bilancio sociale*;
-(g) **Non-distribution constraint** — no flow at any scale constitutes personal income, salary, pension, or profit distribution to any natural person. Personal compensation of natural persons engaged by the Association, where it occurs, is a separate matter governed by Agreement 3 §8 and Clause GT-12, outside the Unified Fund's allocation cascade.
+(f) **No application process for routine flows** — flows are structural per the shape in GT-4.4; the Elder Council deliberates as the Agreement 8 mandated allocation body; all decisions recorded and reported in the *bilancio sociale*;
+(g) **Non-distribution constraint** — no flow at any scale constitutes personal income, salary, pension, or profit distribution to any natural person. Personal compensation of natural persons engaged by the Association, where it occurs, is a separate matter governed by Agreement 3 §8 and Clause GT-12, outside the Unified Fund's allocation shape.
 
-**GT-4A.7 - Targets and parameters.** The cascade targets, the holon cost target, the Council operating target, the cascade stiffness, and the delegated-authority ceiling are set by Board resolution and held as Living Governance Resolutions, revisable through the same instrument class.
+**GT-4.6 — Parameters as Living Governance Resolutions.** The per-holon parameters — NRC rate (within 3–10%), cost-coverage target, discretionary ceiling, and any shape stiffness — are set by Board resolution (for the Association holon and network-wide defaults) and by Stewards within their mandate (for their own holon), held as Living Governance Resolutions, revisable through the same instrument class.
 
-**GT-4A.8 - Annual reporting.** The Association reports annually on the Unified Fund — inflows, allocations across all buckets at every scale, and Council Allocation decisions — as part of its *bilancio sociale*.
+**GT-4.7 — Annual reporting.** The Association reports annually on the Unified Fund — inflows, allocations at every scale (Association holon, each holon, Elder Council), and discretionary decisions — as part of its *bilancio sociale*.
 
 ---
 

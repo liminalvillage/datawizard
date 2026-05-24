@@ -4,7 +4,7 @@ type: annex
 annex_ref: A5-1
 parent_agreement: Agreement 5 — Sponsorship
 created: '2026-03-17'
-updated: '2026-03-17'
+updated: '2026-05-24'
 status: template
 tags:
   - annex
@@ -84,7 +84,7 @@ tags:
 ☐ Person / role: [e.g. "scholarship for a steward"]
 ☐ Infrastructure: [e.g. "solar installation at Hub X"]
 ☐ Programme: [e.g. "mentorship programme on regenerative design"]
-☐ Unified Fund (central pool)
+☐ Unified Fund (Association holon)
 ☐ Other: ___
 
 **If milestone-based, specify conditions for release:**

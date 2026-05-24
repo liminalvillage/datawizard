@@ -9,7 +9,7 @@ tags:
   - regenerative-covenant
 title: Regenerative Impact Framework
 type: companion-doc
-updated: '2026-05-23'
+updated: '2026-05-24'
 version: '1.3'
 ---
 *The Association's proprietary framework for classifying and measuring regenerative impact. Referenced in the [[General Terms and Conditions]] (GT-1.6 and GT-2), the [[Agreement 1 — Ownership| Ownership Agreement]] (Annex 2), the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4), and the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]] (Clause 2). This document specifies what the framework is, how it is applied, and how measurement works in practice.*
@@ -105,7 +105,7 @@ At the network level, the Association maintains a skills and knowledge inventory
 - Precarity reduction: are members less economically precarious than they were?
 
 **How we assess:**
-Financial transparency is built into the annual reporting cycle. Each hub reports its cost coverage annually. The Association publishes aggregate Unified Fund flows in the *bilancio sociale* (GT-4A.8). Patterns of hardship escalating into Council Allocation requests under GT-4A.5(b) provide indirect evidence — persistent demand indicates structural economic failure, not individual misfortune.
+Financial transparency is built into the annual reporting cycle. Each hub reports its cost coverage annually. The Association publishes aggregate Unified Fund flows in the *bilancio sociale* (GT-4.7). Patterns of hardship escalating into Council Allocation requests under GT-4.4(c) provide indirect evidence — persistent demand indicates structural economic failure, not individual misfortune.
 
 **Note:** This dimension is where the gap between stated values and operational reality most often appears. A network that talks about care while leaving its stewards unable to pay rent has not yet made good on its covenant.
 

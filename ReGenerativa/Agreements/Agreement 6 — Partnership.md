@@ -4,7 +4,7 @@ type: agreement
 version: '3.1'
 status: active
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 tags:
   - agreement
   - partnership
@@ -40,7 +40,7 @@ tags:
 
 **1.4** This is a framework agreement. Each specific initiative shall be described in one or more **Project Sheets** attached or linked to this Agreement.
 
-**1.5 Holon status.** For the purposes of GT-4A, each Project activated under this Framework is a **holon** (as defined in GT-1.10 and GT-4A.1), with the coordination role or Vehicle Entity acting on behalf of participating Partners. NRC inflow and allocation are governed by §10A of this Agreement together with GT-4 and GT-4A.
+**1.5 Holon status.** For the purposes of GT-4, each Project activated under this Framework is a **Project holon** (as defined in GT-1.10 and GT-4.2(c)), with the coordination role or Vehicle Entity acting on behalf of participating Partners. NRC inflow and allocation are governed by §10A of this Agreement together with GT-4.
 
 ---
 
