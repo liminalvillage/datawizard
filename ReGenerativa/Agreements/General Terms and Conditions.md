@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.11'
+version: '3.12'
 status: active
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-05-30'
 tags:
   - general-terms
   - ReGenerativa
