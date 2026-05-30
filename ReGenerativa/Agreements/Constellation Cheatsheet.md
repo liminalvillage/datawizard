@@ -115,9 +115,9 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 | Phase | Network capacity | External | NRC | Association support |
 |---|---|---|---|---|
 | 1 — Incubation | 100% | ✗ | N/A | Full: hubs, fiscal hosting, first client, 3 introductions |
-| 2 — Operational | ≥70% | ≤30% | 5% | Ecosystem + reference client |
-| 3 — Mature | ≥40% | ≤60% | 5% | Ecosystem only |
-| Post-emergence | Per A7-3 | Per A7-3 | ≥5% (defined period) | Per Emergence Agreement |
+| 2 — Operational | ≥70% | ≤30% | Prevailing Network NRC Rate (GT-4.4(a); LGR-2) | Ecosystem + reference client |
+| 3 — Mature | ≥40% | ≤60% | Prevailing Network NRC Rate (GT-4.4(a); LGR-2) | Ecosystem only |
+| Post-Emergence | Per A7-3 | Per A7-3 | Negotiated at Emergence within 3–10%, perpetual and undilutable (A7-3 §2) | Per Emergence Agreement |
 
 Capacity = working capacity, not revenue. Phase transitions require Phase Transition Review ([[Agreement 7 Annex 2 — Phase Review]]) + two-thirds majority of Venture Members.
 
@@ -157,7 +157,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | [[Regenerative Impact Framework]]               | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
-| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2, LGR-4 provisional) |
+| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2 provisional) |
 
 ---
 
@@ -183,7 +183,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | A1-5 | Hub DNA | Agreement 1 |
 | A2-1 | Member Onboarding | Agreement 2 |
 | A3-1 | Steward Onboarding | Agreement 3 |
-| A4 | Programme Annex Template | Agreement 4 |
+| A4-1 | Programme Annex Template | Agreement 4 |
 | A5-1 | Support Schedule | Agreement 5 |
 | A5-2 | Recognition Terms | Agreement 5 |
 | A6-1 | Partner Onboarding & Register *(consolidated: register + adhesion form)* | Agreement 6 |

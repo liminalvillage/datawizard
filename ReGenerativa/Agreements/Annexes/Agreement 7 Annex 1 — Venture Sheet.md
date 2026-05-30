@@ -147,11 +147,11 @@ version: '1.1'
 | Phase | NRC Rate | Base |
 |---|---|---|
 | Phase 1 | Not applicable | No external revenue |
-| Phase 2 | 5% | Net External Revenue |
-| Phase 3 | 5% | Net External Revenue |
+| Phase 2 | Prevailing Network NRC Rate (GT-4.4(a)) | Net External Revenue |
+| Phase 3 | Prevailing Network NRC Rate (GT-4.4(a)) | Net External Revenue |
 | Post-Emergence | As per [[Agreement 7 Annex 3 — Emergence]] | |
 
-*The NRC rate is flat per phase.*
+*The Network NRC Rate is Board-set, uniform across active holons, within 3–10% (default 5% absent a Board-ratified figure); see GT-4.4(a) and LGR-2.*
 
 ---
 

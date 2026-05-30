@@ -11,7 +11,7 @@ tags:
   - place-identity
 title: Agreement 1 Annex 5 — Hub DNA
 type: annex
-updated: '2026-05-11'
+updated: '2026-05-25'
 ---
 *Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Complete one per hub. The Hub DNA is the living expression of a hub's identity — its values, rhythms, expectations, and offerings. It is also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4) and the [[Agreement 4 — Mentorship|Mentorship Agreement]] (Clause 2.2). File completed documents as: "Hub DNA — [Hub Name].md" in the Hubs/[Hub Name]/ folder.*
 
@@ -190,9 +190,11 @@ Contribution-based stays include participation in shared work. Types of work at 
 **How costs are covered (mix may vary by season):**
 - Contribution-based stays: ___% of costs
 - Hosted programmes and events: ___%
-- Member contributions and NRC flows: ___%
-- Sponsorship and gifts: ___%
-- Direct Association support: ___%
+- Member contributions and direct gifts: ___%
+- Sponsorship earmarked to this Hub under Agreement 5: ___%
+- Cost-coverage allocation from the Unified Fund (per GT-4.4(b), where local revenue falls short of target): ___%
+
+*Note: the Network Regeneration Contribution flows OUT of the Hub to the Association holon at source (GT-4.4(a)); it is not a Hub inflow.*
 
 **Contribution rates for stays:**
 
@@ -204,6 +206,25 @@ Contribution-based stays include participation in shared work. Types of work at 
 | External guest | [duration] | [e.g. €45/night] |
 
 *These are reference figures. The steward has discretion to adjust based on a participant's contribution history, financial situation, and the hub's current needs. No one is turned away for lack of money; no one exploits that generosity.*
+
+---
+
+## The Reckoning — What This Place Counts
+
+*Every hub recognises contribution in its own way. This section names what this place counts most for the purposes of Resource-cost auctions under [[Agreement 4 — Mentorship]] §4.5(d). A guest who has given here in the ways below will be recognised here, and the auction will reflect that. The weightings are revised by the Steward(s) seasonally and recorded in the Decision Log.*
+
+**Default weighting.** Where this section is silent on a contribution type, that type weights equally with all others (the network-wide Validated Contribution score applies).
+
+**This Hub's weights:**
+
+| Contribution type | Weight | Notes |
+|---|---|---|
+| [e.g. Land-based work — gardening, building, maintenance] | [e.g. 1.5] | [Why this is weighted this way] |
+| [e.g. Facilitation and hosting] | [e.g. 1.2] | |
+| [e.g. Documentation and storytelling] | [e.g. 1.0] | |
+| [e.g. Financial or material gift] | [e.g. 0.8] | |
+
+*Weightings are >0; the Steward chooses the spread that reflects this place's living priorities. A flat 1.0 across all types is a valid choice and signals that no contribution type is more "of this hub" than another.*
 
 ---
 

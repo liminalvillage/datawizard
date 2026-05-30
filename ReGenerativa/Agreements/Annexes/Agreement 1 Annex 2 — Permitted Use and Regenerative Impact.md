@@ -4,14 +4,14 @@ type: annex
 annex_ref: A1-2
 parent_agreement: Agreement 1 — Ownership
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-05-24'
 status: template
 tags:
   - annex
   - ReGenerativa
   - ownership
   - asset-use
-  - social-dna
+  - regenerative-impact
 version: '1.1'
 ---
 *Annex 2 to the [[Agreement 1 — Ownership]]. Defines the permitted uses of the Asset and classifies them according to the Regenerative Impact Framework. Forms an integral part of that Agreement.*

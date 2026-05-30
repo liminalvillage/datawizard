@@ -4,7 +4,7 @@ type: agreement
 version: '3.0'
 status: active
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-05-25'
 tags:
   - agreement
   - sponsorship
@@ -58,7 +58,8 @@ tags:
 - Operational costs of a specific hub
 - Regeneration or improvement of a place
 - Support of a steward or contributor
-- Scholarships or sponsored places (e.g. covering Resource-cost or Member-friendly access under Agreement 4 for participants who cannot otherwise afford it)
+- Scholarships at the Member-friendly rate under Agreement 4 (for members who cannot otherwise afford the rate)
+- Underwriting the direct delivery cost of Resource-cost places under Agreement 4 (covers the slot's resource consumption; does not affect Resource-cost eligibility, which is determined by the auction in A4 §4.5)
 - Equipment or tools for common use
 - Educational or cultural programming
 - Communication and documentation

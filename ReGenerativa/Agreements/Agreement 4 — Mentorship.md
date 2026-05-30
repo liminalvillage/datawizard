@@ -4,7 +4,7 @@ type: agreement
 version: '3.3'
 status: active
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-05-25'
 tags:
   - agreement
   - mentorship
@@ -38,7 +38,7 @@ tags:
 
 **1.3** The Mentor's core commitment is a **gift economy principle**: the Mentor commits to making their **labour, time, and expertise** available to the network's highest contributors at **resource cost** (the slot's direct delivery cost only — hub usage, materials, food, direct logistics — with no Mentor-fee component). This gift is the foundation of the mentorship relationship and the basis upon which the Association supports the Mentor in designing and delivering paid Programmes to broader audiences.
 
-**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. For each confirmed Programme, the Association shall: identify from the Contribution Ledger the network members eligible for Resource-cost access under Clause 4.1; offer those places to eligible members before the Programme opens to paid general registration; and confirm the number of Resource-cost places taken when providing the registration status update under Clause 5A.3. Where the framework Mentorship Agreement and the Programme Annex are both silent on the minimum number of Resource-cost places, at least one such place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement.
+**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. Resource-cost places are allocated by a contribution-weighted auction running from Programme publication to commencement (Clause 4.5). The Association publishes the current claim list visibly throughout the auction window and confirms the auction state to the Mentor as part of the registration status update under Clause 5A.3. Where the framework Mentorship Agreement and the Programme Annex are both silent on the minimum number of Resource-cost places, at least one such place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement.
 
 **1.4** This Agreement is **not an employment contract**. It governs a professional, autonomous, occasional, or otherwise lawfully compensated collaboration, documented in accordance with applicable Italian law and the General Terms (GT-12).
 
@@ -91,6 +91,20 @@ Where the framework agreement is silent on a parameter, at least one (1) Resourc
 
 **4.4 Mentor's labour as the gift.** The Mentor's labour, time, and expertise are the gift; the network's reciprocal obligation (Clause 1.3A) is to make Resource-cost places visible and effective. Because Resource-cost places cover their own direct delivery cost, the network does not carry a money-losing-slot risk under this Agreement. General Programme under-subscription risk (e.g. paid bands not filling to the Minimum Viable Threshold) is addressed separately through the financial model and shortfall provisions in the Programme Annex (§5 and A4-1).
 
+**4.5 Resource-cost auction.**
+
+**(a) Window.** The auction opens when the Programme is published under Clause 5A.1 and closes at the moment the Programme commences. Until commencement, any claim or supersession is permitted. The registration status update under Clause 5A.3 reports the auction state at that date; the count of Resource-cost places is fixed, but identities may change up to commencement. Supersessions occurring after the Clause 5A.3 status update are notified to the Mentor immediately.
+
+**(b) Logistics freeze.** For per-name logistical allocations (accommodation, dietary, materials, name tags), the Resource-cost list at **seven (7) days before the Programme** is the planning basis. A supersession occurring after this freeze inherits the superseded member's logistical assignment; no re-allocation is required.
+
+**(c) Claim and supersession.** During the auction window, any member in good standing may claim a Resource-cost place. A member with a strictly higher contribution score may supersede a current claimant at any time. Each claim and supersession is recorded in the Contribution Ledger.
+
+**(d) Scoring rule.** For a Programme hosted at a Hub, the contribution score is the member's Validated Contribution weighted by the Hub's DNA scoring rule (see [[Agreement 1 Annex 5 — Hub DNA|A1-5]], "The Reckoning"). For a Programme not bound to a Hub, the network-wide Passport contribution measure (GT-3A.4) applies.
+
+**(e) Soft landing.** A member superseded during the auction window is automatically offered the next available Member-friendly place at the same Programme, with 48 hours to accept or decline, or until commencement of the Programme, whichever comes first. If no Member-friendly place is available at the moment of supersession, the superseded member is released without further claim and may participate in subsequent Programme auctions on the same terms.
+
+**(f) Sponsorship.** A Resource-cost slot's direct delivery cost may be underwritten by a Supporter under Agreement 5 §3.2. The auction mechanic is unaffected by sponsorship.
+
 ---
 
 ## 5. Financial Structure and Ticketing
@@ -112,8 +126,6 @@ Where the framework agreement is silent on a parameter, at least one (1) Resourc
 *This clause applies once a Programme Annex has been signed and the programme is confirmed to proceed.*
 
 **5A.1** The Association shall publish the Programme to the membership and through its standard communication channels within **14 days** of confirmation that the Programme will proceed.
-
-**5A.2** The Association shall send at least one direct communication to members who, based on their Contribution Ledger record, are eligible for free or discounted access to the Programme, no later than **21 days** before the Programme date.
 
 **5A.3** The Association shall provide the Mentor with a registration status update — including the number of confirmed participants at each access level — no later than **21 days** before the Programme date. If the confirmed participant count is below the minimum viable threshold defined in the Programme Annex, the Mentor may request rescheduling or cancellation in accordance with the cancellation terms of the Programme Annex, without prejudice to the relationship under this Agreement.
 

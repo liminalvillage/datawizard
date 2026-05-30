@@ -5,7 +5,7 @@ status: proposal
 priority: high
 maturity: working
 created: 2026-05-18
-updated: 2026-05-22
+updated: 2026-05-24
 tags:
   - strategy
   - fund
@@ -62,7 +62,7 @@ Think of filling a stack of glasses. Water pours into the first, but the glass h
 
 | Source | How it enters | Note |
 |---|---|---|
-| **Any GT-4 transaction** (Partnership, Intrapreneurship, revenue-generating Mentorship, hub-earned income) | **NRC shaved off-the-top automatically** — 3–10% per GT-4.3, default 5%, rate set per activity in its mandate doc | Structural, not discretionary — no Board decision per transaction |
+| **Any GT-4 transaction** (Partnership, Intrapreneurship, revenue-generating Mentorship, hub-earned income) | **NRC shaved off-the-top automatically** — prevailing Network NRC Rate per GT-4.4(a) (Board-set, uniform across active holons within 3–10%, default 5% absent Board figure) | Structural, not discretionary — no Board decision per transaction; no per-holon negotiation |
 | **Sponsorship** (A5) | 100% to the Fund | clean inflow |
 | **Membership fees** (A2) | Net of Art. 18 CTS insurance only | gross is largely pre-committed |
 | **Donations** | 100% to the Fund | |
@@ -97,7 +97,7 @@ Holons    = K_h · tanh(Pool_0 / (α·K_h))     → operating support & infrastr
 Pool_1    = Pool_0 − Holons
 Stewards  = K_s · tanh(Pool_1 / (α·K_s))     → active steward operating support (activity-cost reimbursement; see F1)
 Pool_2    = Pool_1 − Stewards
-Council   = Pool_2                             → routed to the Elder Council without cap, for mission-directed allocation per GT-4A.5
+Council   = Pool_2                             → routed to the Elder Council without cap, for mission-directed allocation per GT-4.4(c) (Elder Council row, Mission Allocation)
 ```
 
 **Order follows the lifecycle:** the *holons* where stewardship happens, then those *actively practicing* it, then the Elder Council which holds allocation rights over the residual treasury for mission-directed redistribution.
@@ -107,7 +107,7 @@ Council   = Pool_2                             → routed to the Elder Council w
 For a holon's locally generated revenue `x`:
 
 ```
-Pool       = (1 − NRC) · x                        ← NRC per GT-4.3 lifts off automatically at source
+Pool       = (1 − NRC) · x                        ← NRC per GT-4.4(a) lifts off automatically at source
 Place      = C · tanh(Pool / (α·C))               → cap = C  (holon's tenure operating cost target)
 Surplus    = Pool − Place
 Stewards   = α·C · tanh(Surplus / (α·C))          → cap = α·C  (steward's mandated discretionary envelope for activity expenses)

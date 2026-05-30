@@ -95,7 +95,7 @@ Mentor's costs (travel €___, accommodation €___, materials €___) are reimb
 | Steward and volunteer coordination | €___ | |
 | Communication and marketing | €___ | |
 | Administration | €___ | |
-| **Network Regeneration Contribution** (min. 5% of Net Revenue — GT-4) | ___% | |
+| **Network Regeneration Contribution** (prevailing Network NRC Rate per GT-4.4(a); Board-set within 3–10%, default 5% absent Board figure) | per LGR-2 | |
 | **Total costs** | **€___** | |
 | **Net Programme Revenue available for distribution** | **€___** | |
 

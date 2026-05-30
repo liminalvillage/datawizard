@@ -5,7 +5,7 @@ status: proposal
 priority: high
 maturity: working
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-05-24
 tags:
   - strategy
   - access-rule
@@ -76,26 +76,27 @@ Where the cash comes from, and why it cannot bankrupt anything:
    paying tiers of a programme fund its free place (the existing full-to-free model);
    the OQ4 gift-economy-downside decision already routes the residual gap. Net new cash
    need is only the shortfall.
-3. **That shortfall is met from the existing machinery only**: the **Network
-   Regeneration Fund** (GT-4: ≥5%, range 3–10%, of Net Revenue from Partnership,
-   Intrapreneurship Phase 2/3, and revenue-generating Mentorship) and **Sponsorship**
-   (Agreement 5). The €25 membership fee (A2) is *not* a funding source — it covers
-   insurance.
+3. **That shortfall is met from the existing machinery only**: the **Unified Fund**'s
+   Association-holon balance (fed by the prevailing Network NRC Rate per GT-4.4(a) —
+   Board-set within 3–10%, default 5% — applied uniformly to Net Revenue from
+   Partnership, Intrapreneurship Phase 2/3, and revenue-generating Mentorship) and
+   **Sponsorship** (Agreement 5). The €25 membership fee (A2) is *not* a funding
+   source — it covers insurance.
 
 **The Floor Reserve mechanism** (mirrors the LGR-2 Elder-Fund self-correcting logic, so
 the network already knows this pattern):
 
-- The Board publishes a **Floor Reserve** figure annually — the minimum NRF balance at
+- The Board publishes a **Floor Reserve** figure annually — the minimum Association-holon balance at
   which the Tier R guarantee is active.
-- While `NRF balance ≥ Floor Reserve`: the free-place guarantee is live, at the
+- While `Association-holon balance ≥ Floor Reserve`: the free-place guarantee is live, at the
   published number of places.
-- While `NRF balance < Floor Reserve`: Tier R is **suspended** (Tier U continues
+- While `Association-holon balance < Floor Reserve`: Tier R is **suspended** (Tier U continues
   unconditionally); members are told plainly, and voluntary contributions may be
   invited — exactly the Care Protocol's below-reserve behaviour.
 - **Ratchet:** the Board may widen the floor (more places, lower reserve trigger) at
   any time; it may **not** cut below a published level without a governance decision
   and notice. A guarantee cannot be quietly hollowed out.
-- The number of free places scales with NRF health, never the reverse — the network
+- The number of free places scales with Association-holon health, never the reverse — the network
   promises only what its own economic activity can fund.
 
 So the worst case is honest and bounded: in a lean year Tier R quietly pauses and Tier U
@@ -151,7 +152,7 @@ rich-get-richer dynamic in the bare model.
 
 1. Adopt the floor (Tier U unconditional + Tier R reserve-scaled)?
 2. If yes, set the **initial provisional figures** (owner/Board, revisable like any LGR):
-   - Floor Reserve figure (the NRF balance that activates Tier R).
+   - Floor Reserve figure (the Association-holon balance that activates Tier R).
    - Number of free programme places per member per year at/above that reserve.
    - Priority-window length (days members book ahead of public).
 

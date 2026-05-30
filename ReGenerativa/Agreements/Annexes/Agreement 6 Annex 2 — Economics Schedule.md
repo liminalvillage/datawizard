@@ -38,10 +38,10 @@ Structure costs are distinct from:
 |---|---|---|---|
 | Vehicle Entity administration | Accounting, bookkeeping, annual filings, company secretarial | Pro rata across Projects by revenue | €___ / year |
 | Legal and compliance | Ongoing legal review, contract templates, GDPR compliance | Pro rata across Projects by revenue | €___ / year |
-| Digital platform (Contribution Ledger) | Hosting, development, maintenance of the validation platform | Per Project or flat monthly fee | €___ / month |
+| Digital platform (Contribution Ledger) | Hosting and maintenance of the shared Contribution Log (A6-4) — the plain digital record in which Partner contributions are recorded and confirmed | Per Project or flat monthly fee | €___ / month |
 | Insurance | Professional liability and other covers for the Framework | Pro rata across Projects by revenue | €___ / year |
 | Communication and administration | Coordination, communications tooling, meeting costs | Per Project or flat fee | €___ / Project or €___ / month |
-| Network Regeneration Contribution | Min. 5% of Net Revenue per GT-4 — pass-through to the Association holon (not a Vehicle Entity overhead); see §10A of the Agreement | 5% (or agreed rate) of Net Revenue per Project | 5% |
+| Network Regeneration Contribution | Prevailing Network NRC Rate per GT-4.4(a) (Board-set, uniform across active holons within 3–10%; default 5% absent Board figure); pass-through to the Association holon, not a Vehicle Entity overhead; see A6 §10A | Applied at revenue recognition; no per-Project negotiation | per LGR-2 |
 
 **Total estimated annual structure costs:** €___
 

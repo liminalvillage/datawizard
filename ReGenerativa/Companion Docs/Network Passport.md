@@ -9,7 +9,7 @@ tags:
   - access-rule
 title: Network Passport — Portable Contribution Record
 type: companion-doc
-updated: '2026-05-23'
+updated: '2026-05-24'
 version: '3.1'
 ---
 *Companion document to [[General Terms and Conditions]] GT-3A. It describes the
@@ -89,5 +89,5 @@ separately and minimally by the Association as data controller.
 ---
 
 *Reviewed seasonally by the Association's governance body. Changes are logged in the
-[[0.3 Decision Log]] and communicated to active participants. Governed by
-[[General Terms and Conditions]] GT-3A.*
+Association's internal Decision Log and communicated to active participants. Governed
+by [[General Terms and Conditions]] GT-3A.*

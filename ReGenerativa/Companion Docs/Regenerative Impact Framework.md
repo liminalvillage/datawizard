@@ -4,7 +4,7 @@ status: active
 tags:
   - companion-doc
   - ReGenerativa
-  - social-dna
+  - regenerative-impact
   - measurement
   - regenerative-covenant
 title: Regenerative Impact Framework
@@ -144,7 +144,7 @@ A simple annual question asked at the winter gathering: *Who here would you call
 **How we assess:**
 Annual governance review at the winter gathering. The Board presents: participation rates, key decisions made and their rationale, decisions delegated to hubs, and an honest account of where governance fell short. Members respond.
 
-The Decision Log ([[0.3 Decision Log]]) is the primary instrument of this dimension — it is only useful if it is honest. A Decision Log that only records good decisions is not a governance tool; it is propaganda.
+The Association's internal Decision Log is the primary instrument of this dimension — it is only useful if it is honest. A Decision Log that only records good decisions is not a governance tool; it is propaganda.
 
 ---
 
@@ -197,7 +197,7 @@ This framework is a living document. As the network learns what genuinely matter
 
 Proposed changes to the framework are discussed at the annual gathering and approved by the Board. Changes are recorded in the Decision Log with rationale.
 
-**Version:** 1.1 — May 2026
+**Version:** 1.3 — May 2026
 **Next review:** Spring Equinox 2027
 
 ---

@@ -31,7 +31,7 @@ Agreement.*
 **Other constellation agreement(s) held or previously held:** [list agreement(s) and
 period — evidences the eligibility period under A8 Cl 2.2 / LGR-1]
 
-**Contribution record at entry:** a long and substantial standing record (required per A8 Cl 2.1)
+**Contribution record at entry:** a long and substantial contribution record (required per A8 Cl 2.3(a))
 
 **Entry route (A8 Cl 2.3):** ☐ Nomination — by: [governing body / Elder Council /
 ≥3 hub stewards — name them]  ☐ Self-application — ratified by: [Elder Council / governing

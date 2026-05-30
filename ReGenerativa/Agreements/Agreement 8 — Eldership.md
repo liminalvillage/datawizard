@@ -172,8 +172,8 @@ Date: _________________________
 
 ## Linked Annexes
 
-- [[A8-1 — Elder Council Charter]]
-- [[A8-2 — Transition Rite Record]]
+- [[Agreement 8 Annex 1 — Elder Council Charter|A8-1 — Elder Council Charter]]
+- [[Agreement 8 Annex 2 — Transition Rite Record|A8-2 — Transition Rite Record]]
 
 ---
 

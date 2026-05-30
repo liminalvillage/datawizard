@@ -33,7 +33,7 @@ tags:
 
 **GT-1.9** **"Net Revenue"** means revenue remaining after deduction of direct costs, fiscal charges, and other deductions defined in the relevant agreement or annex.
 
-**GT-1.10** **"Unified Fund"** (the "Fund") means the Association's single financial architecture, operated through a public fiscal-hosting platform, through which all economic activity of the Association and its holons passes. The Association is the fiscal host for all holons (Hubs under Agreement 1, Projects under Agreement 6, Venture Holons under Agreement 7, the Elder Council under Agreement 8): each holon maintains a dedicated collective on the platform, with its revenues and expenses moving through the Fund while operational autonomy is retained within mandate. The Unified Fund comprises the **Association holon** (the network-level collective, stewarded by the Board — the term replaces "central pool" used in earlier drafts) together with all other holon collectives. Inflows and allocations are governed by Clause GT-4.
+**GT-1.10** **"Unified Fund"** (the "Fund") means the Association's single financial architecture, operated through a public fiscal-hosting platform, through which all economic activity of the Association and its holons passes. The Association is the fiscal host for all holons (Hubs under Agreement 1, Projects under Agreement 6, Venture Holons under Agreement 7, the Elder Council under Agreement 8): each holon maintains a dedicated collective on the platform, with its revenues and expenses moving through the Fund while operational autonomy is retained within mandate. The Unified Fund comprises the **Association holon** (the network-level collective, stewarded by the Board together with all other holon collectives. Inflows and allocations are governed by Clause GT-4.
 
 **GT-1.11** **"Network Passport"** means each participant's portable, cumulative record of validated contributions across all roles, hubs, and time, held in the Contribution Ledger. It carries no tiers and no fixed perk schedule; it is the basis for the single sliding-scale access rule in GT-3A.
 
@@ -71,13 +71,13 @@ tags:
 
 ## GT-3. Digital Infrastructure and Contribution Tracking
 
-**GT-3.1** The Association maintains simple, transparent infrastructure for tracking contributions and sharing resources: a **Contribution Ledger** — a plain, shared record, not a blockchain. It may, over time and as real need arises, also develop lightweight tools for resource sharing and bioregional (H3) visualisation; these are roadmap directions, not present obligations.
+**GT-3.1** The Association maintains simple, transparent infrastructure for tracking contributions and sharing resources: a **Contribution Ledger**. The way to operate this ledger (pen and paper, excel, blockchain) is up to the association discretion, as long as it is public and approved.
 
 **GT-3.2** This infrastructure exists to make contribution and need visible across the network, so that resources can flow toward where they are most needed without centralised command.
 
-**GT-3.3** Participation in tracking is voluntary. Access to **contribution-dependent benefits** (free Programme access, hub circulation, revenue shares) is conditioned upon recorded and Validated Contributions.
+**GT-3.3** Participation in conribution tracking is voluntary. Access to **contribution-dependent benefits** (free Programme access, hub circulation, resource allocation rights) is conditioned upon recorded and Validated Contributions.
 
-**GT-3.4** The Contribution Ledger stores only what is needed to recognise contribution; personal data is held separately and minimally. Participants may access, correct, or request deletion of their records per GT-5. Deletion renders historical entries unattributable without destroying the underlying record of network activity.
+**GT-3.4** The Contribution Ledger stores only what is needed to recognise contribution; personal data is held separately and minimally. Participants may access, correct, or request deletion of their records per GT-5. Deletion only renders historical entries unattributable without destroying the underlying record of network activity.
 
 ---
 

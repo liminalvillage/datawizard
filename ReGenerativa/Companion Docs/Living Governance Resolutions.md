@@ -22,11 +22,9 @@ the numbers and thresholds the agreements deliberately do not fix in their own t
 require to be "defined by the Association's governance body and published as a living
 governance resolution" (A8 Cl 2.2, A8 Cl 4.2, GT-3A.3). This document is internal
 governance, not a contract. It operates under the Association's governance powers and
-the General Terms. Each resolution is revised by Board / governing-body decision and the
-change recorded in [[0.3 Decision Log]]. Source of these initial entries:
-[[Constellation Viability Review - 2026-05-16]] (OQ1, OQ2) and
-[[Digital Infrastructure Gap Review - 2026-05-16]] (OQ7, OQ9), resolved 2026-05-16 in
-[[0.5 Open Questions]].*
+the General Terms. Each resolution is revised by Board / governing-body decision,
+recorded in the Association's internal Decision Log. Initial entries derive from the
+2026-05-16 viability and digital-infrastructure reviews (internal vault records).*
 
 ---
 
@@ -44,9 +42,9 @@ basis, its review cadence, and a **status**:
 
 LGR-1 was **Ratified** by the vault owner on 2026-05-16. **LGR-2 (Unified Fund
 allocation parameters)** is **Provisional** (framework) as of 2026-05-22, with
-specific figures awaiting Board ratification. **LGR-3** has been withdrawn; **LGR-4**
-remains a **Provisional** scope-bounding resolution. Ratified figures remain revisable
-by a Decision Log entry, never an agreement amendment.
+specific figures awaiting Board ratification. **LGR-3** and **LGR-4** have been
+withdrawn. Ratified figures remain revisable by a Decision Log entry, never an
+agreement amendment.
 
 ---
 
@@ -144,43 +142,6 @@ ratification.
 
 ---
 
-## LGR-4 — GT-3.1 infrastructure: minimal v1 scope (bounds the commitment)
-
-**Serves.** GT-3.1 commits the Association to maintain, beyond the Contribution Ledger,
-(a) a resource-allocation system, (b) a mutual-credit system, and (c) territorial
-mapping (H3). GT-3.2 frames these as the network's "cognitive glue". All three are
-named as committed infrastructure but were wholly unspecified, creating an unbounded
-obligation (OQ9).
-
-**Resolution.** Until each system enters build with a full specification, its committed
-scope is bounded to the following v1 definitions. Anything beyond v1 (notably the
-GT-3.2 "autonomous agents coordinate plans and allocate resources" language) is
-aspirational direction, **not** a present obligation.
-
-- **Resource-allocation system — v1.** A shared, network-readable register of shared
-  spaces, tools, and finances with request and grant status. Out of scope for v1:
-  automated optimisation, autonomous allocation agents, predictive scheduling.
-- **Mutual-credit system — v1.** A recorded multilateral credit balance between
-  participants enabling deferred reciprocal exchange, reconcilable toward zero
-  network-wide. Out of scope for v1: convertibility to fiat, interest, external
-  clearing, negative-balance enforcement.
-- **Territorial mapping (H3) — v1.** Visualisation of hubs and bioregions on H3
-  hexagonal cells. (The codebase already stores the H3 cell in settings.) Out of scope
-  for v1: agent-driven or predictive allocation over the map.
-
-**Recommendation flagged, not executed.** Consider amending GT-3.1 from "maintains" to
-"is developing" at the next Constellation Integrity Review (A8-1 §5.2) so the General
-Terms describe a roadmap, not a present-tense obligation. This is a GT change and ripples
-across all agreements — flagged for explicit human review, not applied here.
-
-**Review.** Each system's v1 scope is replaced by a full specification when it enters
-build, recorded in the Decision Log. See [[Digital Infrastructure Gap Review - 2026-05-16]]
-build step 6.
-
-**Status.** Provisional (scope-bounding) — 2026-05-16.
-
----
-
-*Resolutions are revised by governing-body / Board decision recorded in
-[[0.3 Decision Log]]. This document is the single source of truth for the figures the
-agreements defer to it; agreements cite resolutions by ID and date.*
+*Resolutions are revised by governing-body / Board decision recorded in the
+Association's internal Decision Log. This document is the single source of truth for
+the figures the agreements defer to it; agreements cite resolutions by ID and date.*

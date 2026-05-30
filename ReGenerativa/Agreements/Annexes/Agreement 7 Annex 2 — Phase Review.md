@@ -89,7 +89,7 @@ tags:
 
 **Planned external client types / sectors:** ___
 
-**NRC rate confirmed:** **5%** of Net External Revenue (GT-4)
+**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a) (Board-set, within 3–10%; default 5% absent Board figure); applies at revenue recognition. Not negotiated per Venture.
 
 **Fiscal arrangement:** ☐ Continue under Association umbrella  ☐ Venture will incorporate as: [legal form] by [DD/MM/YYYY]
 
@@ -110,7 +110,7 @@ tags:
 
 **Legal entity status:** ☐ Already incorporated as: [form, date]  ☐ Will incorporate by: [DD/MM/YYYY]
 
-**NRC rate confirmed:** **5%** of Net External Revenue
+**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a); applies at revenue recognition.
 
 **Network service commitment for Phase 3:**
 [Describe specifically how the minimum 40% network service capacity will be maintained]
