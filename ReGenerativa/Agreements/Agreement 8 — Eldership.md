@@ -1,9 +1,9 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.5'
+version: '1.6'
 created: '2026-04-14'
-updated: '2026-05-24'
+updated: '2026-05-30'
 status: active
 tags:
   - agreement
