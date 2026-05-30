@@ -1,6 +1,6 @@
 ---
 created: '2026-05-16'
-updated: '2026-05-22'
+updated: '2026-05-30'
 status: active
 type: overview
 maturity: draft
@@ -33,7 +33,7 @@ An agreement here is not a transaction. It is a plain way of naming what you and
 Two agreements anchor everything:
 
 - **A place has to be offered before anything can happen on it.** An owner lends a place to the network for regenerative use, and keeps owning it.
-- **A person joins by becoming a member.** Membership is the door. You step through it once; after that, any other role is simply signing the agreement for that role.
+- **A person joins by becoming a member.** Membership is the door. You step through it once; after that, any other role is simply signing the agreement for that role. From the first day, a member also carries a standing invitation to *tend* — to look after a project or a corner of a hub, as much or as little as they choose.
 
 Everything else is optional and stackable. You hold only the agreements that match what you actually do, you can hold several at once, and you can add or step back from roles as life changes.
 
@@ -43,7 +43,7 @@ Everything else is optional and stackable. You hold only the agreements that mat
 
 1. **[[Agreement 1 — Ownership|Ownership]]** - You have a place and want to lend it to the network for good use without selling it or losing control of it.
 2. **[[Agreement 2 — Membership|Membership]]** - You want to belong to the network and take part in its democratic life. This is the first step, and the doorway to every other role.
-3. **[[Agreement 3 — Stewardship|Stewardship]]** - You want to look after one hub day to day, holding the place and its people well, as a trusted guardian rather than a tenant or an employee.
+3. **[[Agreement 3 — Stewardship|Stewardship]]** - You want to look after one hub day to day, holding the place and its people well, as a trusted guardian rather than a tenant or an employee. This is the deeper form of the tending every member is already invited to do — a hub can be held by one steward or by several together.
 4. **[[Agreement 4 — Mentorship|Mentorship]]** - You have real expertise and want to teach it through programmes, offered first to those who have given the most, then to others.
 5. **[[Agreement 5 — Sponsorship|Sponsorship]]** - You want to give resources (money, tools, land, time) into the network as a gift, without buying influence over how they are used.
 6. **[[Agreement 6 — Partnership|Partnership]]** - You want to team up with others on a commercial project, sharing what it earns by what each person actually contributed, not who owns the most.
@@ -59,7 +59,7 @@ The word *constellation* is deliberate. These are not rungs on a ladder, and no 
 - **Each agreement is complete on its own.** You do not need the others for one to work.
 - **They are designed to be held together.** A member can also steward a hub and mentor in it. Adding a role never reopens the ones you already hold; you just sign the new agreement.
 - **Two things sit in the background.** One shared rulebook (the General Terms) keeps every agreement consistent, and the Association's Statute sits above them all. You do not need to read either to take part.
-- **The Association holds the network's money.** It acts as one shared account through which every hub, project, and venture passes its earnings — each one keeping its own envelope inside, directed by its own stewards.
+- **The Association holds the network's money.** It acts as one shared account through which every hub, project, and venture passes its earnings — each one keeping its own envelope inside, directed by its own stewards. Each place looks after its own running costs first, shares any lasting surplus with the wider network, and is caught by the network if it falls genuinely short — so no place is left to fail alone, and none simply hoards.
 
 ---
 
@@ -82,7 +82,9 @@ It looks after six things:
 
 Whatever you give the network is remembered in your **[[Network Passport]]**. It is yours, it is portable, and it grows as you contribute, across hubs and across roles.
 
-There are no tiers and no points to chase. One simple rule: **the more you have contributed, the higher your priority and the lower your price for the network's resources — up to and including free.** Each steward, mentor, or hub decides how that applies to what they hold. The aim is abundance and circulation, not gatekeeping.
+There are no tiers and no points to chase, and contribution never buys a vote — in the Association it is always one member, one vote. One simple rule for *access*: **the more you have contributed, the higher your priority and the lower your price for the network's resources — up to and including free.** Each steward, mentor, or hub decides how that applies to what they hold. The aim is abundance and circulation, not gatekeeping.
+
+And where you actively *tend* a place, your recent contribution there also gives you a proportionate say in how that place's shared spending is directed — a way of sharing care, not a rank over anyone.
 
 ---
 
