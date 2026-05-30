@@ -9,8 +9,8 @@ tags:
   - access-rule
 title: Network Passport — Portable Contribution Record
 type: companion-doc
-updated: '2026-05-24'
-version: '3.1'
+updated: '2026-05-30'
+version: '3.2'
 ---
 *Companion document to [[General Terms and Conditions]] GT-3A. It describes the
 Network Passport and the single access rule. It is not a legal agreement.*
@@ -31,7 +31,8 @@ themselves to be in this network.
 It answers the question relational economies have always struggled with at scale: *how
 do you carry trust with you when you move?* In a village, reputation travels by word of
 mouth. In a network of villages it needs a container. The Passport is that container —
-and nothing more. There are **no tiers, no levels, no ranks**.
+and nothing more. There are **no tiers, no levels, no ranks** among people: no one
+belongs more than anyone else, and no record buys a vote (see *Two readings* below).
 
 ---
 
@@ -62,6 +63,29 @@ record from there.
   cheaper and truer than the apparatus built to deny it.
 - **Disputes.** A participant who feels the rule was applied to them unfairly may seek
   review per GT-7.2.
+
+---
+
+## Two readings of the same record
+
+The Passport is read two ways, and keeping them apart is what lets contribution matter
+without ever becoming a rank over people. *(Pending F1.)*
+
+- **For access — lifetime, portable, rankless.** Your whole cumulative record sets your
+  place on the sliding scale (GT-3A.3): higher priority, lower price, up to free. This
+  reading never resets, follows you across every hub, and ranks no one above anyone —
+  it only moves people toward abundance and free access.
+- **For allocation authority — active, local, delegated.** Where you actively tend a
+  holon (a hub, project, or venture), your *recent* contribution there sets your share
+  of that holon's delegated spending envelope (GT-4.3; Agreement 2 §2.7). This reading
+  is local to where you tend, leans on recent rather than lifetime contribution so that
+  long-past giving never ossifies into present power, and is **administration of
+  delegated resources, not a governance vote** — in the Assembly it remains one member,
+  one vote (Agreement 2 §2.1).
+
+So contribution lowers your *price* everywhere and, where you tend, raises your *say
+over that holon's discretionary spend* — but it never ranks you as a person and never
+weights your vote.
 
 ---
 
