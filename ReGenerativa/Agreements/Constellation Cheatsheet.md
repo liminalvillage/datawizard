@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-05-24'
+updated: '2026-05-30'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -22,8 +22,8 @@ updated: '2026-05-24'
 | #   | Agreement                                            | Layer         | Parties                       | Core exchange                                                                                          |
 | --- | ---------------------------------------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ |
 | 1   | [[Agreement 1 — Ownership\|Ownership]]               | Root          | Owner ↔ Association           | Owner lends place or asset; Association uses it for regenerative purposes; ownership stays with Owner  |
-| 2   | [[Agreement 2 — Membership\|Membership]]             | Gateway       | Member ↔ Association          | Prerequisite for all other roles; €25/year covers insurance (Art. 18 CTS) and democratic participation |
-| 3   | [[Agreement 3 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | Association delegates hub custodianship; Steward optimises the place and its people                    |
+| 2   | [[Agreement 2 — Membership\|Membership]]             | Gateway       | Member ↔ Association          | Prerequisite for all other roles; €25/year covers insurance (Art. 18 CTS) and democratic participation; carries a standing, contribution-weighted **stewardship mandate** (§2.7) |
+| 3   | [[Agreement 3 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | The hub-specific expression of the membership mandate; one or many co-stewards hold a contribution-weighted collective *delega* and run the hub's living balance                    |
 | 4   | [[Agreement 4 — Mentorship\|Mentorship]]             | Expertise     | Mentor ↔ Association          | Practitioner hosts programmes; three pricing bands — market rate, member-friendly, and resource-cost (highest contributors cover the slot's direct delivery cost only; Mentor's labour is the gift) |
 | 5   | [[Agreement 5 — Sponsorship \|Sponsorship]]          | Support       | Supporter ↔ Association       | Resources enter the commons; ownership transfers; no control acquired                                  |
 | 6   | [[Agreement 6 — Partnership\|Partnership]]           | Collaboration | Partners ↔ each other         | Commercial projects; value distributed by validated contribution, not ownership stake                  |
@@ -32,6 +32,7 @@ updated: '2026-05-24'
 
 **Prerequisite chain:** Membership (A2) must be active before any other agreement can be held by a natural person.
 **Stacking:** Any combination of agreements may be held simultaneously. New role = sign the relevant agreement only. No transition process required (GT-11.4).
+**Membership = stewardship (gradient):** every Member carries a standing mandate to tend (A2 §2.7); Stewardship (A3) formalises it for a particular hub. Allocation say over a holon's discretionary spend scales with active contribution — administration, never a governance vote (one member, one vote stands). *(Pending F1.)*
 
 ---
 
@@ -43,7 +44,7 @@ updated: '2026-05-24'
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal) |
+| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the mutual-aid reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5). *(Pending F1.)* |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-7 | Dispute resolution — amicable → Elder Council (Probiviri) → external mediation → Ascoli Piceno |
@@ -75,11 +76,13 @@ Assessed using the [[Regenerative Impact Framework]]. Targets in Annexes. Review
 
 ## Network Passport — The Access Rule
 
-There are **no tiers and no perk table**. One rule governs access to all network resources:
+There are **no tiers and no perk table**, and no record buys a vote. One rule governs access to all network resources:
 
 > The more you have contributed, the higher your priority and the lower your price — up to and including free.
 
 Each steward, mentor, or hub sets, in good faith, how many places are free and how price slides with contribution for the resource they hold. The purpose is abundance and circulation, not gatekeeping. The Passport is simply the portable, cumulative record of contribution the rule reads from. Full detail: [[Network Passport]].
+
+**Two readings of the record** *(Pending F1)*: **lifetime-cumulative** contribution governs *access* (the rule above), portable and rankless; **active/recent** contribution to a holon governs *allocation authority* — your share of that holon's discretionary spend (GT-4.3; A2 §2.7) — local to where you tend, and administration only, never a governance vote.
 
 ---
 
@@ -89,6 +92,9 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 |---|---|---|
 | Annual membership fee | €25 | A2, Clause 4.1 |
 | Network NRC Rate (active holons, Board-set, uniform) | within 3–10% (default 5% absent Board figure) | GT-4.4(a), LGR-2 |
+| Settlement cycle (living balance) | one lunation (~29.5 days) | GT-4.4A, LGR-5 *(pending F1)* |
+| Band of tolerance `n` (sovereign zone ±nC) | provisional 3 lunations-of-cost, earned wider | GT-4.8, LGR-5 *(pending F1)* |
+| Downward backstop `k` (Association absorbs) | provisional 6 lunations | GT-4.8, LGR-5 *(pending F1)* |
 | Post-Emergence NRC (negotiated at Emergence, locked perpetually as undilutable share) | within 3–10% | A7-3 §2 |
 | Ownership termination notice | 90 days | A1, Clause 6.1 |
 | Stewardship notice — standard | 30 days | A3, Clause 16.1 |
@@ -134,7 +140,7 @@ The **Elder Council** is the standing governance body of all participants who ho
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
-The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4.
+The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4. It is also the network's **mutual-aid reservoir** (GT-4.4A, GT-4.8): healthy holons give surplus upward, struggling holons are caught from the same pool. *(Pending F1. The network-tier-standing vs elder-composition question is left open — see [[Holon Homeostat - Membership as Stewardship and the Mutual-Aid Band - 2026-05-30]].)*
 
 ---
 
@@ -157,7 +163,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | [[Regenerative Impact Framework]]               | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
-| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2 provisional) |
+| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2 provisional; LGR-5 Allocation Model — settlement/band/returns, provisional & pending F1) |
 
 ---
 
