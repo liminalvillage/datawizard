@@ -1,10 +1,10 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.3'
+version: '3.4'
 status: active
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-05-30'
 tags:
   - agreement
   - stewardship
@@ -14,7 +14,7 @@ tags:
 
 ---
 
-*Every place needs a face. The Steward is the network's living presence at the Hub — not its owner, not its tenant, but its custodian: the one who opens the door, tends the rhythms, holds the conditions in which a regenerative space stays alive between gatherings. They are the bridge between ownership and community, between the asset and the people it serves. The Steward has chosen to put themselves between a place and its possibilities. This Agreement is the network's answer to that choice. It offers the standing of being entrusted with a place, the freedom of working within a framework rather than against one, and the recognition that comes from being the one others can call.*
+*Every place needs a face — sometimes one, sometimes many. The Stewards are the network's living presence at the Hub — not its owners, not its tenants, but its custodians: those who open the door, tend the rhythms, and hold the conditions in which a regenerative space stays alive between gatherings. A hub may be held by one face or by many; where many, they hold it together, each according to what they tend. They are the bridge between ownership and community, between the asset and the people it serves. A Steward has chosen to put themselves between a place and its possibilities. This Agreement is the network's answer to that choice. It offers the standing of being entrusted with a place, the freedom of working within a framework rather than against one, and the recognition that comes from being the one others can call.*
 
 ---
 
@@ -34,9 +34,9 @@ tags:
 
 **1.1** The Association operates a network of regenerative hubs through which it carries out institutional, educational, ecological, cultural, social, and community-building activities.
 
-**1.2** By this Agreement, the Association entrusts the Steward with the operational stewardship of **[name of hub / place / project]** (the "Hub") for the period and under the conditions set out herein.
+**1.2** By this Agreement, the Association entrusts the Steward (or, where the Hub is co-stewarded, the Stewards jointly) with the operational stewardship of **[name of hub / place / project]** (the "Hub") for the period and under the conditions set out herein.
 
-**1.3** The Steward's role is that of a delegated custodian, coordinator, and guardian of the Hub's functioning, acting on behalf of the Association and within the Association's legal and organisational framework.
+**1.3** The Steward's role — held individually or collectively by co-stewards (Clause 3.3) — is that of a delegated custodian, coordinator, and guardian of the Hub's functioning, acting on behalf of the Association and within the Association's legal and organisational framework.
 
 **1.4** The Steward's principal mandate is to **optimise resource inputs and maximise regenerative outputs** in relation to the Hub, its activities, its people, and its wider ecosystem.
 
@@ -45,6 +45,8 @@ tags:
 **1.6** The Steward accepts the role in order to help the Association ensure that the Hub remains active, coherent, safe, and welcoming, and that it functions as a regenerative node capable of creating more value with fewer extractive inputs.
 
 **1.7 Membership prerequisite.** The Steward must hold a current Membership Agreement in good standing per Agreement 2, Clause 1.4 (see GT-11.4).
+
+**1.8 Origin in membership.** This Agreement does not create the stewardship mandate; it formalises, for this Hub, the standing mandate every Member already holds under Agreement 2, Clause 2.7. A Steward is a Member exercising that mandate at a particular place. *(Pending F1.)*
 
 ---
 
@@ -64,7 +66,7 @@ tags:
 
 **3.2** Specific duties may include: day-to-day coordination of the space; welcoming and orienting members, participants, facilitators, and guests; upholding the Hub DNA and practical rules; organising the calendar of stays, events, and use periods; making visible what tasks, needs, or opportunities exist; ensuring the Hub is left in good order; facilitating communication between the Association and local users; and identifying opportunities for greater regenerative impact.
 
-**3.3** Stewardship may be individual or shared with co-stewards, and the Association may revise the stewardship structure as needed.
+**3.3 Co-stewardship and shares.** A Hub may be stewarded by one Steward or by several co-stewards together. Where several, they hold a single collective *delega di spesa* over the Hub's discretionary envelope, **divided in proportion to each Steward's recorded active contribution** to the Hub (GT-3A, and Agreement 2 Clause 2.7), recomputed on the cadence set in the Allocation Model. Co-stewards exercise this authority jointly and account for it jointly. The Association may revise the stewardship structure as needed. *(Pending F1.)*
 
 ---
 
@@ -87,6 +89,18 @@ tags:
 **5.3** Unless expressly stated in an Annex, the Steward does **not** personally guarantee all Hub costs. The obligation is one of active stewardship, planning, communication, optimisation, and responsible contribution toward viability, not an automatic personal debt obligation.
 
 **5.4** If the Parties wish to assign a specific cost-coverage target, such target shall be clearly stated in writing together with the relevant period, estimated operating costs, what counts as valid coverage, the reporting method, and what happens if the target is not reached.
+
+---
+
+## 5A. The Hub's Living Balance
+
+*(Pending F1. This section describes the Hub's allocation behaviour in plain terms; the parameters and method — settlement cadence, cost-coverage target, band of tolerance, and curve — live in the Allocation Model adopted by the Assembly as a Living Governance Resolution, per GT-4.)*
+
+**5A.1** Each Hub carries a running balance between what it costs to run and what it draws in, settled on a regular cycle set in the Allocation Model. The Stewards' first duty each cycle is to **heal the place** — cover real operating need — before directing any discretionary surplus.
+
+**5A.2** While the Hub carries an uncovered shortfall, the discretionary envelope narrows in proportion to that shortfall, and the shortfall is spread across coming cycles rather than recovered all at once. A Hub in lasting surplus **contributes** the excess upward to the network's mutual-aid reservoir (the Elder Council, GT-4); a Hub in genuine, sustained shortfall is **caught** by that same reservoir.
+
+**5A.3** Within a band of tolerance set in the Allocation Model, the Stewards govern the Hub's own settings. Should the shortfall persist beyond that band, the network may **re-tune the Hub first** — adjusting its cost-coverage target or its band of tolerance — and only as a last resort **recompose or change** its Stewards. Such intervention is triggered by the Hub's measured balance, not by judgement of person, and is graduated and reversible: a Hub that recovers re-earns its sovereignty, and a Hub that proves steady earns a wider band over time.
 
 ---
 
@@ -136,7 +150,7 @@ tags:
 
 **9.2** Reimbursable expenses may include travel, fuel, tolls, local purchases, food for common activities, materials, emergency operational expenses, and communication or logistical expenses.
 
-**9.3 Source of reimbursement.** Reimbursements are paid from the Hub holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row).
+**9.3 Source of reimbursement.** Reimbursements are paid from the Hub holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. As part of cost-coverage, valid reimbursements are met before the discretionary envelope is filled and are therefore unaffected by the discretionary narrowing of Clause 5A.2. *(Pending F1.)* Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row).
 
 ---
 
