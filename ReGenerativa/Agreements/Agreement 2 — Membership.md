@@ -1,10 +1,10 @@
 ---
 title: Agreement 2 — Membership
 type: agreement
-version: '3.3'
+version: '3.4'
 status: active
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-05-30'
 tags:
   - agreement
   - membership
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-*Membership is the first yes. Before stewardship, before mentoring, before building or partnering or supporting — there is the simple act of choosing to belong. The Member is the one who says: I am part of this. They may not yet be stewarding a hub or leading a programme; they may never do those things. But they have crossed the threshold from visitor to participant, and that crossing is the foundation of everything else. Membership is what makes the network real for a person. This Agreement is the network's answer to that yes. It opens the democratic life of the Association — voice, vote, the right to stand. It extends the insurance protection any honest commons must provide. And it begins the Network Passport: the soil from which every deeper relationship grows.*
+*Membership is the first yes. Before mentoring, before building or partnering or supporting — there is the simple act of choosing to belong. The Member is the one who says: I am part of this. From the first yes, the Member holds a standing mandate to tend — to steward a project, or a corner of a hub, as far as they choose and as much as they contribute. They have crossed the threshold from visitor to participant, and that crossing is the foundation of everything else. Membership is what makes the network real for a person. This Agreement is the network's answer to that yes. It opens the democratic life of the Association — voice, vote, the right to stand. It extends the insurance protection any honest commons must provide. And it begins the Network Passport: the soil from which every deeper relationship grows.*
 
 ---
 
@@ -41,6 +41,8 @@ tags:
 
 **1.4** Membership is a prerequisite for natural persons holding any active role in the ReGenerativa constellation (GT-11.4). A natural person may not serve as Steward, Mentor, or Intrapreneur unless they hold a current Membership Agreement in good standing. Legal entities — cooperatives, companies, and other organisations — may hold the Sponsorship Agreement (Agreement 5) or the Partnership Agreement (Agreement 6) without being members of the Association. A natural person entering a Partnership Agreement in their individual capacity is also required to hold a current Membership Agreement.
 
+Stewardship (Agreement 3) is the deeper, hub-specific expression of a mandate every Member already carries under Clause 2.7; holding Agreement 3 formalises that mandate for a particular Hub — it does not originate it. *(Pending F1.)*
+
 ---
 
 ## 2. Membership Rights
@@ -56,6 +58,10 @@ tags:
 **2.5 Hub Circulation.** Subject to availability and the applicable [[Agreement 1 Annex 5 — Hub DNA|Hub DNA]] conditions, the Member may access and participate in activities at multiple hubs within the Association's network, contributing skills, presence, and labour in exchange for hospitality and access. Access to contribution-dependent benefits (such as reduced-price programmes, extended stays, or priority access to hub resources) may be conditioned upon the recording of contributions through the Association's digital tracking infrastructure.
 
 **2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A); the more a Member contributes, the higher their priority and the lower their price for network resources, up to free. Membership is the soil from which every Passport grows.
+
+Two readings of the Passport apply. **Lifetime-cumulative** contribution governs *access* — the sliding-scale price and priority of GT-3A.3 — and is portable across the whole network. **Active and recent** contribution to a particular holon governs *allocation authority* under Clause 2.7 and is local to where the tending happens. Long-past contribution never ossifies into present allocation power. *(Pending F1.)*
+
+**2.7 Stewardship Mandate.** From admission, the Member holds a standing mandate to tend the network's places and projects. Where the Member actively contributes to a holon — a hub (Agreement 3), a Project (Agreement 6), or a venture (Agreement 7) — they share with their co-stewards a *delega di spesa*: delegated authority to direct that holon's discretionary envelope, **held in proportion to their recorded active contribution** to that holon, exercised collectively, and bounded by the Allocation Model and the hard rails (GT-4). This authority is the administration of delegated resources, **not** a governance vote: it does not alter the equal, one-member-one-vote rights of Clause 2.1, and no measure of contribution ranks one Member above another in the democratic life of the Association. *(Pending F1.)*
 
 ---
 
@@ -83,7 +89,7 @@ tags:
 
 This fee covers the Association's insurance obligations under Article 18 of the Third Sector Code and sustains the legal and administrative framework within which all network activities are conducted. It is the material foundation of the member's protection while participating in Association activities.
 
-**4.2 Active Participation.** Contribute actively to the Association's activities and community. Members commit to **gift time and competences** — guided by the relevant Hub Steward (Agreement 3) — toward regenerating the **six dimensions of the Regenerative Covenant (GT-2)**, assessed through the [[Regenerative Impact Framework]] (GT-1.6). Contribution may take the form of volunteer time, skills sharing, presence at gatherings, mentorship, hub care, or participation in governance, and is recorded in the Network Passport (GT-3A).
+**4.2 Active Participation.** Contribute actively to the Association's activities and community. Members commit to **gift time and competences** — guided by the holon's co-stewards and the Member's own judgement — toward regenerating the **six dimensions of the Regenerative Covenant (GT-2)**, assessed through the [[Regenerative Impact Framework]] (GT-1.6). Contribution may take the form of volunteer time, skills sharing, presence at gatherings, mentorship, hub care, or participation in governance, and is recorded in the Network Passport (GT-3A).
 
 **4.3 Compliance with Statute and Decisions.** Abide by the Association's Statute, bylaws, and the lawful resolutions of its governing bodies, including internal regulations and codes of conduct.
 
