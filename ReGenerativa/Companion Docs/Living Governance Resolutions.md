@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.1'
+version: '1.4'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-05-24
+updated: 2026-05-30
 tags:
   - governance
   - ReGenerativa
@@ -43,7 +43,9 @@ basis, its review cadence, and a **status**:
 LGR-1 was **Ratified** by the vault owner on 2026-05-16. **LGR-2 (Unified Fund
 allocation parameters)** is **Provisional** (framework) as of 2026-05-22, with
 specific figures awaiting Board ratification. **LGR-3** and **LGR-4** have been
-withdrawn. Ratified figures remain revisable by a Decision Log entry, never an
+withdrawn (their IDs are retired and not reused). **LGR-5 (Allocation Model:
+settlement, band, and returns)** is **Provisional** and **Pending F1** as of
+2026-05-30. Ratified figures remain revisable by a Decision Log entry, never an
 agreement amendment.
 
 ---
@@ -139,6 +141,93 @@ Operating target.
 
 **Status.** Provisional (framework) - 2026-05-22. Specific figures awaiting Board
 ratification.
+
+---
+
+## LGR-5 — Allocation Model: settlement, band, and returns (GT-4.6, GT-4.4A, GT-4.8)
+
+**Serves.** GT-4.6 (the Allocation Model and its parameters), GT-4.4A (settlement over
+time — the living balance), and GT-4.8 (mutual aid and graduated intervention). Extends
+LGR-2: where LGR-2 sets the static shape parameters, LGR-5 sets how the shape settles
+over time and how holons give to and draw from the mutual-aid reservoir. Also supports
+the contribution-weighted division of a holon's discretionary envelope under GT-4.3 and
+the two Passport readings under GT-3A / Agreement 2 §2.6–§2.7.
+
+**Resolution (Provisional - Pending F1).** The parameters below are deliberately
+conservative working figures, set so the network can operate and generate the data the
+final figures need. All are revisable by Decision Log entry. Final framings await the
+F1 legal/fiscal review gate.
+
+**A. Settlement cadence.**
+- `T_cycle` - one **lunation** (the lunar month, ~29.53 days) is the settlement cycle.
+  The shape of GT-4.4 is settled once per lunation.
+- `W_cost` - the cost-coverage baseline `C` (LGR-2) is assessed on a **trailing
+  multi-lunation average** (provisional: 3 lunations) rather than a single cycle, to
+  damp lumpy revenue and seasonal cost. Settlement happens each lunation; the baseline
+  it settles against moves slowly.
+
+**B. The curve and the carried balance.**
+- The saturating curve and stiffness `α` are those of LGR-2 (default `α = 1`); LGR-5
+  adds no new curve, only applies it across time.
+- `B` - the holon's **carried cost-coverage balance**, rolled from cycle to cycle.
+  `B > 0` is banked reservoir; `B < 0` is carried shortfall.
+- **Heal first / throttle (GT-4.4A(a)–(b)).** Each cycle, cost-coverage is met before
+  any discretionary allocation; an uncovered shortfall is carried in `B` and spread
+  across coming cycles. While `B < 0`, the discretionary envelope is scaled down
+  smoothly in proportion to the depth of the shortfall (toward zero as `B` approaches
+  `−nC`), via the same `tanh` saturation.
+
+**C. Band of tolerance and backstops.**
+- `n` - the **band of tolerance**, expressed in lunations-of-cost, so the sovereign
+  band is `[−nC, +nC]`. Provisional default **`n = 3`**. Within the band a holon governs
+  its own settings; at `+nC` surplus gives upward (GT-4.4A(c)); at `−nC` the holon is
+  caught and graduated intervention engages (GT-4.8).
+- `n` is **earned**: a new holon starts at the default; a holon that demonstrates
+  homeostatic stability over many lunations earns a wider `n` (deliberate decision,
+  GT-4.8(c)); a holon that begins oscillating has `n` narrowed (may be automatic,
+  GT-4.8(c)).
+- `k` - the **downward backstop**: a structural shortfall persisting beyond `k`
+  lunations at the floor is absorbed upward by the Association holon under GT-4.8(a),
+  so the homeostat never euthanises a hub that simply got unlucky. Provisional default
+  **`k = 6`** lunations.
+
+**D. Contribution-weighting of the discretionary envelope (GT-4.3).**
+- Where a holon's discretionary envelope is divided among co-Stewards in proportion to
+  contribution, the weight uses **active/recent** contribution on a **trailing window**
+  (provisional: 6 lunations), not lifetime-cumulative standing. Lifetime-cumulative
+  standing governs access only (the two Passport readings, GT-3A / Agreement 2 §2.6).
+- Shares are **recomputed each lunation** and held **stable within the cycle**, so a
+  commitment made within a cycle is not re-floated mid-cycle.
+- This weighting is administration of the delegated envelope only: it confers no
+  governance vote and no personal income (GT-4.5(d),(g); Agreement 2 §2.1, §2.7).
+
+**E. Upward-return terms (GT-4.8(d)).**
+- A holon's **voluntary, early** upward contribution to the reservoir (feed-up before
+  the band would force overflow) earns, in proportion to the share of envelope
+  voluntarily forgone (capped, wealth-independent):
+  - **Mutual insurance** - first call on the reservoir's support under GT-4.8(a);
+  - **Earned autonomy** - a wider band `n` under GT-4.8(b).
+- Forced overflow at `+nC` earns neither; only the *choice* to restrain is recognised.
+- These returns confer no governance vote and no personal income. *(The network-tier
+  standing / Elder-Council-composition question raised in the Holon Homeostat strategy
+  note is left open and is not implemented by this resolution.)*
+
+**Basis.** The lunation gives the network an ecologically apt, evenly spaced settlement
+rhythm already used for seasonal coordination. Trailing averages on cost and
+contribution keep settlement responsive without whipping the balance on lumpy flows.
+The band `n` and backstop `k` give each holon a bounded autonomous zone that is caught
+before collapse and contributes before hoarding. Returns reward the *choice* to feed
+the commons, not mere revenue, achieving mutual aid by incentive rather than tax.
+
+**Review.** Reviewed by the Board at least annually alongside the *bilancio sociale*,
+and after the first full year of lunation-settled operation against real balance data;
+revisable by Decision Log entry at any time.
+
+**Citation.** GT-4.6, GT-4.4A, and GT-4.8 cite this resolution by ID and date; GT-4.3
+cites it for the contribution-weighting cadence.
+
+**Status.** Provisional - Pending F1 - 2026-05-30. Specific figures (`n`, `k`, trailing
+windows) awaiting Board ratification and the F1 review gate.
 
 ---
 
