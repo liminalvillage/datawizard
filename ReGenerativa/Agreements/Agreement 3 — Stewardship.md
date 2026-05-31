@@ -1,10 +1,10 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.6'
+version: '3.7'
 status: active
 created: '2026-03-17'
-updated: '2026-05-31'
+updated: '2026-06-01'
 tags:
   - agreement
   - stewardship
@@ -260,6 +260,7 @@ Date: _________________________
 
 - [[Agreement 3 Annex 1 — Steward Onboarding]] — the steward's introduction (vision, priorities, what they will protect, how they will hold the role, seasonal and handover notes); the **Hub (place)** onboarding form, parent of the asset-kind branches below
 - [[Agreement 3 Annex 2 — Vehicle and Equipment Steward Onboarding]] — the asset-kind onboarding branch for a vehicle, equipment, or power tool (keeping it sound, safe, available, well-used)
+- [[Agreement 3 Annex 3 — Land Care Steward Onboarding]] — the asset-kind onboarding branch for land tended as land (tending living systems toward greater vitality over seasons)
 
 ### Annexes from the Ownership Agreement also referenced here
 

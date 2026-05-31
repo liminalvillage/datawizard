@@ -191,8 +191,9 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | A1-7 | Vehicle and Equipment Care Protocol *(asset-specific child of A1-6)* | Agreement 1 |
 | A1-8 | Land Care Protocol *(asset-specific child of A1-6)* | Agreement 1 |
 | A2-1 | Member Onboarding | Agreement 2 |
-| A3-1 | Steward Onboarding *(Hub/place form; parent of A3-2)* | Agreement 3 |
+| A3-1 | Steward Onboarding *(Hub/place form; parent of A3-2, A3-3)* | Agreement 3 |
 | A3-2 | Vehicle and Equipment Steward Onboarding *(asset-kind branch of A3-1)* | Agreement 3 |
+| A3-3 | Land Care Steward Onboarding *(asset-kind branch of A3-1)* | Agreement 3 |
 | A4-1 | Programme Annex Template | Agreement 4 |
 | A5-1 | Support Schedule | Agreement 5 |
 | A5-2 | Recognition Terms | Agreement 5 |
