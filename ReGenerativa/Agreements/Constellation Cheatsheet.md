@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-05-30'
+updated: '2026-05-31'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -21,9 +21,9 @@ updated: '2026-05-30'
 
 | #   | Agreement                                            | Layer         | Parties                       | Core exchange                                                                                          |
 | --- | ---------------------------------------------------- | ------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------ |
-| 1   | [[Agreement 1 — Ownership\|Ownership]]               | Root          | Owner ↔ Association           | Owner lends place or asset; Association uses it for regenerative purposes; ownership stays with Owner  |
+| 1   | [[Agreement 1 — Ownership\|Ownership]]               | Root          | Owner ↔ Association           | Owner entrusts an **Asset** (land, building, place, equipment, tool, vehicle) purpose-bound via its Asset DNA; Association uses it for regenerative purposes; ownership stays with Owner. A **Hub** is an Asset that is a place |
 | 2   | [[Agreement 2 — Membership\|Membership]]             | Gateway       | Member ↔ Association          | Prerequisite for all other roles; €25/year covers insurance (Art. 18 CTS) and democratic participation; carries a standing, contribution-weighted **stewardship mandate** (§2.7) |
-| 3   | [[Agreement 3 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | The hub-specific expression of the membership mandate; one or many co-stewards hold a contribution-weighted collective *delega* and run the hub's living balance                    |
+| 3   | [[Agreement 3 — Stewardship\|Stewardship]]           | Operational   | Steward ↔ Association         | The asset-specific expression of the membership mandate; one or many co-stewards keep any **Asset** sound per its Asset DNA (a Hub is the place-case), hold a contribution-weighted collective *delega*, and run the asset's living balance                    |
 | 4   | [[Agreement 4 — Mentorship\|Mentorship]]             | Expertise     | Mentor ↔ Association          | Practitioner hosts programmes; three pricing bands — market rate, member-friendly, and resource-cost (highest contributors cover the slot's direct delivery cost only; Mentor's labour is the gift) |
 | 5   | [[Agreement 5 — Sponsorship \|Sponsorship]]          | Support       | Supporter ↔ Association       | Resources enter the commons; ownership transfers; no control acquired                                  |
 | 6   | [[Agreement 6 — Partnership\|Partnership]]           | Collaboration | Partners ↔ each other         | Commercial projects; value distributed by validated contribution, not ownership stake                  |
@@ -40,7 +40,7 @@ updated: '2026-05-30'
 
 | Section | What it governs |
 |---|---|
-| GT-1 | Definitions (13 terms — Hub, Regenerative Impact, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
+| GT-1 | Definitions (Asset + Hub-as-place, Asset DNA / Hub DNA, Regenerative Impact, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
