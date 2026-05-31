@@ -1,10 +1,10 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.3'
+version: '3.4'
 status: active
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-05-31'
 tags:
   - agreement
   - ownership
@@ -40,7 +40,7 @@ tags:
 
 **1.4** Any use of the Asset outside the agreed Purpose is prohibited unless the Parties agree otherwise in writing by way of amendment to Annex 2.
 
-**1.5 Holon status.** For the purposes of GT-4, the Hub established under this Agreement is a **Hub holon** (as defined in GT-1.10 and GT-4.2(b)), with Steward(s) holding *delega di spesa* per GT-4.3.
+**1.5 Holon status.** For the purposes of GT-4, the Asset entrusted under this Agreement is an **Asset holon** (as defined in GT-1.10 and GT-4.2(b); a Hub where the Asset is a place), with Steward(s) holding *delega di spesa* per GT-4.3. *(Pending F1.)*
 
 ---
 
@@ -74,7 +74,7 @@ tags:
 
 **3.8 Wear and Tear.** The Association shall contribute to the maintenance, repair, or replacement of elements subject to wear resulting from intensive use by its members, participants, and visitors, as detailed in **Annex 3** and **Annex 4 — Shared Infrastructure Contributions**.
 
-**3.9 Hub Activation.** Within six (6) months of the commencement date of this Agreement, the Association shall: appoint at least one Steward for the Asset; schedule at least one activity at the Asset; and communicate the Hub's existence and availability to the Association's membership through its standard channels.
+**3.9 Asset Activation.** Within six (6) months of the commencement date of this Agreement, the Association shall: appoint at least one Steward for the Asset; schedule at least one activity or use of the Asset; and communicate the Asset's existence and availability to the Association's membership through its standard channels. *(Pending F1.)*
 
 If activation is delayed due to circumstances genuinely beyond the Association's control, the Association shall notify the Owner in writing within the six-month period, explain the reason for the delay, and propose a revised activation timeline. The Owner may accept the revised timeline or, if the delay is unreasonable, initiate termination by notice under Clause 6.1.
 
