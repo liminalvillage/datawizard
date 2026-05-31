@@ -4,7 +4,7 @@ type: annex
 annex_ref: A1-2
 parent_agreement: Agreement 1 — Ownership
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-05-31'
 status: template
 tags:
   - annex
@@ -12,9 +12,11 @@ tags:
   - ownership
   - asset-use
   - regenerative-impact
-version: '1.1'
+version: '1.2'
 ---
 *Annex 2 to the [[Agreement 1 — Ownership]]. Defines the permitted uses of the Asset and classifies them according to the Regenerative Impact Framework. Forms an integral part of that Agreement.*
+
+> **This Annex is the Asset DNA of the Asset (GT-1.5).** The purpose, permitted uses, and limitations recorded here are what the Asset is entrusted for, and what its stewardship (Agreement 3) is held against. For a simple Asset — a tool, a vehicle, equipment, or land used without gathering — this Annex is the Asset's complete DNA. Where the Asset is a **Hub** (a place at which activities are carried out), this Annex is supplemented by the fuller [[Agreement 1 Annex 5 — Hub DNA]], which adds the values, rhythms, and participation norms of the place. *(Pending F1.)*
 
 ---
 
@@ -95,7 +97,7 @@ Impact level: ☐ Primary focus  ☐ Significant  ☐ Incidental  ☐ Not applic
 | [e.g. Water consumption] | [___] | [___] | [___] |
 | [e.g. Waste to landfill] | [___] | [___] | [___] |
 
-*Targets may be updated annually by mutual written agreement. The living picture of these targets at the Hub level is maintained in [[Agreement 1 Annex 5 — Hub DNA]].*
+*Targets may be updated annually by mutual written agreement. Where the Asset is a Hub, the living picture of these targets at the place level is maintained in the fuller [[Agreement 1 Annex 5 — Hub DNA]]; for a non-place Asset, this Annex is itself the living record.*
 
 ---
 
