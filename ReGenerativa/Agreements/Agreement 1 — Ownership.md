@@ -58,7 +58,7 @@ tags:
 
 ## 3. Association's Obligations
 
-**3.1 Proper Use and Maintenance.** Use the Asset with due care and diligence and solely for the purposes set forth in this Agreement. The Association shall keep the Asset in good condition, perform routine upkeep and ordinary maintenance (including cleaning, minor repairs, gardening, and other tasks as detailed in **Annex 3 — Hub Care Protocol**) as necessary, and ensure compliance with all applicable laws and regulations during its use.
+**3.1 Proper Use and Maintenance.** Use the Asset with due care and diligence and solely for the purposes set forth in this Agreement. The Association shall keep the Asset in good condition and perform routine upkeep and ordinary maintenance as detailed in the **Asset Care Protocol (Annex 6)** — the general care protocol for any Asset — and, where the Asset is a place, its place-specific child the **Hub Care Protocol (Annex 3)**; and ensure compliance with all applicable laws and regulations during its use. *(Pending F1.)*
 
 **3.2 Operating Costs.** Bear all ordinary operating expenses related to the Asset's use, calculated on a pro rata temporis basis (proportional to the effective time of use on an annual basis). This includes payment of utilities (electricity, water, gas), insurance premiums, asset depreciation rates as per official tables, and any ordinary local taxes or fees (property tax, waste charges) arising from effective time of use.
 
@@ -158,9 +158,10 @@ Date: _________________________
 
 - [[Agreement 1 Annex 1 — Asset Description and Access]]
 - [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]
-- [[Agreement 1 Annex 3 — Hub Care Protocol]]
+- [[Agreement 1 Annex 3 — Hub Care Protocol]] *(place-specific child of Annex 6)*
 - [[Agreement 1 Annex 4 — Shared Infrastructure]]
 - [[Agreement 1 Annex 5 — Hub DNA]]
+- [[Agreement 1 Annex 6 — Asset Care Protocol]] *(general care for any Asset)*
 
 ---
 

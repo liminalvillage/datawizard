@@ -263,7 +263,8 @@ Date: _________________________
 ### Annexes from the Ownership Agreement also referenced here
 
 - [[Agreement 1 Annex 5 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
-- [[Agreement 1 Annex 3 — Hub Care Protocol]] — referenced in Clauses 10.1–10.2; covers both ongoing maintenance and end-of-stay cleaning
+- [[Agreement 1 Annex 6 — Asset Care Protocol]] — the general care protocol for any Asset (responsibility split, register, maintenance cadence and log, damage, lifecycle); referenced in Clauses 10.1–10.2
+- [[Agreement 1 Annex 3 — Hub Care Protocol]] — its place-specific child for when the Asset is a Hub; ongoing maintenance and end-of-stay cleaning
 
 Cost-coverage targets and stewardship cycle terms may also be recorded in a separate signed annex appended to this Agreement.
 
