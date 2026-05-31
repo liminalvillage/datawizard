@@ -258,13 +258,16 @@ Date: _________________________
 
 ### Own Annexes
 
-- [[Agreement 3 Annex 1 — Steward Onboarding]] — complete one per steward; the steward's introduction to the hub — their vision, priorities, what they will protect, how they will hold the role, and their seasonal and handover notes
+- [[Agreement 3 Annex 1 — Steward Onboarding]] — the steward's introduction (vision, priorities, what they will protect, how they will hold the role, seasonal and handover notes); the **Hub (place)** onboarding form, parent of the asset-kind branches below
+- [[Agreement 3 Annex 2 — Vehicle and Equipment Steward Onboarding]] — the asset-kind onboarding branch for a vehicle, equipment, or power tool (keeping it sound, safe, available, well-used)
 
 ### Annexes from the Ownership Agreement also referenced here
 
 - [[Agreement 1 Annex 5 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
 - [[Agreement 1 Annex 6 — Asset Care Protocol]] — the general care protocol for any Asset (responsibility split, register, maintenance cadence and log, damage, lifecycle); referenced in Clauses 10.1–10.2
-- [[Agreement 1 Annex 3 — Hub Care Protocol]] — its place-specific child for when the Asset is a Hub; ongoing maintenance and end-of-stay cleaning
+- [[Agreement 1 Annex 3 — Hub Care Protocol]] — place-specific care child for when the Asset is a Hub; ongoing maintenance and end-of-stay cleaning
+- [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] — asset-specific care child for vehicles/equipment/power tools
+- [[Agreement 1 Annex 8 — Land Care Protocol]] — asset-specific care child for land cared for as land
 
 Cost-coverage targets and stewardship cycle terms may also be recorded in a separate signed annex appended to this Agreement.
 
