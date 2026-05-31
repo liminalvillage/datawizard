@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.12'
+version: '3.13'
 status: active
 created: '2026-03-17'
-updated: '2026-05-30'
+updated: '2026-05-31'
 tags:
   - general-terms
   - ReGenerativa
@@ -21,9 +21,9 @@ tags:
 
 **GT-1.3** **"Third Sector Code"** means Italian Legislative Decree 3 July 2017, No. 117.
 
-**GT-1.4** **"Hub"** means any physical place within the Association's network at which regenerative activities are carried out.
+**GT-1.4** **"Asset"** means any thing entrusted to the Association under Agreement 1 to be stewarded for regenerative purposes — real property, land, a building or place, equipment, tools, vehicles, or other items. Every Asset is entrusted **purpose-bound**: for the specific use and within the specific limitations set in its Asset DNA (GT-1.5). A **"Hub"** is an Asset that is a physical place at which regenerative activities are carried out; "Hub" is used where a provision applies specifically to such places, and "Asset" where it applies to any stewarded thing. *(Pending F1.)*
 
-**GT-1.5** **"Hub DNA"** means the specific values, participation norms, rhythms, care standards, behavioural boundaries, and use conditions applicable to a particular Hub.
+**GT-1.5** **"Asset DNA"** means the specific purpose, permitted uses, conditions, limitations, and care standards for which a particular Asset is entrusted and against which its stewardship is held; for a simple Asset it is expressed in the Permitted Use annex (Agreement 1 Annex 2). **"Hub DNA"** is the Asset DNA of a Hub in fuller form — additionally including the values, participation norms, rhythms, and behavioural boundaries of the place (Agreement 1 Annex 5). *(Pending F1.)*
 
 **GT-1.6** **"Regenerative Impact Framework"** means the Association's framework for classifying and measuring regenerative impact across six integral dimensions: (a) Land and Ecological Systems; (b) Human Health and Well-Being; (c) Knowledge and Cultural Vitality; (d) Economic Fairness and Material Infrastructure; (e) Community and Relational Culture; and (f) Governance and Ethical Integrity. These dimensions correspond to the six commitments of the Regenerative Covenant (GT-2) and serve as the evaluative vocabulary through which the network assesses whether its activities are genuinely regenerative.
 
@@ -113,7 +113,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 **GT-4.2 — Holons within the Fund.** For the purposes of allocation, the following are treated as holons, each running the shape set out in GT-4.4:
 (a) **Association holon** — the network-level collective, stewarded by the Board, receiving the Network Regeneration Contribution and unrestricted contributions. (Replaces the term *"central pool"* used in earlier drafts and strategy documents.)
-(b) **Hub holons** — under Agreement 1, stewarded per Agreement 3;
+(b) **Asset holons** (Hubs and other stewarded assets) — under Agreement 1, stewarded per Agreement 3; *(Pending F1.)*
 (c) **Project holons** — under Agreement 6;
 (d) **Venture holons** — under Agreement 7;
 (e) **Elder Council holon** — under Agreement 8, the Council acting as its own collective Steward; terminal in the upward flow.
@@ -126,7 +126,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 (b) **Cost-coverage bucket.** The holon's own operating costs are reserved first against a published target, including Steward activity-cost reimbursement under Agreement 3 §8–§9 and Clause GT-12. Contents per holon type:
 - *Association holon:* the Association's legal-entity operating costs — administration, Article 18 CTS insurance, fiscal-hosting platform fees, and similar network-level structural costs;
-- *Hub holons:* tenure operating costs;
+- *Asset holons:* the Asset's tenure or operating costs (for a Hub, its place running costs; for equipment or a vehicle, upkeep, servicing, insurance, and the like);
 - *Venture and Project holons:* per their Annex;
 - *Elder Council holon:* convening, deliberation, and documentation costs (not personal income to elders).
 
