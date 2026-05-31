@@ -163,6 +163,7 @@ Date: _________________________
 - [[Agreement 1 Annex 5 — Hub DNA]]
 - [[Agreement 1 Annex 6 — Asset Care Protocol]] *(general care for any Asset)*
 - [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] *(asset-specific child of Annex 6, for vehicles/equipment/power tools)*
+- [[Agreement 1 Annex 8 — Land Care Protocol]] *(asset-specific child of Annex 6, for land cared for as land)*
 
 ---
 

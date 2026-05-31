@@ -18,7 +18,7 @@ tags:
 > **General parent / specific child.** This protocol holds what is true of caring for *any* Asset. The asset-specific detail lives in a child protocol matched to the kind of thing being cared for:
 > - **Place (Hub)** → [[Agreement 1 Annex 3 — Hub Care Protocol]] (kitchen, bathrooms, grounds, end-of-stay cleaning, ecological restoration).
 > - **Vehicle / equipment / power tool** → [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] (servicing interval, roadworthiness/calibration, safe-use and PPE, who may operate, booking and return).
-> - **Land used without gathering** → a land-care section (soil, water, biodiversity, seasonal works) — branched as needed.
+> - **Land used without gathering** → [[Agreement 1 Annex 8 — Land Care Protocol]] (soil, water, biodiversity, seasonal works, regenerative targets).
 > - **Hand tool / simple item** → the register and post-use care below may suffice with no further child.
 >
 > Where a child protocol exists for the Asset's kind, use it alongside this parent; where none yet exists, this parent applies and is adapted in good faith.

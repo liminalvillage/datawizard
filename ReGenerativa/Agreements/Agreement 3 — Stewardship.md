@@ -1,7 +1,7 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.5'
+version: '3.6'
 status: active
 created: '2026-03-17'
 updated: '2026-05-31'
