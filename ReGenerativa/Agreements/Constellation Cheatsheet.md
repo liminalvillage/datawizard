@@ -187,7 +187,8 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | A1-3 | Hub Care Protocol *(place-specific child of A1-6: maintenance + cleaning)* | Agreement 1 |
 | A1-4 | Shared Infrastructure Contributions | Agreement 1 |
 | A1-5 | Hub DNA *(fuller Asset DNA for a place; cf. A1-2)* | Agreement 1 |
-| A1-6 | Asset Care Protocol *(general care for any Asset; parent of A1-3)* | Agreement 1 |
+| A1-6 | Asset Care Protocol *(general care for any Asset; parent of A1-3, A1-7)* | Agreement 1 |
+| A1-7 | Vehicle and Equipment Care Protocol *(asset-specific child of A1-6)* | Agreement 1 |
 | A2-1 | Member Onboarding | Agreement 2 |
 | A3-1 | Steward Onboarding | Agreement 3 |
 | A4-1 | Programme Annex Template | Agreement 4 |
