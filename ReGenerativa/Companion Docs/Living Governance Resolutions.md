@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.4'
+version: '1.5'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-05-30
+updated: 2026-05-31
 tags:
   - governance
   - ReGenerativa
@@ -105,16 +105,17 @@ the following framework applies:
   - `K_a` - Association legal-entity operating costs (administration, Article 18 CTS
     insurance, fiscal-hosting platform fees, network-level structural costs), set
     by Board.
-- **Hub / Project / Venture cost-coverage target** (per GT-4.4(b)):
+- **Asset / Project / Venture cost-coverage target** (per GT-4.4(b)):
   - `C` - set per holon at Steward appointment, recorded in the holon's mandate
-    document (Hub DNA / Project Sheet / Venture Sheet); includes Steward
+    document (Asset DNA — the Permitted Use annex A1-2, or the fuller Hub DNA A1-5
+    for a place / Project Sheet / Venture Sheet); includes Steward
     activity-cost reimbursement under A3 §8–§9 and GT-12.
 - **Elder Council cost-coverage target** (per GT-4.4(b), Elder Council row):
   - `O_e` - Elder Council Operating target (governance operating costs: convening,
     deliberation, documentation), set by Board in consultation with the Council.
 - **Discretionary ceiling** (per GT-4.4(c)):
   - `D` - per-holon discretionary deployment ceiling, recommended value `α·C` where
-    `α` is the shape stiffness (default 1). The Association holon's `D_a` and per-Hub
+    `α` is the shape stiffness (default 1). The Association holon's `D_a` and per-Asset
     `D` are set by Board / Stewards respectively. The Elder Council's discretionary
     bucket is uncapped (allocator of last resort under A8).
 - **Shape stiffness** (per GT-4.6):

@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-05-24'
-version: '1.2'
+updated: '2026-05-31'
+version: '1.3'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -66,9 +66,9 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Maximum interval between Steward review meetings: **3 months** (A3 §14.2)
 - May be aligned with seasonal coordination points (equinox, solstice) (A3 §14.2)
 
-### B.3 Hub Activation
+### B.3 Asset Activation
 - Steward appointed within **6 months** of Ownership Agreement commencement (A1 §3.9)
-- First activity scheduled and Hub communicated to membership within the same period
+- First activity or use scheduled and the Asset communicated to membership within the same period (for a Hub, the place; for other assets, the tool, vehicle, equipment, or land)
 
 ---
 
@@ -208,9 +208,9 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - **Post-Emergence entities** (A7-3 §2) carry their own perpetual rate, negotiated at the moment of Emergence within 3–10% and locked thereafter as an undilutable share encoded in the entity's bylaws
 
 ### J.2 The shape (every holon — GT-4.4)
-Every holon (Association, Hub, Project, Venture, Elder Council) runs the same self-similar shape, in order:
+Every holon (Association, Asset [Hubs and other stewarded assets], Project, Venture, Elder Council) runs the same self-similar shape, in order:
 1. **NRC out** to the Association holon (where applicable)
-2. **Cost-coverage bucket** — published target (`K_a` for Association, `C` per Hub/Project/Venture, `O_e` for Elder Council); includes Steward activity-cost reimbursement (A3 §8–§9 + GT-12)
+2. **Cost-coverage bucket** — published target (`K_a` for Association, `C` per Asset/Project/Venture, `O_e` for Elder Council); includes Steward activity-cost reimbursement (A3 §8–§9 + GT-12)
 3. **Steward discretionary allocation** — bounded by ceiling `D` (recommended `α·C`); uncapped for Elder Council
 4. **Upward overflow** — surplus above the discretionary ceiling routes to the Elder Council (terminal)
 
