@@ -140,7 +140,7 @@ The **Elder Council** is the standing governance body of all participants who ho
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
-The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4. It is also the network's **mutual-aid reservoir** (GT-4.4A, GT-4.8): healthy holons give surplus upward, struggling holons are caught from the same pool. *(Pending F1. The network-tier-standing vs elder-composition question is left open — see [[Holon Homeostat - Membership as Stewardship and the Mutual-Aid Band - 2026-05-30]].)*
+The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4. It is also the network's **mutual-aid reservoir** (GT-4.4A, GT-4.8): healthy holons give surplus upward, struggling holons are caught from the same pool. Feeding up earns mutual insurance + earned autonomy locally, and **recognition** in the Passport (access standing + the Eldership clock) — but **no allocation voice and no Council seat**; the Council stays elder-based (A8 §2–§3, §4.2A). *(Pending F1. The former "network-tier standing" seam is now resolved as recognition only.)*
 
 ---
 

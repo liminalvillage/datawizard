@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.5'
+version: '1.6'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-05-31
+updated: 2026-06-01
 tags:
   - governance
   - ReGenerativa
@@ -207,11 +207,21 @@ F1 legal/fiscal review gate.
   the band would force overflow) earns, in proportion to the share of envelope
   voluntarily forgone (capped, wealth-independent):
   - **Mutual insurance** - first call on the reservoir's support under GT-4.8(a);
-  - **Earned autonomy** - a wider band `n` under GT-4.8(b).
-- Forced overflow at `+nC` earns neither; only the *choice* to restrain is recognised.
-- These returns confer no governance vote and no personal income. *(The network-tier
-  standing / Elder-Council-composition question raised in the Holon Homeostat strategy
-  note is left open and is not implemented by this resolution.)*
+  - **Earned autonomy** - a wider band `n` under GT-4.8(b);
+  - **Recognition** - the voluntary feed-up is recorded in the contributing Stewards'
+    Network Passports (GT-3A) as a network-level contribution, on the
+    **lifetime-cumulative** reading that governs access standing (and, in time,
+    Eldership eligibility under LGR-1) - never on the active/recent reading that
+    governs local allocation authority (§D). Distributed among co-Stewards by their
+    local share at the moment of feed-up.
+- Forced overflow at `+nC` earns neither insurance nor autonomy nor recognition; only
+  the *choice* to restrain is recognised.
+- These returns confer **no governance vote, no allocation voice, and no personal
+  income**. The "network-tier standing" idea raised in the Holon Homeostat strategy
+  note is **resolved as recognition only**: feeding the commons raises a Steward's
+  *standing* (access, and the contribution clock toward Eldership), but creates **no new
+  allocation voice** anywhere - it does not touch the one-member-one-vote Assembly
+  (Agreement 2 §2.1) or the elder-based composition of the Elder Council (Agreement 8 §2).
 
 **Basis.** The lunation gives the network an ecologically apt, evenly spaced settlement
 rhythm already used for seasonal coordination. Trailing averages on cost and

@@ -1,9 +1,9 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.6'
+version: '1.7'
 created: '2026-04-14'
-updated: '2026-05-30'
+updated: '2026-06-01'
 status: active
 tags:
   - agreement
@@ -83,6 +83,10 @@ Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordin
 (b) **Allocation** — for Association mission spending directed by collective Council deliberation toward integral regeneration, which may include elderly-focused hubs and elder-serving programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
 
 The Council's allocation rights are exercised collectively per its charter (Annex 1 §5.5) and bounded by the hard rails of GT-4.5. Reported in the annual *bilancio sociale*.
+
+**4.2A Mutual-aid reservoir.** As the terminal holon, the Elder Council is the network's **mutual-aid reservoir** under GT-4.4A and GT-4.8: the surplus that healthy holons contribute upward (GT-4.4A(c)) is the same pool from which a holon in genuine, sustained shortfall is supported (GT-4.8(a)). Honouring such support claims is part of the Council's mission allocation under §4.2(b); it adds no personal income to elders and no governance vote.
+
+A holon's voluntary feed-up earns mutual insurance and earned autonomy at its own level (GT-4.8(d)), and **recognition** — recorded in the contributing Stewards' Network Passports as network-level contribution toward access standing and, in time, Eldership eligibility under §2.2 and LGR-1. This recognition is the **only** way feeding the reservoir touches the Council: it may, over years, count toward a Steward's eventual eligibility for Eldership, but it confers **no allocation voice in the Council and no seat**. The Council's composition remains elder-based, conferred by nomination and the Transition Rite (§2–§3); generosity to the commons is seen and remembered, never enfranchised. *(Pending F1.)*
 
 **4.3 Membership Fee Waiver.** The annual membership fee under Agreement 2 is permanently waived for the Elder from the date of entry into this Agreement. The Association absorbs this cost as a recognition obligation.
 

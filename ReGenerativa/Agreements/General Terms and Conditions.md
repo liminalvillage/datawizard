@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.13'
+version: '3.14'
 status: active
 created: '2026-03-17'
-updated: '2026-05-31'
+updated: '2026-06-01'
 tags:
   - general-terms
   - ReGenerativa
@@ -162,7 +162,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 (c) **Asymmetry.** Measures that tighten a holon's autonomy (narrowing the band, adding oversight) may follow automatically from the measured balance; measures that loosen it (widening the band, raising the cost-coverage target) require a deliberate decision by the competent allocator, so that generosity is not gamed.
 
-(d) **Return on feeding the reservoir.** A holon's voluntary upward contribution (GT-4.4A(c)) earns, on the terms set in the Allocation Model: **mutual insurance** — first call on the reservoir's support under (a); and **earned autonomy** — a wider band of tolerance under (b). These returns confer no governance vote and no personal income (GT-4.5(d), (g); GT-11).
+(d) **Return on feeding the reservoir.** A holon's voluntary upward contribution (GT-4.4A(c)) earns, on the terms set in the Allocation Model: **mutual insurance** — first call on the reservoir's support under (a); **earned autonomy** — a wider band of tolerance under (b); and **recognition** — the contribution is recorded in the contributing Stewards' Network Passports (GT-3A) as a network-level contribution, on the lifetime-cumulative reading that governs access standing (and, in time, Eldership eligibility under Agreement 8 and LGR-1). These returns confer **no governance vote, no allocation voice, and no personal income** (GT-4.5(d), (g); GT-11): feeding the commons is seen and remembered, never enfranchised. *(Pending F1.)*
 
 ---
 
