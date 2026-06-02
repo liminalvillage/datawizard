@@ -2,7 +2,7 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.6'
+version: '1.7'
 priority: high
 maturity: working
 created: 2026-05-16
@@ -201,6 +201,15 @@ F1 legal/fiscal review gate.
   commitment made within a cycle is not re-floated mid-cycle.
 - This weighting is administration of the delegated envelope only: it confers no
   governance vote and no personal income (GT-4.5(d),(g); Agreement 2 §2.1, §2.7).
+- The **value system** that converts Ledger entries into weights is **declared
+  independently by each holon** (GT-4.3A): a **weighted combination of indicators** —
+  anything the holon can measure or signal (validated hours, euros, declared roles,
+  mutual-credit units such as trees planted or meals cooked, qualitative collaboration
+  signals), with the holon choosing which count and how each is weighted. Common
+  configurations: egalitarian (a single equal indicator), hour-based, role-based, or
+  any blend. Absent a declaration, the network default is **egalitarian** among active
+  co-Stewards. The declared system is public, confirmed in good faith (GT-1.8), and
+  revised only prospectively.
 
 **E. Upward-return terms (GT-4.8(d)).**
 - A holon's **voluntary, early** upward contribution to the reservoir (feed-up before

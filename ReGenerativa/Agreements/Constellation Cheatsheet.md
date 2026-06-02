@@ -32,7 +32,7 @@ updated: '2026-06-02'
 
 **Prerequisite chain:** Membership (A2) must be active before any other agreement can be held by a natural person.
 **Stacking:** Any combination of agreements may be held simultaneously. New role = sign the relevant agreement only. No transition process required (GT-11.4).
-**Membership = stewardship (gradient):** every Member carries a standing mandate to tend (A2 §2.7); Stewardship (A3) formalises it for a particular hub. Allocation say over a holon's discretionary spend scales with active contribution — administration, never a governance vote (one member, one vote stands). *(Pending F1.)*
+**Membership = stewardship (gradient):** every Member carries a standing mandate to tend (A2 §2.7); Stewardship (A3) formalises it for a particular hub. Allocation say over a holon's discretionary spend scales with active contribution — administration, never a governance vote (one member, one vote stands). Each holon declares its own **value system** for that division — a weighted combination of any indicators it can measure or signal (hours, euros, roles, mutual-credit units like trees planted or meals cooked, collaboration), egalitarian by default (GT-4.3A). *(Pending F1.)*
 
 ---
 

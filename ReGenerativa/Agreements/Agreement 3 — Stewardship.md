@@ -1,7 +1,7 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.7'
+version: '3.8'
 status: active
 created: '2026-03-17'
 updated: '2026-06-02'
@@ -68,7 +68,7 @@ tags:
 
 **3.2** Specific duties may include: day-to-day coordination of the space; welcoming and orienting members, participants, facilitators, and guests; upholding the Hub DNA and practical rules; organising the calendar of stays, events, and use periods; making visible what tasks, needs, or opportunities exist; ensuring the Hub is left in good order; facilitating communication between the Association and local users; and identifying opportunities for greater regenerative impact.
 
-**3.3 Co-stewardship and shares.** An Asset may be stewarded by one Steward or by several co-stewards together. Where several, they hold a single collective *delega di spesa* over the Asset's discretionary envelope, **divided in proportion to each Steward's recorded active contribution** to the Asset (GT-3A, and Agreement 2 Clause 2.7), recomputed on the cadence set in the Allocation Model. Co-stewards exercise this authority jointly and account for it jointly. The Association may revise the stewardship structure as needed. *(Pending F1.)*
+**3.3 Co-stewardship and shares.** An Asset may be stewarded by one Steward or by several co-stewards together. Where several, they hold a single collective *delega di spesa* over the Asset's discretionary envelope, **divided in proportion to each Steward's recorded active contribution** to the Asset (GT-3A, and Agreement 2 Clause 2.7) under the holon's declared value system (GT-4.3A), recomputed on the cadence set in the Allocation Model. Co-stewards exercise this authority jointly and account for it jointly. The Association may revise the stewardship structure as needed. *(Pending F1.)*
 
 ---
 
