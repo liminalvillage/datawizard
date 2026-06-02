@@ -1,10 +1,10 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.4'
+version: '3.5'
 status: active
 created: '2026-03-17'
-updated: '2026-05-31'
+updated: '2026-06-02'
 tags:
   - agreement
   - ownership
@@ -53,6 +53,8 @@ tags:
 **2.3** During the periods reserved for Association use, the Owner's personal access shall be exercised with due regard for participants, members, and stewards present at the Asset.
 
 **2.4** The Owner may undertake commercial activities with respect to the Asset during periods not reserved for Association use, provided that such activities do not conflict with the Asset's condition, the Association's schedule, or applicable law. Any commercial use during Association periods requires the Association's prior written consent.
+
+**2.5** Having unlocked the Asset for the commons, the Owner holds **fair-use access to the network and community activities hosted at the Asset**, free at the point of use, on the footing of a contributing participant. This access is subject to capacity, safety, and the Asset's DNA (GT-1.5), and may not displace a participant who has booked or a Steward's operational needs. It does not waive a Programme's direct delivery cost: where a Mentor's Programme recovers its resource-cost (Agreement 4; GT-4), the Owner covers that cost like any other participant, the Mentor's labour remaining the gift. This access is personal fair use and confers no commercial benefit — the Owner's commercial activities remain governed by Clause 2.4. *(Pending F1.)*
 
 ---
 

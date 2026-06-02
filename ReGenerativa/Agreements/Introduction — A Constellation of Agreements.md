@@ -7,7 +7,7 @@ tags:
   - constellation
 title: Introduction — A Constellation of Agreements
 type: introduction
-updated: '2026-05-22'
+updated: '2026-06-02'
 ---
 
 # A Constellation of Agreements for a Regenerative Commons
@@ -74,7 +74,7 @@ And from collaboration comes **creation** — the relationship of the member who
 
 And from creation, eventually, comes **wisdom** — the relationship of the elder who has given through many of the other roles over years and seasons, and now holds the network's memory, names its drift, and directs the network's surplus toward what serves the next generation. From doing to witnessing, from building to holding.
 
-Together, these eight relationships form a system in which each role sustains the others. The owner's land makes the member's belonging possible. The member's commitment makes the steward's role meaningful. The steward's care makes the mentor's gift sustainable. The mentor's knowledge makes the programmes worth supporting. The supporter's resources make the partnership infrastructure real. The partner's collaboration makes the commercial layer viable. The intrapreneur's venture addresses needs the network couldn't otherwise serve. The elder's wisdom directs the network's surplus back into the conditions that make all the rest possible. Each part sustains the whole. The whole sustains every part.
+Together, these eight relationships form a system in which each role sustains the others — the owner's land makes belonging possible, belonging makes stewardship meaningful, and so on around the circle, until the elder's wisdom directs the network's surplus back into the conditions that make all the rest possible. Each part sustains the whole. The whole sustains every part.
 
 This is what the holonic principle names: every entity is simultaneously whole in itself and part of something larger. The hub is a whole. The network is a whole. Each relationship in the constellation is complete in its own right — and part of a living architecture that is greater than the sum of its agreements.
 
@@ -87,6 +87,10 @@ In a transactional economy, resources flow to whoever can pay for them. Price ra
 A relational economy rations differently. Access flows in order of standing contribution: the more a participant has given the network across roles, hubs, and time, the higher their priority and the lower their price, up to and including free. The newcomer is welcomed at full price; those who have given most over years and seasons may receive freely. This is not charity. It is the network keeping faith with its own.
 
 The financial architecture is the operational form of this principle. The Association holds one shared account through which all network economic activity passes — and inside it, each hub, each project, each venture has its own envelope, directed by its own stewards within their mandate. What a holon does not spend on operations flows upward to the Elder Council, which directs the surplus back into the network as mission spending — never as personal income, never as profit, always as care turned into circulation.
+
+This flow runs both ways. Each holon tends its own balance first — covering what it needs before sending anything onward, carrying a lean season itself rather than passing the shortfall to a neighbour. What lasts beyond its own needs it sends upward; and when it falls into genuine, sustained difficulty, it is caught — held by a common reservoir that the healthy feed and the struggling draw from, so that no hub fails for want of cover alone. The generosity that overflows upward in good seasons is the same insurance that holds you through hard ones. Mutual aid, made structural.
+
+And what counts as that giving is named by each holon for itself. The network keeps one welcome — more contributed, more freely received — but it imposes no single measure of worth on how a community directs its own resources. Hours offered, money given, a role faithfully held, trees planted, meals cooked, the quiet labour of keeping people in relationship: each hub decides which of these count and how they weigh, so that no one need tally every act to be seen. The ledger records what was given; each holon decides what giving means to it.
 
 There is no application process. The cascade does the work the application form would. Each role earns its allocation by being in standing relationship to the network. The steward decides what their holon needs. The Council decides what the wider network needs. The flows are structural; the deliberation is human.
 
@@ -114,4 +118,4 @@ What animates all of it — the ground beneath every clause and commitment — i
 
 ---
 
-*ReGenerativa APS — ETS — May 2026*
+*ReGenerativa APS — ETS — June 2026*
