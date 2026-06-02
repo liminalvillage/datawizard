@@ -1,10 +1,10 @@
 ---
 title: Agreement 6 — Partnership
 type: agreement
-version: '3.1'
+version: '3.2'
 status: active
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-06-02'
 tags:
   - agreement
   - partnership
@@ -257,6 +257,6 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
+Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
 
 For Partners, the Network Passport is a portable, cumulative record of contribution and a trust signal for future Projects (GT-3A.5). It carries no tiers or fixed perks; any contribution-based access follows the single rule in GT-3A.3.

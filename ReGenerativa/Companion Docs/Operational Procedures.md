@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-05-31'
-version: '1.3'
+updated: '2026-06-02'
+version: '1.4'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -152,8 +152,8 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Steward notified of outcome: within **14 days** of incoming owner response or 30-day expiry (A1 §6.3)
 
 ### F.3 Maintenance Reporting
-- Association notifies Owner of extraordinary maintenance need: within **5 business days** of discovery (A1-3 Hub Care Protocol Section C)
-- Owner commences extraordinary maintenance: within **30 days** of notification (A1-3 Section D)
+- Association notifies Owner of extraordinary maintenance need: within **5 business days** of discovery (A1-3 Hub Care Protocol Section B)
+- Owner commences extraordinary maintenance: within **30 days** of notification (A1-3 Section C)
 
 ---
 
@@ -187,8 +187,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ## Section I — Network Passport (GT-3A)
 
 ### I.1 The Access Rule
-- There are **no tiers and no thresholds**. Access to network resources is offered on a sliding scale from full price to free, in order of standing contribution (GT-3A.3)
-- Each steward, mentor, or hub sets, in good faith, how many places are free and how price slides with contribution for the resource they hold
+- Defined in GT-3A.3 and described in full in [[Network Passport]] — no tiers; a sliding scale from full price to free in order of standing contribution; each steward, mentor, or hub sets, in good faith, how many places are free and how price slides for the resource they hold. Not restated here; the operational items are I.2–I.3 below.
 
 ### I.2 Passport Summary at Exit
 - Written summary provided to departing participant: within **30 days** of role termination (GT-3A.6)
@@ -200,21 +199,11 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ## Section J — Unified Fund (GT-4)
 
-### J.1 NRC at source (GT-4.4(a))
-- **Network NRC Rate** is set by Board resolution within **3%–10%** and applies uniformly to all active holons — no per-holon, per-Project, or per-Venture negotiation
-- Held as LGR-2 (`r_NRC`); absent a Board-ratified figure, the rate is **5%**
-- Routed to the Association holon before any local allocation
-- Association holon, Elder Council, and non-economic inflows are exempt from the carve-out
-- **Post-Emergence entities** (A7-3 §2) carry their own perpetual rate, negotiated at the moment of Emergence within 3–10% and locked thereafter as an undilutable share encoded in the entity's bylaws
+### J.1 NRC at source
+- The Network NRC Rate (band, default, uniform application across active holons, and exemptions) and the post-Emergence perpetual rate (A7-3 §2) are defined in GT-4.4(a) and held as a parameter in LGR-2 (`r_NRC`) — not restated here. Operational remittance windows are in §D.7 (Ventures) and §E.1 (Partnerships).
 
-### J.2 The shape (every holon — GT-4.4)
-Every holon (Association, Asset [Hubs and other stewarded assets], Project, Venture, Elder Council) runs the same self-similar shape, in order:
-1. **NRC out** to the Association holon (where applicable)
-2. **Cost-coverage bucket** — published target (`K_a` for Association, `C` per Asset/Project/Venture, `O_e` for Elder Council); includes Steward activity-cost reimbursement (A3 §8–§9 + GT-12)
-3. **Steward discretionary allocation** — bounded by ceiling `D` (recommended `α·C`); uncapped for Elder Council
-4. **Upward overflow** — surplus above the discretionary ceiling routes to the Elder Council (terminal)
-
-Each holon's Steward(s) hold a *delega di spesa* (GT-4.3). Parameters held as Living Governance Resolutions (LGR-2).
+### J.2 The shape (every holon)
+- Every holon runs the same self-similar shape — NRC out → cost-coverage bucket → Steward discretionary allocation (the *delega di spesa*, GT-4.3) → upward overflow to the Elder Council (terminal). The buckets, ceilings, parameter symbols, and settlement-over-time (the living balance) are defined in GT-4.4 / GT-4.4A and held as parameters in LGR-2 — not restated here.
 
 ### J.3 Reporting
 - Annual *bilancio sociale* — inflows, allocations at every scale (Association holon, each holon, Elder Council), discretionary decisions (GT-4.7)

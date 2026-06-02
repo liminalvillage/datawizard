@@ -1,7 +1,7 @@
 ---
 title: Agreement 7 — Intrapreneurship
 type: agreement
-version: '1.5'
+version: '1.6'
 status: active
 created: '2026-03-28'
 updated: '2026-06-02'
@@ -278,6 +278,6 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
+Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
 
 For Venture Members, the Passport is a portable, cumulative record of contribution. It does not alter the Network Regeneration Contribution applicable to a Venture, which follows the prevailing Network NRC Rate set by Board resolution under GT-4.4(a) (within 3–10%, default 5% absent Board figure), applied uniformly across active holons.

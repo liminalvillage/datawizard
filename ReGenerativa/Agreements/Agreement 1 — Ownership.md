@@ -1,7 +1,7 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.5'
+version: '3.6'
 status: active
 created: '2026-03-17'
 updated: '2026-06-02'
@@ -171,4 +171,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
+Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.

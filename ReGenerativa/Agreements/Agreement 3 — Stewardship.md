@@ -1,7 +1,7 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.8'
+version: '3.9'
 status: active
 created: '2026-03-17'
 updated: '2026-06-02'
@@ -132,7 +132,7 @@ tags:
 
 **8.3** No compensation shall be due merely because the Steward has stewarded the Hub, unless it is expressly stated in this Agreement, an annex, or a separate agreement.
 
-**8.4** Where the Steward receives compensation under a separate agreement, the Association shall apply withholding taxes and social security contributions as required by Italian law (e.g. 20% ritenuta d'acconto where applicable) and make related filings as sostituto d'imposta. If the Steward operates under the regime forfettario and provides the required declaration, no withholding shall be applied. If the Steward operates under the occasional collaboration regime (prestazione occasionale), the total annual compensation from the Association may not exceed the threshold set by Art. 67(1)(l) TUIR, and the Association shall monitor cumulative payments accordingly.
+**8.4** Where the Steward receives compensation under a separate agreement, the Association applies withholding, social-security contributions, and related fiscal obligations as sostituto d'imposta in accordance with **GT-12**.
 
 ---
 
@@ -276,6 +276,6 @@ Cost-coverage targets and stewardship cycle terms may also be recorded in a sepa
 
 ## Contribution Recognition
 
-Contributions made under this Agreement shall be recorded in the **Contribution Ledger** and reflected in the **Network Passport** in accordance with **GT-3** and **GT-3A**. The Ledger governs recording, validation, and any contribution-based allocation under this Agreement. The Passport is a single cumulative record; access to network resources follows the sliding-scale rule in GT-3A.3 — more contribution means higher priority and lower price, up to free.
+Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
 
 The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the Hub or to this Agreement, and may be referenced with the Steward's consent when evaluating future stewardship roles or comparable responsibilities within the network.
