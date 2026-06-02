@@ -4,7 +4,7 @@ type: general-terms
 version: '3.14'
 status: active
 created: '2026-03-17'
-updated: '2026-06-01'
+updated: '2026-06-02'
 tags:
   - general-terms
   - ReGenerativa
@@ -137,7 +137,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 **GT-4.4A — Settlement over time (the living balance).** *(Pending F1. Plain-language here; the curve, cadence, targets, and band of tolerance live in the Allocation Model under GT-4.6.)* The shape of GT-4.4 settles on a regular cycle set in the Allocation Model. Between cycles each holon carries a **running balance** between its cost-coverage need and what it draws in:
 (a) **Heal first** — cost-coverage (GT-4.4(b)) is met before any discretionary allocation; an uncovered shortfall is carried forward and spread across coming cycles rather than recovered all at once;
 (b) **Throttle on shortfall** — while a holon carries an uncovered shortfall, its discretionary envelope (GT-4.4(c)) narrows in proportion to the depth of that shortfall;
-(c) **Give** — a holon in lasting surplus contributes the excess upward to the Elder Council holon, the network's mutual-aid reservoir (GT-4.4(d));
+(c) **Give** — a holon in lasting surplus contributes the excess upward to the Elder Council holon, the network's common reservoir (GT-4.4(d));
 (d) **Absorb** — a holon in genuine, sustained shortfall beyond its band of tolerance is supported from that same reservoir, under GT-4.8;
 (e) **Mutual aid** — the upward give of (c) funds the absorb of (d): the reservoir healthy holons feed is the one a struggling holon draws from.
 
@@ -156,7 +156,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 **GT-4.8 — Mutual aid and graduated intervention.** *(Pending F1. The band of tolerance, thresholds, and return terms live in the Allocation Model under GT-4.6.)*
 
-(a) **Absorb.** Where a holon carries a genuine, sustained shortfall beyond its band of tolerance, the Elder Council holon supports it from the mutual-aid reservoir (GT-4.4A(d)), so that no holon fails for want of cover alone.
+(a) **Absorb.** Where a holon carries a genuine, sustained shortfall beyond its band of tolerance, the Elder Council holon supports it from the common reservoir (GT-4.4A(d)), so that no holon fails for want of cover alone.
 
 (b) **Graduated intervention, triggered by measured balance.** Persistent shortfall beyond the band engages intervention in order, gentlest first, and triggered by the holon's measured balance rather than by judgement of person: first **re-tune the holon** — adjust its cost-coverage target or band of tolerance; then, only if shortfall persists, **recompose or change** its Stewards under Agreement 3 §16. Intervention is graduated and reversible: a holon that recovers re-earns the settings and sovereignty it lost; a holon that proves steady earns a wider band over time.
 

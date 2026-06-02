@@ -4,7 +4,7 @@ type: agreement
 version: '3.7'
 status: active
 created: '2026-03-17'
-updated: '2026-06-01'
+updated: '2026-06-02'
 tags:
   - agreement
   - stewardship
@@ -100,7 +100,7 @@ tags:
 
 **5A.1** Each Asset carries a running balance between what it costs to keep and run and what it draws in, settled on a regular cycle set in the Allocation Model. The Stewards' first duty each cycle is to **cover the Asset's real operating need** — for a Hub, to heal the place — before directing any discretionary surplus.
 
-**5A.2** While the Asset carries an uncovered shortfall, the discretionary envelope narrows in proportion to that shortfall, and the shortfall is spread across coming cycles rather than recovered all at once. An Asset in lasting surplus **contributes** the excess upward to the network's mutual-aid reservoir (the Elder Council, GT-4); an Asset in genuine, sustained shortfall is **caught** by that same reservoir.
+**5A.2** While the Asset carries an uncovered shortfall, the discretionary envelope narrows in proportion to that shortfall, and the shortfall is spread across coming cycles rather than recovered all at once. An Asset in lasting surplus **contributes** the excess upward to the network's common reservoir (the Elder Council, GT-4); an Asset in genuine, sustained shortfall is **caught** by that same reservoir.
 
 **5A.3** Within a band of tolerance set in the Allocation Model, the Stewards govern the Asset's own settings. Should the shortfall persist beyond that band, the network may **re-tune the Asset first** — adjusting its cost-coverage target or its band of tolerance — and only as a last resort **recompose or change** its Stewards. Such intervention is triggered by the Asset's measured balance, not by judgement of person, and is graduated and reversible: an Asset that recovers re-earns its sovereignty, and one that proves steady earns a wider band over time.
 

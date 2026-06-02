@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-05-31'
+updated: '2026-06-02'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -44,7 +44,7 @@ updated: '2026-05-31'
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the mutual-aid reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5). *(Pending F1.)* |
+| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the common reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5). *(Pending F1.)* |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-7 | Dispute resolution — amicable → Elder Council (Probiviri) → external mediation → Ascoli Piceno |
@@ -92,7 +92,7 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 |---|---|---|
 | Annual membership fee | €25 | A2, Clause 4.1 |
 | Network NRC Rate (active holons, Board-set, uniform) | within 3–10% (default 5% absent Board figure) | GT-4.4(a), LGR-2 |
-| Settlement cycle (living balance) | one lunation (~29.5 days) | GT-4.4A, LGR-5 *(pending F1)* |
+| Settlement cycle (living balance) | one lunation (~29.53 days) | GT-4.4A, LGR-5 *(pending F1)* |
 | Band of tolerance `n` (sovereign zone ±nC) | provisional 3 lunations-of-cost, earned wider | GT-4.8, LGR-5 *(pending F1)* |
 | Downward backstop `k` (Association absorbs) | provisional 6 lunations | GT-4.8, LGR-5 *(pending F1)* |
 | Post-Emergence NRC (negotiated at Emergence, locked perpetually as undilutable share) | within 3–10% | A7-3 §2 |
@@ -140,7 +140,7 @@ The **Elder Council** is the standing governance body of all participants who ho
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
-The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4. It is also the network's **mutual-aid reservoir** (GT-4.4A, GT-4.8): healthy holons give surplus upward, struggling holons are caught from the same pool. Feeding up earns mutual insurance + earned autonomy locally, and **recognition** in the Passport (access standing + the Eldership clock) — but **no allocation voice and no Council seat**; the Council stays elder-based (A8 §2–§3, §4.2A). *(Pending F1. The former "network-tier standing" seam is now resolved as recognition only.)*
+The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4. It is also the network's **common reservoir** (GT-4.4A, GT-4.8): healthy holons give surplus upward, struggling holons are caught from the same pool. Feeding up earns mutual insurance + earned autonomy locally, and **recognition** in the Passport (access standing + the Eldership clock) — but **no allocation voice and no Council seat**; the Council stays elder-based (A8 §2–§3, §4.2A). *(Pending F1. The former "network-tier standing" seam is now resolved as recognition only.)*
 
 ---
 

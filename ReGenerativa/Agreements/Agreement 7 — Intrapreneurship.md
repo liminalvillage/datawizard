@@ -4,7 +4,7 @@ type: agreement
 version: '1.5'
 status: active
 created: '2026-03-28'
-updated: '2026-05-30'
+updated: '2026-06-02'
 tags:
   - agreement
   - intrapreneurship
@@ -93,7 +93,7 @@ tags:
 
 **4.5** All Venture Members' contributions are recorded in the Contribution Ledger (GT-3) from the moment of joining. The dynamic share logic of the [[Agreement 6 — Partnership|Partnership Agreement]] (Clauses 9–10) applies to revenue distribution within the holon, adapted to the phase structure of this Agreement.
 
-**4.6 Allocation as a holon (living balance).** As a holon under GT-4, the Venture's discretionary envelope is directed by its Venture Members as co-stewards, their collective *delega* divided in proportion to recorded active contribution (GT-4.3; Agreement 2 §2.7), and the Venture runs as a living balance over time (GT-4.4A) — healing its own shortfall first, contributing lasting surplus to the mutual-aid reservoir, and caught by it when in genuine, sustained shortfall (GT-4.8) — on the parameters of the Allocation Model (GT-4.6; LGR-5). This contribution-weighted allocation is administration of delegated resources, distinct from both the revenue distribution of Clause 4.5 and the equal internal governance vote of Clause 4.3. *(Pending F1.)*
+**4.6 Allocation as a holon (living balance).** As a holon under GT-4, the Venture's discretionary envelope is directed by its Venture Members as co-stewards, their collective *delega* divided in proportion to recorded active contribution (GT-4.3; Agreement 2 §2.7), and the Venture runs as a living balance over time (GT-4.4A) — healing its own shortfall first, contributing lasting surplus to the common reservoir, and caught by it when in genuine, sustained shortfall (GT-4.8) — on the parameters of the Allocation Model (GT-4.6; LGR-5). This contribution-weighted allocation is administration of delegated resources, distinct from both the revenue distribution of Clause 4.5 and the equal internal governance vote of Clause 4.3. *(Pending F1.)*
 
 ---
 

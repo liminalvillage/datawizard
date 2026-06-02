@@ -4,7 +4,7 @@ type: agreement
 version: '3.3'
 status: active
 created: '2026-03-17'
-updated: '2026-05-25'
+updated: '2026-06-02'
 tags:
   - agreement
   - mentorship
@@ -84,7 +84,7 @@ The Network Regeneration Contribution (GT-4) is deducted at source from each ban
 - Default market rate (per Programme hour or per Programme format);
 - Default member-friendly rate or % discount from market;
 - Resource-cost composition — the categories of direct cost that comprise the Resource-cost price (default: hub usage per hour + materials + food + direct logistics; € values set per Programme);
-- **Committed Resource-cost slots cadence** — the number of Resource-cost slots the Mentor reserves, expressed either **per session** (for one-off Programmes) or **per lunation** (~29.5 days, for ongoing/framework Programmes); the Mentor chooses the unit at onboarding;
+- **Committed Resource-cost slots cadence** — the number of Resource-cost slots the Mentor reserves, expressed either **per session** (for one-off Programmes) or **per lunation** (~29.53 days, for ongoing/framework Programmes); the Mentor chooses the unit at onboarding;
 - Criteria for "highest contributor" eligibility.
 
 Where the framework agreement is silent on a parameter, at least one (1) Resource-cost slot per Programme is offered on the Association's standard eligibility criteria.

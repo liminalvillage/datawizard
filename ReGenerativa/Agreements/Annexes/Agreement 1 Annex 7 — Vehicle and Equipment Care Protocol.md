@@ -5,7 +5,7 @@ annex_ref: A1-7
 parent_agreement: Agreement 1 — Ownership
 status: template
 created: '2026-05-31'
-updated: '2026-05-31'
+updated: '2026-06-02'
 version: '1.0'
 tags:
   - annex
@@ -83,6 +83,16 @@ For a shared vehicle or item of equipment, use is coordinated so it is available
 - **Notes:** [warranty, recurring issues, accessory list]
 
 Servicing, safety checks, and incidents are recorded in the shared maintenance log (A1-6 §D), referencing the Item ID.
+
+---
+
+## Section F — Responsibility, Damage, and Lifecycle
+
+- **Ordinary servicing and use** (routine service, consumables, safe operation, return-to-sound) → the **Association** via the **Steward**, met from the Asset holon's cost-coverage bucket (GT-4.4(b)), per A1-6 §B and Section B above.
+- **Extraordinary repair** (major mechanical failure or part replacement not attributable to misuse) → the **Owner** where the Owner entrusted the Asset; or, for an Association-owned Asset, met from cost-coverage with top-up per GT-4.4(c) — per A1-6 §B.
+- **Damage / fault / incident / near-miss** → reported immediately (A1-6 §E), and to the Owner per A1 §3.5; the Asset is withdrawn from use until checked (Section C).
+- **Lifecycle** (arrival and registration, servicing milestones, retirement, replacement, inter-holon transfer, loss or theft) → follows the parent's lifecycle rules (A1-6 §F); inter-holon movement is also subject to both Assets' DNA conditions and logged (Section D).
+- **Handover** — at tenure handover the Steward records each Asset's current condition, outstanding services or safety checks, booking commitments, and what the next Steward needs to know (A1-6 §F; A3 handover).
 
 ---
 

@@ -6,7 +6,7 @@ version: '1.6'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-02
 tags:
   - governance
   - ReGenerativa
@@ -150,7 +150,7 @@ ratification.
 **Serves.** GT-4.6 (the Allocation Model and its parameters), GT-4.4A (settlement over
 time — the living balance), and GT-4.8 (mutual aid and graduated intervention). Extends
 LGR-2: where LGR-2 sets the static shape parameters, LGR-5 sets how the shape settles
-over time and how holons give to and draw from the mutual-aid reservoir. Also supports
+over time and how holons give to and draw from the common reservoir. Also supports
 the contribution-weighted division of a holon's discretionary envelope under GT-4.3 and
 the two Passport readings under GT-3A / Agreement 2 §2.6–§2.7.
 

@@ -5,7 +5,7 @@ annex_ref: A1-6
 parent_agreement: Agreement 1 — Ownership
 status: template
 created: '2026-05-31'
-updated: '2026-05-31'
+updated: '2026-06-02'
 version: '1.0'
 tags:
   - annex
@@ -40,7 +40,7 @@ Care is not a list of tasks. It is a relationship — between the Owner who has 
 - **Ongoing (ordinary) maintenance** during periods of use → the **Association**, typically delegated to the **Steward**.
 - **Extraordinary maintenance** (structural, infrastructural, or major part/replacement not attributable to misuse) → the **Owner**, carried out within a reasonable time after notification.
 - **End-of-use restoration** (returning the Asset to clean, orderly, safe condition — whatever that means for its kind) → the **Steward** for the use period, who may delegate but retains overall responsibility.
-- **Shared burden among those active at the Asset** → per [[Agreement 2 — Membership]] §4.6 (Shared Responsibility for Assets): those closest to an Asset hold the first responsibility for keeping it whole, ahead of and alongside the network's mutual-aid reservoir (GT-4.4A, GT-4.8).
+- **Shared burden among those active at the Asset** → per [[Agreement 2 — Membership]] §4.6 (Shared Responsibility for Assets): those closest to an Asset hold the first responsibility for keeping it whole, ahead of and alongside the network's common reservoir (GT-4.4A, GT-4.8).
 - **Damage reporting** → whoever discovers it, or creates it, immediately.
 
 Ordinary vs extraordinary boundary cases are resolved in good faith on cause (normal use vs structural failure), cost, and urgency; unresolved within a reasonable time, GT-7 dispute resolution applies.

@@ -1,11 +1,11 @@
 ---
-title: Holon Homeostat - Membership as Stewardship and the Mutual-Aid Band - 2026-05-30
+title: Membership as Stewardship and the Common Reservoir - 2026-05-30
 type: strategy
 status: proposal
 priority: high
 maturity: working
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-06-02
 tags:
   - strategy
   - fund
@@ -14,7 +14,7 @@ tags:
   - ReGenerativa
 ---
 
-# Holon Homeostat - Membership as Stewardship and the Mutual-Aid Band
+# Membership as Stewardship and the Common Reservoir
 
 *Proposal only. Nothing in the vault changes until decided, and no agreement or GT clause is edited until the F1 legal/fiscal review gate is cleared. This note develops one question to its conclusion and records the design and drafting approach the dialogue converged on. It is a continuation of [[Unified Fund - One Account Scaling Ratios - 2026-05-18]] and [[Access Floor - Guaranteed Baseline and Sliding Upside - 2026-05-18]], not a departure from them: the same `tanh` shape, the same hard rails, the same F1 posture.*
 
@@ -34,7 +34,7 @@ Today Membership (A2) is the gateway and Stewardship (A3) is a separate, scarcer
 
 A hub is run by several co-stewards. Together they hold a *delega di spesa* (delegated spending authority) over the hub's discretionary envelope, **split in proportion to contribution** as each holon tracks it internally. Each hub then runs as a small self-regulating organism: it heals its own shortfalls first, shares its lasting surplus upward, and is caught by the network when it genuinely cannot cover itself. When a hub stays in trouble, a clear, measured clause lets the network re-tune it, and only as a last resort change who stewards it.
 
-The Elder Council sits at the centre as a **mutual-aid reservoir**: healthy hubs feed it, struggling hubs draw from it, and what remains builds shared infrastructure across hubs.
+The Elder Council sits at the centre as a **common reservoir**: healthy hubs feed it, struggling hubs draw from it, and what remains funds its **Mission Allocation** - the uncapped, mission-directed spending that builds shared infrastructure across hubs.
 
 ---
 
@@ -97,9 +97,9 @@ Autonomy peels back one ring at a time as `B` sinks, and is re-earned in reverse
 
 And `n` itself widens with track record: a new hub is held closely, a hub that proves stable earns a wider band and lighter oversight.
 
-### 7. The Elder Council as mutual-aid reservoir
+### 7. The Elder Council as common reservoir
 
-The upper band feeds the very pool the lower band draws from. Healthy hubs overflow upward; struggling hubs are absorbed from the same pool; whatever is left builds across-hub infrastructure. Feeding the Council is, in effect, paying the premium on the insurance that catches you when you fall - self-interested generosity, not charity. This reaches the goal an earlier tithe idea aimed at, but by **incentive rather than tax**. The Council is itself a holon running the same shape: it honours absorb-claims (its cost-coverage) before it builds infrastructure (its discretionary), and it is terminal.
+The upper band feeds the very pool the lower band draws from. Healthy hubs overflow upward; struggling hubs are absorbed from the same pool; whatever is left builds across-hub infrastructure. Feeding the Council is, in effect, paying the premium on the insurance that catches you when you fall - self-interested generosity, not charity. This reaches the goal an earlier tithe idea aimed at, but by **incentive rather than tax**. The Council is itself a holon running the same shape: it honours absorb-claims (its cost-coverage) before its **Mission Allocation** (its uncapped discretionary, which builds shared infrastructure across hubs), and it is terminal.
 
 ### 8. Three non-overlapping returns on feeding up
 
@@ -169,7 +169,7 @@ Clause (2) is what members actually consent to: seven plain promises. Clause (2-
 - **A2 Membership** - light touch: one member, one vote untouched; reframe "gift time guided by the Hub Steward" toward peer/self-guided; point to the Model for administration.
 - **A3 Stewardship** - fused into A2 as the high-contribution expression, or rewritten plural ("a weighted constellation of faces").
 - **GT-3A / Network Passport** - split lifetime-cumulative (access) from active (authority), and portable (access) from hub-local (authority); reconcile "no tiers" by ranking administration only, never access or dignity.
-- **A8 / Elder Council Charter** - add the mutual-aid-reservoir and infrastructure role; resolve or explicitly defer the network-tier-standing seam.
+- **A8 / Elder Council Charter** - add the common-reservoir and infrastructure role; resolve or explicitly defer the network-tier-standing seam.
 - **Living Governance Resolutions** - home for the Model and its parameters.
 - **Decision Log** - one entry.
 

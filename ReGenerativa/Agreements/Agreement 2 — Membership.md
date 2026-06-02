@@ -4,7 +4,7 @@ type: agreement
 version: '3.5'
 status: active
 created: '2026-03-17'
-updated: '2026-05-31'
+updated: '2026-06-02'
 tags:
   - agreement
   - membership
@@ -97,7 +97,7 @@ This fee covers the Association's insurance obligations under Article 18 of the 
 
 **4.5 Volunteer Protocol.** When volunteering, the Member agrees to follow health and safety guidelines, sign-in requirements, and any specific volunteer protocols. Volunteering is unpaid except for reimbursement of pre-approved expenses.
 
-**4.6 Shared Responsibility for Assets.** Where an Asset at which the Member is active — a place (Hub), land, equipment, a tool, or a vehicle — faces operating costs not covered by the Asset holon's own cost-coverage bucket (GT-4.4(b)) or by top-up via the Association holon's discretionary allocation (GT-4.4(c)), Members active there share responsibility for the shortfall: they are expected to either **chip in directly** via a voluntary contribution to the Asset holon, or **help co-create programmes** (Mentorship, Sponsorship, Partnership, or Intrapreneurship) that generate the missing resources. This is a shared burden carried together, ahead of and alongside the network's mutual-aid reservoir (GT-4.4A, GT-4.8) — those closest to an Asset hold the first responsibility for keeping it whole. Consistent with GT-2.4, it is a shared commitment, not a personal financial liability — the form and scale of participation are voluntary and proportionate to each Member's capacity. *(Pending F1.)*
+**4.6 Shared Responsibility for Assets.** Where an Asset at which the Member is active — a place (Hub), land, equipment, a tool, or a vehicle — faces operating costs not covered by the Asset holon's own cost-coverage bucket (GT-4.4(b)) or by top-up via the Association holon's discretionary allocation (GT-4.4(c)), Members active there share responsibility for the shortfall: they are expected to either **chip in directly** via a voluntary contribution to the Asset holon, or **help co-create programmes** (Mentorship, Sponsorship, Partnership, or Intrapreneurship) that generate the missing resources. This is a shared burden carried together, ahead of and alongside the network's common reservoir (GT-4.4A, GT-4.8) — those closest to an Asset hold the first responsibility for keeping it whole. Consistent with GT-2.4, it is a shared commitment, not a personal financial liability — the form and scale of participation are voluntary and proportionate to each Member's capacity. *(Pending F1.)*
 
 ---
 
