@@ -11,7 +11,8 @@ tags:
   - place-identity
 title: Agreement 1 Annex 5 — Hub DNA
 type: annex
-updated: '2026-05-25'
+updated: '2026-06-10'
+version: '1.1'
 ---
 *Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Complete one per hub. The Hub DNA is the living expression of a hub's identity — its values, rhythms, expectations, and offerings. It is also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4) and the [[Agreement 4 — Mentorship|Mentorship Agreement]] (Clause 2.2). File completed documents as: "Hub DNA — [Hub Name].md" in the Hubs/[Hub Name]/ folder.*
 
@@ -171,13 +172,13 @@ Contribution-based stays include participation in shared work. Types of work at 
 - Report any wildlife encounters or ecological concerns to the steward
 - [Any site-specific rules]
 
-**Regenerative Covenant targets for this hub** (formal targets are set in [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]; this section tracks the living picture):
+**Regenerative Covenant — living progress** (the formal baseline-and-goal targets are set in [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]] §D; this is the seasonal snapshot of where the hub actually is against them):
 
-| Dimension | Current state | What we are working toward | Review date |
-|---|---|---|---|
-| Land and Ecological Systems | [e.g. Soil OM: 1.8%] | [e.g. 2.5% by 2027] | [MM/YYYY] |
-| Human Health and Well-Being | [e.g. Food sovereignty baseline TBD] | [e.g. 40% food from on-site by 2027] | [MM/YYYY] |
-| Community and Relational Culture | [e.g. Seasonal gathering rhythm establishing] | [e.g. 4 gatherings/year, avg 15 participants] | [MM/YYYY] |
+| Dimension | Current state | Last reviewed |
+|---|---|---|
+| Land and Ecological Systems | [e.g. Soil OM 1.8% — up from 1.6%] | [MM/YYYY] |
+| Human Health and Well-Being | [e.g. ~25% food from on-site] | [MM/YYYY] |
+| Community and Relational Culture | [e.g. 3 gatherings held this year, avg 14] | [MM/YYYY] |
 
 ---
 
@@ -211,7 +212,7 @@ Contribution-based stays include participation in shared work. Types of work at 
 
 ## The Reckoning — What This Place Counts
 
-*Every hub recognises contribution in its own way. This section names what this place counts most for the purposes of Resource-cost auctions under [[Agreement 4 — Mentorship]] §4.5(d). A guest who has given here in the ways below will be recognised here, and the auction will reflect that. The weightings are revised by the Steward(s) seasonally and recorded in the Decision Log.*
+*Every hub recognises contribution in its own way. This section names what this place counts most for the purposes of Resource-cost contribution-priority claims under [[Agreement 4 — Mentorship]] §4.5(d). A guest who has given here in the ways below will be recognised here, and their claim priority will reflect that. The weightings are revised by the Steward(s) seasonally and recorded in the Decision Log. Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A).*
 
 **Default weighting.** Where this section is silent on a contribution type, that type weights equally with all others (the network-wide Validated Contribution score applies).
 
@@ -222,7 +223,7 @@ Contribution-based stays include participation in shared work. Types of work at 
 | [e.g. Land-based work — gardening, building, maintenance] | [e.g. 1.5] | [Why this is weighted this way] |
 | [e.g. Facilitation and hosting] | [e.g. 1.2] | |
 | [e.g. Documentation and storytelling] | [e.g. 1.0] | |
-| [e.g. Financial or material gift] | [e.g. 0.8] | |
+| [e.g. Care work — meals, hosting, keeping people in relationship] | [e.g. 1.0] | |
 
 *Weightings are >0; the Steward chooses the spread that reflects this place's living priorities. A flat 1.0 across all types is a valid choice and signals that no contribution type is more "of this hub" than another.*
 

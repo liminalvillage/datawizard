@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-06-02'
-version: '1.4'
+updated: '2026-06-10'
+version: '1.6'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -63,8 +63,8 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Extended: **90 days** if 12+ months continuous tenure (A3 §16.1)
 
 ### B.2 Periodic Review
-- Maximum interval between Steward review meetings: **3 months** (A3 §14.2)
-- May be aligned with seasonal coordination points (equinox, solstice) (A3 §14.2)
+- Review cadence proportionate to the Asset's intensity of use, and **no less often than annually** (A3 §14.2)
+- Seasonal gatherings (equinox, solstice) are the default coordination points (A3 §14.2)
 
 ### B.3 Asset Activation
 - Steward appointed within **6 months** of Ownership Agreement commencement (A1 §3.9)
@@ -78,6 +78,9 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Programme published within **14 days** of confirmation that it will proceed (A4 §5A.1)
 - Registration status update to Mentor no later than **21 days** before programme date (A4 §5A.3)
 - Resource-cost place allocation: minimum **1 Resource-cost place per programme** unless higher specified in the framework Mentorship Agreement (§4.3) or Programme Annex (A4 §1.3A)
+- Supersession deadline: **7 days** before the Programme (the logistics freeze; thereafter only unfilled places may be claimed) (A4 §4.5(b)–(c))
+- Rotation window for Resource-cost claims: provisional **6 lunations** — a claimant who has not held a place within it takes priority regardless of score (A4 §4.5(c))
+- Discernment place: where more than one Resource-cost place is offered, at least one is allocated by Mentor discernment of need and readiness, outside the score (A4 §4.5(g))
 
 ### C.2 Framework Agreement Continuity
 - Minimum engagement: **1 confirmed programme within 12 months** of framework commencement, provided the Mentor has proposed at least one programme in writing (A4 §1.5)
@@ -169,9 +172,17 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Constellation Integrity Review: Council response window **30 days** (A8-1 §5.2.2); silence = no objection
 - Mediation Panel opinion: **60 days** from referral (A8-1 §5.3.3)
 - Custodial Council activation: **90 days** without successor entity post-dissolution (GT-13.5)
+- Allocation-bucket decision posted to the network: within **14 days** of decision (A8-1 §5.5.7)
+- Member/Steward query window on an allocation: **30 days** from posting; quorum per **LGR-6** (default: 3 Stewards or 10 Members) (A8-1 §5.5.7)
+- Council public response to an allocation query: **30 days** (A8-1 §5.5.7)
 
 ### G.3 Charter Amendment
 - Proposed amendments circulated to Elders: **30 days** before deciding session (A8-1 §8.2)
+
+### G.4 Active Standing
+- Annual affirmation of active Council standing, at or around the annual gathering (A8-1 §6.6; A8 §8.5)
+- A new Elder is deemed active from their Transition Rite until the first affirmation cycle that follows it (A8-1 §1.5)
+- Quorum and voting run on **active** Elders; Emeritus Elders keep full honour, hospitality, and voice, without a vote (A8-1 §1.5)
 
 ---
 

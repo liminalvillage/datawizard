@@ -4,7 +4,7 @@ type: agreement
 version: '1.6'
 status: active
 created: '2026-03-28'
-updated: '2026-06-02'
+updated: '2026-06-07'
 tags:
   - agreement
   - intrapreneurship
@@ -101,7 +101,7 @@ tags:
 
 **5.1** Any current Member of the Association in good standing may apply to join an active Venture Holon as a Contributing Member at any phase. Application is made in writing to the existing Venture Members, describing the applicant's intended contribution and commitment.
 
-**5.2** Admission requires a simple majority vote of existing Venture Members. The Association is notified of each admission; it does not hold a veto over individual admissions but may raise a concern in writing within 14 days if the admission creates a conflict of interest or compliance issue.
+**5.2** Admission requires a simple majority vote of existing Venture Members. The Association is notified of each admission; it does not hold a veto over individual admissions but may raise a concern in writing within 14 days if the admission creates a conflict of interest or compliance issue. Where existing Venture Members decline an applicant, they shall give written reasons, and the applicant may ask the Association to note the refusal against the open-holon principle (Clause 4.2).
 
 **5.3** Upon admission, the Contributing Member signs the Venture Sheet (or a supplement to it) and thereby accedes to this Agreement and all its terms.
 

@@ -4,7 +4,7 @@ type: annex
 annex_ref: A6-3
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-06-10'
 status: template
 tags:
   - annex
@@ -137,6 +137,14 @@ Contributions become Validated when:
 **Distribution timing:** Within 30 days of [final delivery / client payment / Project close].
 
 **Dynamic share calculation:** Based on Validated Contributions at the time of distribution. Each Partner's share = their total Validated Contribution ÷ total Validated Contributions of all Partners.
+
+**Relational contribution share (A6 §9.3 — optional, fixed at activation):**
+
+☐ Not used in this Project
+☐ **___%** of Net Project Revenue is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition.
+- **Validation criteria (observable, stated ex ante):** [e.g. convened and documented the weekly coordination; resolved a named conflict; held client relationship through a difficult phase]
+- **Eligible Partners:** ☐ All participating Partners  ☐ Named: ___
+- Recipients invoice per A6 §10.2 / GT-12 like any other distribution. The percentage is not retroactively resizable.
 
 ---
 

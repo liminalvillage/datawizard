@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.7'
+version: '1.8'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-06-02
+updated: 2026-06-08
 tags:
   - governance
   - ReGenerativa
@@ -45,7 +45,8 @@ allocation parameters)** is **Provisional** (framework) as of 2026-05-22, with
 specific figures awaiting Board ratification. **LGR-3** and **LGR-4** have been
 withdrawn (their IDs are retired and not reused). **LGR-5 (Allocation Model:
 settlement, band, and returns)** is **Provisional** and **Pending F1** as of
-2026-05-30. Ratified figures remain revisable by a Decision Log entry, never an
+2026-05-30. **LGR-6 (allocation challenge quorum)** is **Provisional** as of
+2026-06-08. Ratified figures remain revisable by a Decision Log entry, never an
 agreement amendment.
 
 ---
@@ -248,6 +249,31 @@ cites it for the contribution-weighting cadence.
 
 **Status.** Provisional - Pending F1 - 2026-05-30. Specific figures (`n`, `k`, trailing
 windows) awaiting Board ratification and the F1 review gate.
+
+---
+
+## LGR-6 — Allocation challenge quorum (Elder Council Charter §5.5.7)
+
+**Serves.** A8-1 §5.5.7: the quorum of Members or Stewards entitled to lodge a written
+query against an Elder Council Allocation-bucket decision is "set by the Council and
+published as a living governance resolution."
+
+**Resolution (Provisional).** A query is validly lodged by **three (3) Stewards** or
+**ten (10) Members** acting together, within thirty (30) days of the allocation
+decision's posting. These are the in-clause defaults of §5.5.7, recorded here as the
+published figure; absent this row, the in-clause defaults apply identically.
+
+**Basis.** Low enough that a genuine concern can always assemble the quorum; high
+enough to filter individual grievance into collective signal. Mirrors the spirit of
+A8 §2.3(a), where three hub stewards may jointly nominate an Elder.
+
+**Review.** Reviewed by the Elder Council at its annual gathering, in consultation with
+the Board; revisable by decision recorded in the Council Record and in this register.
+
+**Citation.** A8-1 §5.5.7 cites this register; A8 §5.4(e) points to the §5.5.7
+procedure.
+
+**Status.** Provisional — 2026-06-08.
 
 ---
 

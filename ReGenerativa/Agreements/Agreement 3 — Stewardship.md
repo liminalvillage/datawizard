@@ -4,7 +4,7 @@ type: agreement
 version: '3.9'
 status: active
 created: '2026-03-17'
-updated: '2026-06-02'
+updated: '2026-06-07'
 tags:
   - agreement
   - stewardship
@@ -40,7 +40,7 @@ tags:
 
 **1.3** The Steward's role — held individually or collectively by co-stewards (Clause 3.3) — is that of a delegated custodian, coordinator, and guardian of the Hub's functioning, acting on behalf of the Association and within the Association's legal and organisational framework.
 
-**1.4** The Steward's principal mandate is to **keep the Asset sound and put it to good regenerative use** — to optimise resource inputs and maximise regenerative outputs in relation to the Asset, its activities, its people, and its wider ecosystem, within the purpose and limitations of its Asset DNA (Clause 1.2A). *(Pending F1.)*
+**1.4** The Steward's principal mandate is to **keep the Asset sound and put it to good regenerative use** — to optimise resource inputs and maximise regenerative outputs in relation to the Asset, its activities, its people, and its wider ecosystem, within the purpose and limitations of its Asset DNA (Clause 1.2A) - honouring the carrying capacity and rhythms of the Asset and its people, including rest, fallow, and ecological limits, as part of regenerative use; sufficiency over maximisation. *(Pending F1.)*
 
 **1.5** This Agreement does **not**: grant the Steward any leasehold or tenancy right; grant the Steward autonomous possession of the underlying asset; constitute a subletting or transfer of the Association's upstream right of use; create by itself an employment relationship; or grant governance, ownership, or profit rights over the Hub or the Association.
 
@@ -198,7 +198,7 @@ tags:
 
 **14.1** The Steward shall provide the Association with reasonable updates on occupancy and use, events and plans, cost coverage status, operational issues, maintenance needs, and significant developments.
 
-**14.2** The Parties may agree to periodic review meetings at intervals not exceeding three (3) months to assess stewardship effectiveness and whether any change in role or structure is needed. The Parties may align review periods with the Association's seasonal calendar, including but not limited to the equinox and solstice gatherings that serve as natural coordination points for the network.
+**14.2** The Parties may agree to periodic review meetings at a cadence proportionate to the Asset's intensity of use, and no less often than annually, to assess stewardship effectiveness and whether any change in role or structure is needed. The Parties may align review periods with the Association's seasonal calendar, including but not limited to the equinox and solstice gatherings that serve as natural coordination points for the network.
 
 ---
 

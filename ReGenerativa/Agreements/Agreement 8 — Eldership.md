@@ -3,7 +3,7 @@ title: Agreement 8 — Eldership
 type: agreement
 version: '1.7'
 created: '2026-04-14'
-updated: '2026-06-02'
+updated: '2026-06-08'
 status: active
 tags:
   - agreement
@@ -54,7 +54,7 @@ tags:
 
 (b) **Self-application** — the participant applies directly to the Association, which refers the application to the Elder Council (if constituted) or the governing body for ratification.
 
-In either case, the Elder's consent is required. Eldership cannot be conferred without acceptance.
+In either case, the Elder's consent is required. Eldership cannot be conferred without acceptance. A nomination shall articulate the specific stewardship-of-the-whole the nominee has demonstrated, recorded in the Transition Rite record (Agreement 8 Annex 2), so that Eldership recognises wisdom shown across the network, not length of tenure alone.
 
 **2.4 Membership.** The Elder must hold or simultaneously enter the Membership Agreement (Agreement 2). The annual membership fee is permanently waived upon entry into this Agreement, as provided in Clause 4.3.
 
@@ -114,7 +114,7 @@ A holon's voluntary feed-up earns mutual insurance and earned autonomy at its ow
 
 **(d) Custodial Council Activation.** In the event of Association dissolution, the Elder Council constitutes the core of the Custodial Council under GT-13.5 and assumes the authorities defined therein.
 
-**(e) Mission Allocation.** Per GT-4.4 (Elder Council row of the shape), the Elder Council holds allocation rights over the portion of the Unified Fund routed to it. The Council deliberates collectively to direct its Allocation bucket toward Association mission spending serving integral regeneration. Allocation decisions are recorded in the Council Record (Charter §6.1) and consolidated annually in the *bilancio sociale*.
+**(e) Mission Allocation.** Per GT-4.4 (Elder Council row of the shape), the Elder Council holds allocation rights over the portion of the Unified Fund routed to it. The Council deliberates collectively to direct its Allocation bucket toward Association mission spending serving integral regeneration. Allocation decisions are recorded in the Council Record (Charter §6.1) and consolidated annually in the *bilancio sociale*. Each Allocation decision is also posted contemporaneously and is open to member and steward challenge under the transparency-and-challenge procedure of Charter §5.5.7.
 
 **5.5 Annual Gathering.** The Elder Council convenes at minimum once per year at the Council Seat. The Association bears the costs of this gathering from the Council's Operating bucket (cost-coverage under GT-4.4(b)). The annual gathering is open to observation by all network members, though deliberation may be conducted in closed session at the Council's discretion.
 
@@ -149,6 +149,8 @@ A holon's voluntary feed-up earns mutual insurance and earned autonomy at its ow
 **8.3 Dissolution Continuity.** This Agreement survives the dissolution of the Association per GT-13. The rights and recognitions it establishes are enforceable against any successor entity. Any Council Operating reserves remaining at dissolution are administered by the Custodial Council per GT-13.5.
 
 **8.4** There is no termination for cause provision in this Agreement. The network does not revoke Eldership. If an Elder's conduct is seriously harmful to the network or its participants, the matter is addressed through the dispute resolution process (GT-7) and, if warranted, through legal process — but the Eldership itself is not a sanction to be withdrawn.
+
+**8.5 Active and Emeritus standing.** Eldership itself is permanent (§8.1); the active Council seat is renewable. An Elder holds an **active** seat - carrying the allocation vote (§5.4(e)) and the vote on Council authorities (§5.4) - by affirming active participation each year, in person, remotely, or in writing, at or around the annual gathering (Elder Council Charter §6.6). An Elder who does not so affirm becomes an **Elder Emeritus** until they next affirm: they retain in full their recognition (§4.4), unconditional hospitality (§4.1), membership-fee waiver (§4.3), named legacy (§4.5), living-history inscription (§3.3), Passport standing, and their voice and presence in Council deliberation - but hold no allocation or authority vote and are not counted in active-Elder quorum. The transition to Emeritus and back to active is reversible and is not a sanction; it exists so the active Council renews rather than only accretes, honouring the movement from doing to witnessing (§1.1, §4.4) without ever vacating the gift. A new Elder is deemed active from the date of their Transition Rite until the first annual affirmation cycle that follows it (Charter §1.5).
 
 ---
 

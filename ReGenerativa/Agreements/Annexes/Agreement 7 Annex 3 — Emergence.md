@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-3
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-06-08'
 status: template
 tags:
   - annex
@@ -80,6 +80,8 @@ The Association and the Venture Members entered into the Intrapreneurship Agreem
 **2.3 Bylaws encoding.** As a condition of Emergence, the Emerged Entity shall record this obligation in its own founding articles or bylaws (or, in jurisdictions where applicable, through a non-voting special share class held by the Association entitled to the agreed % of Net External Revenue), so the obligation is a structural feature of the legal person rather than a contract claim alone. The specific legal mechanism is chosen in consultation with the Association and the Emerged Entity's counsel, but must achieve undilutability: the obligation must survive any future corporate action that does not require the Association's consent.
 
 **2.4 Breach.** Failure to pay the NRC, or any corporate action that purports to extinguish or reduce the obligation in violation of §2.2 or §2.3, constitutes a material breach of this Agreement and may result in loss of preferred network access and recovery of incubation value as specified in Clause 6.
+
+**2.5 Decadal relationship review.** Once every ten (10) years from the date of emergence, the Association and the Emerged Entity hold a good-faith review of their continuing relationship - affirming the Emerged Entity's continued regenerative conduct and the living character of the link, and reaffirming the preferred-access (Clause 3), intellectual-property (Clause 4), and shared-story (Clause 8) terms. This review **may not reduce** the perpetual rate set under §2.1, nor weaken the undilutability of §2.2 and §2.3; its purpose is to keep the relationship alive rather than to renegotiate the contribution downward. The Emerged Entity may, here as elsewhere, volunteer an increase (one-way ratchet up, §2.2). The review is a relationship, not a renegotiation of the floor.
 
 ---
 

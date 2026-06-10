@@ -4,7 +4,7 @@ type: general-terms
 version: '3.16'
 status: active
 created: '2026-03-17'
-updated: '2026-06-02'
+updated: '2026-06-10'
 tags:
   - general-terms
   - ReGenerativa
@@ -21,9 +21,9 @@ tags:
 
 **GT-1.3** **"Third Sector Code"** means Italian Legislative Decree 3 July 2017, No. 117.
 
-**GT-1.4** **"Asset"** means any thing entrusted to the Association under Agreement 1 to be stewarded for regenerative purposes — real property, land, a building or place, equipment, tools, vehicles, or other items. Every Asset is entrusted **purpose-bound**: for the specific use and within the specific limitations set in its Asset DNA (GT-1.5). A **"Hub"** is an Asset that is a physical place at which regenerative activities are carried out; "Hub" is used where a provision applies specifically to such places, and "Asset" where it applies to any stewarded thing. *(Pending F1.)*
+**GT-1.4** **"Asset"** means any thing entrusted to the Association under Agreement 1 to be stewarded for regenerative purposes — real property, land, a building or place, equipment, tools, vehicles, or other items. Every Asset is entrusted **purpose-bound**: for the specific use and within the specific limitations set in its Asset DNA (GT-1.5). A **"Hub"** is an Asset that is a physical place at which regenerative activities are carried out; "Hub" is used where a provision applies specifically to such places, and "Asset" where it applies to any stewarded thing.
 
-**GT-1.5** **"Asset DNA"** means the specific purpose, permitted uses, conditions, limitations, and care standards for which a particular Asset is entrusted and against which its stewardship is held; for a simple Asset it is expressed in the Permitted Use annex (Agreement 1 Annex 2). **"Hub DNA"** is the Asset DNA of a Hub in fuller form — additionally including the values, participation norms, rhythms, and behavioural boundaries of the place (Agreement 1 Annex 5). *(Pending F1.)*
+**GT-1.5** **"Asset DNA"** means the specific purpose, permitted uses, conditions, limitations, and care standards for which a particular Asset is entrusted and against which its stewardship is held; for a simple Asset it is expressed in the Permitted Use annex (Agreement 1 Annex 2). **"Hub DNA"** is the Asset DNA of a Hub in fuller form — additionally including the values, participation norms, rhythms, and behavioural boundaries of the place (Agreement 1 Annex 5).
 
 **GT-1.6** **"Regenerative Impact Framework"** means the Association's framework for classifying and measuring regenerative impact across six integral dimensions: (a) Land and Ecological Systems; (b) Human Health and Well-Being; (c) Knowledge and Cultural Vitality; (d) Economic Fairness and Material Infrastructure; (e) Community and Relational Culture; and (f) Governance and Ethical Integrity. These dimensions correspond to the six commitments of the Regenerative Covenant (GT-2) and serve as the evaluative vocabulary through which the network assesses whether its activities are genuinely regenerative.
 
@@ -33,7 +33,7 @@ tags:
 
 **GT-1.9** **"Net Revenue"** means revenue remaining after deduction of direct costs, fiscal charges, and other deductions defined in the relevant agreement or annex.
 
-**GT-1.10** **"Unified Fund"** (the "Fund") means the Association's single financial architecture, operated through a public fiscal-hosting platform, through which all economic activity of the Association and its holons passes. The Association is the fiscal host for all holons (Hubs under Agreement 1, Projects under Agreement 6, Venture Holons under Agreement 7, the Elder Council under Agreement 8): each holon maintains a dedicated collective on the platform, with its revenues and expenses moving through the Fund while operational autonomy is retained within mandate. The Unified Fund comprises the **Association holon** (the network-level collective, stewarded by the Board) together with all other holon collectives; inflows and allocations are governed by GT-4.
+**GT-1.10** **"Unified Fund"** (the "Fund") means the Association's single financial architecture, operated through a public fiscal-hosting platform, through which all economic activity of the Association and its holons passes. The Association is the fiscal host for all holons (Hubs under Agreement 1, Projects under Agreement 6, Ventures under Agreement 7, the Elder Council under Agreement 8): each holon maintains a dedicated collective on the platform, with its revenues and expenses moving through the Fund while operational autonomy is retained within mandate. The Unified Fund comprises the **Association holon** (the network-level collective, stewarded by the Board) together with all other holon collectives; inflows and allocations are governed by GT-4.
 
 **GT-1.11** **"Network Passport"** means each participant's portable, cumulative record of validated contributions across all roles, hubs, and time, held in the Contribution Ledger. It carries no tiers and no fixed perk schedule; it is the basis for the single sliding-scale access rule in GT-3A.
 
@@ -93,6 +93,8 @@ tags:
 
 **GT-3A.4** Standing contribution is a single cumulative measure, confirmed by steward or peer in good faith (GT-1.8). It is deliberately not reduced to hours alone; quality, diversity, and the judgement of those close to the work all count. A participant who disputes how the rule was applied to them may seek review per GT-7.2.
 
+**GT-3A.4A — Monetary support is excluded from access scoring.** Monetary and material support given under Agreement 5 (donations, sponsorship, underwriting, in-kind gifts) is recorded in the Contribution Ledger for recognition and the network's memory, but is **excluded** from the contribution measure that governs access priority and pricing under GT-3A.3, and from any Programme allocation score under Agreement 4 §4.5 or hub scoring rule (Agreement 1 Annex 5, "The Reckoning"). Recognition of monetary giving is non-economic (Agreement 5 §4). This preserves the liberal character of giving — support enters the commons as a gift, never as a purchase of access — and access follows labour, care, and participation rather than payment. *(Pending F1.)*
+
 **GT-3A.5** The Passport serves as a **trust signal** across the network. A participant arriving at a new hub, applying for a new role, or joining a Venture Holon carries their Passport with them. Hubs, stewards, and venture members may request to view a prospective participant's Passport (with their consent) as part of the welcome and admission process. A strong Passport is not a guarantee of admission — each community is its own whole — but it is a meaningful and recognised form of relational credibility.
 
 **GT-3A.6** Upon termination of any agreement, the Association provides the departing participant with a written summary of their Passport as it relates to that role, within 30 days. This summary is the participant's to share as they choose.
@@ -104,6 +106,8 @@ tags:
 (b) **No turn-away with spare capacity** — Where a hub holds genuine spare capacity, no Member shall be turned away from a contribution-based stay solely for inability to pay a contribution; the steward shall apply the sliding scale of GT-3A.3 in good faith.
 
 These entitlements require no funding from the Unified Fund; they are absorbed at the hub level as foregone revenue. They form the floor below the sliding-scale rule of GT-3A.3, not a replacement for it.
+
+**GT-3A.9 - Attunement review.** Where the application of a contribution score, a share calculation, or an access allocation produces an outcome that an affected participant or a steward, in good faith, senses to be misaligned with the gift and the Regenerative Covenant (GT-2), any party may request a facilitated sensing circle before the outcome is finalised. The circle does not override the rule and casts no vote; it pauses the outcome, surfaces what the metric did not capture, and may recommend that the allocator reconsider within the discretion the rule already allows. Metrics serve the covenant, not the reverse.
 
 ---
 

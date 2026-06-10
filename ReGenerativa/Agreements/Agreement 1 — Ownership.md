@@ -4,7 +4,7 @@ type: agreement
 version: '3.6'
 status: active
 created: '2026-03-17'
-updated: '2026-06-02'
+updated: '2026-06-07'
 tags:
   - agreement
   - ownership
@@ -80,7 +80,7 @@ tags:
 
 If activation is delayed due to circumstances genuinely beyond the Association's control, the Association shall notify the Owner in writing within the six-month period, explain the reason for the delay, and propose a revised activation timeline. The Owner may accept the revised timeline or, if the delay is unreasonable, initiate termination by notice under Clause 6.1.
 
-Persistent failure to activate, where the Association has not communicated or proposed a revised timeline, is a material breach of this Agreement and grounds for immediate termination by the Owner under Clause 6.2.
+Where activation stalls, the Parties shall first seek to re-tune the activation plan - adjusting the timeline, the Steward arrangement, or drawing network support - before any termination. Persistent failure to activate, where the Association has not communicated or proposed a revised timeline and has not engaged such re-tuning, is a material breach of this Agreement and grounds for termination by the Owner under Clause 6.2.
 
 ---
 

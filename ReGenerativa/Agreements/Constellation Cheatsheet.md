@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-06-02'
+updated: '2026-06-08'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -44,7 +44,7 @@ updated: '2026-06-02'
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the common reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5). *(Pending F1.)* |
+| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the common reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5). *(Pending F1.)* Plain-language walk-through: [[The Fund in Plain Language]]. |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-7 | Dispute resolution — amicable → Elder Council (Probiviri) → external mediation → Ascoli Piceno |
@@ -111,6 +111,7 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 | Association remedy period if obligations fail | 30 days from written notice | A7, Clause 8.4 |
 | Demand Signal publication | 30 days from submission | A7, Clause 2.2 |
 | Eldership eligibility | long, substantial contribution record | A8, Clause 2.1 |
+| Council allocation: posting / query window / response | 14 / 30 / 30 days | A8-1 §5.5.7, LGR-6 |
 | Custodial Council activation (post-dissolution) | 90 days without successor | GT-13.5 |
 | Ledger public archive fallback | 180 days without successor | GT-13.4 |
 
@@ -131,12 +132,13 @@ Capacity = working capacity, not revenue. Phase transitions require Phase Transi
 
 ## Eldership and the Elder Council
 
-The **Elder Council** is the standing governance body of all participants who hold [[Agreement 8 — Eldership|Agreement 8]]. It is not advisory — it holds the following authorities by right:
+The **Elder Council** is the standing governance body of all participants who hold [[Agreement 8 — Eldership|Agreement 8]]. Quorum and voting run on **active** Elders — standing affirmed annually at the gathering; a non-affirming Elder is **Emeritus** (full honour, hospitality, and voice, no vote) until they next affirm, and a new Elder is deemed active from their Transition Rite (A8 §8.5; A8-1 §1.5, §6.6). A rotating **Voice for the Land and the Unborn** speaks the interest of living systems and future generations into the record before Covenant and allocation decisions (A8-1 §1.6). The Council is not advisory — it holds the following authorities by right:
 
-- **Covenant Custody** — may issue a Covenant Signal that suspends contested decisions until publicly addressed (A8 §5.4a)
+- **Covenant Custody** — may issue a Covenant Signal: not a veto, but the Association must respond formally and publicly within 30 days; during amendment review, a Signal suspends ratification pending that response (A8 §5.4a–b)
 - **Constellation Integrity Review** — 30-day consultation window before any GT or agreement amendment (A8 §5.4b)
-- **Living Probiviri** — primary internal mediation body (GT-7.2; absorbs the traditional Probiviri role)
-- **Custodial Council Activation** — core of the Custodial Council in dissolution scenarios (GT-13.5)
+- **Living Probiviri** — primary internal mediation body (GT-7.2; absorbs the traditional Probiviri role); active and Emeritus Elders may serve on panels (A8-1 §5.3.2)
+- **Custodial Council Activation** — core of the Custodial Council in dissolution scenarios, open to all Elders, active or Emeritus (GT-13.5; A8-1 §5.4.2)
+- **Allocation transparency** — every Allocation-bucket decision requires a two-thirds-of-active-Elders quorum, is posted within 14 days, and is open to member/steward challenge with a mandatory 30-day public answer (A8-1 §5.5.4, §5.5.7; quorum per LGR-6)
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
@@ -163,7 +165,8 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | [[Regenerative Impact Framework]]               | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
-| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2 provisional; LGR-5 Allocation Model — settlement/band/returns, provisional & pending F1) |
+| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (LGR-1 ratified; LGR-2 provisional; LGR-5 Allocation Model — settlement/band/returns, provisional & pending F1; LGR-6 allocation challenge quorum — provisional) |
+| [[The Fund in Plain Language]]                   | Plain-language walk-through of the Unified Fund (GT-4) for members — the shape and guarantees without the math; provisional figures fenced (pending F1) |
 
 ---
 
@@ -209,4 +212,4 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 
 ---
 
-*This document is a reference tool, not a legal instrument. All legal content is in the individual agreements and the General Terms. Version reflects constellation state as of May 2026.*
+*This document is a reference tool, not a legal instrument. All legal content is in the individual agreements and the General Terms. Version reflects constellation state as of June 2026.*

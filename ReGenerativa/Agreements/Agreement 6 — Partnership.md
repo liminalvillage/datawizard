@@ -4,7 +4,7 @@ type: agreement
 version: '3.2'
 status: active
 created: '2026-03-17'
-updated: '2026-06-02'
+updated: '2026-06-10'
 tags:
   - agreement
   - partnership
@@ -97,7 +97,7 @@ The collaboration is guided by:
 
 ## 6. Project Activation
 
-**6.1** A Project is activated when Partners propose it, a Project Sheet is drafted, participating Partners approve it, and the Project is entered into the Contribution Ledger.
+**6.1** A Project is activated when Partners propose it, a Project Sheet is drafted, participating Partners approve it, the Project passes a regenerative mission-alignment check against the Regenerative Covenant (GT-2) - at minimum, that it does no net harm to land, people, or community - and the Project is entered into the Contribution Ledger.
 
 **6.2** Each Project Sheet shall define at minimum:
 - Name and description
@@ -126,7 +126,7 @@ The collaboration is guided by:
 
 ## 8. Validation of Contributions
 
-**8.1** Contributions shall be recorded in the Contribution Ledger. A Contribution becomes Validated when accepted according to the Project rules, which may include: peer validation, project lead approval, milestone confirmation, majority approval, or documentary evidence.
+**8.1** Contributions shall be recorded in the Contribution Ledger. A Contribution becomes Validated when accepted according to the Project rules, which may include: peer validation, project lead approval, milestone confirmation, majority approval, or documentary evidence. Validation shall actively surface contributions that are real but easily under-logged — coordination, facilitation, the care that holds the collaboration together — rather than only confirming what was recorded.
 
 **8.2** The Partners use a simple shared digital record to ensure traceability and transparency of contributions (see [[Agreement 6 Annex 4 — Contribution Log|A6-4]]).
 
@@ -139,6 +139,8 @@ The collaboration is guided by:
 **9.1** Each Partner's share in distributable Project economics shall be calculated dynamically based on cumulative Validated Contributions relative to the total.
 
 **9.2** Shares may change over time as new Contributions are made and validated, ensuring distribution remains responsive to actual effort and value creation.
+
+**9.3 Relational contribution share.** Where the participating Partners so provide in the Project Sheet, a slice of Net Project Revenue — fixed **ex ante** in the Project Sheet as a percentage, before work begins — is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition under Clause 8 against criteria stated in the Project Sheet. This slice exists so that the work that holds a Project together is not structurally starved by measures that count only hours and milestones. Distributions from it follow the same fiscal documentation as all other distributions (Clause 10.2; GT-12), and the slice is never retroactively resized. *(Pending F1.)*
 
 ---
 

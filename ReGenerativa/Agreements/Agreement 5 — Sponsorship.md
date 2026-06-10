@@ -4,7 +4,7 @@ type: agreement
 version: '3.1'
 status: active
 created: '2026-03-17'
-updated: '2026-06-02'
+updated: '2026-06-10'
 tags:
   - agreement
   - sponsorship
@@ -54,18 +54,22 @@ tags:
 
 **3.1** All support received shall be **recorded in the Contribution Ledger** (General Terms GT-3) as a Validated Contribution of the Supporter. The contribution record tracks the value, form, destination, and purpose of the support.
 
+Recording is for recognition and the network's memory. Per GT-3A.4A, support given under this Agreement does not raise the Supporter's access priority or lower their prices under the access rule (GT-3A.3), and carries no weight in any Programme allocation score (Agreement 4 §4.5): recognition of giving is non-economic (Clause 4), preserving its liberal character (*spirito di liberalità*). *(Pending F1.)*
+
 **3.2** The Supporter may earmark support, subject to the Association's acceptance, for:
 - Operational costs of a specific hub
 - Regeneration or improvement of a place
 - Support of a steward or contributor
 - Scholarships at the Member-friendly rate under Agreement 4 (for members who cannot otherwise afford the rate)
-- Underwriting the direct delivery cost of Resource-cost places under Agreement 4 (covers the slot's resource consumption; does not affect Resource-cost eligibility, which is determined by the auction in A4 §4.5)
+- Underwriting the direct delivery cost of Resource-cost places under Agreement 4 (covers the slot's resource consumption; does not affect Resource-cost eligibility, which is determined by the contribution-priority claim in A4 §4.5)
 - Equipment or tools for common use
 - Educational or cultural programming
 - Communication and documentation
 - Conflict facilitation, governance support, or care infrastructure
 - Mobility or inter-hub travel
 - Strategic development of the network
+- Regeneration of land, water, soil, or non-human living systems held by the network, on their own behalf
+- A multi-generational endowment held for future stewards rather than spent in the current cycle
 
 **3.3** If the original destination becomes impossible or impracticable, the Association shall consult the Supporter and seek a good-faith reallocation aligned as closely as possible with the original intent.
 
@@ -73,7 +77,7 @@ tags:
 
 ## 4. Recognition
 
-**4.1** In acknowledgment of the Supporter's contribution, the Association may recognise the Supporter through: listing in the network's public supporter directory; mention on website or digital directory; mention in event communications; display of name or logo at a supported hub; recognition in annual report or storytelling; or invitation to selected gatherings.
+**4.1** In acknowledgment of the Supporter's contribution, the Association may recognise the Supporter through: listing in the network's public supporter directory; mention on website or digital directory; mention in event communications; display of name or logo at a supported hub; recognition in annual report or storytelling; invitation to selected gatherings; or, at the Supporter's election, a non-promotional acknowledgment - a living-history entry or witnessed act - for those who give in pure gift and decline visibility.
 
 **4.2** Recognition shall be proportionate, truthful, and mission-compatible. It shall not imply that the Supporter owns the hub, governs the Association, controls steward appointments, has veto rights over mission decisions, or has acquired private use rights.
 

@@ -11,7 +11,7 @@ tags:
   - governance
 title: Agreement 8 Annex 1 — Elder Council Charter
 type: annex
-updated: '2026-05-24'
+updated: '2026-06-08'
 version: '1.3'
 ---
 *Annex 1 to the [[Agreement 8 — Eldership|Eldership Agreement]]. Defines the operational charter of the Elder Council — its convening, decision-making, designated Council Seat, and the procedures through which it exercises the authorities granted in Agreement 8 §5. Forms an integral part of the Agreement.*
@@ -35,6 +35,10 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 **1.3** An Elder ceases to hold a Council seat upon voluntary withdrawal from Agreement 8 (Agreement 8 §8.2) or upon death. The Council marks both transitions in the Council record (§7.3 of this Charter).
 
 **1.4** The Council operates as a single body. It does not have a chair, president, or other hierarchical office. Coordination roles (convener, scribe, mediator) are functional and rotating, not positional.
+
+**1.5 Active and Emeritus Elders.** An **active Elder** is one who has affirmed active Council participation for the current year (§6.6 of this Charter; Agreement 8 §8.5). All other Elders holding a current Agreement 8 are **Elder Emeritus**. Quorum (§3.5), the default decision rule (§4.1), and the supermajority counts (§4.2) are computed on **active Elders**. An Emeritus Elder retains full Eldership standing, hospitality, named legacy, and voice and presence in deliberation, but does not vote on the Council's authorities (§5.4) or its Allocation bucket (§5.5) and is not counted in those quorums. The transition is reversible per Agreement 8 §8.5; the convener records each move in the Council Record (§6.1). An Elder is **deemed active** from the date of their Transition Rite until the close of the first annual gathering that follows it; and upon the adoption of this provision, all Elders are deemed active until the first annual affirmation cycle (§6.6) has been held. No Elder is ever Emeritus for want of an opportunity to affirm.
+
+**1.6 Voice for the Land and the Unborn.** The Council designates, as a rotating functional role (§1.4), a **Voice for the Land and the Unborn**. Before any Covenant Signal (§5.1) or Allocation-bucket decision (§5.5), the Voice speaks into the record the interest of (i) the land, waters, soils, and living systems the network holds, and (ii) future generations, on the seven-generation horizon (GT-2.4). The Voice casts no additional vote; its function is to ensure the non-present whole is heard before the Council acts. Its contribution is noted in the Council Record (§6.1).
 
 ---
 
@@ -123,7 +127,7 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 
 **5.3.1** When a dispute arising under any agreement in the constellation is referred to internal mediation (GT-7.2), the Council assumes the role of the Probiviri.
 
-**5.3.2** The Council designates from its members a **Mediation Panel** of three Elders for each dispute. Selection is by Council decision, taking into account:
+**5.3.2** The Council designates from its members a **Mediation Panel** of three Elders for each dispute. Both active and Emeritus Elders (§1.5) are eligible to serve on a Mediation Panel — serving as a mediator is not an exercise of the Council's voting authorities, and an Emeritus Elder may be exactly the member with the distance the role needs. The selection decision itself is made by the active Council. Selection takes into account:
 - Absence of conflict of interest with any party to the dispute
 - Relevant experience or knowledge of the matter
 - Geographic and relational distance from the parties
@@ -139,7 +143,7 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 
 **5.4.1** Upon receipt of formal notice that the Association has entered dissolution proceedings and ninety (90) days have elapsed without a successor entity being identified, the Elder Council automatically convenes as the core of the **Custodial Council** under GT-13.5.
 
-**5.4.2** The Custodial Council is constituted by all active Elders and all active hub Owners (Agreement 1 holders) who choose to participate. Owner participation is voluntary per GT-13.3.
+**5.4.2** The Custodial Council is constituted by all Elders — active or Emeritus (§1.5) — and all hub Owners (Agreement 1 holders) who choose to participate. In a dissolution scenario every willing hand counts, and the affirmation cycle may itself have lapsed with the Association; participation is in any case by choice. Owner participation is voluntary per GT-13.3.
 
 **5.4.3** The Custodial Council operates under this Charter for procedural matters, modified as follows:
 - Decisions are by simple majority of all participating members (Elders + participating Owners)
@@ -156,11 +160,13 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 
 **5.5.3** **Allocation bucket.** Beyond Operating, the Council deliberates collectively to direct mission spending. Recipients may include any holon, Steward, or programme serving integral regeneration. Allocation may include elderly-focused hubs and elder-serving programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
 
-**5.5.4** **Procedure.** Allocation decisions are made at a Council session (annual or specially convened), per the default decision rule (§4.1) for routine allocations and the supermajority rule (§4.2) for allocations exceeding the published delegated-authority ceiling (LGR-2). Each allocation decision is recorded in the Council Record with recipient, amount, mission purpose, and any conditions.
+**5.5.4** **Procedure.** Allocation decisions are made at a Council session (annual or specially convened). Every Allocation-bucket decision requires the two-thirds-of-active-Elders quorum used for the Council's authorities (§3.5), so that the Council's money is governed no more loosely than its speech; routine allocations are then decided by the default rule (§4.1) among those voting, and allocations exceeding the published delegated-authority ceiling (LGR-2) by the supermajority rule (§4.2). Each allocation decision is recorded in the Council Record with recipient, amount, mission purpose, and any conditions.
 
 **5.5.5** **Anti-self-dealing.** The Council's Allocation bucket cannot fund personal payments to Council members or to any elder; Council members may participate in mission-aligned programmes the Council funds (e.g. activities at an elderly-focused hub), but participation is in mission activity, not as recipients of personal income. The Council's Operating bucket covers Council governance work only.
 
 **5.5.6** **Reporting.** All allocation decisions are reported in the annual *bilancio sociale*, consolidated with the Association's overall Unified Fund reporting.
+
+**5.5.7** **Transparency and challenge.** Beyond the annual report (§5.5.6), each Allocation-bucket decision is posted to the network through the Association's regular channels within fourteen (14) days of the decision. A quorum of Members or Stewards - set by the Council and published as a living governance resolution (default: three Stewards or ten Members) - may, within thirty (30) days of posting, lodge a written query. The Council shall respond formally and publicly within thirty (30) days, mirroring the Association's own duty toward a Covenant Signal (§5.1.4). A query does not suspend the allocation; it obliges a public answer. A pattern of unaddressed queries may itself be raised as a Covenant Signal under §5.1. This is the allocation-side counterpart to Covenant Custody: the body that names the network's drift is itself answerable for how it directs the common reservoir.
 
 ---
 
@@ -175,6 +181,8 @@ The Charter is deliberately spare. The Council is composed of those who have bee
 **6.4 New Elders.** A new Elder is welcomed into the Council at the first session following their Transition Rite. Welcome is functional, not ceremonial — the Rite has already conferred standing.
 
 **6.5 Council Reflection.** At each annual gathering, the Council reviews its own functioning over the past year and considers whether this Charter requires amendment. Amendments are by two-thirds majority (§4.2).
+
+**6.6 Annual affirmation of active standing.** At each annual gathering, every Elder affirms whether they will hold **active** standing for the coming year (Agreement 8 §8.5; §1.5 of this Charter). Affirmation may be given in person, remotely, or in writing to the convener, and is recorded in the Council Record. An Elder who does not affirm passes to **Elder Emeritus** standing until they next affirm. Affirmation is a light act of presence, not a performance review or a re-qualification; it exists only so that the active Council renews rather than only accreting, and an Emeritus Elder may return to active standing at any time by affirming.
 
 ---
 
