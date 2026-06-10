@@ -1,7 +1,7 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.12'
+version: '3.13'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -146,7 +146,7 @@ tags:
 
 **9.2** Reimbursable expenses may include travel, fuel, tolls, local purchases, food for common activities, materials, emergency operational expenses, and communication or logistical expenses.
 
-**9.3 Source of reimbursement.** Reimbursements are paid from the Asset holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. As part of cost-coverage, valid reimbursements are met before the discretionary envelope is filled and are therefore unaffected by the discretionary narrowing of GT-4.4A(b) (Clause 5A.1). *(Pending F1.)* Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row).
+**9.3 Source of reimbursement.** Reimbursements are paid from the Asset holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. As part of cost-coverage, valid reimbursements are met before the discretionary envelope is filled and are therefore unaffected by the discretionary narrowing of GT-4.4A(b) (Clause 5A.1). *(Pending F1.)* Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row). In every case, a valid, pre-approved, documented reimbursement is an obligation of the Association payable within sixty (60) days of submission, regardless of the holon's liquidity; the Association recovers the amount from the holon's future cost-coverage. *(Pending F1.)*
 
 ---
 
@@ -202,9 +202,11 @@ tags:
 
 Notice runs from the date of written receipt. The Parties may agree a shorter period by mutual written consent.
 
-**16.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misuse of the Hub, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, refusal to hand over records or keys, or persistent disregard of the Association's lawful instructions; and, on the Steward's side, the Association exposing the Steward to serious unaddressed risks.
+**16.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misuse of the Hub, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, refusal to hand over records or keys, or persistent disregard of the Association's lawful instructions; and, on the Steward's side, the Association exposing the Steward to serious unaddressed risks. Except where the cause is danger to persons or the Asset, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond. *(Pending F1.)*
 
 **16.3** Upon termination, the Steward shall cease presenting themselves as steward, hand over keys, records, and relevant information, cooperate in transition, and leave the Hub in the agreed condition. If events have been scheduled within the notice period, the Steward shall either complete their stewardship obligations for those events or assist in finding a suitable replacement.
+
+Where the Steward resides at the Hub, the obligation to vacate the accommodation follows the full notice period of Clause 16.1 even on termination for cause — except where the cause is danger to persons, safety, or misappropriation — and the Association shall make reasonable efforts to assist the Steward in finding interim accommodation within the network. *(Pending F1.)*
 
 ---
 

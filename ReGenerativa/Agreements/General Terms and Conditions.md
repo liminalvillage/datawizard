@@ -1,7 +1,7 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.19'
+version: '3.22'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -27,7 +27,7 @@ tags:
 
 **GT-1.6** **"Regenerative Impact Framework"** means the Association's framework for classifying and measuring regenerative impact across six integral dimensions: (a) Land and Ecological Systems; (b) Human Health and Well-Being; (c) Knowledge and Cultural Vitality; (d) Economic Fairness and Material Infrastructure; (e) Community and Relational Culture; and (f) Governance and Ethical Integrity. These dimensions correspond to the six commitments of the Regenerative Covenant (GT-2) and serve as the evaluative vocabulary through which the network assesses whether its activities are genuinely regenerative.
 
-**GT-1.7** **"Contribution Ledger"** means the simple, shared, visible record in which participants' contributions are logged and confirmed. It is a plain record, not a blockchain or automated calculation system.
+**GT-1.7** **"Contribution Ledger"** means the simple, shared, visible record in which participants' contributions are logged and confirmed. It is a plain record, not a blockchain or automated calculation system. The Ledger is **one record, partitioned by holon**: each Hub and Asset, each Project, each Venture, the Elder Council, and the Association holon holds its own partition, and role- or project-scoped logs (such as the Partnership Contribution Log, Agreement 6 Annex 4) are partitions of this one Ledger, applying their own confirmation rules within it. Partition visibility is a network setting held as a Living Governance Resolution (LGR-8) and tunable prospectively by Board resolution; the current setting is **every partition visible to all network participants**. No setting may ever narrow visibility below this floor: every participant sees their own entries; every member of a holon (including every Partner on a Project) sees that holon's partition in full; and the Association, as fiscal host, sees all. Only two things never appear on the Ledger at any setting: personal-identity mappings, held off-ledger per GT-3.4 and GT-5; and the identity of external clients, who appear as project codes unless they consent to be named. *(Pending F1.)*
 
 **GT-1.8** **"Validated Contribution"** means a contribution recorded in the Contribution Ledger and confirmed, in good faith, by a steward or a peer.
 
@@ -71,11 +71,11 @@ tags:
 
 ## GT-3. Digital Infrastructure and Contribution Tracking
 
-**GT-3.1** The Association maintains simple, transparent infrastructure for tracking contributions and sharing resources: a **Contribution Ledger**. The way to operate this ledger (pen and paper, excel, blockchain) is up to the association discretion, as long as it is public and approved.
+**GT-3.1** The Association maintains simple, transparent infrastructure for tracking contributions and sharing resources: a **Contribution Ledger**. The way to operate this ledger (pen and paper, excel, blockchain) is at the Association's discretion, as long as it is public and approved.
 
 **GT-3.2** This infrastructure exists to make contribution and need visible across the network, so that resources can flow toward where they are most needed without centralised command.
 
-**GT-3.3** Participation in conribution tracking is voluntary. Access to **contribution-dependent benefits** (free Programme access, hub circulation, resource allocation rights) is conditioned upon recorded and Validated Contributions.
+**GT-3.3** Participation in contribution tracking is voluntary. Access to **contribution-dependent benefits** (free Programme access, hub circulation, resource allocation rights) is conditioned upon recorded and Validated Contributions.
 
 **GT-3.4** The Contribution Ledger stores only what is needed to recognise contribution; personal data is held separately and minimally. Participants may access, correct, or request deletion of their records per GT-5. Deletion only renders historical entries unattributable without destroying the underlying record of network activity.
 
@@ -93,7 +93,7 @@ tags:
 
 *Interpretive principle (guides construction; not a separate obligation): the rule exists for abundance and circulation, not gatekeeping; doubt in its application is resolved toward wider access.*
 
-**GT-3A.4** Standing contribution is a single cumulative measure, confirmed by steward or peer in good faith (GT-1.8). It is deliberately not reduced to hours alone; quality, diversity, and the judgement of those close to the work all count. A participant who disputes how the rule was applied to them may seek review per GT-7.2.
+**GT-3A.4** Standing contribution is a single cumulative measure, confirmed by steward or peer in good faith (GT-1.8). It is deliberately not reduced to hours alone; quality, diversity, and the judgement of those close to the work all count. Entries in a Project or Venture partition of the Ledger count toward this measure as contributions of their kind; the **euro valuations** used within those partitions to compute distribution shares (Agreement 6 §9–§10; Agreement 7 §7) carry **no weight** in the access measure — on the same principle as GT-3A.4A, access follows labour, care, and participation, never monetary magnitude. *(Pending F1.)* A participant who disputes how the rule was applied to them may seek review per GT-7.2.
 
 **GT-3A.4A — Monetary support is excluded from access scoring.** Monetary and material support given under Agreement 5 (donations, sponsorship, underwriting, in-kind gifts) is recorded in the Contribution Ledger for recognition and the network's memory, but is **excluded** from the contribution measure that governs access priority and pricing under GT-3A.3, and from any Programme allocation score under Agreement 4 §4.5 or hub scoring rule (Agreement 1 Annex 5, "The Reckoning"). Recognition of monetary giving is non-economic (Agreement 5 §4). This preserves the liberal character of giving — support enters the commons as a gift, never as a purchase of access — and access follows labour, care, and participation rather than payment. *(Pending F1.)*
 
@@ -204,7 +204,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 **GT-7.1** **Amicable resolution** first through good-faith discussion.
 
-**GT-7.2** **Internal mediation** (for disputes involving the Association and a natural person): refer to the **Elder Council** for a non-binding opinion. The Elder Council, once constituted under Agreement 8, fulfils the role of the Collegio dei Probiviri for all purposes of this Agreement and the Statute. Until the Elder Council is constituted, the Collegio dei Probiviri (if elected) performs this function in the traditional form.
+**GT-7.2** **Internal mediation** (for disputes involving the Association and a natural person): refer to the **Elder Council** for a non-binding opinion. The Elder Council, once constituted under Agreement 8, fulfils the role of the Collegio dei Probiviri for all purposes of this Agreement and the Statute. Until the Elder Council is constituted, the Collegio dei Probiviri (if elected) performs this function in the traditional form. Where neither the Elder Council nor the Collegio dei Probiviri is constituted, internal review is performed by an ad-hoc panel of three Members or Stewards who are not party to the dispute, convened by the Board within thirty (30) days of the referral; and, for the period before the Elder Council exists, a proposed amendment to the Statute, these General Terms, or any agreement in the constellation is published to the membership for comment at least thirty (30) days before ratification, in place of the Constellation Integrity Review of Agreement 8 §5.4(b). *(Pending F1.)*
 
 **GT-7.3** **External mediation** (for inter-entity disputes, or if Probiviri unavailable): mediation pursuant to Legislative Decree 28/2010.
 
@@ -218,7 +218,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 **GT-8.2** The Association is inscribed in the RUNTS as APS — ETS. Full applicability of Third Sector fiscal and governance provisions.
 
-**GT-8.3** English drafting; Italian certified translation prevails before Italian courts if produced and signed.
+**GT-8.3** English drafting. An Italian certified translation prevails before Italian courts only where it has been agreed and signed by both Parties, at or after execution.
 
 ---
 
@@ -249,6 +249,8 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 **GT-11.5 — No property or governance rights by role.** No agreement in this constellation, other than the Membership Agreement (Agreement 2) as regards membership rights, confers on the counterparty: (a) any governance right in the Association; (b) any ownership, co-ownership, leasehold, tenancy, usufruct, possessory, or permanent use right over any Asset, Hub, or other resource of the Association; or (c) any right to the Association's profits, surplus, or capital appreciation. These exclusions do not affect rights held separately as a Member under the Statute. Individual agreements state only role-specific extensions of this rule.
 
 **GT-11.6 — Independent activities.** Every counterparty is free to pursue independent professional, creative, and entrepreneurial activities, consistent with the non-employment character of the constellation (GT-12.4). Without the Association's prior written agreement, no counterparty may use the Association's hubs, resources, participant lists, or name to organise or promote activities that compete with or divert participants from the Association's mission-aligned programmes. This rule does not restrict anyone's independent livelihood; it protects the integrity of the network's mission-bound spaces and jointly developed content. Role-specific extensions are stated in the individual agreements.
+
+**GT-11.7 — Stacked roles and conflicts of interest.** A person or entity holding more than one role in the constellation (GT-11.4) shall disclose the stack wherever their roles interact in a specific matter, and shall not confirm, approve, validate, or review their own act performed in another role — including confirming their own Ledger entries (GT-1.8), approving their own reimbursements or payments (GT-4.5(c)), or reporting on a matter to themselves in another capacity. Where recusal would leave no competent person, the matter is referred to the next competent allocator or to the Association. *(Pending F1.)*
 
 ---
 

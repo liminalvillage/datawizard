@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-06-08'
+updated: '2026-06-10'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -42,7 +42,7 @@ updated: '2026-06-08'
 |---|---|
 | GT-1 | Definitions (Asset + Hub-as-place, Asset DNA / Hub DNA, Regenerative Impact, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
-| GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log); optional resource-sharing / H3 tools (roadmap) |
+| GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log; one record partitioned by holon, visibility per LGR-8 — currently all-visible, GT-1.7); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
 | GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the common reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5). *(Pending F1.)* Plain-language walk-through: [[The Fund in Plain Language]]. |
 | GT-5 | Data protection (GDPR + Italian law) |
@@ -104,8 +104,13 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 | Incoming owner assumption period | 30 days | A1, Clause 6.3 |
 | Passport summary at exit | 30 days from termination | GT-3A.6 |
 | Mentorship programme publication | 14 days after confirmation | A4, Clause 5A.1 |
-| Mentorship registration update to Mentor | 21 days before programme | A4, Clause 5A.3 |
+| Mentorship registration update to Mentor | 21 days before programme | A4, Clause 5A.2 |
 | Mentorship minimum engagement (framework) | 1 programme per 12 months | A4, Clause 1.5 |
+| Mentor share payment | 30 days from Programme completion + reconciliation | A4, Clause 5.3 |
+| Member suspension pending verification — lapse | 60 days unless exclusion opened | A2, Clause 7.1 |
+| Steward reimbursement (valid, pre-approved) | 60 days from submission | A3, Clause 9.3 |
+| Elder safeguarding suspension — lapse | 60 days, renewable once | A8, Clause 8.4A |
+| Unvalidated contributions at Partner exit — resolution | 60 days | A6, Clause 16.3 |
 | Intrapreneurship Phase 1 Association support confirmation | 30 days from activation | A7, Clause 3.4 |
 | Intrapreneurship network introductions | 3 within 60 days | A7, Clause 8.3b |
 | Association remedy period if obligations fail | 30 days from written notice | A7, Clause 8.4 |

@@ -1,7 +1,7 @@
 ---
 title: Agreement 2 — Membership
 type: agreement
-version: '3.8'
+version: '3.9'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -125,7 +125,7 @@ This fee covers the Association's insurance obligations under Article 18 of the 
 
 ## 7. Suspension, Exclusion, and Termination
 
-**7.1 Suspension.** The Board may suspend the Member's rights temporarily for non-payment of fees (after reasonable grace period and reminder), behaviour harmful or disruptive to the Association, or a serious allegation of misconduct awaiting verification.
+**7.1 Suspension.** The Board may suspend the Member's rights temporarily for non-payment of fees (after reasonable grace period and reminder), behaviour harmful or disruptive to the Association, or a serious allegation of misconduct awaiting verification. A suspension grounded on an allegation awaiting verification lapses automatically after sixty (60) days unless the Board has by then either lifted it or opened the exclusion procedure under Clause 7.3. *(Pending F1.)*
 
 **7.2 Exclusion.** The Association may terminate membership for: serious breach of obligations or Statute; intentional moral or material damage to the Association; persistent inactivity combined with prolonged non-payment of fees; or loss of membership requirements.
 
@@ -136,6 +136,8 @@ This fee covers the Association's insurance obligations under Article 18 of the 
 Where membership terminates due to **non-payment of the annual fee**: the Member has thirty (30) days from the date of the termination notice to renew and restore their standing. If not renewed within this period, any other active constellation agreements are suspended until membership is restored. Membership may be restored within ninety (90) days of the original termination notice without formality; after that point the Association may treat the downstream agreements as void, in accordance with their individual termination provisions.
 
 Where membership terminates for **serious cause** under Clause 7.2, or upon the Member's **voluntary resignation** under Clause 8: the effect on downstream agreements is immediate. The Member's eligibility to hold any other active constellation agreement is suspended from the date of termination; those agreements are not automatically terminated, but their conditions of validity are no longer met.
+
+Where termination or suspension of membership affects a downstream agreement, the wind-down of that role nevertheless follows the downstream agreement's own termination provisions — notice, handover of keys and records, completion or reassignment of scheduled commitments, and the written Passport summary (GT-3A.6) — the eligibility suspension and the role wind-down running concurrently. Suspension of eligibility removes the right to hold the role; it does not remove the protections that govern how the role ends. *(Pending F1.)*
 
 The Association shall notify the Member of these consequences in the termination communication, and shall notify any directly affected counterparties within fourteen (14) days.
 

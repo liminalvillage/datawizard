@@ -1,7 +1,7 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.8'
+version: '1.9'
 created: '2026-04-14'
 updated: '2026-06-10'
 status: active
@@ -149,6 +149,8 @@ A holon's voluntary feed-up earns mutual insurance and earned autonomy at its ow
 **8.3 Dissolution Continuity.** This Agreement survives the dissolution of the Association per GT-13. The rights and recognitions it establishes are enforceable against any successor entity. Any Council Operating reserves remaining at dissolution are administered by the Custodial Council per GT-13.5.
 
 **8.4** There is no termination for cause provision in this Agreement. The network does not revoke Eldership. If an Elder's conduct is seriously harmful to the network or its participants, the matter is addressed through the dispute resolution process (GT-7) and, if warranted, through legal process — but the Eldership itself is not a sanction to be withdrawn.
+
+**8.4A Safeguarding suspension.** Where a credible allegation of conduct creating danger or serious harm to participants is made against an Elder, the Association's governing body, acting with two Elders free of conflict (or, before the Council is constituted, alone), may suspend the Elder's hospitality right (Clause 4.1) and active Council participation pending the process of GT-7. The suspension is communicated with written reasons, the Elder is heard without delay, and it lapses after sixty (60) days unless renewed once with reasons. It touches access to people and places only: the Elder's recognition, named legacy, living-history inscription, fee waiver, and Passport record remain untouched, and Eldership itself is never revoked (Clause 8.4). *(Pending F1.)*
 
 **8.5 Active and Emeritus standing.** Eldership itself is permanent (§8.1); the active Council seat is renewable. An Elder holds an **active** seat - carrying the allocation vote (§5.4(e)) and the vote on Council authorities (§5.4) - by affirming active participation each year, in person, remotely, or in writing, at or around the annual gathering (Elder Council Charter §6.6). An Elder who does not so affirm becomes an **Elder Emeritus** until they next affirm: they retain in full their recognition (§4.4), unconditional hospitality (§4.1), membership-fee waiver (§4.3), named legacy (§4.5), living-history inscription (§3.3), Passport standing, and their voice and presence in Council deliberation - but hold no allocation or authority vote and are not counted in active-Elder quorum. The transition to Emeritus and back to active is reversible and is not a sanction; it exists so the active Council renews rather than only accretes, honouring the movement from doing to witnessing (§1.1, §4.4) without ever vacating the gift. A new Elder is deemed active from the date of their Transition Rite until the first annual affirmation cycle that follows it (Charter §1.5).
 

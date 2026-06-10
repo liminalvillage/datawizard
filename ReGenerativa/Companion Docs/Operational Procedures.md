@@ -9,7 +9,7 @@ tags:
 title: Operational Procedures
 type: companion-doc
 updated: '2026-06-10'
-version: '1.6'
+version: '1.9'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -46,6 +46,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Membership year currently runs from date of first admission, with annual administrative alignment to **31 January** (A2 §9.2)
 - Annual fee due by **31 January** of each year (A2 §4.1)
 - Grace period for non-payment before suspension: **reasonable** (A2 §7.1) — operationally, the Association applies a 30-day grace from due date
+- Suspension pending verification of an allegation lapses after **60 days** unless the exclusion procedure is opened (A2 §7.1)
 - Termination notice for non-payment: written, with **30 days** to renew and restore standing (A2 §7.4)
 - Membership restoration window: **90 days** from termination notice (A2 §7.4)
 
@@ -66,6 +67,9 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Review cadence proportionate to the Asset's intensity of use, and **no less often than annually** (A3 §14.2)
 - Seasonal gatherings (equinox, solstice) are the default coordination points (A3 §14.2)
 
+### B.2A Reimbursements (binding in agreement)
+- Valid, pre-approved, documented reimbursements payable by the Association within **60 days** of submission, regardless of holon liquidity (A3 §9.3)
+
 ### B.3 Asset Activation
 - Steward appointed within **6 months** of Ownership Agreement commencement (A1 §3.9)
 - First activity or use scheduled and the Asset communicated to membership within the same period (for a Hub, the place; for other assets, the tool, vehicle, equipment, or land)
@@ -76,7 +80,8 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ### C.1 Programme Publication and Promotion (Migration Pending)
 - Programme published within **14 days** of confirmation that it will proceed (A4 §5A.1)
-- Registration status update to Mentor no later than **21 days** before programme date (A4 §5A.3)
+- Registration status update to Mentor no later than **21 days** before programme date (A4 §5A.2)
+- Mentor share paid within **30 days** of Programme completion and accounting reconciliation (A4 §5.3)
 - Resource-cost place allocation: minimum **1 Resource-cost place per programme** unless higher specified in the framework Mentorship Agreement (§4.3) or Programme Annex (A4 §1.3A)
 - Supersession deadline: **7 days** before the Programme (the logistics freeze; thereafter only unfilled places may be claimed) (A4 §4.5(b)–(c))
 - Rotation window for Resource-cost claims: provisional **6 lunations** — a claimant who has not held a place within it takes priority regardless of score (A4 §4.5(c))
@@ -176,6 +181,9 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Member/Steward query window on an allocation: **30 days** from posting; quorum per **LGR-6** (default: 3 Stewards or 10 Members) (A8-1 §5.5.7)
 - Council public response to an allocation query: **30 days** (A8-1 §5.5.7)
 
+### G.2A Safeguarding Suspension (binding in agreement)
+- Suspension of hospitality and active Council participation on a credible safety allegation lapses after **60 days** unless renewed once with reasons (A8 §8.4A)
+
 ### G.3 Charter Amendment
 - Proposed amendments circulated to Elders: **30 days** before deciding session (A8-1 §8.2)
 
@@ -224,18 +232,18 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ## Section K — Contribution Log (operational detail in A6-4)
 
 ### K.1 What Is Recorded in the Shared Log
+The log is the Project's partition of the network's one Contribution Ledger (GT-1.7); visibility per LGR-8 (currently: all network participants; Partners always see their Project's partition in full).
 - Date
-- Partner (pseudonymised identifier where required)
+- Partner
 - Project code
 - Contribution type
-- Quantity (hours / milestone / value units)
+- Quantity (hours / milestone / value units) and € equivalent where used for distribution
 - Confirmed by
 - Confirmed on
 
 ### K.2 What Is Not in the Shared Log
-- Personal data (held off-log by the Association as data controller per GT-5)
-- Financial amounts where commercially sensitive
-- Client identities
+- Personal-identity mappings (held off-log by the Association as data controller per GT-5, GT-3.4)
+- Client identities (clients appear as project codes unless they consent to be named)
 
 ### K.3 Confirmation Workflow
 1. A Partner logs a contribution with supporting evidence if required.

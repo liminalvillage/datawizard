@@ -1,7 +1,7 @@
 ---
 title: Agreement 5 — Sponsorship
 type: agreement
-version: '3.3'
+version: '3.4'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -71,7 +71,7 @@ Recording is for recognition and the network's memory. Per GT-3A.4A, support giv
 - Regeneration of land, water, soil, or non-human living systems held by the network, on their own behalf
 - A multi-generational endowment held for future stewards rather than spent in the current cycle
 
-**3.3** If the original destination becomes impossible or impracticable, the Association shall consult the Supporter and seek a good-faith reallocation aligned as closely as possible with the original intent.
+**3.3** If the original destination becomes impossible or impracticable, the Association shall consult the Supporter and seek a good-faith reallocation aligned as closely as possible with the original intent. Where no reallocation is agreed within a reasonable time, unused purpose-restricted funds are, at the Supporter's election, returned to the Supporter — where return is permissible under the gift's fiscal classification (Clause 8.1) — or retained for the Association's general statutory purposes. *(Pending F1.)*
 
 ---
 

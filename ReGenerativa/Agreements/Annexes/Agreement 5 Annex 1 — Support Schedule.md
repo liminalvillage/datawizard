@@ -4,7 +4,7 @@ type: annex
 annex_ref: A5-1
 parent_agreement: Agreement 5 — Sponsorship
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-06-10'
 status: template
 tags:
   - annex
@@ -90,7 +90,9 @@ tags:
 **If milestone-based, specify conditions for release:**
 [e.g. "Second instalment of €5,000 to be released upon completion of solar installation at Hub X, verified by photographs and installer certificate"]
 
-**If original destination becomes impossible:** The Association shall consult the Supporter and seek good-faith reallocation per Clause 3.3 of the Agreement.
+**If original destination becomes impossible:** The Association shall consult the Supporter and seek good-faith reallocation per Clause 3.3 of the Agreement; failing agreement, unused restricted funds follow the Supporter's election under Clause 3.3 (return where fiscally permissible, or retention for general statutory purposes).
+
+**Reporting cadence (for support above €___):** [e.g. "Brief written update on allocation and use every two quarters until fully applied" — per Clause 6.1; leave blank for the default of reasonable transparency plus the annual bilancio sociale]
 
 ---
 

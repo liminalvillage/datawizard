@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-1
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-06-10'
 status: template
 tags:
   - annex
@@ -12,7 +12,7 @@ tags:
   - intrapreneurship
   - venture
   - demand-signal
-version: '1.1'
+version: '1.2'
 ---
 *Annex 1 to the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]]. Activated at the moment a Venture Holon is approved. Documents the Demand Signal the venture is responding to, defines the venture's scope, phase, milestones, NRC rate, and membership. Contributing Members join by signing this document. File completed copies as: "A7-1 — [Venture Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
 
@@ -105,6 +105,12 @@ version: '1.1'
 **Planned Phase 1 duration:** From [DD/MM/YYYY] to [DD/MM/YYYY] (or: milestone-gated — see Section 5)
 
 **First milestone review date:** [DD/MM/YYYY]
+
+**Capacity metric (A7 §6.3):** the measure against which the phase floors (100% / 70% / 40% network service) are assessed at every Phase Review.
+☐ Venture Member hours per lunation *(default)*
+☐ Other: ___ — rationale: ___
+
+**Insurance note:** Phase 1 venture work is covered by Members' Agreement 2 insurance only when performed as official volunteer activity (A2 §6.1–6.2). Activities outside that scope require cover noted here: [e.g. "not applicable" / specific policy]
 
 ---
 

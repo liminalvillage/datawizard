@@ -1,7 +1,7 @@
 ---
 title: Agreement 6 — Partnership
 type: agreement
-version: '3.3'
+version: '3.6'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -58,7 +58,7 @@ tags:
 
 **"Validated Contribution"** means a Contribution accepted according to the validation rules.
 
-**"Contribution Ledger"** means the shared system for recording and validating Contributions.
+**"Contribution Ledger"** means the Project's partition of the Association's one Contribution Ledger (GT-1.7), in which Contributions are recorded and validated. Its visibility follows the network setting of GT-1.7 (currently: all network participants); every Partner on the Project sees it in full at any setting. *(Pending F1.)*
 
 **"Net Project Revenue"** means Project revenue after deduction of agreed direct costs, structure costs, and taxes.
 
@@ -130,7 +130,7 @@ The collaboration is guided by:
 
 **8.2** The Partners use a simple shared digital record to ensure traceability and transparency of contributions (see [[Agreement 6 Annex 4 — Contribution Log|A6-4]]).
 
-**8.3** Disputes regarding validation shall be addressed first among participating Partners, then by two-thirds majority if unresolved.
+**8.3** Disputes regarding validation shall be addressed first among participating Partners, then by two-thirds majority if unresolved. Where the disputed value exceeds the threshold set in the Project Sheet, the dispute is first reviewed by a neutral reviewer — a Partner not participating in the Project, or a mediator per GT-7.3 — whose written opinion is considered before the two-thirds vote is final. *(Pending F1.)*
 
 ---
 
@@ -159,6 +159,8 @@ The collaboration is guided by:
 **10A.2** The applicable rate is the **prevailing Network NRC Rate** (GT-4.4(a); LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue.
 
 **10A.3** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
+
+**10A.4** This Clause 10A is a stipulation in favour of a third party (Article 1411 of the Italian Civil Code) made by the Partners in favour of the Association, which holds a direct right to enforce the remittance of the NRC notwithstanding that it is not a signatory to this Agreement. *(Pending F1.)*
 
 ---
 
@@ -216,7 +218,7 @@ The collaboration is guided by:
 - Confidentiality obligations
 - Obligations relating to shared IP
 
-**16.3** A withdrawing or excluded Partner retains distribution rights attributable to Validated Contributions made prior to exit, but loses rights to future Project decisions and economics.
+**16.3** A withdrawing or excluded Partner retains distribution rights attributable to Validated Contributions made prior to exit, but loses rights to future Project decisions and economics. Contributions logged but not yet validated at the date of exit are validated or rejected through the process of Clause 8 within sixty (60) days, and validated entries count toward the exiting Partner's retained distribution rights. *(Pending F1.)*
 
 ---
 

@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.8'
+version: '1.10'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-10
 tags:
   - governance
   - ReGenerativa
@@ -46,8 +46,9 @@ specific figures awaiting Board ratification. **LGR-3** and **LGR-4** have been
 withdrawn (their IDs are retired and not reused). **LGR-5 (Allocation Model:
 settlement, band, and returns)** is **Provisional** and **Pending F1** as of
 2026-05-30. **LGR-6 (allocation challenge quorum)** is **Provisional** as of
-2026-06-08. Ratified figures remain revisable by a Decision Log entry, never an
-agreement amendment.
+2026-06-08. **LGR-7 (Elder hospitality reimbursement threshold)** and **LGR-8 (Ledger partition
+visibility)** are **Provisional** and **Pending F1** as of 2026-06-10. Ratified figures
+remain revisable by a Decision Log entry, never an agreement amendment.
 
 ---
 
@@ -274,6 +275,66 @@ the Board; revisable by decision recorded in the Council Record and in this regi
 procedure.
 
 **Status.** Provisional — 2026-06-08.
+
+---
+
+## LGR-7 — Elder hospitality reimbursement threshold (Agreement 8 §4.1)
+
+**Serves.** A8 §4.1 (unconditional hospitality, absorbed at hub level) and §4.2(b) /
+A8-1 §5.5.3 (Council Allocation bucket, mission spending). Sets the point at which a
+hub's Elder-hospitality load stops being absorbed locally as foregone revenue and
+becomes reimbursable mission spending.
+
+**Resolution (Provisional - Pending F1).** Where the Elder hospitality a single hub
+provides exceeds **ten (10) Elder-nights per lunation** (all Elders combined), the
+hub's Steward may request reimbursement of the direct delivery cost (food, utilities,
+consumables - not notional accommodation revenue) of the nights above the threshold
+from the Elder Council's Allocation bucket. Honouring such requests is mission
+spending under A8 §4.2(b); it adds no personal income to elders, and the request is
+recorded like any other allocation (A8-1 §5.5.4, §5.5.7).
+
+**Basis.** With few Elders the hospitality obligation is trivially absorbed; the
+threshold exists so that a popular hub is never forced to choose between honouring
+Elders and covering its own costs as the Council grows. Direct-cost-only keeps the
+reimbursement clean of any revenue character.
+
+**Review.** Reviewed by the Board with the Council at the annual gathering; revisable
+by Decision Log entry.
+
+**Citation.** A8 §4.1 and A8-1 §5.5.3 operate alongside this resolution; this register
+is its published home.
+
+**Status.** Provisional - Pending F1 - 2026-06-10.
+
+---
+
+## LGR-8 — Ledger partition visibility (GT-1.7)
+
+**Serves.** GT-1.7: the Contribution Ledger is one record, partitioned by holon, with
+partition visibility "a network setting held as a Living Governance Resolution and
+tunable prospectively by Board resolution."
+
+**Resolution (Provisional - Pending F1).** The current setting is **full visibility**:
+every partition of the Ledger is visible to all network participants. Any future
+narrowing is prospective only and may never go below the GT-1.7 floor: every
+participant sees their own entries; every member of a holon (including every Partner
+on a Project) sees that holon's partition in full; the Association, as fiscal host,
+sees all. Off-ledger items (identity mappings, client identities) are unaffected by
+the setting - they are off the Ledger at any setting.
+
+**Basis.** Transparency is the network's default posture (A6 §4; GT-3.2): a record
+visible to all polices itself and makes contribution legible across hubs. The setting
+is held here rather than hard-coded so the network can respond to scale, competition
+sensitivity between Partner entities, or advisor guidance from the F1 review without
+re-signing agreements.
+
+**Review.** Reviewed by the Board alongside the *bilancio sociale*, and at the F1
+review; revisable by Decision Log entry.
+
+**Citation.** GT-1.7 cites this resolution; A6 §2 (Contribution Ledger definition),
+A6-4 §2, and Operational Procedures §K.1 follow it.
+
+**Status.** Provisional - Pending F1 - 2026-06-10.
 
 ---
 

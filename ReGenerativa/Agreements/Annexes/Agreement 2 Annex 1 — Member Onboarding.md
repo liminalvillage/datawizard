@@ -5,7 +5,7 @@ annex_ref: A2-1
 parent_agreement: Agreement 2 — Membership
 status: template
 created: '2026-04-02'
-updated: '2026-05-23'
+updated: '2026-06-10'
 tags:
   - annex
   - ReGenerativa
@@ -28,6 +28,8 @@ tags:
 **Membership status:** [Active — since MM/YYYY]
 **Completed:** [DD/MM/YYYY]
 **Reviewed by steward:** [Name — DD/MM/YYYY]
+
+> **Insurance note (read before arrival).** The Association's insurance (Agreement 2 §6) covers you during **official volunteer activities** — organised work sessions, programmes, and tasks assigned or recorded by the steward. It does not cover personal time during a stay. If in doubt whether an activity is covered, ask the steward before starting it.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.8'
+version: '3.9'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -64,9 +64,9 @@ tags:
 
 **3.2 Operating Costs.** Bear all ordinary operating expenses related to the Asset's use, calculated on a pro rata temporis basis (proportional to the effective time of use on an annual basis). This includes payment of utilities (electricity, water, gas), insurance premiums, asset depreciation rates as per official tables, and any ordinary local taxes or fees (property tax, waste charges) arising from effective time of use.
 
-**3.3 Insurance.** Maintain appropriate insurance coverage for the Asset and its operations, including at minimum: property damage insurance (if applicable), third-party civil liability insurance for activities on or with the Asset, and accident insurance for volunteers and participants as required by Article 18 of Legislative Decree 117/2017. The Association shall name the Owner as an additional insured where possible, and provide proof of insurance upon request. The Association may develop collective insurance arrangements within the network to achieve more favourable terms.
+**3.3 Insurance.** Maintain appropriate insurance coverage for the Asset and its operations, including at minimum: property damage insurance (if applicable), third-party civil liability insurance for activities on or with the Asset, and accident insurance for volunteers and participants as required by Article 18 of Legislative Decree 117/2017. Where the Asset is real property, the Association shall name the Owner as an additional insured; for other Assets, where possible. The Association provides proof of insurance annually without request, and at any time upon request. The Association may develop collective insurance arrangements within the network to achieve more favourable terms. *(Pending F1.)*
 
-**3.4 No Structural Alterations Without Consent.** Not make any structural changes or significant alterations to the Asset without the Owner's prior written consent. Non-structural rearrangements of furniture and spaces are permitted during the Association's use period. At the end of each use period, the stewards or other involved parties shall consult the Owner to determine whether rearrangements may remain in place or must be restored to their original configuration. Any approved permanent improvements that become fixed to the Asset shall, unless otherwise agreed, become the Owner's property upon termination (or be removed at termination, at Owner's choice).
+**3.4 No Structural Alterations Without Consent.** Not make any structural changes or significant alterations to the Asset without the Owner's prior written consent. Non-structural rearrangements of furniture and spaces are permitted during the Association's use period. At the end of each use period, the stewards or other involved parties shall consult the Owner to determine whether rearrangements may remain in place or must be restored to their original configuration. Any approved permanent improvements that become fixed to the Asset shall, unless otherwise agreed, become the Owner's property upon termination (or be removed at termination, at Owner's choice). Where the cumulative value of network-funded improvements and shared infrastructure investments exceeds the threshold set in Annex 4, the Parties shall complete Annex 4 with an amortisation schedule before further investment, so that an early termination under Clause 6.1 settles the unamortised value (by repayment or by a proportionately extended notice period) rather than leaving it uncompensated. *(Pending F1.)*
 
 **3.5 Monitoring and Reporting.** Promptly inform the Owner of any significant damage, defect, or need for extraordinary repair concerning the Asset. The Association shall notify the Owner as soon as practicable of any condition that could require the Owner's intervention under Clause 4 or that could jeopardise the Asset's value or safety.
 
@@ -90,6 +90,8 @@ Where activation stalls, the Parties shall first seek to re-tune the activation 
 
 **4.2 Extraordinary Maintenance and Repairs.** At the Owner's own expense, take responsibility for all extraordinary maintenance and major repairs of the Asset. "Extraordinary maintenance" refers to substantial repairs or replacements necessary due to structural issues, wear and tear beyond ordinary use, or unforeseen damage (for example: roof replacement, structural wall repair, major system overhauls for real estate; or, for equipment, major part replacement not attributable to misuse). The Owner shall carry out such repairs within a reasonable time after notification.
 
+As between Clauses 3.8 and 4.2: deterioration attributable to the intensity of network use exceeding the use profile recorded in Annexes 1 and 2 falls under Clause 3.8; structural aging, latent defects, and deterioration that would have occurred under ordinary use fall under this Clause. Doubt is resolved by reference to the most recent joint inspection record. *(Pending F1.)*
+
 **4.3 Insurance and Title.** Maintain ownership of the Asset free and clear of any conditions that would prevent or compromise the Association's use as agreed. The Owner affirms that the Asset is currently free of mortgages, seizures, or legal disputes that would impede this Agreement (or has disclosed any such encumbrances to the Association in writing).
 
 **4.4 No Fees and Non-Profit Character.** Not request any rental fee or other economic compensation from the Association for the use of the Asset, as this loan for use is gratuitous in accordance with Italian civil law. The Owner confirms that this Agreement is made for purposes of social benefit and not for personal profit from the Association's use. This clause does not prevent the Parties from entering into a separate written arrangement for shared infrastructure investments as provided in Annex 4.
@@ -106,7 +108,7 @@ Where activation stalls, the Parties shall first seek to re-tune the activation 
 
 ## 6. Termination
 
-**6.1 Termination by Notice.** Either Party may terminate this Agreement at any time without penalty by providing at least **ninety (90) days' written notice** to the other Party. The Parties shall cooperate to ensure an orderly handover of the Asset.
+**6.1 Termination by Notice.** Either Party may terminate this Agreement at any time without penalty by providing at least **ninety (90) days' written notice** to the other Party. The Parties shall cooperate to ensure an orderly handover of the Asset. Where a Steward is active at the Asset, the Association shall notify them within fourteen (14) days of giving or receiving notice, and shall honour the Steward's notice period under Agreement 3 §16.1 within the wind-down. *(Pending F1.)*
 
 **6.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A; the Owner's termination revokes the right of use. For the Owner, serious cause additionally includes: use of the Asset for purposes outside those permitted; wilful or grossly negligent damage; non-payment of ordinary expenses leading to liens or service interruptions; or any action that materially endangers the Asset or public safety.
 

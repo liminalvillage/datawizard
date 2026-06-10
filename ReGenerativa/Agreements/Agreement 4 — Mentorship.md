@@ -1,7 +1,7 @@
 ---
 title: Agreement 4 — Mentorship
 type: agreement
-version: '3.6'
+version: '3.7'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -38,7 +38,7 @@ tags:
 
 **1.3** The Mentor's core commitment is a **gift economy principle**: the Mentor commits to making their **labour, time, and expertise** available to the network's highest contributors at **resource cost** (the slot's direct delivery cost only — hub usage, materials, food, direct logistics — with no Mentor-fee component). This gift is the foundation of the mentorship relationship and the basis upon which the Association supports the Mentor in designing and delivering paid Programmes to broader audiences.
 
-**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. Resource-cost places are allocated by a **contribution-priority claim** process running from Programme publication to commencement (Clause 4.5). Priority within the claim is contribution-led but not score-only: a rotation rule gives precedence to those who have not recently held a place, and one place per multi-place Programme is allocated by the Mentor's discernment outside the score (Clause 4.5(c), (g)). The Association publishes the current claim list visibly throughout the claim window and confirms the claim-list state to the Mentor as part of the registration status update under Clause 5A.3. Where the framework Mentorship Agreement and the Programme Annex are both silent on the minimum number of Resource-cost places, at least one such place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement. The guaranteed access floor (GT-3A.8) sits beneath this claim process: where a hub holds genuine spare capacity, a Member in good standing is not turned away from a contribution-based place solely for inability to pay.
+**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. Resource-cost places are allocated by a **contribution-priority claim** process running from Programme publication to commencement (Clause 4.5). Priority within the claim is contribution-led but not score-only: a rotation rule gives precedence to those who have not recently held a place, and one place per multi-place Programme is allocated by the Mentor's discernment outside the score (Clause 4.5(c), (g)). The Association publishes the current claim list visibly throughout the claim window and confirms the claim-list state to the Mentor as part of the registration status update under Clause 5A.2. Where the framework Mentorship Agreement and the Programme Annex are both silent on the minimum number of Resource-cost places, at least one such place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement. The guaranteed access floor (GT-3A.8) sits beneath this claim process: where a hub holds genuine spare capacity, a Member in good standing is not turned away from a contribution-based place solely for inability to pay.
 
 **1.4** This Agreement is not an employment contract (GT-12.4). It governs a professional, autonomous, occasional, or otherwise lawfully compensated collaboration, documented in accordance with applicable Italian law and the General Terms (GT-12).
 
@@ -76,7 +76,7 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 - **Member-friendly rate** — a discounted price for Association members in good standing;
 - **Resource-cost places** — for persons with the highest Validated Contribution to the network (per the Contribution Ledger, GT-3), priced to cover only the slot's direct delivery cost (a generalised composition of: hub usage per hour + materials + food + direct logistical costs). The Mentor's labour, time, and expertise are the gift; the recipient covers the resources their slot consumes. Eligibility is determined by the Association, or jointly with the Mentor, from the Contribution Ledger.
 
-The Network Regeneration Contribution (GT-4) is deducted at source from each band's revenue.
+The Network Regeneration Contribution is deducted at source per GT-4.4(a) from each band's Net Revenue (GT-1.9); the Resource-cost band, priced at direct delivery cost only, therefore generates no Net Revenue and carries no contribution. *(Pending F1.)*
 
 **4.2 Per-Programme parameters.** The Programme Annex defines for each Programme: the number of places in each band; the resource-cost composition (€ value per item — hub/hour, materials, food, logistics) for the Resource-cost band; the market rate; the member-friendly rate (or % discount from market); and the eligibility criteria for "highest contribution."
 
@@ -93,7 +93,7 @@ Where the framework agreement is silent on a parameter, at least one (1) Resourc
 
 **4.5 Resource-cost places — the contribution-priority claim.**
 
-**(a) Window.** The claim window opens when the Programme is published under Clause 5A.1 and closes at the moment the Programme commences. Claims to unfilled places are permitted until commencement; supersession is permitted only until the logistics freeze in (b). The registration status update under Clause 5A.3 reports the claim-list state at that date; supersessions occurring after the Clause 5A.3 status update are notified to the Mentor immediately. *(Pending F1.)*
+**(a) Window.** The claim window opens when the Programme is published under Clause 5A.1 and closes at the moment the Programme commences. Claims to unfilled places are permitted until commencement; supersession is permitted only until the logistics freeze in (b). The registration status update under Clause 5A.2 reports the claim-list state at that date; supersessions occurring after the Clause 5A.2 status update are notified to the Mentor immediately. *(Pending F1.)*
 
 **(b) Logistics freeze.** For per-name logistical allocations (accommodation, dietary, materials, name tags), the Resource-cost list at **seven (7) days before the Programme** is the planning basis. The freeze is also the supersession deadline (c): after it, the list is fixed, and only unfilled places may still be claimed.
 
@@ -115,7 +115,7 @@ Where the framework agreement is silent on a parameter, at least one (1) Resourc
 
 **5.2** Programme revenue shall first cover: payment processing and fiscal charges; food, accommodation, materials, and logistics; hub operational contribution; steward and organisational costs; communication and administration costs; and the **Network Regeneration Contribution** (General Terms GT-4).
 
-**5.3** After costs, the Mentor receives their agreed share according to the formula in the **Programme Financial Annex**. Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover.
+**5.3** After costs, the Mentor receives their agreed share according to the formula in the **Programme Financial Annex**. Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover. The Mentor's share is paid within thirty (30) days of Programme completion and accounting reconciliation. *(Pending F1.)*
 
 **5.4** The Parties may define a minimum viable threshold below which the Programme may be cancelled, rescheduled, or renegotiated.
 
@@ -129,9 +129,9 @@ Where the framework agreement is silent on a parameter, at least one (1) Resourc
 
 **5A.1** The Association shall publish the Programme to the membership and through its standard communication channels within **14 days** of confirmation that the Programme will proceed.
 
-**5A.3** The Association shall provide the Mentor with a registration status update — including the number of confirmed participants at each access level — no later than **21 days** before the Programme date. If the confirmed participant count is below the minimum viable threshold defined in the Programme Annex, the Mentor may request rescheduling or cancellation in accordance with the cancellation terms of the Programme Annex, without prejudice to the relationship under this Agreement.
+**5A.2** The Association shall provide the Mentor with a registration status update — including the number of confirmed participants at each access level — no later than **21 days** before the Programme date. If the confirmed participant count is below the minimum viable threshold defined in the Programme Annex, the Mentor may request rescheduling or cancellation in accordance with the cancellation terms of the Programme Annex, without prejudice to the relationship under this Agreement.
 
-**5A.4** The Association commits to making reasonable promotional efforts proportionate to the Programme's scale and the network's current membership. The Mentor may propose additional promotional approaches; the Association shall not unreasonably refuse. Neither Party guarantees minimum registration numbers, but both commit to good-faith effort to fill the Programme in a way that serves its gift economy purpose — prioritising network contributors first.
+**5A.3** The Association commits to making reasonable promotional efforts proportionate to the Programme's scale and the network's current membership. The Mentor may propose additional promotional approaches; the Association shall not unreasonably refuse. Neither Party guarantees minimum registration numbers, but both commit to good-faith effort to fill the Programme in a way that serves its gift economy purpose — prioritising network contributors first.
 
 ---
 
@@ -183,6 +183,8 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 **10.2** If the Programme is cancelled due to the Mentor's unjustified withdrawal, the Association may withhold agreed reimbursements for avoidable losses or require reimbursement of direct costs already incurred.
 
+**10.3** If a confirmed Programme is cancelled due to the Association's unjustified decision — not force majeure, not venue failure handled per Clause 7.1, and not under-subscription below the minimum viable threshold of the Programme Annex — the Association reimburses the Mentor's documented preparation costs up to the cap set in the Programme Annex. *(Pending F1.)*
+
 ---
 
 ## 11. No Governance or Property Rights
@@ -193,7 +195,7 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 ## 11A. Independent Activities and Non-Competition
 
-**11A.1** Independent activities are governed by GT-11.6. In addition, the Mentor shall not, without the Association's prior written agreement, independently replicate a Programme developed jointly with the Association at a competing location within the same territory, for twelve (12) months following the delivery of that jointly developed Programme. The Parties shall first seek a good-faith conversation before treating any such activity as a breach.
+**11A.1** Independent activities are governed by GT-11.6. In addition, the Mentor shall not, without the Association's prior written agreement, independently replicate a Programme developed jointly with the Association at a competing location within the same territory, for twelve (12) months following the delivery of that jointly developed Programme. The territory is defined per Programme in the Programme Annex; absent a definition, it is the province of the host hub. The Parties shall first seek a good-faith conversation before treating any such activity as a breach. *(Pending F1.)*
 
 ---
 
@@ -203,7 +205,7 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 **12.2** Either Party may terminate for future Programmes by written notice, without prejudice to obligations already accrued.
 
-**12.3** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misrepresentation, unauthorised collection of participant payments, violation of hub rules, or serious harm to participants or the Association's reputation.
+**12.3** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misrepresentation, unauthorised collection of participant payments, violation of hub rules, or serious harm to participants or the Association's reputation. Except where the cause is danger to participants, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond. *(Pending F1.)*
 
 ---
 

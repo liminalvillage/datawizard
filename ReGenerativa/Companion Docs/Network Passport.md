@@ -9,8 +9,8 @@ tags:
   - access-rule
 title: Network Passport — Portable Contribution Record
 type: companion-doc
-updated: '2026-05-30'
-version: '3.2'
+updated: '2026-06-10'
+version: '3.4'
 ---
 *Companion document to [[General Terms and Conditions]] GT-3A. It describes the
 Network Passport and the single access rule. It is not a legal agreement.*
@@ -66,10 +66,13 @@ record from there.
 
 ---
 
-## Two readings of the same record
+## One ledger, three readings
 
-The Passport is read two ways, and keeping them apart is what lets contribution matter
-without ever becoming a rank over people. *(Pending F1.)*
+The Contribution Ledger is **one record, partitioned by holon** — each hub, project,
+venture, and the Association holds its own partition. Visibility is a tunable network
+setting (GT-1.7; LGR-8), currently: every partition visible to all — and never less
+than your own entries, your holons' partitions, and the Association's full view. The same record is read three ways, and keeping the readings apart is what
+lets contribution matter without ever becoming a rank over people. *(Pending F1.)*
 
 - **For access — lifetime, portable, rankless.** Your whole cumulative record sets your
   place on the sliding scale (GT-3A.3): higher priority, lower price, up to free. This
@@ -83,9 +86,16 @@ without ever becoming a rank over people. *(Pending F1.)*
   delegated resources, not a governance vote** — in the Assembly it remains one member,
   one vote (Agreement 2 §2.1).
 
+- **For distribution — commercial, per project.** In a Project or Venture partition
+  (A6-4; A7 §7), entries carry € valuations that compute revenue shares among Partners
+  or Venture Members. This is the commercial reading of the same record — visible like
+  every partition, but its euro values never feed the access reading: the same entries
+  count toward access as contributions of their kind, never at their monetary value
+  (GT-3A.4).
+
 So contribution lowers your *price* everywhere and, where you tend, raises your *say
-over that holon's discretionary spend* — but it never ranks you as a person and never
-weights your vote.
+over that holon's discretionary spend* — but it never ranks you as a person, never
+weights your vote, and is never worth more because it was worth more money.
 
 ---
 

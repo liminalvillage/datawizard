@@ -4,13 +4,13 @@ type: annex
 annex_ref: A6-4
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-05-23'
+updated: '2026-06-10'
 status: template
 tags:
   - annex
   - ReGenerativa
   - partnership
-version: '2.0'
+version: '2.2'
 ---
 *Annex 4 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Describes how
 Partner contributions are logged, confirmed, and turned into distribution shares. The
@@ -37,11 +37,17 @@ work; a peer confirms it; no one validates their own contribution into economic 
 
 ## 2. Form
 
-The log is a plain shared record — a shared spreadsheet or a simple shared app —
-accessible to all Partners on the Project. There is no blockchain, no token, no
-on-chain identifier, no automated validator assignment, and no formal dispute-threshold
-machinery. Personal data is kept off the shared log and held minimally by the
-Association as data controller (GT-5).
+The log is the Project's **partition of the network's one Contribution Ledger**
+(GT-1.7) — a plain shared record, not a separate system. Its visibility follows the
+network setting of GT-1.7 (held as LGR-8; **currently: visible to all network
+participants**); at any setting, every Partner on the Project sees it in full. While
+the full-visibility setting applies, entries published in the partition are
+network-public and are not Confidential Information under Clause 14 of the Agreement. There is no blockchain, no
+token, no on-chain identifier, no automated validator assignment, and no formal
+dispute-threshold machinery. Two things stay off the log: personal-identity mappings,
+held minimally by the Association as data controller (GT-5, GT-3.4); and client
+identities, which appear as project codes unless the client consents to be named.
+*(Pending F1.)*
 
 Recommended columns: date, Partner, project code, contribution type, quantity
 (hours / milestone / value units), confirmed-by, confirmed-on.
@@ -61,7 +67,9 @@ Partner Share (%) = Partner's Validated Contributions (€ equivalent)
 Contributions are converted to a common € equivalent using the rates in
 [[Agreement 6 Annex 2 — Economics Schedule]] (Part B) or the milestone values in the
 Project Sheet. Shares are applied to Net Project Revenue after the cost waterfall
-(Agreement 6, Clause 10).
+(Agreement 6, Clause 10). These € valuations exist for distribution only: the same
+entries count toward a Partner's network access standing as contributions of their
+kind, never at their euro value (GT-3A.4). *(Pending F1.)*
 
 ---
 
@@ -76,7 +84,7 @@ Annex.
 
 ## 5. Governance
 
-- Any Partner may inspect the full log and audit their own record at any time.
+- The partition is visible per the network setting of GT-1.7 / LGR-8 (currently: all network participants); every Partner sees it in full and may audit their own record at any time.
 - A change to how shares are calculated requires the agreement of the Partners and an
   amendment to this Annex, recorded in the Amendment Register of
   [[Agreement 6 Annex 1 — Partner Onboarding & Register]].

@@ -11,7 +11,7 @@ tags:
   - ReGenerativa
   - partnership
   - project
-version: '1.1'
+version: '1.2'
 ---
 *Annex 3 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Template for activating a new Project under the Framework. Complete one sheet per Project. File as: "A6-3 — [Project Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
 
@@ -110,6 +110,8 @@ Contributions become Validated when:
 ☐ Documentary evidence (invoice, commit log, deliverable receipt, etc.)
 
 **Dispute resolution if validation is contested:** First among participating Partners; then two-thirds majority; then GT-7 if unresolved.
+
+**Neutral-review threshold (A6 §8.3):** disputes over contributions valued above €___ go to a neutral reviewer (a non-participating Partner or a GT-7.3 mediator) before the two-thirds vote is final. [Default if blank: €1,000]
 
 ---
 

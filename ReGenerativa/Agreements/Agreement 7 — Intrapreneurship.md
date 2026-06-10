@@ -1,7 +1,7 @@
 ---
 title: Agreement 7 — Intrapreneurship
 type: agreement
-version: '1.8'
+version: '1.9'
 status: active
 created: '2026-03-28'
 updated: '2026-06-10'
@@ -143,7 +143,7 @@ tags:
 - **Association support:** Ecosystem membership; no direct incubation support
 - **Emergence trigger:** Venture Holon may initiate the Emergence process (Clause 10) at any point in Phase 3
 
-**6.3** At each phase, the minimum network-service obligation applies to capacity, not revenue.
+**6.3** At each phase, the minimum network-service obligation applies to capacity, not revenue. Capacity is measured by the metric declared in the Venture Sheet at activation (default: Venture Member hours per lunation), and Phase Reviews assess the floors against that metric. *(Pending F1.)*
 
 **6.4** The phase structure is a floor, not a ceiling. A Venture Holon may choose to maintain a higher proportion of network service at any phase. This is encouraged and recognised in the Contribution Ledger as a Validated Contribution of the holon to the commons.
 
@@ -203,7 +203,7 @@ tags:
 
 **10.1** Emergence is the process by which the Venture Holon formally separates from the Association's incubation framework and becomes a fully independent legal entity. It is available from Phase 3 onward.
 
-**10.2** Emergence is initiated by a two-thirds majority of Venture Members and must be agreed in writing by the Association. Neither Party can force Emergence on the other.
+**10.2** Emergence is initiated by a two-thirds majority of Venture Members and must be agreed in writing by the Association. Neither Party can force Emergence on the other. The Association shall not refuse Emergence without written reasons against the following criteria: the venture's NRC and fiscal obligations are settled; the documented Demand Signal remains served or has been formally retired; and the terms of Annex 3 (rate, intellectual property, preferred-client) are agreed or referable to mediation. A refusal is re-examined at each annual Phase 3 review, and persistent refusal without sustainable reasons may be referred to dispute resolution under GT-7. *(Pending F1.)*
 
 **10.3** The terms of Emergence are defined in **[[Agreement 7 Annex 3 — Emergence]]**, which addresses:
 - The legal form of the Emerged Entity
@@ -218,7 +218,7 @@ tags:
 
 ## 11. Suspension and Termination
 
-**11.1 Suspension by the Association:** If the Venture Holon materially breaches the Network-First Ruleset, fails to pay the NRC, engages in conduct inconsistent with the Regenerative Covenant, or operates in ways that create legal or reputational risk for the Association, the Association may suspend ecosystem support pending resolution.
+**11.1 Suspension by the Association:** If the Venture Holon materially breaches the Network-First Ruleset, fails to pay the NRC, engages in conduct inconsistent with the Regenerative Covenant, or operates in ways that create legal or reputational risk for the Association, the Association may suspend ecosystem support pending resolution. Except in cases of immediate danger or legal necessity, the Association first states the breach in writing and hears the Venture Members; the suspension notice states the cure required. *(Pending F1.)*
 
 **11.2 Termination by the Association:** If a material breach is not resolved within 60 days of suspension, the Association may terminate this Agreement. Accrued NRC obligations survive termination.
 
