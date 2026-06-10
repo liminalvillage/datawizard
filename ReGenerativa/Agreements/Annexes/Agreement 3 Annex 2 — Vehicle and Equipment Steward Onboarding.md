@@ -5,7 +5,7 @@ annex_ref: A3-2
 parent_agreement: Agreement 3 — Stewardship
 status: template
 created: '2026-05-31'
-updated: '2026-05-31'
+updated: '2026-06-03'
 version: '1.0'
 tags:
   - annex
@@ -14,7 +14,7 @@ tags:
   - onboarding
   - vehicle-equipment
 ---
-*Annex 2 to the [[Agreement 3 — Stewardship|Stewardship Agreement]]. The **vehicle / equipment steward onboarding** form — the asset-kind branch of [[Agreement 3 Annex 1 — Steward Onboarding]] for the case where the Asset stewarded is a vehicle, a piece of powered or mechanical equipment, or a power tool. Complete one per steward per Asset (or per coherent set of equipment), before or at the start of stewardship. Read alongside the Asset's Asset DNA ([[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]) and its care protocol ([[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]]). File as: "A3-2 — Vehicle/Equipment Onboarding — [Name] — [Asset Name].md".* *(Pending F1.)*
+*Annex 2 to the [[Agreement 3 — Stewardship|Stewardship Agreement]]. The **vehicle / equipment steward onboarding** form — the asset-kind branch of [[Agreement 3 Annex 1 — Steward Onboarding]] for the case where the Asset stewarded is a vehicle, a piece of powered or mechanical equipment, or a power tool. Complete one per steward per Asset (or per coherent set of equipment), before or at the start of stewardship. Read alongside the Asset's Asset DNA ([[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]) and its care protocol ([[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]]). File as: "A3-2 — Vehicle/Equipment Onboarding — [Name] — [Asset Name].md".*
 
 > **Same spirit as [[Agreement 3 Annex 1 — Steward Onboarding]], different prompts.** Like its place-stewarding sibling, this is **not a job description** — it is a stewardship intention, written before the role begins, reviewed seasonally, and completed with handover notes at the end. What changes is the subject: where the Hub form asks about the slowness of a place and the relationship with the land, this asks about keeping a thing roadworthy, safe, available, and well-used. The A1-7 Care Protocol is the *what* of care; this is the steward's *intention* in holding it.
 

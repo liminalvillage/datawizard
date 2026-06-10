@@ -5,8 +5,8 @@ annex_ref: A1-8
 parent_agreement: Agreement 1 — Ownership
 status: template
 created: '2026-05-31'
-updated: '2026-05-31'
-version: '1.0'
+updated: '2026-06-03'
+version: '1.1'
 tags:
   - annex
   - ReGenerativa
@@ -14,9 +14,9 @@ tags:
   - asset-care
   - land-care
 ---
-*Annex 8 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **land care protocol** — the asset-specific child of the general [[Agreement 1 Annex 6 — Asset Care Protocol]] for the case where the Asset is land cared for as land (a field, orchard, woodland, garden, or parcel) rather than as a gathering place. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10). Final framings await F1.* *(Pending F1.)*
+*Annex 8 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **land care protocol** — the asset-specific child of the general [[Agreement 1 Annex 6 — Asset Care Protocol]] for the case where the Asset is land cared for as land (a field, orchard, woodland, garden, or parcel) rather than as a gathering place. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10).*
 
-> **Read alongside [[Agreement 1 Annex 6 — Asset Care Protocol]].** The general parent holds what is true of caring for any Asset — the responsibility split (ordinary vs extraordinary; Steward / Association / Owner / user; the shared burden of [[Agreement 2 — Membership]] §4.6), the Asset register and condition, the maintenance cadence and log, damage reporting, and lifecycle. This child adds what *land* specifically needs: working *with* living systems over seasonal and multi-year cycles, where "care" means leaving the soil, water, and biodiversity more alive than they were found (the Regenerative Covenant, GT-2). Where a parcel is **both** worked land **and** a gathering place, this protocol applies to its land and the [[Agreement 1 Annex 3 — Hub Care Protocol]] to its place. Care is purpose-bound to the Asset's **Asset DNA** ([[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]).
+> **Read alongside [[Agreement 1 Annex 6 — Asset Care Protocol]].** The general parent holds what is true of caring for any Asset — the responsibility split (ordinary vs extraordinary; Steward / Association / Owner / user; the shared burden of [[Agreement 2 — Membership]] §4.6), the Asset register and condition, the maintenance cadence and log, damage reporting, and lifecycle. This child adds what *land* specifically needs: working *with* living systems over seasonal and multi-year cycles, where "care" means leaving the soil, water, and biodiversity more alive than they were found (the Regenerative Covenant, GT-2). Where a parcel is **both** worked land **and** a gathering place, this protocol applies to its land and the [[Agreement 1 Annex 3 — Hub Care Protocol]] to its place.
 
 ---
 
@@ -54,6 +54,8 @@ Land care follows the season rather than a fixed service interval. The Steward k
 
 The plan and what was actually done are recorded in the maintenance log (A1-6 §D).
 
+At tenure handover the Steward records the parcel's condition and the seasonal works in progress, so living continuity is not lost (A1-6 §F; A3 handover).
+
 ---
 
 ## Section D — Regenerative Targets and Measurement
@@ -68,15 +70,6 @@ Consistent with the Regenerative Covenant (GT-2) and the parcel's Asset DNA, the
 | [e.g. Water captured / runoff reduced] | [___] | [___] | [___] |
 
 Targets are a shared commitment, **not** a personal financial liability for non-attainment (cf. A1-2 §D, A3 §5.3). They are reviewed and updated at least annually.
-
----
-
-## Section E — Responsibility, Damage, and Lifecycle
-
-- **Ordinary tending** (the works above) → the **Association** via the **Steward**, met from the Asset holon's cost-coverage bucket (GT-4.4(b)).
-- **Extraordinary** works (major drainage, large-tree surgery, restoration after a significant event) → the **Owner**, per A1-6 §B.
-- **Damage / loss / pollution / significant pest or disease** → reported immediately (A1-6 §E), and to the Owner per A1 §3.5.
-- **Lifecycle / handover** — at tenure handover the Steward records the parcel's current condition, the seasonal works in progress, and what the next Steward needs to know, so living continuity is not lost (A1-6 §F; A3 handover).
 
 ---
 

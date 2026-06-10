@@ -10,10 +10,10 @@ tags:
   - hub-care
 title: Agreement 1 Annex 3 — Hub Care Protocol
 type: annex
-updated: '2026-06-02'
+updated: '2026-06-03'
 version: '2.3'
 ---
-*Annex 3 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **place-specific (Hub) care protocol** — the child of the general [[Agreement 1 Annex 6 — Asset Care Protocol]] for the case where the Asset is a place. It adds what a Hub needs beyond the care common to any Asset: ongoing facility maintenance, end-of-stay cleaning, and ecological restoration. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10). *(Pending F1.)**
+*Annex 3 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **place-specific (Hub) care protocol** — the child of the general [[Agreement 1 Annex 6 — Asset Care Protocol]] for the case where the Asset is a place. It adds what a Hub needs beyond the care common to any Asset: ongoing facility maintenance, end-of-stay cleaning, and ecological restoration. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10).*
 
 > **Read alongside [[Agreement 1 Annex 6 — Asset Care Protocol]].** The general parent holds what is true of caring for any Asset — the responsibility split (ordinary vs extraordinary; Steward / Association / Owner / user), the Asset register and condition, the maintenance cadence and log, damage reporting, and lifecycle, all purpose-bound to the Asset DNA. This Annex adds only the place-specific detail a Hub needs — kitchen, bathrooms, grounds, end-of-stay cleaning, and ecological restoration — that a vehicle, tool, or parcel of land does not. Tools, equipment, and vehicles kept at the Hub are not re-registered here: they are entered in the Hub's single Asset register (A1-6 §C), and powered or road-going items additionally follow [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]].
 

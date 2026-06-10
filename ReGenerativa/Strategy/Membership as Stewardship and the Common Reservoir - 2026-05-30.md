@@ -16,7 +16,7 @@ tags:
 
 # Membership as Stewardship and the Common Reservoir
 
-*Proposal only. Nothing in the vault changes until decided, and no agreement or GT clause is edited until the F1 legal/fiscal review gate is cleared. This note develops one question to its conclusion and records the design and drafting approach the dialogue converged on. It is a continuation of [[Unified Fund - One Account Scaling Ratios - 2026-05-18]] and [[Access Floor - Guaranteed Baseline and Sliding Upside - 2026-05-18]], not a departure from them: the same `tanh` shape, the same hard rails, the same F1 posture.*
+*Proposal only. Nothing in the vault changes until decided, and no agreement or GT clause is edited until the F1 legal/fiscal review gate is cleared. This note develops one question to its conclusion and records the design and drafting approach the dialogue converged on. It carries forward the same `tanh` shape, the same hard rails, and the same F1 posture worked out earlier in the design process, now unified into a single self-similar model — one loop applied at every level.*
 
 ---
 
@@ -106,6 +106,17 @@ The upper band feeds the very pool the lower band draws from. Healthy hubs overf
 - **Mutual insurance** - your overflow funds the `-nC` pool that catches you. (Selected.)
 - **Earned autonomy** - reliable overflow widens your `n`. (Selected.)
 - **Recognition (resolved)** - rewards the *choice* to restrain (voluntary, early feed-up, not the forced overflow at the edge), measured as *proportional restraint* (capped, so wealth cannot buy standing), recorded in the Passport as network-level contribution on the lifetime-cumulative/access reading. It raises **standing** - access priority and the Eldership-eligibility clock - but confers **no allocation voice and no governance vote**. Distributed among co-stewards by their local share, and self-balancing: starving your own place to farm standing drops your local contribution, which is what distributes the credit. *(Originally proposed as "network-tier standing" - a voice in Council allocation - but that collided with the Council's elder-based composition; resolved 2026-06-01 as recognition only. See "Resolved seam" below.)*
+
+### 9. A worked example (one holon, one lunation)
+
+Concretely, take a hub that records €5,000 of activity in a lunation, with cost target `C = €3,000`, NRC at 5%, and band edge `n = 3` (so the sovereign zone is ±€9,000):
+
+1. **NRC off the top** - €250 leaves for the network. €4,750 remains.
+2. **Cover `C`** - €3,000 heals the place. €1,750 surplus remains.
+3. **Allocation right within the band** - the co-stewards direct the €1,750 by the hub's own value system. As long as the carried balance `B` sits inside ±€9,000, the hub is sovereign over this spend.
+4. **Overflow past the band** - nothing this period, since `B` is well inside the band. In a sustained rich run, once `B` would climb past +€9,000 the excess rises to the Elder Council / common reservoir; in a sustained lean run, once `B` sinks past -€9,000 the same reservoir covers the shortfall.
+
+The Elder Council runs this identical loop one level up - cover its own operating cost, then spend the rest as uncapped Mission Allocation - and is terminal. (Well inside the band the `tanh` curve is effectively linear, so the split reads as a simple priority waterfall; the curve's saturation only bites near the edges ±nC.)
 
 ---
 

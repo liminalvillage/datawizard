@@ -5,7 +5,7 @@ annex_ref: A3-3
 parent_agreement: Agreement 3 — Stewardship
 status: template
 created: '2026-06-01'
-updated: '2026-06-01'
+updated: '2026-06-03'
 version: '1.0'
 tags:
   - annex
@@ -14,7 +14,7 @@ tags:
   - onboarding
   - land-care
 ---
-*Annex 3 to the [[Agreement 3 — Stewardship|Stewardship Agreement]]. The **land-care steward onboarding** form — the asset-kind branch of [[Agreement 3 Annex 1 — Steward Onboarding]] for the case where the Asset stewarded is land cared for as land (a field, orchard, woodland, garden, or parcel) rather than as a gathering place. Complete one per steward per parcel, before or at the start of stewardship. Read alongside the parcel's Asset DNA ([[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]) and its care protocol ([[Agreement 1 Annex 8 — Land Care Protocol]]). File as: "A3-3 — Land Care Onboarding — [Name] — [Parcel Name].md".* *(Pending F1.)*
+*Annex 3 to the [[Agreement 3 — Stewardship|Stewardship Agreement]]. The **land-care steward onboarding** form — the asset-kind branch of [[Agreement 3 Annex 1 — Steward Onboarding]] for the case where the Asset stewarded is land cared for as land (a field, orchard, woodland, garden, or parcel) rather than as a gathering place. Complete one per steward per parcel, before or at the start of stewardship. Read alongside the parcel's Asset DNA ([[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]) and its care protocol ([[Agreement 1 Annex 8 — Land Care Protocol]]). File as: "A3-3 — Land Care Onboarding — [Name] — [Parcel Name].md".*
 
 > **Same spirit as [[Agreement 3 Annex 1 — Steward Onboarding]], different prompts.** Like its place-stewarding sibling, this is **not a job description** — it is a stewardship intention, written before the role begins, reviewed seasonally, and completed with handover notes at the end. What changes is the subject: where the Hub form asks about the rhythms of a place, and the vehicle/equipment form ([[Agreement 3 Annex 2 — Vehicle and Equipment Steward Onboarding]]) about keeping a thing sound and safe, this asks about tending living systems — soil, water, and life — toward greater vitality over seasons and years. The A1-8 Care Protocol is the *what* of land care; this is the steward's *intention* in holding it. Land is not maintained to a fixed state; it is tended, and the measure of care is the trend of its living systems over time.
 

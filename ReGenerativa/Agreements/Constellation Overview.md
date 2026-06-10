@@ -1,6 +1,6 @@
 ---
 created: '2026-05-16'
-updated: '2026-05-30'
+updated: '2026-06-03'
 status: active
 type: overview
 maturity: draft
@@ -92,6 +92,7 @@ And where you actively *tend* a place, your recent contribution there also gives
 
 - Want the deeper thinking (about trust, scale, and relationship)? Read the **[[Introduction — A Constellation of Agreements|Introduction]]**.
 - Want the full detail (clauses, numbers, timelines)? See the **[[Constellation Cheatsheet]]** and the individual agreements.
+- Want to understand how the money works, in plain terms? See **[[The Fund in Plain Language]]**.
 - Ready to take up a role? The next step is simply to read that one agreement. Nothing here commits you to anything; the agreements are thresholds you choose to cross.
 
 ---

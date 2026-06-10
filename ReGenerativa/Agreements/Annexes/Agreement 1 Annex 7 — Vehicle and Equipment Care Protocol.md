@@ -5,8 +5,8 @@ annex_ref: A1-7
 parent_agreement: Agreement 1 — Ownership
 status: template
 created: '2026-05-31'
-updated: '2026-06-02'
-version: '1.0'
+updated: '2026-06-03'
+version: '1.1'
 tags:
   - annex
   - ReGenerativa
@@ -14,9 +14,9 @@ tags:
   - asset-care
   - vehicle-equipment
 ---
-*Annex 7 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **vehicle / equipment / power-tool care protocol** — the asset-specific child of the general [[Agreement 1 Annex 6 — Asset Care Protocol]] for the case where the Asset is a vehicle, a piece of powered or mechanical equipment, or a power tool. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10). Final framings await F1.* *(Pending F1.)*
+*Annex 7 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **vehicle / equipment / power-tool care protocol** — the asset-specific child of the general [[Agreement 1 Annex 6 — Asset Care Protocol]] for the case where the Asset is a vehicle, a piece of powered or mechanical equipment, or a power tool. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10).*
 
-> **Read alongside [[Agreement 1 Annex 6 — Asset Care Protocol]].** The general parent holds what is true of caring for any Asset — the responsibility split (ordinary vs extraordinary; Steward / Association / Owner / user; the shared burden of [[Agreement 2 — Membership]] §4.6), the Asset register and condition, the maintenance cadence and log, damage reporting, and lifecycle. This child adds what a vehicle or piece of equipment specifically needs that a place or a parcel of land does not: a servicing and roadworthiness/calibration regime, safe-use and PPE rules, operator authorisation, and booking-and-return discipline. Care is purpose-bound to the Asset's **Asset DNA** (its Permitted Use record, [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]) — the asset is kept fit for the purpose and within the limitations for which it was entrusted.
+> **Read alongside [[Agreement 1 Annex 6 — Asset Care Protocol]].** The general parent holds what is true of caring for any Asset — the responsibility split (ordinary vs extraordinary; Steward / Association / Owner / user; the shared burden of [[Agreement 2 — Membership]] §4.6), the Asset register and condition, the maintenance cadence and log, damage reporting, and lifecycle. This child adds what a vehicle or piece of equipment specifically needs that a place or a parcel of land does not: a servicing and roadworthiness/calibration regime, safe-use and PPE rules, operator authorisation, and booking-and-return discipline. Care stays purpose-bound to the Asset's **Asset DNA** (A1-6 §A; the Permitted Use record, [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]]).
 
 ---
 
@@ -63,6 +63,7 @@ For a shared vehicle or item of equipment, use is coordinated so it is available
 - **Use log.** Each use records: user, date/time out and back, start/end odometer or hour-meter (where fitted), fuel/charge state out and back, and condition on return.
 - **Return standard.** The Asset is returned clean, refuelled/recharged to the agreed level, with accessories and documents, to its designated location. Any new fault is flagged on return.
 - **Inter-holon movement.** Lending the Asset to another holon follows the parent's lifecycle rules (A1-6 §F) and both Assets' DNA conditions; logged.
+- **Handover.** At tenure handover the Steward records each Asset's condition, outstanding services or safety checks, and booking commitments for the next Steward (A1-6 §F; A3 handover).
 
 ---
 
@@ -83,16 +84,6 @@ For a shared vehicle or item of equipment, use is coordinated so it is available
 - **Notes:** [warranty, recurring issues, accessory list]
 
 Servicing, safety checks, and incidents are recorded in the shared maintenance log (A1-6 §D), referencing the Item ID.
-
----
-
-## Section F — Responsibility, Damage, and Lifecycle
-
-- **Ordinary servicing and use** (routine service, consumables, safe operation, return-to-sound) → the **Association** via the **Steward**, met from the Asset holon's cost-coverage bucket (GT-4.4(b)), per A1-6 §B and Section B above.
-- **Extraordinary repair** (major mechanical failure or part replacement not attributable to misuse) → the **Owner** where the Owner entrusted the Asset; or, for an Association-owned Asset, met from cost-coverage with top-up per GT-4.4(c) — per A1-6 §B.
-- **Damage / fault / incident / near-miss** → reported immediately (A1-6 §E), and to the Owner per A1 §3.5; the Asset is withdrawn from use until checked (Section C).
-- **Lifecycle** (arrival and registration, servicing milestones, retirement, replacement, inter-holon transfer, loss or theft) → follows the parent's lifecycle rules (A1-6 §F); inter-holon movement is also subject to both Assets' DNA conditions and logged (Section D).
-- **Handover** — at tenure handover the Steward records each Asset's current condition, outstanding services or safety checks, booking commitments, and what the next Steward needs to know (A1-6 §F; A3 handover).
 
 ---
 

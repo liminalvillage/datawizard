@@ -5,7 +5,7 @@ annex_ref: A1-6
 parent_agreement: Agreement 1 — Ownership
 status: template
 created: '2026-05-31'
-updated: '2026-06-02'
+updated: '2026-06-03'
 version: '1.0'
 tags:
   - annex
@@ -13,7 +13,7 @@ tags:
   - ownership
   - asset-care
 ---
-*Annex 6 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **general care protocol for any Asset** — land, building, place, equipment, tool, or vehicle. Sets out the common shape of care that applies to every stewarded Asset; asset-specific care lives in a child protocol that swaps in per kind. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10). Final framings await F1.* *(Pending F1.)*
+*Annex 6 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **general care protocol for any Asset** — land, building, place, equipment, tool, or vehicle. Sets out the common shape of care that applies to every stewarded Asset; asset-specific care lives in a child protocol that swaps in per kind. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10).*
 
 > **General parent / specific child.** This protocol holds what is true of caring for *any* Asset. The asset-specific detail lives in a child protocol matched to the kind of thing being cared for:
 > - **Place (Hub)** → [[Agreement 1 Annex 3 — Hub Care Protocol]] (kitchen, bathrooms, grounds, end-of-stay cleaning, ecological restoration).
