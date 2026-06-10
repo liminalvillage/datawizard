@@ -1,7 +1,7 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.16'
+version: '3.19'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -78,6 +78,8 @@ tags:
 **GT-3.3** Participation in conribution tracking is voluntary. Access to **contribution-dependent benefits** (free Programme access, hub circulation, resource allocation rights) is conditioned upon recorded and Validated Contributions.
 
 **GT-3.4** The Contribution Ledger stores only what is needed to recognise contribution; personal data is held separately and minimally. Participants may access, correct, or request deletion of their records per GT-5. Deletion only renders historical entries unattributable without destroying the underlying record of network activity.
+
+**GT-3.5 — Contribution recognition (every agreement).** Contributions under every agreement in the constellation are recorded in the Contribution Ledger and recognised through the Network Passport (GT-3A). This rule applies without restatement in the individual agreements; an individual agreement states only its role-specific recognition terms, if any.
 
 ---
 
@@ -164,7 +166,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 (a) **Absorb.** Where a holon carries a genuine, sustained shortfall beyond its band of tolerance, the Elder Council holon supports it from the common reservoir (GT-4.4A(d)), so that no holon fails for want of cover alone.
 
-(b) **Graduated intervention, triggered by measured balance.** Persistent shortfall beyond the band engages intervention in order, gentlest first, and triggered by the holon's measured balance rather than by judgement of person: first **re-tune the holon** — adjust its cost-coverage target or band of tolerance; then, only if shortfall persists, **recompose or change** its Stewards under Agreement 3 §16. Intervention is graduated and reversible: a holon that recovers re-earns the settings and sovereignty it lost; a holon that proves steady earns a wider band over time.
+(b) **Graduated intervention, triggered by measured balance.** Persistent shortfall beyond the band engages intervention in order, gentlest first, and triggered by the holon's measured balance rather than by judgement of person: first **re-tune the holon** — adjust its cost-coverage target or band of tolerance; then, only if shortfall persists, **recompose or change** its Stewards under Agreement 3 §16. When a holon first breaches its band, the competent allocator opens a relational conversation with its Stewards before any measure is applied. The measured balance **initiates review; it never of itself executes a change of Stewards** — any recomposition or change proceeds, if at all, under the notice and termination protections of Agreement 3 §16, the Stewards having been heard. Intervention is graduated and reversible: a holon that recovers re-earns the settings and sovereignty it lost; a holon that proves steady earns a wider band over time.
 
 (c) **Asymmetry.** Measures that tighten a holon's autonomy (narrowing the band, adding oversight) may follow automatically from the measured balance; measures that loosen it (widening the band, raising the cost-coverage target) require a deliberate decision by the competent allocator, so that generosity is not gamed.
 
@@ -187,6 +189,14 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 **GT-6.1** Neither Party liable for failure due to circumstances beyond reasonable control (natural disasters, pandemics, war, government orders, strikes, utility failure).
 
 **GT-6.2** Prompt notification required. If the event continues for ninety (90) days, either Party may terminate without liability save for accrued obligations.
+
+---
+
+## GT-6A. Termination for Serious Cause
+
+**GT-6A.1** Unless an individual agreement provides otherwise, either party to any agreement in the constellation may terminate it with immediate effect for serious cause: a serious breach of the agreement or of applicable law; unlawful conduct; conduct creating danger or serious harm to participants, an Asset, or the Association; or serious financial opacity or misappropriation. An individual agreement may extend this standard with role-specific causes, or substitute a staged process (suspension and cure) where the relationship warrants one. *(Pending F1.)*
+
+**GT-6A.2** Termination for cause does not affect obligations already accrued; provisions intended to survive termination continue in effect.
 
 ---
 
@@ -236,6 +246,10 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 **GT-11.4** **Agreement Stacking.** The agreements in this constellation are designed to be held simultaneously. A person or entity may be party to any number of agreements at the same time — a Member may also be a Steward, a Mentor, a Partner, and a Founding Member of a Venture Holon. Each agreement is self-contained and operates independently. Entering a new role requires signing the relevant agreement; it does not require amending or terminating any existing agreement. There is no prescribed sequence and no administrative transition process — the constellation expands naturally as relationships deepen and roles multiply. Stewardship (Agreement 3) is the deeper, hub-specific expression of the standing mandate every Member already carries under Agreement 2 Clause 2.7; it formalises that mandate for a particular Hub rather than originating a separate authority. *(Pending F1.)*
 
+**GT-11.5 — No property or governance rights by role.** No agreement in this constellation, other than the Membership Agreement (Agreement 2) as regards membership rights, confers on the counterparty: (a) any governance right in the Association; (b) any ownership, co-ownership, leasehold, tenancy, usufruct, possessory, or permanent use right over any Asset, Hub, or other resource of the Association; or (c) any right to the Association's profits, surplus, or capital appreciation. These exclusions do not affect rights held separately as a Member under the Statute. Individual agreements state only role-specific extensions of this rule.
+
+**GT-11.6 — Independent activities.** Every counterparty is free to pursue independent professional, creative, and entrepreneurial activities, consistent with the non-employment character of the constellation (GT-12.4). Without the Association's prior written agreement, no counterparty may use the Association's hubs, resources, participant lists, or name to organise or promote activities that compete with or divert participants from the Association's mission-aligned programmes. This rule does not restrict anyone's independent livelihood; it protects the integrity of the network's mission-bound spaces and jointly developed content. Role-specific extensions are stated in the individual agreements.
+
 ---
 
 ## GT-12. Fiscal Compliance for Paid Collaborations
@@ -246,7 +260,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 **GT-12.3** If operating under the occasional collaboration regime, the total annual compensation may not exceed the threshold set by Art. 67(1)(l) TUIR. The Association monitors cumulative payments.
 
-**GT-12.4** No agreement constitutes an employment contract unless a separate instrument expressly states otherwise.
+**GT-12.4** No agreement in this constellation constitutes an employment contract unless a separate instrument expressly states otherwise. This applies to every role — Steward, Mentor, Supporter, Partner, Venture Member, and Elder alike.
 
 ---
 

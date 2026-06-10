@@ -1,7 +1,7 @@
 ---
 title: Agreement 6 — Partnership
 type: agreement
-version: '3.2'
+version: '3.3'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -156,7 +156,7 @@ The collaboration is guided by:
 
 **10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
 
-**10A.2** The applicable rate is the **prevailing Network NRC Rate** set by Board resolution under GT-4.4(a) and held as a Living Governance Resolution (LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue. Absent a Board-ratified figure, the rate is 5%.
+**10A.2** The applicable rate is the **prevailing Network NRC Rate** (GT-4.4(a); LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue.
 
 **10A.3** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
 
@@ -259,6 +259,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
-
-For Partners, the Network Passport is a portable, cumulative record of contribution and a trust signal for future Projects (GT-3A.5). It carries no tiers or fixed perks; any contribution-based access follows the single rule in GT-3A.3.
+Contribution recognition follows GT-3.5. For Partners, the Network Passport is a trust signal for future Projects (GT-3A.5); any contribution-based access follows the single rule in GT-3A.3.

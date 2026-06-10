@@ -1,10 +1,10 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.6'
+version: '3.8'
 status: active
 created: '2026-03-17'
-updated: '2026-06-07'
+updated: '2026-06-10'
 tags:
   - agreement
   - ownership
@@ -60,7 +60,7 @@ tags:
 
 ## 3. Association's Obligations
 
-**3.1 Proper Use and Maintenance.** Use the Asset with due care and diligence and solely for the purposes set forth in this Agreement. The Association shall keep the Asset in good condition and perform routine upkeep and ordinary maintenance as detailed in the **Asset Care Protocol (Annex 6)** — the general care protocol for any Asset — and, where the Asset is a place, its place-specific child the **Hub Care Protocol (Annex 3)**; and ensure compliance with all applicable laws and regulations during its use. *(Pending F1.)*
+**3.1 Proper Use and Maintenance.** Use the Asset with due care and diligence, solely for the purposes set forth in this Agreement, and in compliance with all applicable laws and regulations. The Association shall keep the Asset in good condition per the **Asset Care Protocol (Annex 6)** and its applicable child protocols (for a place, the **Hub Care Protocol, Annex 3**). *(Pending F1.)*
 
 **3.2 Operating Costs.** Bear all ordinary operating expenses related to the Asset's use, calculated on a pro rata temporis basis (proportional to the effective time of use on an annual basis). This includes payment of utilities (electricity, water, gas), insurance premiums, asset depreciation rates as per official tables, and any ordinary local taxes or fees (property tax, waste charges) arising from effective time of use.
 
@@ -108,7 +108,7 @@ Where activation stalls, the Parties shall first seek to re-tune the activation 
 
 **6.1 Termination by Notice.** Either Party may terminate this Agreement at any time without penalty by providing at least **ninety (90) days' written notice** to the other Party. The Parties shall cooperate to ensure an orderly handover of the Asset.
 
-**6.2 Immediate Termination for Cause.** The Owner may revoke the right of use and terminate this Agreement with immediate effect if the Association commits a serious violation of the terms of this Agreement or applicable law. Serious violations include, but are not limited to: use of the Asset for purposes outside those permitted; causing wilful or grossly negligent damage; non-payment of ordinary expenses leading to liens or service interruptions; or any action that materially endangers the Asset or public safety. Likewise, the Association may terminate with immediate effect if the Owner seriously breaches its obligations.
+**6.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A; the Owner's termination revokes the right of use. For the Owner, serious cause additionally includes: use of the Asset for purposes outside those permitted; wilful or grossly negligent damage; non-payment of ordinary expenses leading to liens or service interruptions; or any action that materially endangers the Asset or public safety.
 
 **6.3 Automatic Termination and Steward Continuity.** This Agreement shall terminate automatically if the Association is dissolved, ceases to operate as a legal entity, or loses its status under Italian law.
 
@@ -171,4 +171,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
+Contribution recognition follows GT-3.5.

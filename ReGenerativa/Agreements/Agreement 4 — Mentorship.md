@@ -1,7 +1,7 @@
 ---
 title: Agreement 4 — Mentorship
 type: agreement
-version: '3.4'
+version: '3.6'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -38,9 +38,9 @@ tags:
 
 **1.3** The Mentor's core commitment is a **gift economy principle**: the Mentor commits to making their **labour, time, and expertise** available to the network's highest contributors at **resource cost** (the slot's direct delivery cost only — hub usage, materials, food, direct logistics — with no Mentor-fee component). This gift is the foundation of the mentorship relationship and the basis upon which the Association supports the Mentor in designing and delivering paid Programmes to broader audiences.
 
-**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. Resource-cost places are allocated by a **contribution-priority claim** process running from Programme publication to commencement (Clause 4.5). The Association publishes the current claim list visibly throughout the claim window and confirms the claim-list state to the Mentor as part of the registration status update under Clause 5A.3. Where the framework Mentorship Agreement and the Programme Annex are both silent on the minimum number of Resource-cost places, at least one such place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement. The guaranteed access floor (GT-3A.8) sits beneath this claim process: where a hub holds genuine spare capacity, a Member in good standing is not turned away from a contribution-based place solely for inability to pay.
+**1.3A** The Association's reciprocal obligation is to make this gift legible and effective. Resource-cost places are allocated by a **contribution-priority claim** process running from Programme publication to commencement (Clause 4.5). Priority within the claim is contribution-led but not score-only: a rotation rule gives precedence to those who have not recently held a place, and one place per multi-place Programme is allocated by the Mentor's discernment outside the score (Clause 4.5(c), (g)). The Association publishes the current claim list visibly throughout the claim window and confirms the claim-list state to the Mentor as part of the registration status update under Clause 5A.3. Where the framework Mentorship Agreement and the Programme Annex are both silent on the minimum number of Resource-cost places, at least one such place shall be made available per Programme. The gift economy principle is not aspirational — it is a structural feature of every Programme delivered under this Agreement. The guaranteed access floor (GT-3A.8) sits beneath this claim process: where a hub holds genuine spare capacity, a Member in good standing is not turned away from a contribution-based place solely for inability to pay.
 
-**1.4** This Agreement is **not an employment contract**. It governs a professional, autonomous, occasional, or otherwise lawfully compensated collaboration, documented in accordance with applicable Italian law and the General Terms (GT-12).
+**1.4** This Agreement is not an employment contract (GT-12.4). It governs a professional, autonomous, occasional, or otherwise lawfully compensated collaboration, documented in accordance with applicable Italian law and the General Terms (GT-12).
 
 **1.5 Minimum Engagement under Framework Agreement.** Where this Agreement operates as a framework agreement covering multiple Programmes, the Association commits to scheduling and confirming at least one Programme with the Mentor within twelve (12) months of this Agreement's commencement date, provided the Mentor has proposed at least one Programme in writing during that period.
 
@@ -187,19 +187,13 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 ## 11. No Governance or Property Rights
 
-**11.1** This Agreement does not grant the Mentor any governance right in the Association unless they separately hold such rights as a member under the Statute.
-
-**11.2** The Mentor acquires no right of ownership, tenancy, exclusivity, or permanent use over any hub or asset of the Association.
+**11.1** The general exclusions of GT-11.5 apply: the Mentor acquires no governance, property, exclusivity, or profit right over any hub or asset of the Association, or in the Association itself, by virtue of this Agreement.
 
 ---
 
 ## 11A. Independent Activities and Non-Competition
 
-**11A.1** The Mentor is free to offer programmes, teaching, and professional services independently, consistent with the autonomous character of this collaboration.
-
-**11A.2** The Mentor shall not, without the Association's prior written agreement: use the Association's hubs, resources, participant lists, or name to organise or promote programmes that compete with or divert participants from the Association's mission-aligned activities; or independently replicate a Programme developed jointly with the Association at a competing location within the same territory, for twelve (12) months following the delivery of that jointly developed Programme. The Parties shall first seek a good-faith conversation before treating any such activity as a breach.
-
-**11A.3** This clause is not intended to restrict the Mentor's independent livelihood but to protect the integrity of jointly developed Programmes and the regenerative purpose of the hubs.
+**11A.1** Independent activities are governed by GT-11.6. In addition, the Mentor shall not, without the Association's prior written agreement, independently replicate a Programme developed jointly with the Association at a competing location within the same territory, for twelve (12) months following the delivery of that jointly developed Programme. The Parties shall first seek a good-faith conversation before treating any such activity as a breach.
 
 ---
 
@@ -209,7 +203,7 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 **12.2** Either Party may terminate for future Programmes by written notice, without prejudice to obligations already accrued.
 
-**12.3** The Association may terminate immediately for serious cause, including: serious misconduct, legal or safety breaches, misrepresentation, unauthorised collection of participant payments, violation of hub rules, or serious harm to participants or the Association's reputation.
+**12.3** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misrepresentation, unauthorised collection of participant payments, violation of hub rules, or serious harm to participants or the Association's reputation.
 
 ---
 
@@ -251,6 +245,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
-
-For Mentors, the Network Passport is a portable, cumulative record of contribution. Access to programmes and to programme-hosting opportunities follows the single sliding-scale rule in GT-3A.3; it is not tier- or schedule-based.
+Contribution recognition follows GT-3.5. For Mentors, access to programmes and to programme-hosting opportunities follows the single sliding-scale rule in GT-3A.3; it is not tier- or schedule-based.

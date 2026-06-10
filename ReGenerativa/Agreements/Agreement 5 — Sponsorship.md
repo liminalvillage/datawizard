@@ -1,7 +1,7 @@
 ---
 title: Agreement 5 — Sponsorship
 type: agreement
-version: '3.1'
+version: '3.3'
 status: active
 created: '2026-03-17'
 updated: '2026-06-10'
@@ -87,7 +87,7 @@ Recording is for recognition and the network's memory. Per GT-3A.4A, support giv
 
 ## 5. No Ownership, Control, or Profit Rights
 
-**5.1** This Agreement does not transfer to the Supporter any ownership, co-ownership, tenancy, usufruct, governance, equity, token, or profit-sharing right in relation to the Association or any supported hub, project, person, or resource.
+**5.1** The general exclusions of GT-11.5 apply: this Agreement transfers to the Supporter no property, governance, or profit right in the Association or any supported hub, project, person, or resource — including any equity, token, or profit-sharing right.
 
 **5.2** The Supporter may not present itself as owner, operator, or controller of the Association or any hub unless a separate lawful agreement expressly provides such role.
 
@@ -139,7 +139,7 @@ Recording is for recognition and the network's memory. Per GT-3A.4A, support giv
 
 **11.2** Either Party may terminate for future performance by written notice, without prejudice to obligations already accrued.
 
-**11.3** Immediate termination is permitted for serious breach. Upon termination, unused dedicated funds shall be handled as agreed in Annex 1, loaned goods returned, and pending recognition obligations cease.
+**11.3** Immediate termination for serious cause follows GT-6A. Upon termination, unused dedicated funds shall be handled as agreed in Annex 1, loaned goods returned, and pending recognition obligations cease.
 
 ---
 
@@ -178,4 +178,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
+Contribution recognition follows GT-3.5; for the exclusion of monetary support from access scoring, see GT-3A.4A and Clause 3.1.

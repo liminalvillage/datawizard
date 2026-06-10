@@ -1,9 +1,9 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.7'
+version: '1.8'
 created: '2026-04-14'
-updated: '2026-06-08'
+updated: '2026-06-10'
 status: active
 tags:
   - agreement
@@ -80,7 +80,7 @@ Hospitality is administered by the relevant Hub Steward (Agreement 3) in coordin
 
 (a) **Operating** — for the Council's governance operating costs (convening, deliberation, documentation, annual gathering), bounded by the target O_e set by the Board with the Council (see Living Governance Resolutions, Resolution LGR-2);
 
-(b) **Allocation** — for Association mission spending directed by collective Council deliberation toward integral regeneration, which may include elderly-focused hubs and elder-serving programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
+(b) **Allocation** — for Association mission spending directed by collective Council deliberation, under the quorum and procedure of the charter (Annex 1 §5.5.4), toward integral regeneration, which may include elderly-focused hubs and elder-serving programmes as mission-aligned uses, but always as mission spending on programmes, never as personal payments to elders or to Council members.
 
 The Council's allocation rights are exercised collectively per its charter (Annex 1 §5.5) and bounded by the hard rails of GT-4.5. Reported in the annual *bilancio sociale*.
 
@@ -106,7 +106,7 @@ A holon's voluntary feed-up earns mutual insurance and earned autonomy at its ow
 
 **5.4 Authorities.** The Elder Council holds the following authorities:
 
-**(a) Covenant Custody.** The Elder Council is the custodian of the Regenerative Covenant (GT-2). It has the standing right to name, publicly and formally, when it judges the network to be drifting from the Covenant's intent. Such a named objection — a **Covenant Signal** — does not constitute a legal veto, but must be formally and publicly addressed by the Association's governing body before any contested decision is ratified. Silence or dismissal of a Covenant Signal without response is a breach of this Agreement.
+**(a) Covenant Custody.** The Elder Council is the custodian of the Regenerative Covenant (GT-2). It has the standing right to name, publicly and formally, when it judges the network to be drifting from the Covenant's intent. Such a named objection — a **Covenant Signal** — does not constitute a legal veto, but must be formally and publicly addressed by the Association's governing body before any contested decision is ratified, following the procedure in the Elder Council Charter (Annex 1 §5.1). Silence or dismissal of a Covenant Signal without response is a breach of this Agreement.
 
 **(b) Constellation Integrity Review.** Before any amendment to the General Terms, the Statute, or any agreement in the constellation is ratified, the Association shall submit the proposed amendment to the Elder Council for review. The Council has thirty (30) days to respond. If the Council issues a Covenant Signal in response, the ratification process is suspended pending the Association's formal public response.
 

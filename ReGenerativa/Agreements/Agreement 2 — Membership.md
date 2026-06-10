@@ -1,10 +1,10 @@
 ---
 title: Agreement 2 — Membership
 type: agreement
-version: '3.7'
+version: '3.8'
 status: active
 created: '2026-03-17'
-updated: '2026-06-02'
+updated: '2026-06-10'
 tags:
   - agreement
   - membership
@@ -187,4 +187,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
+Contribution recognition follows GT-3.5.

@@ -1,10 +1,10 @@
 ---
 title: Agreement 7 — Intrapreneurship
 type: agreement
-version: '1.6'
+version: '1.8'
 status: active
 created: '2026-03-28'
-updated: '2026-06-07'
+updated: '2026-06-10'
 tags:
   - agreement
   - intrapreneurship
@@ -42,7 +42,7 @@ tags:
 
 **1.4** The Founding Member initiates the Venture Holon by recognising a documented Demand Signal, proposing a credible response, and assuming responsibility for early coordination. This role is temporal and functional, not hierarchical.
 
-**1.5** This Agreement does not create an employment relationship, a tenancy, or any claim by the Association over the Venture Members' intellectual property except as expressly provided in Clause 9.
+**1.5** This Agreement does not create an employment relationship or a tenancy (GT-12.4; GT-11.5), nor any claim by the Association over the Venture Members' intellectual property except as expressly provided in Clause 9.
 
 **1.6** This Agreement does not preclude the Venture Holon from eventually becoming an independent legal entity. Emergence is governed by Clause 10 and [[Agreement 7 Annex 3 — Emergence]].
 
@@ -93,7 +93,7 @@ tags:
 
 **4.5** All Venture Members' contributions are recorded in the Contribution Ledger (GT-3) from the moment of joining. The dynamic share logic of the [[Agreement 6 — Partnership|Partnership Agreement]] (Clauses 9–10) applies to revenue distribution within the holon, adapted to the phase structure of this Agreement.
 
-**4.6 Allocation as a holon (living balance).** As a holon under GT-4, the Venture's discretionary envelope is directed by its Venture Members as co-stewards, their collective *delega* divided in proportion to recorded active contribution (GT-4.3; Agreement 2 §2.7), and the Venture runs as a living balance over time (GT-4.4A) — healing its own shortfall first, contributing lasting surplus to the common reservoir, and caught by it when in genuine, sustained shortfall (GT-4.8) — on the parameters of the Allocation Model (GT-4.6; LGR-5). This contribution-weighted allocation is administration of delegated resources, distinct from both the revenue distribution of Clause 4.5 and the equal internal governance vote of Clause 4.3. *(Pending F1.)*
+**4.6 Allocation as a holon (living balance).** As a holon under GT-4, the Venture runs the living balance of GT-4.4A on the parameters of the Allocation Model (GT-4.6; LGR-5), its discretionary envelope directed by the Venture Members as co-stewards per GT-4.3 (Agreement 2 §2.7). This contribution-weighted allocation is administration of delegated resources, distinct from both the revenue distribution of Clause 4.5 and the equal internal governance vote of Clause 4.3. *(Pending F1.)*
 
 ---
 
@@ -130,7 +130,7 @@ tags:
 
 - **Capacity allocation:** Minimum 70% of capacity continues to serve the network; up to 30% may serve external clients
 - **External trading:** Permitted; the venture may operate under the Association's fiscal umbrella or its own legal entity if formed
-- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (Board-set within 3–10% per GT-4.4(a); default 5%)
+- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (GT-4.4(a))
 - **Association support:** Continued ecosystem access; reduced direct involvement; Association acts as reference client
 - **Duration:** As defined in the Venture Sheet; reviewed annually
 - **Exit criteria:** The venture is financially self-sustaining; has established external client relationships; has a governance structure capable of operating independently; and has a proposal for Phase 3 or Emergence
@@ -139,7 +139,7 @@ tags:
 
 - **Capacity allocation:** Minimum 40% of capacity continues to serve the network; up to 60% may serve external clients
 - **External trading:** Fully permitted; the venture is expected to operate under its own legal entity
-- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (per GT-4.4(a))
+- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (GT-4.4(a))
 - **Association support:** Ecosystem membership; no direct incubation support
 - **Emergence trigger:** Venture Holon may initiate the Emergence process (Clause 10) at any point in Phase 3
 
@@ -278,6 +278,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
-
-For Venture Members, the Passport is a portable, cumulative record of contribution. It does not alter the Network Regeneration Contribution applicable to a Venture, which follows the prevailing Network NRC Rate set by Board resolution under GT-4.4(a) (within 3–10%, default 5% absent Board figure), applied uniformly across active holons.
+Contribution recognition follows GT-3.5. A Venture Member's Passport standing does not alter the Network Regeneration Contribution applicable to a Venture, which follows the prevailing Network NRC Rate (GT-4.4(a)), applied uniformly across active holons.

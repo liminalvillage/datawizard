@@ -1,10 +1,10 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.9'
+version: '3.12'
 status: active
 created: '2026-03-17'
-updated: '2026-06-07'
+updated: '2026-06-10'
 tags:
   - agreement
   - stewardship
@@ -42,7 +42,7 @@ tags:
 
 **1.4** The Steward's principal mandate is to **keep the Asset sound and put it to good regenerative use** — to optimise resource inputs and maximise regenerative outputs in relation to the Asset, its activities, its people, and its wider ecosystem, within the purpose and limitations of its Asset DNA (Clause 1.2A) - honouring the carrying capacity and rhythms of the Asset and its people, including rest, fallow, and ecological limits, as part of regenerative use; sufficiency over maximisation. *(Pending F1.)*
 
-**1.5** This Agreement does **not**: grant the Steward any leasehold or tenancy right; grant the Steward autonomous possession of the underlying asset; constitute a subletting or transfer of the Association's upstream right of use; create by itself an employment relationship; or grant governance, ownership, or profit rights over the Hub or the Association.
+**1.5** This Agreement does **not** grant the Steward autonomous possession of the underlying asset, nor constitute a subletting or transfer of the Association's upstream right of use. The general exclusions of GT-11.5 (no ownership, tenancy, governance, or profit rights) and GT-12.4 (no employment relationship) apply.
 
 **1.6** The Steward accepts the role in order to help the Association ensure that the Asset remains sound, well-used, safe, and (where it is a place) welcoming, and that it functions as a regenerative node capable of creating more value with fewer extractive inputs. *(Pending F1.)*
 
@@ -96,13 +96,11 @@ tags:
 
 ## 5A. The Asset's Living Balance
 
-*(Pending F1. This section describes the Hub's allocation behaviour in plain terms; the parameters and method — settlement cadence, cost-coverage target, band of tolerance, and curve — live in the Allocation Model adopted by the Assembly as a Living Governance Resolution, per GT-4.)*
+*(Pending F1.)*
 
-**5A.1** Each Asset carries a running balance between what it costs to keep and run and what it draws in, settled on a regular cycle set in the Allocation Model. The Stewards' first duty each cycle is to **cover the Asset's real operating need** — for a Hub, to heal the place — before directing any discretionary surplus.
+**5A.1** The Asset runs as a living balance per GT-4.4A, on the parameters of the Allocation Model (GT-4.6). The Stewards' first duty each cycle is to **cover the Asset's real operating need** — for a Hub, to heal the place — before directing any discretionary surplus; while a shortfall is carried, the discretionary envelope narrows per GT-4.4A(b).
 
-**5A.2** While the Asset carries an uncovered shortfall, the discretionary envelope narrows in proportion to that shortfall, and the shortfall is spread across coming cycles rather than recovered all at once. An Asset in lasting surplus **contributes** the excess upward to the network's common reservoir (the Elder Council, GT-4); an Asset in genuine, sustained shortfall is **caught** by that same reservoir.
-
-**5A.3** Within a band of tolerance set in the Allocation Model, the Stewards govern the Asset's own settings. Should the shortfall persist beyond that band, the network may **re-tune the Asset first** — adjusting its cost-coverage target or its band of tolerance — and only as a last resort **recompose or change** its Stewards. Such intervention is triggered by the Asset's measured balance, not by judgement of person, and is graduated and reversible: an Asset that recovers re-earns its sovereignty, and one that proves steady earns a wider band over time.
+**5A.2** Within its band of tolerance the Stewards govern the Asset's own settings. Persistent shortfall beyond the band engages the graduated, reversible intervention of GT-4.8 — re-tune the Asset first, recompose or change its Stewards only as a last resort — triggered by the Asset's measured balance, not by judgement of person. The measured balance initiates review; it never of itself removes a Steward — any change of Stewards proceeds under the protections of Clause 16, after the relational conversation of GT-4.8(b).
 
 ---
 
@@ -138,11 +136,7 @@ tags:
 
 ## 8A. Independent Activities and Non-Competition
 
-**8A.1** The Steward is free to pursue independent professional, creative, and entrepreneurial activities, consistent with the non-employment character of this Agreement.
-
-**8A.2** The Steward shall not, without the Association's prior written agreement: use the Hub, the Association's resources, or the Association's name for activities that compete with or divert participants from the Association's mission-aligned programmes; or organise paid activities at the Hub outside the Association's framework.
-
-**8A.3** This clause is not intended to restrict the Steward's personal livelihood but to protect the integrity of the Hub as a mission-bound regenerative space.
+**8A.1** Independent activities are governed by GT-11.6. In addition, the Steward shall not organise paid activities at the Hub outside the Association's framework without the Association's prior written agreement.
 
 ---
 
@@ -152,17 +146,13 @@ tags:
 
 **9.2** Reimbursable expenses may include travel, fuel, tolls, local purchases, food for common activities, materials, emergency operational expenses, and communication or logistical expenses.
 
-**9.3 Source of reimbursement.** Reimbursements are paid from the Asset holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. As part of cost-coverage, valid reimbursements are met before the discretionary envelope is filled and are therefore unaffected by the discretionary narrowing of Clause 5A.2. *(Pending F1.)* Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row).
+**9.3 Source of reimbursement.** Reimbursements are paid from the Asset holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. As part of cost-coverage, valid reimbursements are met before the discretionary envelope is filled and are therefore unaffected by the discretionary narrowing of GT-4.4A(b) (Clause 5A.1). *(Pending F1.)* Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row).
 
 ---
 
 ## 10. Care of the Hub and Resources
 
-**10.1** The Steward shall care for the Hub and its resources with due diligence, including keys, furniture, tools, equipment, food systems, common spaces, guest areas, and records.
-
-**10.2** The Steward shall help ensure that spaces are cleaned, restored, maintained, and secured after use, in accordance with the Hub protocols and the Annexes to the applicable Ownership Agreement.
-
-**10.3** The Steward shall promptly report damage, structural concerns, conflicts, safety issues, breaches of use conditions, and any material issue affecting the viability of the Hub.
+**10.1** The Steward shall care for the Hub and its resources with due diligence, per the **Asset Care Protocol** ([[Agreement 1 Annex 6 — Asset Care Protocol|A1-6]]) and its applicable child protocols, and shall promptly report damage, structural concerns, conflicts, safety issues, breaches of use conditions, and any material issue affecting the viability of the Hub.
 
 ---
 
@@ -178,11 +168,7 @@ tags:
 
 ## 12. No Ownership, Tenancy, or Governance Rights
 
-**12.1** The Steward acquires no ownership, co-ownership, leasehold, possessory, or permanent use right over the Hub or underlying asset. Any accommodation at the Hub is functional to the stewardship role and remains revocable and conditional.
-
-**12.2** The Steward acquires no governance right in the Association by virtue of this Agreement alone, unless they separately hold such rights as a member under the Association's Statute.
-
-**12.3** The Steward acquires no right to profits, surplus, or capital appreciation of the Hub.
+**12.1** The general exclusions of GT-11.5 apply: the Steward acquires no property, governance, or profit right over the Hub, the underlying asset, or the Association by virtue of this Agreement. Any accommodation at the Hub is functional to the stewardship role and remains revocable and conditional.
 
 ---
 
@@ -216,11 +202,9 @@ tags:
 
 Notice runs from the date of written receipt. The Parties may agree a shorter period by mutual written consent.
 
-**16.2 Immediate Termination for Cause.** The Association may terminate immediately for serious cause, including: misuse of the Hub, unlawful conduct, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, serious financial opacity, refusal to hand over records or keys, conduct creating danger or serious harm, or persistent disregard of the Association's lawful instructions.
+**16.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misuse of the Hub, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, refusal to hand over records or keys, or persistent disregard of the Association's lawful instructions; and, on the Steward's side, the Association exposing the Steward to serious unaddressed risks.
 
-**16.3** The Steward may terminate immediately for serious cause where the Association materially breaches the agreed stewardship conditions or exposes the Steward to serious unaddressed risks.
-
-**16.4** Upon termination, the Steward shall cease presenting themselves as steward, hand over keys, records, and relevant information, cooperate in transition, and leave the Hub in the agreed condition. If events have been scheduled within the notice period, the Steward shall either complete their stewardship obligations for those events or assist in finding a suitable replacement.
+**16.3** Upon termination, the Steward shall cease presenting themselves as steward, hand over keys, records, and relevant information, cooperate in transition, and leave the Hub in the agreed condition. If events have been scheduled within the notice period, the Steward shall either complete their stewardship obligations for those events or assist in finding a suitable replacement.
 
 ---
 
@@ -265,7 +249,7 @@ Date: _________________________
 ### Annexes from the Ownership Agreement also referenced here
 
 - [[Agreement 1 Annex 5 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
-- [[Agreement 1 Annex 6 — Asset Care Protocol]] — the general care protocol for any Asset (responsibility split, register, maintenance cadence and log, damage, lifecycle); referenced in Clauses 10.1–10.2
+- [[Agreement 1 Annex 6 — Asset Care Protocol]] — the general care protocol for any Asset (responsibility split, register, maintenance cadence and log, damage, lifecycle); referenced in Clause 10.1
 - [[Agreement 1 Annex 3 — Hub Care Protocol]] — place-specific care child for when the Asset is a Hub; ongoing maintenance and end-of-stay cleaning
 - [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] — asset-specific care child for vehicles/equipment/power tools
 - [[Agreement 1 Annex 8 — Land Care Protocol]] — asset-specific care child for land cared for as land
@@ -276,6 +260,4 @@ Cost-coverage targets and stewardship cycle terms may also be recorded in a sepa
 
 ## Contribution Recognition
 
-Contributions under this Agreement are recorded in the Contribution Ledger and recognised through the Network Passport, per GT-3 and GT-3A.
-
-The Steward's Passport record is cumulative and portable. It belongs to the Steward, not to the Hub or to this Agreement, and may be referenced with the Steward's consent when evaluating future stewardship roles or comparable responsibilities within the network.
+Contribution recognition follows GT-3.5. The Steward's Passport record belongs to the Steward, not to the Hub or to this Agreement, and may be referenced with the Steward's consent when evaluating future stewardship roles or comparable responsibilities within the network.
