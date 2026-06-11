@@ -5,7 +5,7 @@ status: draft
 maturity: draft
 priority: medium
 created: '2026-06-03'
-updated: '2026-06-08'
+updated: '2026-06-11'
 tags:
   - ReGenerativa
   - fund
@@ -23,7 +23,7 @@ tags:
 
 ## One picture
 
-Think of each place in the network — a hub, a project, a venture — as a small living organism with its own metabolism. It earns, it spends, it keeps itself well. A healthy one heals its own scrapes first, shares what it does not need with the others, and is carried by the rest when it genuinely cannot stand on its own. The whole network is these organisms sharing one bloodstream — a single shared account — while each keeps its own life.
+Think of each place in the network — a hub, a project, a venture — as a small living organism with its own metabolism. It earns, it spends, it keeps itself well. A healthy one heals its own scrapes first, shares what it does not need with the others, and is carried by the rest when it genuinely cannot stand on its own. The whole network is these organisms sharing one bloodstream — a single shared account — while each keeps its own life. (This is the same thing the [[Constellation Overview|Overview]] and the [[Introduction — A Constellation of Agreements|Introduction]] call each place's *envelope* inside the one shared account — pictured here as a living body, because that is closer to how it behaves.)
 
 That is the entire idea. Everything below is just that picture, made precise.
 

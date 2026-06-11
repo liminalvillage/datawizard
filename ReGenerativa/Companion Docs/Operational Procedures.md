@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-06-10'
-version: '1.9'
+updated: '2026-06-11'
+version: '1.11'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -141,9 +141,8 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ### E.3 Confidentiality
 - Confidentiality obligation continues for **3 years** after cessation of participation (A6 §14.2)
 
-### E.4 Contribution log (operational detail in A6-4)
-- Confirmation by another Partner or the Project coordinator, in good faith (A6-4 §K of this document also mirrors the workflow).
-- Dispute resolution path: Partner discussion → two-thirds majority → GT-7 if unresolved.
+### E.4 Contribution log
+- Field definitions, confirmation workflow, and dispute path are in [[Agreement 6 Annex 4 — Contribution Log|A6-4]] (see also Section K).
 
 ---
 
@@ -178,7 +177,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Mediation Panel opinion: **60 days** from referral (A8-1 §5.3.3)
 - Custodial Council activation: **90 days** without successor entity post-dissolution (GT-13.5)
 - Allocation-bucket decision posted to the network: within **14 days** of decision (A8-1 §5.5.7)
-- Member/Steward query window on an allocation: **30 days** from posting; quorum per **LGR-6** (default: 3 Stewards or 10 Members) (A8-1 §5.5.7)
+- Member/Steward query window on an allocation: **30 days** from posting; quorum per A8-1 §5.5.7 in-clause defaults (3 Stewards or 10 Members)
 - Council public response to an allocation query: **30 days** (A8-1 §5.5.7)
 
 ### G.2A Safeguarding Suspension (binding in agreement)
@@ -229,35 +228,21 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 
 ---
 
-## Section K — Contribution Log (operational detail in A6-4)
+## Section K — Contribution Log
 
-### K.1 What Is Recorded in the Shared Log
-The log is the Project's partition of the network's one Contribution Ledger (GT-1.7); visibility per LGR-8 (currently: all network participants; Partners always see their Project's partition in full).
-- Date
-- Partner
-- Project code
-- Contribution type
-- Quantity (hours / milestone / value units) and € equivalent where used for distribution
-- Confirmed by
-- Confirmed on
+The Partnership Contribution Log is the Project's partition of the network's one Contribution Ledger (GT-1.7), visible per GT-3.4A / LGR-8. Field definitions, off-log items, the confirmation workflow, and the distribution formula are in [[Agreement 6 Annex 4 — Contribution Log|A6-4]] (conversion rates in A6-2 Economics Schedule Part B); GDPR treatment follows GT-3.4 and GT-5.
 
-### K.2 What Is Not in the Shared Log
-- Personal-identity mappings (held off-log by the Association as data controller per GT-5, GT-3.4)
-- Client identities (clients appear as project codes unless they consent to be named)
+---
 
-### K.3 Confirmation Workflow
-1. A Partner logs a contribution with supporting evidence if required.
-2. Another Partner (or the Project coordinator) confirms the contribution in good faith. A confirmed contribution is a Validated Contribution (GT-1.8).
-3. Disputed contributions go to Partner discussion → two-thirds majority → GT-7 if unresolved. No special voting threshold is imposed by this Annex.
+## Section L — Network Demand Register curation (Agreement 7 §2.4)
 
-### K.4 GDPR Compliance
-- The shared log holds operational entries; personal-identity mapping is held off-log by the Association as data controller (GT-5.2).
-- Right to erasure: deletion of records; historical entries become unattributable without destroying the underlying record of activity (GT-3.4).
-- Right to rectification: off-log correction records.
+The Association's governing body, acting through the designated **Register Curator**:
+- consolidates similar Demand Signals;
+- retires signals that have been adequately addressed;
+- flags signals that have been visible and unaddressed for more than **six months**;
+- communicates the Register's state at each **seasonal gathering**.
 
-### K.5 Distribution Calculator
-- Partner Share (%) = Partner's Validated Contributions (€ equivalent) ÷ Total Validated Contributions (€ equivalent)
-- Conversion to € equivalent uses rates in **A6-2 Economics Schedule Part B** (or Project Sheet milestone values).
+Until the network's digital infrastructure (GT-3.1) is operational, the Register is maintained by the Curator as a network-accessible controlled record; thereafter it lives in that infrastructure. The submission right, the 30-day review window, anonymisation, and the Register's non-obligating character remain in Agreement 7 §2 and are binding there.
 
 ---
 

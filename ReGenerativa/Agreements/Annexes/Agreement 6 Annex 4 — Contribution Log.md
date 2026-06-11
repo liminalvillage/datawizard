@@ -4,13 +4,13 @@ type: annex
 annex_ref: A6-4
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-06-11'
 status: template
 tags:
   - annex
   - ReGenerativa
   - partnership
-version: '2.2'
+version: '2.3'
 ---
 *Annex 4 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Describes how
 Partner contributions are logged, confirmed, and turned into distribution shares. The
@@ -39,7 +39,7 @@ work; a peer confirms it; no one validates their own contribution into economic 
 
 The log is the Project's **partition of the network's one Contribution Ledger**
 (GT-1.7) — a plain shared record, not a separate system. Its visibility follows the
-network setting of GT-1.7 (held as LGR-8; **currently: visible to all network
+network setting of GT-3.4A (held as LGR-8; **currently: visible to all network
 participants**); at any setting, every Partner on the Project sees it in full. While
 the full-visibility setting applies, entries published in the partition are
 network-public and are not Confidential Information under Clause 14 of the Agreement. There is no blockchain, no
@@ -84,7 +84,7 @@ Annex.
 
 ## 5. Governance
 
-- The partition is visible per the network setting of GT-1.7 / LGR-8 (currently: all network participants); every Partner sees it in full and may audit their own record at any time.
+- The partition is visible per the network setting of GT-3.4A / LGR-8 (currently: all network participants); every Partner sees it in full and may audit their own record at any time.
 - A change to how shares are calculated requires the agreement of the Partners and an
   amendment to this Annex, recorded in the Amendment Register of
   [[Agreement 6 Annex 1 — Partner Onboarding & Register]].

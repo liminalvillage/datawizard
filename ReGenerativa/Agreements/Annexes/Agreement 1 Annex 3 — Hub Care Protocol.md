@@ -10,8 +10,8 @@ tags:
   - hub-care
 title: Agreement 1 Annex 3 — Hub Care Protocol
 type: annex
-updated: '2026-06-03'
-version: '2.3'
+updated: '2026-06-11'
+version: '2.4'
 ---
 *Annex 3 to the [[Agreement 1 — Ownership|Ownership Agreement]]. The **place-specific (Hub) care protocol** — the child of the general [[Agreement 1 Annex 6 — Asset Care Protocol]] for the case where the Asset is a place. It adds what a Hub needs beyond the care common to any Asset: ongoing facility maintenance, end-of-stay cleaning, and ecological restoration. Forms an integral part of that Agreement; also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 10).*
 
@@ -63,7 +63,7 @@ The following tasks are the responsibility of the Association during its periods
 - Reporting unusual consumption patterns to the Association coordinator
 - Ensuring all utilities are switched off / secured at end of each use period
 
-**Reporting obligation:** The Association shall notify the Owner promptly (and in any event within [e.g. 5 business days]) of any defect, damage, or maintenance need that goes beyond ordinary maintenance.
+**Reporting obligation:** The Association shall notify the Owner promptly (and in any event within [ ___ ] business days — **to be completed at signing**; suggested: 5) of any defect, damage, or maintenance need that goes beyond ordinary maintenance.
 
 ---
 
@@ -81,7 +81,7 @@ The ordinary/extraordinary boundary and who bears each cost is set in A1-6 §B. 
 - Major tree surgery (felling, heavy pruning of large trees)
 - Replacement of flooring (not cosmetic repair)
 
-**Response time after notification:** The Owner commits to commencing extraordinary maintenance within [e.g. 30] days of receiving written notification from the Association, except in cases of genuine unavailability (in which case an agreed timeline shall be communicated promptly).
+**Response time after notification:** The Owner commits to commencing extraordinary maintenance within [ ___ ] days — **to be completed at signing**; suggested: 30 — of receiving written notification from the Association, except in cases of genuine unavailability (in which case an agreed timeline shall be communicated promptly).
 
 ---
 

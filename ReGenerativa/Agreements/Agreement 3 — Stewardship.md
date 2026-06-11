@@ -1,10 +1,10 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.13'
+version: '3.15'
 status: active
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-06-11'
 tags:
   - agreement
   - stewardship
@@ -48,7 +48,7 @@ tags:
 
 **1.7 Membership prerequisite.** The Steward must hold a current Membership Agreement in good standing per Agreement 2, Clause 1.4 (see GT-11.4).
 
-**1.8 Origin in membership.** This Agreement does not create the stewardship mandate; it formalises, for this Asset, the standing mandate every Member already holds under Agreement 2, Clause 2.7. A Steward is a Member exercising that mandate over a particular thing entrusted to the network. *(Pending F1.)*
+**1.8 Origin in membership.** This Agreement formalises, for this Asset, the standing mandate every Member already holds under Agreement 2, Clause 2.7 (GT-11.4); it does not create it. *(Pending F1.)*
 
 ---
 
@@ -68,7 +68,7 @@ tags:
 
 **3.2** Specific duties may include: day-to-day coordination of the space; welcoming and orienting members, participants, facilitators, and guests; upholding the Hub DNA and practical rules; organising the calendar of stays, events, and use periods; making visible what tasks, needs, or opportunities exist; ensuring the Hub is left in good order; facilitating communication between the Association and local users; and identifying opportunities for greater regenerative impact.
 
-**3.3 Co-stewardship and shares.** An Asset may be stewarded by one Steward or by several co-stewards together. Where several, they hold a single collective *delega di spesa* over the Asset's discretionary envelope, **divided in proportion to each Steward's recorded active contribution** to the Asset (GT-3A, and Agreement 2 Clause 2.7) under the holon's declared value system (GT-4.3A), recomputed on the cadence set in the Allocation Model. Co-stewards exercise this authority jointly and account for it jointly. The Association may revise the stewardship structure as needed. *(Pending F1.)*
+**3.3 Co-stewardship and shares.** An Asset may be stewarded by one Steward or by several co-stewards together. Where several, they hold a single collective *delega di spesa* over the Asset's discretionary envelope, **divided in proportion to each Steward's recorded active contribution** to the Asset (GT-3A, and Agreement 2 Clause 2.7) under the holon's declared value system (GT-4.3A), recomputed on the cadence set in the Allocation Model. Co-stewards exercise this authority jointly and account for it jointly. The Association may revise the stewardship structure as needed — but not silently: a revision affecting a serving Steward's mandate or share is preceded by a conversation with the affected Stewards and written notice of at least thirty (30) days stating the reasons; a revision that would end a Steward's mandate is a termination and proceeds under Clause 16. *(Pending F1.)*
 
 ---
 
@@ -186,6 +186,8 @@ tags:
 
 **14.2** The Parties may agree to periodic review meetings at a cadence proportionate to the Asset's intensity of use, and no less often than annually, to assess stewardship effectiveness and whether any change in role or structure is needed. The Parties may align review periods with the Association's seasonal calendar, including but not limited to the equinox and solstice gatherings that serve as natural coordination points for the network.
 
+**14.3 Association responsiveness.** Where this Agreement requires the Association's approval or written authorisation (including Clauses 6.1, 6.2, 7.1, 7.3, and 8A.1), the Association shall respond to a documented request within twenty-one (21) days — approving, declining with reasons, or stating when a decision will be made. Silence is not approval; a request left without response beyond that period may be escalated by the Steward under GT-7, including the interim panel of GT-7.2. *(Pending F1.)*
+
 ---
 
 ## 15. Duration
@@ -202,7 +204,7 @@ tags:
 
 Notice runs from the date of written receipt. The Parties may agree a shorter period by mutual written consent.
 
-**16.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misuse of the Hub, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, refusal to hand over records or keys, or persistent disregard of the Association's lawful instructions; and, on the Steward's side, the Association exposing the Steward to serious unaddressed risks. Except where the cause is danger to persons or the Asset, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond. *(Pending F1.)*
+**16.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misuse of the Hub, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, refusal to hand over records or keys, or persistent disregard of the Association's lawful instructions; and, on the Steward's side, the Association exposing the Steward to serious unaddressed risks. Except where the cause is danger to persons or the Asset, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond. Where the Association invokes danger, safety, or misappropriation to terminate without that window, the termination notice shall state the documented grounds. The Steward may refer the invocation to review under GT-7.2 after the fact; where the invoked ground is not substantiated, the termination takes effect as termination by notice under Clause 16.1, and the Steward's entitlements under Clauses 16.1 and 16.3 — including the housing window — are owed in full. *(Pending F1.)*
 
 **16.3** Upon termination, the Steward shall cease presenting themselves as steward, hand over keys, records, and relevant information, cooperate in transition, and leave the Hub in the agreed condition. If events have been scheduled within the notice period, the Steward shall either complete their stewardship obligations for those events or assist in finding a suitable replacement.
 

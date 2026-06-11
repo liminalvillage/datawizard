@@ -1,9 +1,9 @@
 ---
 title: Agreement 8 — Eldership
 type: agreement
-version: '1.9'
+version: '1.10'
 created: '2026-04-14'
-updated: '2026-06-10'
+updated: '2026-06-11'
 status: active
 tags:
   - agreement
@@ -100,7 +100,7 @@ A holon's voluntary feed-up earns mutual insurance and earned autonomy at its ow
 
 **5.1 Constitution.** All Elders holding this Agreement collectively constitute the **Elder Council**. The Council is a standing governance body of the network, not an advisory committee. It holds the authorities described in this clause by right, not by delegation.
 
-**5.2 Quorum and Conduct.** The Elder Council is quorate when a simple majority of active Elders is present or represented. It may convene in person, remotely, or in a hybrid form. It sets its own procedural rules, which it publishes as a living document available to all network participants.
+**5.2 Quorum and Conduct.** Quorum is governed by the Elder Council Charter (Annex 1, §3.5). The Council may convene in person, remotely, or in a hybrid form. It sets its own procedural rules, which it publishes as a living document available to all network participants.
 
 **5.3 Council Seat.** The Elder Council holds its principal annual gathering at a designated **Council Seat** — a hub formally recognised by the Association as the network's seat of elder governance. The Council Seat is designated by the Elder Council itself, in consultation with the relevant hub owner and steward, and may rotate on a cycle determined by the Council. The host hub receives formal recognition as the network's seat for the duration of its designation.
 

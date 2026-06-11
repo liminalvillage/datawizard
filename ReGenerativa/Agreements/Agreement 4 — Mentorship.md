@@ -1,10 +1,10 @@
 ---
 title: Agreement 4 — Mentorship
 type: agreement
-version: '3.7'
+version: '3.8'
 status: active
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-06-11'
 tags:
   - agreement
   - mentorship
@@ -78,16 +78,17 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 
 The Network Regeneration Contribution is deducted at source per GT-4.4(a) from each band's Net Revenue (GT-1.9); the Resource-cost band, priced at direct delivery cost only, therefore generates no Net Revenue and carries no contribution. *(Pending F1.)*
 
-**4.2 Per-Programme parameters.** The Programme Annex defines for each Programme: the number of places in each band; the resource-cost composition (€ value per item — hub/hour, materials, food, logistics) for the Resource-cost band; the market rate; the member-friendly rate (or % discount from market); and the eligibility criteria for "highest contribution."
+**4.2 Pricing parameters (two levels).** Pricing parameters are set at two levels: **framework defaults**, recorded at signing of this Agreement where it operates as a framework agreement for multiple Programmes, and **per-Programme values** in each Programme Annex. The Programme Annex prevails for its Programme; the framework default applies where the Annex is silent. The parameters at both levels are:
+- the market rate (per Programme hour or per Programme format);
+- the member-friendly rate (or % discount from market);
+- the resource-cost composition — the categories of direct cost that comprise the Resource-cost price (default: hub usage per hour + materials + food + direct logistics; € values set per Programme);
+- the number of places in each band (per Programme);
+- the **Committed Resource-cost slots cadence** — the number of Resource-cost slots the Mentor reserves, expressed either **per session** (for one-off Programmes) or **per lunation** (~29.53 days, for ongoing/framework Programmes); the Mentor chooses the unit at onboarding (framework level);
+- the eligibility criteria for "highest contribution."
 
-**4.3 Framework Defaults (Mentor onboarding).** At signing of this Agreement (where it operates as a framework agreement for multiple Programmes), the Parties record default parameters that apply unless a specific Programme Annex deviates:
-- Default market rate (per Programme hour or per Programme format);
-- Default member-friendly rate or % discount from market;
-- Resource-cost composition — the categories of direct cost that comprise the Resource-cost price (default: hub usage per hour + materials + food + direct logistics; € values set per Programme);
-- **Committed Resource-cost slots cadence** — the number of Resource-cost slots the Mentor reserves, expressed either **per session** (for one-off Programmes) or **per lunation** (~29.53 days, for ongoing/framework Programmes); the Mentor chooses the unit at onboarding;
-- Criteria for "highest contributor" eligibility.
+Where both levels are silent on a parameter, at least one (1) Resource-cost slot per Programme is offered on the Association's standard eligibility criteria.
 
-Where the framework agreement is silent on a parameter, at least one (1) Resource-cost slot per Programme is offered on the Association's standard eligibility criteria.
+**4.3** *(Merged into Clause 4.2.)*
 
 **4.4 Mentor's labour as the gift.** The Mentor's labour, time, and expertise are the gift; the network's reciprocal obligation (Clause 1.3A) is to make Resource-cost places visible and effective. Because Resource-cost places cover their own direct delivery cost, the network does not carry a money-losing-slot risk under this Agreement. General Programme under-subscription risk (e.g. paid bands not filling to the Minimum Viable Threshold) is addressed separately through the financial model and shortfall provisions in the Programme Annex (§5 and A4-1).
 

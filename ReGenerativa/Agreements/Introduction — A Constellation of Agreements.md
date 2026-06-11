@@ -7,7 +7,7 @@ tags:
   - constellation
 title: Introduction — A Constellation of Agreements
 type: introduction
-updated: '2026-06-03'
+updated: '2026-06-11'
 ---
 
 # A Constellation of Agreements for a Regenerative Commons
@@ -83,15 +83,11 @@ This is what the holonic principle names: every entity is simultaneously whole i
 
 ## Access as Abundance
 
-In a transactional economy, resources flow to whoever can pay for them. Price rations access;  This is what a market does well — and what a market does worst, because willingness to pay is not the same as genuine need, mission alignment, or the long arc of contribution.
+In a transactional economy, resources flow to whoever can pay for them. Price rations access. This is what a market does well — and what a market does worst, because willingness to pay is not the same as genuine need, mission alignment, or the long arc of contribution.
 
 A relational economy rations differently. Access flows in order of standing contribution: the more a participant has given the network across roles, hubs, and time, the higher their priority and the lower their price, up to and including free. The newcomer is welcomed at full price; those who have given most over years and seasons may receive freely. This is not charity. It is the network keeping faith with its own.
 
-The financial architecture is the operational form of this principle. The Association holds one shared account through which all network economic activity passes — and inside it, each hub, each project, each venture has its own envelope, directed by its own stewards within their mandate. What a holon does not spend on operations flows upward to the Elder Council, which directs the surplus back into the network as mission spending — never as personal income, never as profit, always as care turned into circulation.
-
-This flow runs both ways. Each holon tends its own balance first — covering what it needs before sending anything onward, carrying a lean season itself rather than passing the shortfall to a neighbour. What lasts beyond its own needs it sends upward; and when it falls into genuine, sustained difficulty, it is caught — held by a common reservoir that the healthy feed and the struggling draw from, so that no hub fails for want of cover alone. The generosity that overflows upward in good seasons is the same insurance that holds you through hard ones. Mutual aid, made structural.
-
-And what counts as that giving is named by each holon for itself. The network keeps one welcome — more contributed, more freely received — but it imposes no single measure of worth on how a community directs its own resources. Hours offered, money given, a role faithfully held, trees planted, meals cooked, the quiet labour of keeping people in relationship: each hub decides which of these count and how they weigh, so that no one need tally every act to be seen. The ledger records what was given; each holon decides what giving means to it.
+The financial architecture is the operational form of this principle. The Association holds one shared account through which all network economic activity passes — and inside it, each hub, each project, each venture has its own envelope, directed by its own stewards. Each holon covers its own needs first; what lasts beyond them flows upward into a common reservoir that the healthy feed and the struggling draw from, so that no hub fails for want of cover alone — mutual aid, made structural, never personal income, never profit. And what counts as giving is named by each holon for itself: hours offered, money given, a role faithfully held, trees planted, meals cooked — the ledger records what was given; each community decides what giving means to it. How the money moves, step by step, is told in [[The Fund in Plain Language]].
 
 There is no application process. The model does the work the application form would. Each role earns its allocation by being in standing relationship to the network. The steward decides what their holon needs. The Council decides what the wider network needs. The flows are structural; the deliberation is human.
 

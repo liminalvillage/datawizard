@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-11
 tags:
   - strategy
   - faq
@@ -138,13 +138,13 @@ Not for stewarding itself (§8.3). If you also teach, facilitate, or do technica
 Yes. A valid, pre-approved, documented reimbursement is the Association's own obligation, payable within 60 days regardless of the asset's liquidity - the Association recovers it from the asset later (§9.3).
 
 **I would live at the hub - can I lose my home overnight?**
-No. Even on termination for cause (unless the cause is danger, safety, or misappropriation), you vacate on the full notice period - 30 days, or 90 after a year's tenure - and the Association helps you find interim accommodation in the network (§16.1-16.3). Termination for cause itself requires written notice of the breach and 7 days for you to respond, with the same safety exceptions (§16.2).
+No. Even on termination for cause (unless the cause is danger, safety, or misappropriation), you vacate on the full notice period - 30 days, or 90 after a year's tenure - and the Association helps you find interim accommodation in the network (§16.1-16.3). Termination for cause itself requires written notice of the breach and 7 days for you to respond, with the same safety exceptions (§16.2). If the Association invokes one of those exceptions, the termination notice must state the documented grounds, and you can have the invocation reviewed after the fact - if it is not substantiated, your full notice period and housing window are owed in full (§16.2).
 
 **Can a bad balance sheet get me removed automatically?**
 No. A shortfall triggers review, never removal: the first response is a conversation, then re-tuning the asset's settings; changing stewards is the last resort and runs through the full notice protections of §16 (§5A.2, GT-4.8(b)).
 
 **What authority do I actually have?**
-Day-to-day coordination, the calendar, welcoming, upholding the asset's DNA, and a delegated spending envelope within the allocation model (§3, GT-4.3). You cannot sign contracts, borrow, or bind the Association without written authorisation (§7.3).
+Day-to-day coordination, the calendar, welcoming, upholding the asset's DNA, and a delegated spending envelope within the allocation model (§3, GT-4.3). You cannot sign contracts, borrow, or bind the Association without written authorisation (§7.3). Where you need the Association's approval, it must answer a documented request within 21 days - silence is not approval, and an unanswered request can be escalated (§14.3). The Association also cannot silently restructure your role: changes to your mandate or share require a conversation and 30 days' written notice with reasons (§3.3).
 
 **What is my personal liability if something goes wrong?**
 Only for wilful misconduct or gross negligence; otherwise the Association indemnifies you when you acted within your role (§17).

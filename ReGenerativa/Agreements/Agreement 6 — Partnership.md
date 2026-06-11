@@ -1,10 +1,10 @@
 ---
 title: Agreement 6 — Partnership
 type: agreement
-version: '3.6'
+version: '3.7'
 status: active
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-06-11'
 tags:
   - agreement
   - partnership
@@ -58,7 +58,7 @@ tags:
 
 **"Validated Contribution"** means a Contribution accepted according to the validation rules.
 
-**"Contribution Ledger"** means the Project's partition of the Association's one Contribution Ledger (GT-1.7), in which Contributions are recorded and validated. Its visibility follows the network setting of GT-1.7 (currently: all network participants); every Partner on the Project sees it in full at any setting. *(Pending F1.)*
+**"Contribution Ledger"** means the Project's partition of the Association's one Contribution Ledger (GT-1.7), in which Contributions are recorded and validated. Its visibility follows the network setting of GT-3.4A (currently: all network participants); every Partner on the Project sees it in full at any setting. *(Pending F1.)*
 
 **"Net Project Revenue"** means Project revenue after deduction of agreed direct costs, structure costs, and taxes.
 

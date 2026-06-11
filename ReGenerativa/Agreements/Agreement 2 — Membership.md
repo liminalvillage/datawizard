@@ -1,10 +1,10 @@
 ---
 title: Agreement 2 — Membership
 type: agreement
-version: '3.9'
+version: '3.10'
 status: active
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-06-11'
 tags:
   - agreement
   - membership
@@ -41,7 +41,7 @@ tags:
 
 **1.4** Membership is a prerequisite for natural persons holding any active role in the ReGenerativa constellation (GT-11.4). A natural person may not serve as Steward, Mentor, or Intrapreneur unless they hold a current Membership Agreement in good standing. Legal entities — cooperatives, companies, and other organisations — may hold the Sponsorship Agreement (Agreement 5) or the Partnership Agreement (Agreement 6) without being members of the Association. A natural person entering a Partnership Agreement in their individual capacity is also required to hold a current Membership Agreement.
 
-Stewardship (Agreement 3) is the deeper, asset-specific expression of a mandate every Member already carries under Clause 2.7; holding Agreement 3 formalises that mandate for a particular Asset — a place (Hub), land, equipment, a tool, or a vehicle — it does not originate it. *(Pending F1.)*
+Stewardship (Agreement 3) formalises, for a particular Asset, the mandate every Member already carries under Clause 2.7 (see GT-11.4). *(Pending F1.)*
 
 ---
 
@@ -59,7 +59,7 @@ Stewardship (Agreement 3) is the deeper, asset-specific expression of a mandate 
 
 **2.6 Network Passport.** The Member's contributions are recorded and accumulated in their Network Passport (GT-3A); the more a Member contributes, the higher their priority and the lower their price for network resources, up to free. Membership is the soil from which every Passport grows.
 
-Two readings of the Passport apply. **Lifetime-cumulative** contribution governs *access* — the sliding-scale price and priority of GT-3A.3 — and is portable across the whole network. **Active and recent** contribution to a particular holon governs *allocation authority* under Clause 2.7 and is local to where the tending happens. Long-past contribution never ossifies into present allocation power. *(Pending F1.)*
+Two readings of the Passport bear on membership. **Lifetime-cumulative** contribution governs *access* — the sliding-scale price and priority of GT-3A.3 — and is portable across the whole network. **Active and recent** contribution to a particular holon governs *allocation authority* under Clause 2.7 and is local to where the tending happens. Long-past contribution never ossifies into present allocation power. (A third, €-valued *distribution* reading exists only within Project and Venture partitions — GT-3A.4; it does not touch membership.) *(Pending F1.)*
 
 **2.7 Stewardship Mandate.** From admission, the Member holds a standing mandate to tend the network's places and projects. Where the Member actively contributes to a holon — a hub (Agreement 3), a Project (Agreement 6), or a venture (Agreement 7) — they share with their co-stewards a *delega di spesa*: delegated authority to direct that holon's discretionary envelope, **held in proportion to their recorded active contribution** to that holon (weighted by the holon's declared value system, GT-4.3A), exercised collectively, and bounded by the Allocation Model and the hard rails (GT-4). This authority is the administration of delegated resources, **not** a governance vote: it does not alter the equal, one-member-one-vote rights of Clause 2.1, and no measure of contribution ranks one Member above another in the democratic life of the Association. *(Pending F1.)*
 

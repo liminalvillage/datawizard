@@ -12,8 +12,8 @@ tags:
   - rates
 title: Agreement 6 Annex 2 — Economics Schedule
 type: annex
-updated: '2026-05-24'
-version: '2.1'
+updated: '2026-06-11'
+version: '2.2'
 ---
 *Annex 2 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Two-part document defining the economic parameters of the Framework: **Part A** sets out structure costs (overhead deducted before Partner distribution); **Part B** sets out reference hourly rates (used when contributions are measured in hours). Forms an integral part of the Agreement. Reviewed annually.*
 
@@ -41,7 +41,7 @@ Structure costs are distinct from:
 | Digital platform (Contribution Ledger) | Hosting and maintenance of the shared Contribution Log (A6-4) — the plain digital record in which Partner contributions are recorded and confirmed | Per Project or flat monthly fee | €___ / month |
 | Insurance | Professional liability and other covers for the Framework | Pro rata across Projects by revenue | €___ / year |
 | Communication and administration | Coordination, communications tooling, meeting costs | Per Project or flat fee | €___ / Project or €___ / month |
-| Network Regeneration Contribution | Prevailing Network NRC Rate per GT-4.4(a) (Board-set, uniform across active holons within 3–10%; default 5% absent Board figure); pass-through to the Association holon, not a Vehicle Entity overhead; see A6 §10A | Applied at revenue recognition; no per-Project negotiation | per LGR-2 |
+| Network Regeneration Contribution | Prevailing Network NRC Rate per GT-4.4(a); pass-through to the Association holon, not a Vehicle Entity overhead; see A6 §10A | Applied at revenue recognition; no per-Project negotiation (A6 §10A.2) | per LGR-2 |
 
 **Total estimated annual structure costs:** €___
 

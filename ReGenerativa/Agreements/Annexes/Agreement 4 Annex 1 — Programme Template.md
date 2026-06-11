@@ -4,14 +4,14 @@ type: annex
 annex_ref: A4-1
 parent_agreement: Agreement 4 — Mentorship
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-06-11'
 status: template
 tags:
   - annex
   - ReGenerativa
   - mentorship
   - programme
-version: '1.2'
+version: '1.3'
 ---
 *Programme Annex template for use with the [[Agreement 4 — Mentorship|Mentorship Agreement]]. One annex per Programme. Complete and sign before each Programme is opened for registration. File as: "A4 — [Programme Name] — [YYYY-MM]".*
 
@@ -51,7 +51,7 @@ version: '1.2'
 - Direct logistics (if any): €___
 - **Total Resource-cost price per slot:** €___
 
-**Committed Resource-cost slots this Programme:** ___ (framework default: ___ slots per ☐ session ☐ lunation, per Agreement 4 §4.3)
+**Committed Resource-cost slots this Programme:** ___ (framework default: ___ slots per ☐ session ☐ lunation, per Agreement 4 §4.2)
 
 **Criteria for Resource-cost eligibility:**
 [e.g. "Top 5% of validated contributions in the last 12 months, as determined by the Contribution Ledger; or as jointly agreed by the Association and the Mentor no later than 30 days before the Programme"]
@@ -95,7 +95,7 @@ Mentor's costs (travel €___, accommodation €___, materials €___) are reimb
 | Steward and volunteer coordination | €___ | |
 | Communication and marketing | €___ | |
 | Administration | €___ | |
-| **Network Regeneration Contribution** (prevailing Network NRC Rate per GT-4.4(a); Board-set within 3–10%, default 5% absent Board figure) | per LGR-2 | |
+| **Network Regeneration Contribution** (prevailing Network NRC Rate per GT-4.4(a); not negotiable per Programme) | per LGR-2 | |
 | **Total costs** | **€___** | |
 | **Net Programme Revenue available for distribution** | **€___** | |
 
@@ -115,7 +115,7 @@ Mentor's costs (travel €___, accommodation €___, materials €___) are reimb
 
 Resource-cost places cover their own direct delivery cost (Agreement 4 Clause 4.1). The Mentor's labour, time, and expertise are the gift; the recipient covers the resources their slot consumes. These places do not create a money-losing slot for the network.
 
-- **Committed Resource-cost places this Programme:** ___ (framework default: ___ slots per ☐ session ☐ lunation, per Agreement 4 §4.3)
+- **Committed Resource-cost places this Programme:** ___ (framework default: ___ slots per ☐ session ☐ lunation, per Agreement 4 §4.2)
 - **Is Mentor compensation contingent on reaching the Minimum Viable Threshold?** ☐ No - not contingent  ☐ Yes - contingent, on this basis: ___
 - **Programme-level shortfall risk** (paid bands not filling to the Minimum Viable Threshold) is independent of the Resource-cost commitment and is addressed by the financial model selected above and the cancellation terms below. If the Parties agree to any residual Association top-up for this Programme, document it here (or leave blank): ___
 

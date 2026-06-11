@@ -4,14 +4,14 @@ type: annex
 annex_ref: A6-3
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-06-11'
 status: template
 tags:
   - annex
   - ReGenerativa
   - partnership
   - project
-version: '1.2'
+version: '1.3'
 ---
 *Annex 3 to the [[Agreement 6 — Partnership|Partnership Agreement]]. Template for activating a new Project under the Framework. Complete one sheet per Project. File as: "A6-3 — [Project Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
 
@@ -130,7 +130,7 @@ Contributions become Validated when:
 
 **Structure costs** (per [[Agreement 6 Annex 2 — Economics Schedule]] Part A):** €___ (estimated)
 
-**Network Regeneration Contribution:** the prevailing Network NRC Rate (Board-set per GT-4.4(a), uniform across active holons within 3–10%; default 5% absent a Board-ratified figure) applies at the time the Project's revenue is recognised. No per-Project negotiation (A6 §10A.2).
+**Network Regeneration Contribution:** the prevailing Network NRC Rate per GT-4.4(a) (current rate per LGR-2) applies at the time the Project's revenue is recognised. No per-Project negotiation (A6 §10A.2).
 
 **Network Regeneration Contribution** (computed): €___ (estimated)
 

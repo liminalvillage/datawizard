@@ -1,10 +1,10 @@
 ---
 title: Agreement 7 — Intrapreneurship
 type: agreement
-version: '1.9'
+version: '1.11'
 status: active
 created: '2026-03-28'
-updated: '2026-06-10'
+updated: '2026-06-11'
 tags:
   - agreement
   - intrapreneurship
@@ -58,7 +58,7 @@ tags:
 
 **2.3** The Association publishes Demand Signals in the Register with appropriate anonymisation — preserving the pattern and its evidence without exposing the identities of individual requesters unless they have consented. The Register is accessible to all current members.
 
-**2.4** The Association's governing body, acting through a designated **Register Curator**, actively curates the Register: consolidating similar signals, retiring signals that have been adequately addressed, flagging signals that have been visible and unaddressed for more than six months, and communicating the Register's state at each seasonal gathering. Until the network's digital infrastructure (GT-3.1) is operational, the Register is maintained by the Curator as a network-accessible controlled record; thereafter it lives in that infrastructure.
+**2.4** The Association's governing body, acting through a designated **Register Curator**, actively curates the Register. The curation procedures — consolidation, retirement, flagging of long-unaddressed signals, seasonal reporting, and where the record lives until the network's digital infrastructure (GT-3.1) is operational — are set out in the [[Operational Procedures]], Section L.
 
 **2.5** The existence of a Demand Signal in the Register does not obligate the Association or any member to respond to it. It makes the need visible and invites a response. The response may come as a Venture Holon under this Agreement, or through other means — a new mentorship programme, a stewardship adaptation, a partnership project. The Register is the network's antenna, not its command structure.
 
@@ -155,7 +155,7 @@ tags:
 
 **7.2 During Phases 2 and 3:** External revenue may be invoiced through the Association (if the venture has not yet incorporated) or through the venture's own legal entity. In either case, the Network Regeneration Contribution is calculated on Net External Revenue and transferred to the Unified Fund (GT-1.10) within 30 days of receipt.
 
-**7.3 Distribution among Venture Members:** After the NRC and any agreed operating costs, Net Revenue is distributed among Venture Members in proportion to their Validated Contributions, following the dynamic share logic of Agreement 6 (Clauses 9–10). Distribution occurs within 30 days of revenue receipt and accounting completion.
+**7.3 Distribution among Venture Members:** After the NRC and any agreed operating costs, Net Revenue is distributed among Venture Members per the dynamic share logic of Agreement 6 (Clauses 9–10), within thirty (30) days of revenue receipt and accounting completion.
 
 **7.4 Fiscal documentation:** Each Venture Member is responsible for their own fiscal obligations arising from distributions received. The Association or the venture's legal entity shall apply withholding taxes as required by Italian law (GT-12).
 

@@ -9,8 +9,8 @@ tags:
   - access-rule
 title: Network Passport — Portable Contribution Record
 type: companion-doc
-updated: '2026-06-10'
-version: '3.4'
+updated: '2026-06-11'
+version: '3.6'
 ---
 *Companion document to [[General Terms and Conditions]] GT-3A. It describes the
 Network Passport and the single access rule. It is not a legal agreement.*
@@ -32,7 +32,7 @@ It answers the question relational economies have always struggled with at scale
 do you carry trust with you when you move?* In a village, reputation travels by word of
 mouth. In a network of villages it needs a container. The Passport is that container —
 and nothing more. There are **no tiers, no levels, no ranks** among people: no one
-belongs more than anyone else, and no record buys a vote (see *Two readings* below).
+belongs more than anyone else, and no record buys a vote (see *One ledger, three readings* below).
 
 ---
 
@@ -54,15 +54,11 @@ record from there.
 
 ## How contribution is measured (kept deliberately cheap)
 
-- **One cumulative standing.** A single continuous measure of what a person has
-  contributed. Not reduced to hours alone — quality, diversity, and the judgement of
-  those close to the work all count.
-- **Confirmed by judgement, not machinery.** A steward or a peer confirms a logged
-  contribution in good faith (GT-1.8). A plain visible log. No validator roles, no
-  dispute-threshold apparatus, no blockchain. The network is small; honest fuzziness is
-  cheaper and truer than the apparatus built to deny it.
-- **Disputes.** A participant who feels the rule was applied to them unfairly may seek
-  review per GT-7.2.
+One cumulative standing — not reduced to hours alone; quality, diversity, and the
+judgement of those close to the work all count (GT-3A.4). A steward or a peer confirms
+a logged contribution in good faith (GT-1.8): a plain visible log, no validator roles,
+no blockchain — honest fuzziness is cheaper and truer than the apparatus built to deny
+it. If you feel the rule was applied to you unfairly, review lies under GT-7.2.
 
 ---
 
@@ -70,28 +66,23 @@ record from there.
 
 The Contribution Ledger is **one record, partitioned by holon** — each hub, project,
 venture, and the Association holds its own partition. Visibility is a tunable network
-setting (GT-1.7; LGR-8), currently: every partition visible to all — and never less
-than your own entries, your holons' partitions, and the Association's full view. The same record is read three ways, and keeping the readings apart is what
-lets contribution matter without ever becoming a rank over people. *(Pending F1.)*
+setting (GT-3.4A; LGR-8), currently: every partition visible to all — and never less
+than your own entries, your holons' partitions, and the Association's full view. The
+same record is read three ways, and keeping the readings apart is what lets
+contribution matter without ever becoming a rank over people. *(Pending F1.)*
 
-- **For access — lifetime, portable, rankless.** Your whole cumulative record sets your
-  place on the sliding scale (GT-3A.3): higher priority, lower price, up to free. This
-  reading never resets, follows you across every hub, and ranks no one above anyone —
-  it only moves people toward abundance and free access.
-- **For allocation authority — active, local, delegated.** Where you actively tend a
-  holon (a hub, project, or venture), your *recent* contribution there sets your share
-  of that holon's delegated spending envelope (GT-4.3; Agreement 2 §2.7). This reading
-  is local to where you tend, leans on recent rather than lifetime contribution so that
-  long-past giving never ossifies into present power, and is **administration of
-  delegated resources, not a governance vote** — in the Assembly it remains one member,
-  one vote (Agreement 2 §2.1).
-
+- **For access — lifetime, portable, rankless.** Your whole cumulative record sets
+  your place on the sliding scale (GT-3A.3): higher priority, lower price, up to free.
+  It never resets, follows you across every hub, and ranks no one above anyone.
+- **For allocation say — active, local, delegated.** Where you actively tend a holon,
+  your *recent* contribution there sets your share of that holon's delegated spending
+  envelope (GT-4.3; Agreement 2 §2.7) — administration of delegated resources, never a
+  governance vote; in the Assembly it remains one member, one vote (Agreement 2 §2.1).
 - **For distribution — commercial, per project.** In a Project or Venture partition
   (A6-4; A7 §7), entries carry € valuations that compute revenue shares among Partners
-  or Venture Members. This is the commercial reading of the same record — visible like
-  every partition, but its euro values never feed the access reading: the same entries
-  count toward access as contributions of their kind, never at their monetary value
-  (GT-3A.4).
+  or Venture Members. The euro values never feed the access reading (GT-3A.4): the
+  same entries count toward access as contributions of their kind, never at their
+  monetary value.
 
 So contribution lowers your *price* everywhere and, where you tend, raises your *say
 over that holon's discretionary spend* — but it never ranks you as a person, never
@@ -99,26 +90,19 @@ weights your vote, and is never worth more because it was worth more money.
 
 ---
 
-## The Passport at transitions
+## Your rights (transitions and data)
 
-When a participant exits a role, the Association provides a written summary of their
-contribution record for that role within 30 days (GT-3A.6). It is theirs to share. It
-is not a reference letter — it is a contribution record; it speaks for itself.
-
-When a participant arrives at a new hub or role, they may share their Passport. The
-receiving community is not obliged to extend access on the strength of a past record
-alone — each community is its own whole — but is strongly encouraged to extend welcome
-proportionate to its depth.
-
----
-
-## Passport and GDPR
-
-Subject to GT-5 and GT-3.4. Participants may, at any time, request a full export of
-their Passport data, correction of any recorded contribution through the governance
-body, or deletion of their record (which renders historical entries unattributable
-without destroying the underlying record of network activity). Personal data is held
-separately and minimally by the Association as data controller.
+- **At role exit**, the Association provides a written summary of your contribution
+  record for that role within 30 days (GT-3A.6). It is yours to share — a record, not
+  a reference letter; it speaks for itself.
+- **At a new hub or role**, you may present your Passport. The receiving community is
+  not obliged to extend access on a past record alone — each community is its own
+  whole — but is strongly encouraged to extend welcome proportionate to its depth
+  (GT-3A.5).
+- **Your data.** Export, correction, and deletion at any time, per GT-3A.7, GT-3.4,
+  and GT-5 (deletion renders historical entries unattributable without destroying the
+  underlying record of network activity). Personal data is held separately and
+  minimally by the Association as data controller.
 
 ---
 

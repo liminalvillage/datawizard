@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.10'
+version: '1.12'
 priority: high
 maturity: working
 created: 2026-05-16
-updated: 2026-06-10
+updated: 2026-06-11
 tags:
   - governance
   - ReGenerativa
@@ -40,15 +40,10 @@ basis, its review cadence, and a **status**:
 - **Ratified** — confirmed by the governing body; still revisable, but now the network's
   settled position.
 
-LGR-1 was **Ratified** by the vault owner on 2026-05-16. **LGR-2 (Unified Fund
-allocation parameters)** is **Provisional** (framework) as of 2026-05-22, with
-specific figures awaiting Board ratification. **LGR-3** and **LGR-4** have been
-withdrawn (their IDs are retired and not reused). **LGR-5 (Allocation Model:
-settlement, band, and returns)** is **Provisional** and **Pending F1** as of
-2026-05-30. **LGR-6 (allocation challenge quorum)** is **Provisional** as of
-2026-06-08. **LGR-7 (Elder hospitality reimbursement threshold)** and **LGR-8 (Ledger partition
-visibility)** are **Provisional** and **Pending F1** as of 2026-06-10. Ratified figures
-remain revisable by a Decision Log entry, never an agreement amendment.
+The current status of each resolution is recorded in its own **Status** line — this
+preamble does not restate them. **LGR-3**, **LGR-4**, and **LGR-6** have been withdrawn
+(their IDs are retired and not reused). Ratified figures remain revisable by a Decision
+Log entry, never an agreement amendment.
 
 ---
 
@@ -203,15 +198,16 @@ F1 legal/fiscal review gate.
   commitment made within a cycle is not re-floated mid-cycle.
 - This weighting is administration of the delegated envelope only: it confers no
   governance vote and no personal income (GT-4.5(d),(g); Agreement 2 §2.1, §2.7).
-- The **value system** that converts Ledger entries into weights is **declared
-  independently by each holon** (GT-4.3A): a **weighted combination of indicators** —
-  anything the holon can measure or signal (validated hours, euros, declared roles,
-  mutual-credit units such as trees planted or meals cooked, qualitative collaboration
-  signals), with the holon choosing which count and how each is weighted. Common
-  configurations: egalitarian (a single equal indicator), hour-based, role-based, or
-  any blend. Absent a declaration, the network default is **egalitarian** among active
-  co-Stewards. The declared system is public, confirmed in good faith (GT-1.8), and
-  revised only prospectively.
+- The **value system** that converts Ledger entries into weights is declared
+  independently by each holon (GT-4.3A). **Indicator menu (held here per GT-4.6):**
+  an indicator is anything the holon can measure or signal — validated hours, euros
+  contributed, declared roles, mutual-credit units of valued activity (such as trees
+  planted or meals cooked), or qualitative peer signals of collaboration. The holon
+  chooses which indicators count and how each is weighted, from a single indicator
+  (hours, or fixed shares by role so that continuous accounting is not required) to a
+  blend. Common configurations: egalitarian (the network default), hour-based,
+  role-based, or any mix. This resolution also sets the time parameters above: the
+  trailing window, the per-lunation recompute, and within-cycle stability.
 
 **E. Upward-return terms (GT-4.8(d)).**
 - A holon's **voluntary, early** upward contribution to the reservoir (feed-up before
@@ -253,28 +249,12 @@ windows) awaiting Board ratification and the F1 review gate.
 
 ---
 
-## LGR-6 — Allocation challenge quorum (Elder Council Charter §5.5.7)
+## LGR-6 — Withdrawn
 
-**Serves.** A8-1 §5.5.7: the quorum of Members or Stewards entitled to lodge a written
-query against an Elder Council Allocation-bucket decision is "set by the Council and
-published as a living governance resolution."
-
-**Resolution (Provisional).** A query is validly lodged by **three (3) Stewards** or
-**ten (10) Members** acting together, within thirty (30) days of the allocation
-decision's posting. These are the in-clause defaults of §5.5.7, recorded here as the
-published figure; absent this row, the in-clause defaults apply identically.
-
-**Basis.** Low enough that a genuine concern can always assemble the quorum; high
-enough to filter individual grievance into collective signal. Mirrors the spirit of
-A8 §2.3(a), where three hub stewards may jointly nominate an Elder.
-
-**Review.** Reviewed by the Elder Council at its annual gathering, in consultation with
-the Board; revisable by decision recorded in the Council Record and in this register.
-
-**Citation.** A8-1 §5.5.7 cites this register; A8 §5.4(e) points to the §5.5.7
-procedure.
-
-**Status.** Provisional — 2026-06-08.
+*Withdrawn 2026-06-11. The entry transcribed the in-clause defaults of A8-1 §5.5.7
+(three Stewards or ten Members), which govern directly absent a published figure.
+If and when the Elder Council sets a different challenge quorum, it publishes it as
+a new resolution. ID retired.*
 
 ---
 
@@ -308,15 +288,15 @@ is its published home.
 
 ---
 
-## LGR-8 — Ledger partition visibility (GT-1.7)
+## LGR-8 — Ledger partition visibility (GT-3.4A)
 
-**Serves.** GT-1.7: the Contribution Ledger is one record, partitioned by holon, with
-partition visibility "a network setting held as a Living Governance Resolution and
-tunable prospectively by Board resolution."
+**Serves.** GT-3.4A (definition in GT-1.7): the Contribution Ledger is one record,
+partitioned by holon, with partition visibility "a network setting held as a Living
+Governance Resolution and tunable prospectively by Board resolution."
 
 **Resolution (Provisional - Pending F1).** The current setting is **full visibility**:
 every partition of the Ledger is visible to all network participants. Any future
-narrowing is prospective only and may never go below the GT-1.7 floor: every
+narrowing is prospective only and may never go below the GT-3.4A floor: every
 participant sees their own entries; every member of a holon (including every Partner
 on a Project) sees that holon's partition in full; the Association, as fiscal host,
 sees all. Off-ledger items (identity mappings, client identities) are unaffected by

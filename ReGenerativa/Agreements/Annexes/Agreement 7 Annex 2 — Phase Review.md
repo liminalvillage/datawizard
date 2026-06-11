@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-2
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-05-24'
+updated: '2026-06-11'
 status: template
 tags:
   - annex
@@ -89,7 +89,7 @@ tags:
 
 **Planned external client types / sectors:** ___
 
-**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a) (Board-set, within 3–10%; default 5% absent Board figure); applies at revenue recognition. Not negotiated per Venture.
+**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a) (current rate per LGR-2); applies at revenue recognition. Not negotiated per Venture.
 
 **Fiscal arrangement:** ☐ Continue under Association umbrella  ☐ Venture will incorporate as: [legal form] by [DD/MM/YYYY]
 
@@ -110,7 +110,7 @@ tags:
 
 **Legal entity status:** ☐ Already incorporated as: [form, date]  ☐ Will incorporate by: [DD/MM/YYYY]
 
-**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a); applies at revenue recognition.
+**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a) (current rate per LGR-2); applies at revenue recognition. Not negotiated per Venture.
 
 **Network service commitment for Phase 3:**
 [Describe specifically how the minimum 40% network service capacity will be maintained]
