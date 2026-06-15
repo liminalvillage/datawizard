@@ -4,8 +4,8 @@ type: strategy
 status: active
 priority: high
 maturity: working
-created: 2026-06-10
-updated: 2026-06-11
+created: 2026-06-10T00:00:00.000Z
+updated: '2026-06-15'
 tags:
   - strategy
   - faq
@@ -40,6 +40,9 @@ One plain, visible log of what people give - hours, skills, care - confirmed in 
 
 **What is the NRC I keep seeing?**
 The Network Regeneration Contribution: a uniform percentage (3-10%, default 5%) taken off the net revenue of economic activity inside the network and routed to the common fund (GT-4.4(a)). It is the structural cost of operating inside the commons. If you generate no net revenue, you pay nothing.
+
+**And the ARC?**
+The Asset Regeneration Contribution (GT-4.9): where your activity makes money using an asset someone lent to the network at cost (a hub, land, a vehicle), a further share - default 25%, never below 10% (LGR-9, provisional) - is taken after the NRC and before your share, and goes back to that asset to cover its costs and regenerate it. The principle is simple: it isn't fair to monetize on a gift without sharing back. NRC feeds the network; ARC feeds the asset you used. Activity priced at cost generates no surplus and carries no ARC.
 
 **If I hold several roles, can I approve my own work?**
 No. You disclose the overlap wherever your roles interact, and you never confirm, approve, or review your own act performed in another role (GT-11.7).
@@ -83,6 +86,9 @@ It must appoint a steward, schedule activity, and announce the place within 6 mo
 **Can they alter or build on my property?**
 Not structurally without your written consent (§3.4). Approved fixed improvements become yours at the end - or are removed, your choice (§3.4, §6.4). Once network investment in your place passes the Annex 4 threshold, an amortisation schedule is agreed so neither side is unfairly exposed by an early exit (§3.4).
 
+**Can I choose who stewards my place - and keep someone out of it?**
+Yes to both. You can designate which stewards hold the asset and for which periods - seasonal, rotating, or project-based - and veto a proposed appointment with written reasons; a sitting steward still gets the normal notice protections (§2.6). You can also exclude a named individual from using the asset by written notice stating your reasons; the exclusion touches only your asset - their membership and Passport are unaffected - and they may ask for a GT-7 review, but the final decision over your asset stays with you (§2.7). And the reverse: you can name a person who must be given access, which a steward cannot override - bounded only by safety, the asset's capacity and DNA, and the law (§2.8).
+
 **How do I get out?**
 90 days' written notice, any time, no penalty, no reason needed (§6.1). Immediately for serious cause - misuse, damage, danger (§6.2). The place comes back to you in the same or better condition, fair wear excepted, after a joint inspection (§7).
 
@@ -91,6 +97,9 @@ You give 60 days' notice; the buyer gets the documents and 30 days to decide whe
 
 **What is this dissolution clause asking of me (GT-13.3)?**
 Only this: if the Association ever dissolves, be informed, optionally join the Custodial Council, and do not actively obstruct continuity. No money, hosting, or services are ever owed under it.
+
+**Could my place ever become owned by the network - and what's in it for me?**
+Only if you choose. While your place is in use, it quietly sets aside a protected savings line toward replacing or one day acquiring it (the Asset Reserve, GT-4.4B). You're never obliged to sell - but if you ever decide to, the network gets first refusal and, where you elect it in Annex 1, a standing option at a fair pre-agreed price (A1 §6.3A); you can also simply donate it (Agreement 5). Either way your capital is honoured and the place becomes permanent commons - it can never be sold back out, only ever passed to another mission entity. For many owners that's a more dignified endgame than lending indefinitely.
 
 ---
 
@@ -115,6 +124,9 @@ No - during official volunteer activities only (§6.1-6.2). A personal stay is n
 
 **Can the Board just throw me out?**
 Not without process: written reasons, your chance to respond, a written decision, and appeal to the General Assembly (§7.3). A suspension while an allegation is verified lapses after 60 days unless a formal exclusion procedure is opened (§7.1). And even if membership ends, any other role you hold winds down under that role's own protections - notice, handover, your Passport summary (§7.4).
+
+**Can an owner or steward keep me out of a particular hub?**
+Yes, at the level of that one asset only. An owner can exclude you from their asset (A1 §2.7) and a steward can decline or revoke your access (A3 §4.4) - in both cases with written reasons, never silently. Your membership, vote, and Passport are untouched, and you can refer the decision to review under GT-7: a steward's veto can be overturned there; an owner's exclusion gets a facilitated conversation, but the final say over their own property stays with the owner. An owner can also require that a named person be admitted, which a steward cannot refuse (A1 §2.8).
 
 **What if I just forget to renew?**
 You get 30 days from the termination notice to renew, and up to 90 days to restore everything without formality; your other roles are paused, not voided, in the meantime (§7.4).
@@ -146,6 +158,9 @@ No. A shortfall triggers review, never removal: the first response is a conversa
 **What authority do I actually have?**
 Day-to-day coordination, the calendar, welcoming, upholding the asset's DNA, and a delegated spending envelope within the allocation model (§3, GT-4.3). You cannot sign contracts, borrow, or bind the Association without written authorisation (§7.3). Where you need the Association's approval, it must answer a documented request within 21 days - silence is not approval, and an unanswered request can be escalated (§14.3). The Association also cannot silently restructure your role: changes to your mandate or share require a conversation and 30 days' written notice with reasons (§3.3).
 
+**Can I turn someone away from the asset?**
+Yes. You can decline or revoke a member's or participant's access by notice stating your reasons (§4.4). The veto covers this asset only - their membership and Passport are untouched - and it cannot override the owner: you may not admit someone the owner has excluded (A1 §2.7), nor turn away someone the owner has designated for access (A1 §2.8), except on the safety, capacity, and DNA grounds named there. The person can ask for a GT-7 review, which can confirm your veto or restore access; the community-conduct boundary of §11.2 always applies.
+
 **What is my personal liability if something goes wrong?**
 Only for wilful misconduct or gross negligence; otherwise the Association indemnifies you when you acted within your role (§17).
 
@@ -165,7 +180,10 @@ Not outside the Association's framework without written agreement (§8A.1). Your
 Partly, by design - that is the gift at the heart of the role. Your labour is free to the network's highest contributors; they pay only what their slot costs to deliver (hub, materials, food - §1.3, §4.1). Everyone else pays market or member rates, from which you take your agreed share (§5.3). You choose at onboarding how many free slots you commit and on what rhythm; the default minimum is one per programme (§4.3, §1.3A).
 
 **When and how do I get paid?**
-Your share - fixed fee, revenue share, hybrid, or cost-cover, set in the Programme Annex - is paid within 30 days of programme completion and accounting reconciliation (§5.3). All ticketing and payment runs through the Association (§5.1); participants may additionally give you documented voluntary donations (§5.5).
+Your share - fixed fee, revenue share, hybrid, or cost-cover, set in the Programme Annex - is paid within 30 days of programme completion and accounting reconciliation (§5.3). It comes after two deductions from programme revenue: the Network Regeneration Contribution (network) and, where you use a hub or other entrusted asset, the Asset Regeneration Contribution (§5.3A, GT-4.9) that returns to that asset. All ticketing and payment runs through the Association (§5.1); participants may additionally give you documented voluntary donations (§5.5).
+
+**What does the hub get from my retreat?**
+The asset isn't just a free venue you monetize. Its running costs and the steward's reimbursement are met from the Asset Regeneration Contribution (§5.3A, GT-4.9) - a default 25% (floor 10%, LGR-9, provisional) of net revenue after the NRC - which flows into the hub's own balance, covering its costs first and regenerating it with the rest. You can agree a different rate in the Programme Annex, but only with the host steward's consent and never below the floor: sharing back always happens. Gift (resource-cost) places generate no surplus, so they carry no ARC.
 
 **What if nobody signs up?**
 Set a minimum viable threshold in your Programme Annex - then you get a registration update 21 days out and may reschedule or cancel below it (§5A.2). The Association must publish within 14 days of confirmation and promote in good faith (§5A.1, §5A.3).

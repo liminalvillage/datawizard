@@ -1,10 +1,10 @@
 ---
 title: Agreement 7 — Intrapreneurship
 type: agreement
-version: '1.11'
+version: '1.12'
 status: active
 created: '2026-03-28'
-updated: '2026-06-11'
+updated: '2026-06-15'
 tags:
   - agreement
   - intrapreneurship
@@ -155,7 +155,7 @@ tags:
 
 **7.2 During Phases 2 and 3:** External revenue may be invoiced through the Association (if the venture has not yet incorporated) or through the venture's own legal entity. In either case, the Network Regeneration Contribution is calculated on Net External Revenue and transferred to the Unified Fund (GT-1.10) within 30 days of receipt.
 
-**7.3 Distribution among Venture Members:** After the NRC and any agreed operating costs, Net Revenue is distributed among Venture Members per the dynamic share logic of Agreement 6 (Clauses 9–10), within thirty (30) days of revenue receipt and accounting completion.
+**7.3 Distribution among Venture Members:** After the NRC, the Asset Regeneration Contribution where the venture operates on an Asset entrusted under Agreement 1 (GT-4.9; rate per LGR-9, routed to the host Asset holon), and any agreed operating costs, Net Revenue is distributed among Venture Members per the dynamic share logic of Agreement 6 (Clauses 9–10), within thirty (30) days of revenue receipt and accounting completion. *(Pending F1.)*
 
 **7.4 Fiscal documentation:** Each Venture Member is responsible for their own fiscal obligations arising from distributions received. The Association or the venture's legal entity shall apply withholding taxes as required by Italian law (GT-12).
 

@@ -1,10 +1,10 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.15'
+version: '3.18'
 status: active
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 tags:
   - agreement
   - stewardship
@@ -80,6 +80,8 @@ tags:
 
 **4.3** The Steward shall support forms of use that deepen mission alignment and enhance regenerative quality, while discouraging uses that are wasteful, extractive, passive, or manifestly incompatible with the Association's mission, the Hub DNA, the applicable Owner conditions, safety requirements, or applicable law.
 
+**4.4 Steward's Access Veto.** The Steward may decline or revoke a member's or participant's access to the Asset by notice stating the reasons. The veto is asset-scoped: it does not affect the person's membership, Network Passport record, or standing elsewhere in the network. It is subordinate to the Owner's rights under Agreement 1: the Steward may not admit a person the Owner has excluded (Agreement 1, Clause 2.7), nor deny access to a person the Owner has designated for access (Agreement 1, Clause 2.8), subject to the safety, capacity, and DNA limits stated there. The affected person may refer the veto to review under GT-7, including the interim panel of GT-7.2; the veto stands pending review, and the review may confirm it or restore access. Clause 11.2 applies to the exercise of this power. *(Pending F1.)*
+
 ---
 
 ## 5. Operating Costs and Coverage
@@ -108,7 +110,7 @@ tags:
 
 **6.1** The Steward may propose or support the organisation of workshops, retreats, educational programmes, gatherings, and other hosted activities at the Hub, provided they are consistent with the Association's mission, the Hub DNA, the Association's approval procedures, and the applicable Ownership Agreement.
 
-**6.2** The Steward shall not independently appropriate event income as personal revenue merely because they are stewarding the Hub. All financial flows linked to events shall be accounted for through the Association or through a written structure expressly approved by the Association.
+**6.2** The Steward shall not independently appropriate event income as personal revenue merely because they are stewarding the Hub. All financial flows linked to events shall be accounted for through the Association or through a written structure expressly approved by the Association. Where a hosted event generates surplus, the Asset Regeneration Contribution applies to that surplus (GT-4.9; rate per LGR-9), routed to the Asset holon so that surplus made at the Asset regenerates it. *(Pending F1.)*
 
 ---
 

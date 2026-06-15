@@ -1,10 +1,10 @@
 ---
 title: Agreement 4 — Mentorship
 type: agreement
-version: '3.8'
+version: '3.9'
 status: active
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 tags:
   - agreement
   - mentorship
@@ -74,14 +74,14 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 
 - **Market rate** — full price for external participants and the general public;
 - **Member-friendly rate** — a discounted price for Association members in good standing;
-- **Resource-cost places** — for persons with the highest Validated Contribution to the network (per the Contribution Ledger, GT-3), priced to cover only the slot's direct delivery cost (a generalised composition of: hub usage per hour + materials + food + direct logistical costs). The Mentor's labour, time, and expertise are the gift; the recipient covers the resources their slot consumes. Eligibility is determined by the Association, or jointly with the Mentor, from the Contribution Ledger.
+- **Resource-cost places** — for persons with the highest Validated Contribution to the network (per the Contribution Ledger, GT-3), priced to cover only the slot's direct delivery cost (a generalised composition of: materials + food + direct logistical costs). The Mentor's labour, time, and expertise are the gift; the recipient covers the consumables their slot uses. The Asset's standing cost is carried by the host Asset holon under GT-4.9, not charged to the gift slot. *(Pending F1.)* Eligibility is determined by the Association, or jointly with the Mentor, from the Contribution Ledger.
 
 The Network Regeneration Contribution is deducted at source per GT-4.4(a) from each band's Net Revenue (GT-1.9); the Resource-cost band, priced at direct delivery cost only, therefore generates no Net Revenue and carries no contribution. *(Pending F1.)*
 
 **4.2 Pricing parameters (two levels).** Pricing parameters are set at two levels: **framework defaults**, recorded at signing of this Agreement where it operates as a framework agreement for multiple Programmes, and **per-Programme values** in each Programme Annex. The Programme Annex prevails for its Programme; the framework default applies where the Annex is silent. The parameters at both levels are:
 - the market rate (per Programme hour or per Programme format);
 - the member-friendly rate (or % discount from market);
-- the resource-cost composition — the categories of direct cost that comprise the Resource-cost price (default: hub usage per hour + materials + food + direct logistics; € values set per Programme);
+- the resource-cost composition — the categories of direct cost that comprise the Resource-cost price (default: materials + food + direct logistics; € values set per Programme; the Asset's standing cost is met by the host Asset holon under GT-4.9, not by the slot);
 - the number of places in each band (per Programme);
 - the **Committed Resource-cost slots cadence** — the number of Resource-cost slots the Mentor reserves, expressed either **per session** (for one-off Programmes) or **per lunation** (~29.53 days, for ongoing/framework Programmes); the Mentor chooses the unit at onboarding (framework level);
 - the eligibility criteria for "highest contribution."
@@ -114,9 +114,11 @@ Where both levels are silent on a parameter, at least one (1) Resource-cost slot
 
 **5.1** **All ticketing, registration, payment processing, and fiscal documentation** shall be handled by or through the Association. The Mentor shall not independently collect participant payments unless expressly authorised in writing.
 
-**5.2** Programme revenue shall first cover: payment processing and fiscal charges; food, accommodation, materials, and logistics; hub operational contribution; steward and organisational costs; communication and administration costs; and the **Network Regeneration Contribution** (General Terms GT-4).
+**5.2** Programme revenue shall first cover: payment processing and fiscal charges; food, accommodation, materials, and logistics; the **Network Regeneration Contribution** (General Terms GT-4.4(a)); and, where the Programme uses an Asset entrusted under Agreement 1, the **Asset Regeneration Contribution** (GT-4.9; see §5.3A). The Asset's operating costs and Steward reimbursement are met through the Asset holon's cost-coverage bucket (GT-4.4(b)), funded by the Asset Regeneration Contribution; the network's administration and promotion are met by the Network Regeneration Contribution. Neither is charged separately to Programme revenue. *(Pending F1.)*
 
-**5.3** After costs, the Mentor receives their agreed share according to the formula in the **Programme Financial Annex**. Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover. The Mentor's share is paid within thirty (30) days of Programme completion and accounting reconciliation. *(Pending F1.)*
+**5.3** After costs, the Network Regeneration Contribution, and the Asset Regeneration Contribution (§5.3A), the Mentor receives their agreed share according to the formula in the **Programme Financial Annex**. Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover. The Mentor's share is paid within thirty (30) days of Programme completion and accounting reconciliation. *(Pending F1.)*
+
+**5.3A Asset Regeneration Contribution.** *(Pending F1.)* Where the Programme uses an Asset entrusted under Agreement 1 (for a place, the host Hub), the **Asset Regeneration Contribution** (GT-4.9) is deducted from Programme Net Revenue — after the Network Regeneration Contribution and before the Mentor's share (§5.3) — at the rate `r_ARC` held in LGR-9, and routed to the host Asset holon, where it covers the Asset's operating costs and Steward reimbursement first and regenerates the Asset with the remainder. The Programme Financial Annex may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9). Resource-cost places, priced at direct delivery cost, generate no Net Revenue and carry no Asset Regeneration Contribution.
 
 **5.4** The Parties may define a minimum viable threshold below which the Programme may be cancelled, rescheduled, or renegotiated.
 

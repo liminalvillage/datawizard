@@ -5,7 +5,7 @@ status: draft
 maturity: draft
 priority: medium
 created: '2026-06-03'
-updated: '2026-06-11'
+updated: '2026-06-15'
 tags:
   - ReGenerativa
   - fund
@@ -40,6 +40,19 @@ When a place takes in money, it moves through the same five steps everywhere in 
 *(How big the slice is, how often this settles, and how much room a place has before surplus overflows or shortfall is caught are all still being decided — see LGR-5, pending F1.)*
 
 A place in a lean stretch is not punished: its free spending simply narrows in proportion to the gap, and the gap is worked off gently over time rather than clawed back all at once. Overspending heals itself this way and never becomes a network matter; only a real, structural shortfall reaches the common pool.
+
+## Two refinements to the order
+
+- **If you earned it on a borrowed place, a slice goes back to *that place* too.** Just as a slice goes to the network (step 1), when money is made using a hub, vehicle, or tool that someone lent to the network at cost, a matching slice returns to *that* place. Monetising a gift should rebuild the gift, not drain it. It is the same idea as the network slice, simply pointed at the asset — the **Asset Regeneration Contribution**.
+- **A place saves toward its own renewal.** Between covering its costs (step 2) and free spending (step 3), a place sets aside a protected line toward **replacing** itself when it wears out — and, where the owner is willing, toward **buying itself outright**. The people who tend it cannot spend this line on anything else; it only grows toward renewal. Over time, this is how a *borrowed* place can become a place the network *owns* (see "From borrowed to owned" below).
+
+## The network is a place too
+
+The network itself is one of these organisms. The **Board tends it the way a steward tends a hub** — covering the shared costs (the platform, insurance, administration), directing what is left to network-wide needs and to catching struggling places, under the same rules and the same one-member-one-vote governance. And it runs the **same five steps**, which means it **cannot hoard**: if the network ever takes in more than it needs, the surplus does not pile up at the centre — it overflows to the common pool like anyone else's. The centre is held to the same metabolism as every place it serves.
+
+## From borrowed to owned: complete commons
+
+Most places start *lent* to the network — used in common, but still privately owned, and the owner can ask for them back. The savings line above is the bridge to something sturdier: as a place sets aside toward its own renewal, it can accumulate enough to **buy itself into the commons** at a fair, pre-agreed price, or an owner can simply **give** it. Once the network owns a place, it can never be sold back out of the commons — by law it can only ever pass to another mission entity. A place that began as a generous loan becomes, in time, permanent shared ground.
 
 ## The two things "contribution" decides
 

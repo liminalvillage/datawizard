@@ -4,14 +4,20 @@ type: strategy
 status: active
 priority: high
 maturity: draft
-created: 2026-06-11
-updated: 2026-06-11
+created: 2026-06-11T00:00:00.000Z
+updated: '2026-06-15'
 tags:
   - strategy
   - ownership
   - value-return
   - F1
   - ReGenerativa
+operator: Roberto Valenti
+edit_log:
+  - >-
+    RG S40 2026-06-15 — added §9 Purchase-side valuation and value-sharing (A1
+    §6.3A): formula price, contingent option, V split network/Owner, steward
+    share via historical signal into the Asset Reserve; added F1 questions 7-9
 ---
 
 # Regeneration Annex - Value Return on Sale
@@ -96,6 +102,57 @@ Retained from the design conversation as garnish, not engine. A natural-person O
 4. **Art. 8 CTS confirmation** - confirm the Owner → Association premium flow is a liberal donation with no indirect-distribution exposure, and check deductibility (Art. 83 CTS).
 5. **Clawback enforceability** - the 5-year post-termination tapering obligation: enforceable as drafted, or does it need its own security/registration to survive termination of A1?
 6. **OMI baseline mechanics** - is the OMI zone index sufficiently determinate for a formula clause, or should the Annex name a fallback (e.g. a jointly appointed valuer) where OMI granularity fails?
+
+## 9. Purchase-side valuation and value-sharing (A1 §6.3A)
+
+*Added 2026-06-15. The sections above return value when the Owner sells to a third party; this is the mirror path - the network acquiring the Asset into permanent commons via A1 §6.3A (the acquisition option added 2026-06-15). Same comodato-sale-purchase axis, same baseline x OMI engine, opposite cashflow. Owner-approved design; all (Pending F1).*
+
+### 9.1 The price: one valuation engine, both directions
+
+The §6.3A(b) standing purchase option price = **baseline x OMI zone appreciation index** - the same "formula price" the sale-side ROFR uses (§3.4, premium excluded). On a standing-option purchase there is no third-party sale price to differentiate, so the price is the formula taken directly (the appraisal that would compute a premium algebraically cancels: market - (market - baseline x OMI) = baseline x OMI). The jointly appointed valuer is the fallback only where OMI granularity fails (§8 Q6); the formula governs the tie-break. One engine across sale and purchase, so an Owner cannot game the gap between the two paths.
+
+### 9.2 Premium-excluded without recharacterising the comodato
+
+Premium-exclusion is framed not as a discount the Owner grants but as **network-generated value the network declines to repurchase**. The Owner receives full value for everything the Owner brought - the original asset plus generic market appreciation (= baseline x OMI); the network simply does not pay for the uplift its own labour and capital created. Nothing flows Owner to Association, so the gratuitousness of the use is intact - the same restitution / unjust-enrichment causa as §4.
+
+The option is **contingent and event-armed, not a standing anytime call**: dormant during normal life, exercisable only on defined triggers (Owner elects to dispose; death / succession / loss of capacity; ceasing to support the purpose or uncured material breach; term expiry or termination). A dormant contingent option carries far less live economic value than a free call, which is what minimises the *comodato modale* exposure. Gratuitousness recital + Art. 1424 conversion clause as backstop, per §4.
+
+### 9.3 Estimating regenerated value `V`: two estimators
+
+`V` is the network-created uplift, with two independent estimators:
+
+- **`V_m` (top-down):** market or sale price - (baseline x OMI). Market-revealed, but over-attributes external windfalls (a new road, rezoning, a neighbour's development) to the network.
+- **`V_c` (bottom-up):** valued tracked contribution - the A1-6 Asset Care Protocol log + the Asset's Ledger partition. Conservative and evidence-grounded, but misses synergy (value beyond the euros-and-hours).
+
+Decided role: the **formula sets the number; `V_c` is evidence + cross-check + valuer tie-break.** Where the two estimators diverge beyond tolerance (the signal that external windfall or unrewarded over-investment is in play), the valuer adjudicates rather than the formula running blind. The Contribution Ledger does double duty - it both sizes `V` and (§9.5) assigns the allocation rights over the network's share.
+
+### 9.4 Splitting `V`: network and Owner, both cash
+
+`V` splits two ways, both euros: an **Owner share** (raises the purchase price above baseline x OMI, or is the slice the Owner keeps on a sale) and a **network share** (into the Association). There is no steward euro carve-out - a personal euro share to stewards is the rejected option of §2 (Art. 8 / Art. 17(3) wall). The Owner share is the fairness-and-recharacterisation dial: any Owner share above zero makes the purchase visibly fair and softens the forced-buyout critique, at the cost of more network cash. The split ratio is an LGR tunable.
+
+### 9.5 The steward share: allocation right through the existing pipes, into the reserve
+
+All money lands in the Association; the steward benefit is **allocation right** (GT-4.3 - delegated authority to direct mission-bound spend, never personal income), assigned by the **historical stewardship signal**: the cumulative stewardship record in the Contribution Ledger, converted to allocation shares by the holon's value system (GT-4.3A, menu in LGR-5 §D). It passes through the existing contribution-to-value-system-to-allocation-right pipe - no new instrument. Because the signal is historical and cumulative, stewards who rotated out keep weight from their tenure, which dissolves the rotating-steward dispute that killed the euro-prorata option. This is a deliberate, scoped stretch of the allocation reading (normally active/recent) toward the historical, kept squarely on the allocation side of the GT-3A.4 money-to-access firewall: the signal is stewardship contribution (not euros) and it drives allocation say (not access priority).
+
+**Why the network share routes to the Asset Reserve, not the operating band.** `V` is capital-scale; the discretionary band is sized to operating cost (edge `nC`). Dropped into one lunation's band, most of `V` would spill straight to the Elder Council (GT-4.4(d)). So `V` is treated as capital and routes to the **Asset Reserve** (GT-4.4B) - a non-overflowing line that ports with the holon rather than spilling upward. With `R` reconciled to the formula price (acquisition-scale, §9.6), the reserve absorbs `V` toward acquiring or replacing the Asset into permanent commons (the GT-4.4B(f) ratchet). Only surplus above `R` reaches the band, where the historical-stewardship allocation right governs it; only genuine excess beyond `nC` overflows to the Elders. So the answer to "would a big chunk overflow to the Elders?" is no - `V` is capital that fills the reserve toward the commons, not operating surplus.
+
+- **Purchase side:** `V_network` is non-cash (value retained by not overpaying); the Asset enters commons directly. The overflow worry is moot.
+- **Sale side** (where the cash inflow actually occurs): the Owner's premium-share is real euros; since the Asset has gone to a third party, the reserve **ports to seed the onboarding / acquisition of a replacement Asset** (GT-4.4B(d)) - the regenerated value carries forward to the next Asset.
+- **Trade recorded:** routing to the reserve makes `V` mission-locked toward the commons (the reserve is steward-untouchable, GT-4.4B(a)); stewards direct only the above-`R` band remainder, plus first call on the reservoir (GT-4.8(a)) and recognition (§7). Chosen over a steward-directed drip-release endowment because it advances the path-to-commons and needs no new clause.
+
+### 9.6 Drafting footprint and tunables (additions to §6)
+
+- **A1 §6.3A(b):** formula price = baseline x OMI; contingent activation triggers; gratuitousness recital; conversion clause; valuer fallback + divergence tie-break rule.
+- **GT-4.4B / LGR-2:** `R` for an acquisition-track Asset tracks the formula price (baseline x OMI), not replacement cost, so the reserve is sized to actually buy; dynamic as the index moves.
+- **LGR:** the `V` network-to-Owner split ratio.
+- **Value system (GT-4.3A / LGR-5 §D):** admit the historical stewardship signal as the basis for regenerated-value allocation.
+- All *(Pending F1)*.
+
+### 9.7 Added F1 questions
+
+7. **Contingent purchase option at formula price** - does a dormant-until-triggered, restitution-framed option to buy at the premium-excluded formula price stay within *comodato modale*? Answers symmetrically with §8 Q1 (one ruling covers both directions). Mirrors Engagement Brief Block 3 #6 / Nota Q10.
+8. **Historical-signal-for-allocation** - confirm that feeding the historical stewardship signal into an allocation right sits on the allocation side of the GT-3A.4 firewall (stewardship, not euros; allocation say, not access priority) and raises no Art. 17(3) volunteer-remuneration issue.
+9. **`R` sized to acquisition price** - admissibility, for a comodato Asset, of accruing a *riserva vincolata* toward the formula acquisition price rather than replacement cost (links Nota §9 / Q9).
 
 ---
 

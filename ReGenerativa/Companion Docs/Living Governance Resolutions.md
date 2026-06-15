@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.12'
+version: '1.14'
 priority: high
 maturity: working
-created: 2026-05-16
-updated: 2026-06-11
+created: 2026-05-16T00:00:00.000Z
+updated: '2026-06-15'
 tags:
   - governance
   - ReGenerativa
@@ -107,6 +107,12 @@ the following framework applies:
     document (Asset DNA — the Permitted Use annex A1-2, or the fuller Hub DNA A1-5
     for a place / Project Sheet / Venture Sheet); includes Steward
     activity-cost reimbursement under A3 §8–§9 and GT-12.
+- **Asset Reserve target** (per GT-4.4B):
+  - `R` - the Asset's replacement cost, recorded in the same mandate document as
+    `C`; the cap to which the Asset Reserve accrues as a priority claim between
+    cost-coverage and discretionary. A holon with no replaceable capital sets
+    `R = 0`; the Association holon carries `R` only for its own infrastructure
+    (e.g. the digital platform), never to acquire other holons' Assets. *(Pending F1.)*
 - **Elder Council cost-coverage target** (per GT-4.4(b), Elder Council row):
   - `O_e` - Elder Council Operating target (governance operating costs: convening,
     deliberation, documentation), set by Board in consultation with the Council.
@@ -315,6 +321,47 @@ review; revisable by Decision Log entry.
 A6-4 §2, and Operational Procedures §K.1 follow it.
 
 **Status.** Provisional - Pending F1 - 2026-06-10.
+
+---
+
+## LGR-9 — Asset Regeneration Contribution (GT-4.9)
+
+**Serves.** GT-4.9: the Asset Regeneration Contribution `r_ARC` (with floor
+`r_ARC_min`) levied on Net Revenue from activity that uses an Asset entrusted under
+Agreement 1, routed to the host Asset holon. Also referenced by Agreement 4 §5.3A,
+Agreement 6 §10A, Agreement 7, and Agreement 3 §6.2 where they apply GT-4.9.
+
+**Resolution (Provisional - Pending F1).** Two figures, set by Board, network-wide:
+
+- **`r_ARC`** - the default Asset Regeneration Contribution rate, applied to the
+  activity's Net Revenue (GT-1.9, i.e. after direct delivery costs and fiscal charges)
+  remaining **after** the Network Regeneration Contribution (GT-4.4(a)), and deducted
+  before any operator or participant distribution. Provisional default **25%**.
+- **`r_ARC_min`** - the hard floor below which `r_ARC` may not be tuned by any activity
+  economic annex, so that sharing back always occurs where an entrusted Asset is
+  monetised. Provisional floor **10%**.
+
+The default applies network-wide. An activity's economic annex (Programme Financial
+Annex under A4; Project economics under A6; Venture Sheet under A7) may set a different
+rate only with the written agreement of the host Asset's Steward(s), and never below
+`r_ARC_min`. Activity priced at cost (no Net Revenue), including the A4 Resource-cost
+band, carries no ARC.
+
+**Basis.** An Asset is entrusted gratuitously or at cost under Agreement 1; it is not
+fair for an operator to monetise on that gift without sharing back. The ARC returns a
+share of the surplus to the host Asset holon, where the standard allocation shape
+(GT-4.4) covers the Asset's costs first and regenerates the Asset with the remainder -
+the Asset's complement to the network-facing NRC. Held as a resolution rather than
+fixed in the agreements so the rate can be tuned to observed Asset running costs and
+the F1 fiscal review without re-signing. The provisional figures are placeholders
+pending owner/Board ratification.
+
+**Review.** Reviewed by the Board at least annually alongside the *bilancio sociale*,
+and at the F1 review; revisable by Decision Log entry at any time.
+
+**Citation.** GT-4.9 cites this resolution; A4 §5.3A, A6 §10A, A7, and A3 §6.2 follow it.
+
+**Status.** Provisional - Pending F1 - 2026-06-15. Specific figures awaiting Board ratification.
 
 ---
 

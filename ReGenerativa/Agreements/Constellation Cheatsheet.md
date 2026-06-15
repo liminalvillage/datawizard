@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-06-11'
+updated: '2026-06-15'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -44,7 +44,7 @@ updated: '2026-06-11'
 | GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement |
 | GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log; one record partitioned by holon, GT-1.7; visibility per GT-3.4A / LGR-8 — currently all-visible); contribution recognition stated once for every agreement (GT-3.5); optional resource-sharing / H3 tools (roadmap) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the common reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5). *(Pending F1.)* Plain-language walk-through: [[The Fund in Plain Language]]. |
+| GT-4 | Unified Fund — NRC at the Board-set Network NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). Where activity uses an Asset entrusted under A1, an **Asset Regeneration Contribution (ARC, GT-4.9)** is also taken — after the NRC, before the operator's share — and routed to the host Asset holon, where the same shape covers the Asset's cost first and regenerates it with the rest (NRC feeds the network; ARC feeds the Asset — the two are network/asset scopes of **one Regeneration Contribution**, GT-4.4C). The **Association holon is an ordinary holon** stewarded by the Board — same shape, non-terminal, so the network **can't hoard** (its surplus overflows to the council). Assets may hold an **Asset Reserve** (GT-4.4B): a protected line filling (to replacement cost `R`) between cost-coverage and discretionary, toward replacing or buying the Asset into **complete commons** (A1 §6.3A). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the common reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5); ARC rate in LGR-9. *(Pending F1.)* Plain-language walk-through: [[The Fund in Plain Language]]. |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-6A | Termination for serious cause — one shared standard for every agreement, either party; individual agreements add only role-specific causes or staged processes |
@@ -83,6 +83,8 @@ There are **no tiers and no perk table**, and no record buys a vote. One rule go
 
 Each steward, mentor, or hub sets, in good faith, how many places are free and how price slides with contribution for the resource they hold. The purpose is abundance and circulation, not gatekeeping. The Passport is simply the portable, cumulative record of contribution the rule reads from. Full detail: [[Network Passport]].
 
+Access to a specific Asset is always subject to asset-level controls, each reasoned in writing and reviewable under GT-7: the Owner's exclusion right (A1 §2.7, final say with the Owner) and the Steward's access veto (A3 §4.4, overturnable on review). The Owner may also **require** a named person be given access (A1 §2.8) — which overrides a Steward's veto, subject only to safety, capacity, DNA, and law. All are asset-scoped — membership and Passport record are untouched. *(Pending F1.)*
+
 **Three readings of the record** *(Pending F1)*: **lifetime-cumulative** contribution governs *access* (the rule above), portable and rankless; **active/recent** contribution to a holon governs *allocation say* — your share of that holon's discretionary spend (GT-4.3; A2 §2.7) — local to where you tend, and administration only, never a governance vote; and **€-valued entries** in a Project or Venture partition compute *distribution* shares (A6 §9–§10; A7 §7) — euro values never feed the access measure (GT-3A.4). Plain-language walk-through: [[The Fund in Plain Language]].
 
 ---
@@ -93,6 +95,8 @@ Each steward, mentor, or hub sets, in good faith, how many places are free and h
 |---|---|---|
 | Annual membership fee | €25 | A2, Clause 4.1 |
 | Network NRC Rate (active holons, Board-set, uniform) | within 3–10% (default 5% absent Board figure) | GT-4.4(a), LGR-2 |
+| Asset Regeneration Contribution (ARC) — activity on an entrusted Asset | default 25%, floor 10% (provisional) of Net Revenue after NRC, to host Asset holon | GT-4.9, LGR-9 *(pending F1)* |
+| Asset Reserve target `R` (per asset) | replacement cost (provisional; `R` = 0 if no replaceable capital) | GT-4.4B, LGR-2 *(pending F1)* |
 | Settlement cycle (living balance) | one lunation (~29.53 days) | GT-4.4A, LGR-5 *(pending F1)* |
 | Band of tolerance `n` (sovereign zone ±nC) | provisional 3 lunations-of-cost, earned wider | GT-4.8, LGR-5 *(pending F1)* |
 | Downward backstop `k` (Association absorbs) | provisional 6 lunations | GT-4.8, LGR-5 *(pending F1)* |

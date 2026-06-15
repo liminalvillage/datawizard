@@ -1,10 +1,10 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.9'
+version: '3.12'
 status: active
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-06-15'
 tags:
   - agreement
   - ownership
@@ -56,6 +56,12 @@ tags:
 
 **2.5** Having unlocked the Asset for the commons, the Owner holds **fair-use access to the network and community activities hosted at the Asset**, free at the point of use, on the footing of a contributing participant. This access is subject to capacity, safety, and the Asset's DNA (GT-1.5), and may not displace a participant who has booked or a Steward's operational needs. It does not waive a Programme's direct delivery cost: where a Mentor's Programme recovers its resource-cost (Agreement 4; GT-4), the Owner covers that cost like any other participant, the Mentor's labour remaining the gift. This access is personal fair use and confers no commercial benefit — the Owner's commercial activities remain governed by Clause 2.4. *(Pending F1.)*
 
+**2.6 Owner's Choice of Stewards.** The Owner may designate which Steward or Stewards hold the stewardship of the Asset for any given period, including different Stewards for different periods — seasonal, rotating, or project-based, per Agreement 3, Clause 15.2 — and may veto a proposed Steward appointment before it is formalised, stating the reasons in writing. The Association formalises each designation through a Stewardship Agreement; every designee must satisfy the membership prerequisite (Agreement 3, Clause 1.7). A designation change affecting a serving Steward proceeds under the notice and termination protections of Agreement 3 (Clauses 3.3 and 16). *(Pending F1.)*
+
+**2.7 Owner's Access Veto.** The Owner may exclude a named individual from access to or utilisation of the Asset by written notice to the Association stating the reasons for the exclusion. The Association and the Steward(s) shall give effect to the exclusion. The exclusion is asset-scoped: it does not affect the person's membership, Network Passport record, or standing elsewhere in the network, and it may not be exercised contrary to mandatory anti-discrimination law. The excluded person may refer the exclusion to review under GT-7, including the interim panel of GT-7.2; the review may facilitate a conversation between those affected and records its finding, but the final decision over access to the Asset rests with the Owner. *(Pending F1.)*
+
+**2.8 Owner's Designated Access.** The Owner may designate a named individual who is to be granted access to or use of the Asset, by written notice to the Association. The Association and the Steward(s) shall give effect to the designation, and a Steward may not deny access to a person so designated (Agreement 3, Clause 4.4). Such access is subject to safety, the Asset's carrying capacity, the Asset DNA (GT-1.5), and applicable law, and may not displace a participant who has already booked or a Steward's operational needs. It is personal access that confers no role, governance, or commercial benefit, and does not waive a Programme's direct delivery cost (Clause 2.5). *(Pending F1.)*
+
 ---
 
 ## 3. Association's Obligations
@@ -86,7 +92,7 @@ Where activation stalls, the Parties shall first seek to re-tune the activation 
 
 ## 4. Owner's Obligations
 
-**4.1 Peaceful Possession.** Ensure that the Association has undisturbed and peaceful use of the Asset for the duration of this Agreement. The Owner shall not interfere with or interrupt the Association's legitimate use, provided the Association is in compliance with the terms herein.
+**4.1 Peaceful Possession.** Ensure that the Association has undisturbed and peaceful use of the Asset for the duration of this Agreement. The Owner shall not interfere with or interrupt the Association's legitimate use, provided the Association is in compliance with the terms herein. The exercise of the Owner's rights under Clauses 2.6, 2.7, and 2.8 does not constitute interference under this Clause. *(Pending F1.)*
 
 **4.2 Extraordinary Maintenance and Repairs.** At the Owner's own expense, take responsibility for all extraordinary maintenance and major repairs of the Asset. "Extraordinary maintenance" refers to substantial repairs or replacements necessary due to structural issues, wear and tear beyond ordinary use, or unforeseen damage (for example: roof replacement, structural wall repair, major system overhauls for real estate; or, for equipment, major part replacement not attributable to misuse). The Owner shall carry out such repairs within a reasonable time after notification.
 
@@ -121,6 +127,18 @@ The incoming owner shall be provided with a copy of this Agreement, the current 
 During this thirty-day period, the Stewardship Agreement remains in full effect and the Steward's position is protected. If the incoming owner does not confirm assumption of obligations within thirty (30) days, this Agreement terminates at the end of that period. The Association shall notify the Steward of the outcome within 14 days of the incoming owner's response or the expiry of the thirty-day period, whichever is earlier.
 
 Unless the incoming owner agrees in writing to assume the Owner's obligations, this Agreement terminates upon such transfer. The Steward is entitled to the full notice period under the Stewardship Agreement from the date of termination notification.
+
+**6.3A Network Acquisition and Path to Commons.** *(Pending F1.)* The Parties record their shared intention that the Asset may, over time, pass from gratuitous use into permanent commons — owned by the network and held under the non-distribution constraint and the dissolution-devoluzione of GT-13 (Art. 9 of the Third Sector Code), so that it can never be re-privatised. To that end:
+
+(a) **Right of first refusal.** Should the Owner decide to sell or otherwise transfer the Asset (Clause 6.3), the Association may acquire it on terms no less favourable than any bona fide third-party offer, exercisable in writing within thirty (30) days of the Owner's notice.
+
+(b) **Standing purchase option (optional).** Where the Owner so elects in Annex 1, the Association holds a standing option to purchase the Asset at a fair valuation determined by the method recorded there (failing which, by an independent valuer appointed jointly). This Agreement does not otherwise oblige the Owner to sell.
+
+(c) **Funding.** An acquisition under (a) or (b) is funded from the Asset holon's Asset Reserve (GT-4.4B), topped up where necessary by Board allocation; it is proposed by the host Steward(s) and approved by the Board.
+
+(d) **Donation route.** The Owner may instead donate the Asset into the commons under Agreement 5, with the fiscal treatment of a donation.
+
+An Asset acquired or donated under this Clause is thereafter held by the Association as complete commons (GT-4.4B(f)).
 
 **6.4 No Compensation.** Upon termination, the Association shall not be entitled to compensation for improvements (except as separately agreed under Annex 4), and the Owner shall not owe compensation to the Association for cessation of use.
 

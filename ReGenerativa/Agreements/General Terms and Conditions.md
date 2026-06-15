@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.24'
+version: '3.26'
 status: active
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 tags:
   - general-terms
   - ReGenerativa
@@ -132,7 +132,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 
 **GT-4.4 — The shape (every holon).** Every holon's allocation runs through the same shape, in this order:
 
-(a) **Network Regeneration Contribution at source.** Where the holon generates Net Revenue from economic activity, a contribution at the **prevailing Network NRC Rate** is deducted at source and routed to the Association holon before any local allocation. The Network NRC Rate is set by Board resolution within **three percent (3%) to ten percent (10%)** and applies **uniformly** to all active holons — no per-holon, per-Project, or per-Venture negotiation. The rate is held as a Living Governance Resolution (LGR-2); absent a Board-ratified figure, the rate is five percent (5%). For Partnership Agreement activities, the contribution is a structure cost deducted before Partner distribution. The Association holon, the Elder Council, and non-economic inflows (unrestricted contributions, grants) are exempt from this carve-out. **Post-Emergence entities under Agreement 7** are governed by Agreement 7 Annex 3 §2, which sets their rate at the moment of Emergence (within the same 3–10% range) and locks it perpetually, independent of subsequent changes to the Network NRC Rate.
+(a) **Network Regeneration Contribution at source.** Where the holon generates Net Revenue from economic activity, a contribution at the **prevailing Network NRC Rate** is deducted at source and routed to the Association holon before any local allocation. The Network NRC Rate is set by Board resolution within **three percent (3%) to ten percent (10%)** and applies **uniformly** to all active holons — no per-holon, per-Project, or per-Venture negotiation. The rate is held as a Living Governance Resolution (LGR-2); absent a Board-ratified figure, the rate is five percent (5%). For Partnership Agreement activities, the contribution is a structure cost deducted before Partner distribution. The Association holon, the Elder Council, and non-economic inflows (unrestricted contributions, grants) are exempt from this carve-out. **Post-Emergence entities under Agreement 7** are governed by Agreement 7 Annex 3 §2, which sets their rate at the moment of Emergence (within the same 3–10% range) and locks it perpetually, independent of subsequent changes to the Network NRC Rate. Where the activity uses an Asset entrusted under Agreement 1, a further share is routed to the host Asset holon per **GT-4.9** (after this contribution, before any operator distribution). The Network Regeneration Contribution is the network-scope of the single Regeneration Contribution (GT-4.4C); its presentation as an at-source deduction, as against a cost-coverage line, is reserved for F1. *(Pending F1.)*
 
 (b) **Cost-coverage bucket.** The holon's own operating costs are reserved first against a published target, including Steward activity-cost reimbursement under Agreement 3 §8–§9 and Clause GT-12. Contents per holon type:
 - *Association holon:* the Association's legal-entity operating costs — administration, Article 18 CTS insurance, fiscal-hosting platform fees, and similar network-level structural costs;
@@ -149,6 +149,28 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 (b) **Throttle on shortfall** — while a holon carries an uncovered shortfall, its discretionary envelope (GT-4.4(c)) narrows in proportion to the depth of that shortfall;
 (c) **Give** — a holon in lasting surplus contributes the excess upward to the Elder Council holon, the network's common reservoir (GT-4.4(d));
 (d) **Absorb** — a holon in genuine, sustained shortfall beyond its band of tolerance is supported from that same reservoir, under GT-4.8.
+
+**GT-4.4B — Asset Reserve (replacement and acquisition).** *(Pending F1.)* An Asset holon may accumulate a protected capital reserve for renewing the Asset it stewards, integrated into the shape of GT-4.4 as a priority claim **between cost-coverage (b) and discretionary allocation (c)**:
+
+(a) **Position and protection.** After cost-coverage (b) is met, surplus accrues to the Asset Reserve up to the Asset's replacement-cost target `R` (recorded in the Asset's mandate document — the Permitted Use annex A1-2 or Hub DNA A1-5 — and held per LGR-2) before the Steward's discretionary allocation (c). The discretionary ceiling remains `D = α·C` on operating cost-coverage `C` alone, so accruing the reserve never enlarges the Steward's discretionary envelope, and the discretionary allocation cannot draw on the reserve. The protection is **structural** — it follows from the reserve's position in the shape, not from any allocator's restraint.
+
+(b) **A distinct line.** The reserve is a distinct accumulated line, separate from the holon's operating carried balance (GT-4.4A). An operating shortfall heals from the carried balance and, if genuine and sustained, the common reservoir (GT-4.8) — never from the Asset Reserve.
+
+(c) **Earmarked.** Held only to **acquire** the Asset (purchasing it into the commons, Agreement 1 §6.3A) or **replace** it (an equivalent Asset where the entrusted one is lost, withdrawn, or worn beyond economic repair).
+
+(d) **Per Asset, portable.** The reserve belongs to the Asset holon, not to a single physical Asset: where the entrusted Asset's tenure ends before acquisition, the reserve **ports with the holon to a replacement Asset** rather than overflowing upward. One Asset's reserve does not fund another's.
+
+(e) **Deployment.** Deployed on the host Steward(s)' written proposal and the Board's approval, as for any allocation above the single-signature ceiling (GT-4.5(c)).
+
+(f) **One-way ratchet.** An Asset acquired through the reserve enters the network's patrimony as **complete commons**: thereafter subject to the non-distribution constraint (GT-4.5(g)) and devoluzione on dissolution (GT-13; Art. 9 CTS), it cannot be re-privatised.
+
+(g) **Self-similar.** A holon with no replaceable capital simply sets `R = 0` and this clause is inert for it; the Association holon carries an `R` only for its own infrastructure (for example the digital platform), never to acquire other holons' Assets.
+
+**GT-4.4C — The network is an ordinary holon.** *(Pending F1.)* The Association holon runs the same shape as every other holon (GT-4.4(a)–(d)): its cost-coverage `C` is the network's operating costs (LGR-2, `K_a`); its discretionary bucket is the Board's allocation to network-wide programmes and inter-holon top-ups (c); and it is **not terminal** — any surplus above its discretionary ceiling overflows to the Elder Council (d). The network therefore **cannot accumulate beyond its mandate**: a Regeneration Contribution rate set higher than the network needs does not pool at the centre but spills into the common reservoir as mutual insurance.
+
+The **Board (Consiglio Direttivo) is the network holon's Steward** — it directs the Association holon's allocation exactly as a Hub's Steward directs a Hub's, bound by the same hard rails (GT-4.5: anti-self-dealing, the two-signature ceiling, the two-part purpose test, non-distribution), within the Allocation Model the Assembly adopts (GT-4.6) and under the Elder Council's allocation-transparency challenge (Agreement 8) and the *bilancio sociale* (GT-4.7).
+
+The **Network Regeneration Contribution** (GT-4.4(a)) and the **Asset Regeneration Contribution** (GT-4.9) are the **network-scope and asset-scope of one principle**: using a shared holon's resource — the network's infrastructure, or an entrusted Asset — carries a contribution to that holon's regeneration, covering its cost-coverage and feeding the one shape. *F1 reservation:* whether the Network Regeneration Contribution is presented as an at-source deduction (as in GT-4.4(a) today) or recast as a cost-coverage line in each holon's `C` is a fiscal-presentation question reserved for the F1 review; its purpose — covering the network holon's cost-coverage and regeneration — is settled either way.
 
 **GT-4.5 — Hard rails.** Every allocator (Board for the Association holon, Stewards for Hub/Venture/Project holons, Elder Council for its own holon) operates within the same procedural rails:
 (a) **Subsidiarity** — within mandate, under the ceiling, with the cost-coverage bucket secured, the allocator decides; no higher-level pre-approval of in-scope spend;
@@ -172,6 +194,16 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 (c) **Asymmetry.** Measures that tighten a holon's autonomy (narrowing the band, adding oversight) may follow automatically from the measured balance; measures that loosen it (widening the band, raising the cost-coverage target) require a deliberate decision by the competent allocator, so that generosity is not gamed.
 
 (d) **Return on feeding the reservoir.** A holon's voluntary upward contribution (GT-4.4A(c)) earns, on the terms set in the Allocation Model: **mutual insurance** — first call on the reservoir's support under (a); **earned autonomy** — a wider band of tolerance under (b); and **recognition** — the contribution is recorded in the contributing Stewards' Network Passports (GT-3A) as a network-level contribution, on the lifetime-cumulative reading that governs access standing (and, in time, Eldership eligibility under Agreement 8 and LGR-1). These returns confer **no governance vote, no allocation voice, and no personal income** (GT-4.5(d), (g); GT-11): feeding the commons is seen and remembered, never enfranchised. *(Pending F1.)*
+
+**GT-4.9 — Asset Regeneration Contribution (ARC).** *(Pending F1.)* Where a holon generates Net Revenue (GT-1.9) from economic activity that uses an Asset entrusted to the network under Agreement 1 — whether the Asset was entrusted gratuitously or at cost — a single **Asset Regeneration Contribution** at the prevailing rate `r_ARC`, never below the floor `r_ARC_min`, is deducted **after** the Network Regeneration Contribution (GT-4.4(a)) and **before** any operator or participant distribution, and routed to the **host Asset holon**. The rate is held as a Living Governance Resolution (LGR-9); absent a Board-ratified figure, the provisional default applies.
+
+(a) **One inflow, the standard shape.** The ARC enters the host Asset holon's allocation under GT-4.4: it covers the Asset's cost-coverage bucket first (GT-4.4(b), including Steward activity-cost reimbursement under Agreement 3 §8–§9), then accrues to the Asset Reserve up to its replacement target (GT-4.4B), then funds the Asset's discretionary regeneration, with any remainder overflowing to the common reservoir (GT-4.4(d)). No separate off-the-top cost-recovery line is needed — the Asset is a holon like any other, running the one shape of GT-4.4.
+
+(b) **Complement to the NRC.** Where the NRC returns a share of activity to the *network*, the ARC returns a share to the *Asset that hosts it*, so that value drawn from a gift given at cost regenerates the gift rather than being privatised by the operator. The ARC is a local distribution to the host holon, not a network carve-out; the Association holon, the Elder Council, and non-economic inflows do not levy it. NRC and ARC are the network-scope and asset-scope of the one Regeneration Contribution (GT-4.4C).
+
+(c) **Override within a floor.** The economic annex of the activity (the Programme Financial Annex under Agreement 4; the Project economics under Agreement 6; the Venture Sheet under Agreement 7) may set a rate different from the default, but only with the written agreement of the host Asset's Steward(s) — who hold the Asset's interest — and never below `r_ARC_min`. Where the operator is also the host Steward, GT-11.7 applies and the Association names another to represent the Asset.
+
+(d) **Scope.** The ARC applies only to Assets entrusted under Agreement 1. Activity priced at cost, generating no Net Revenue — including the Resource-cost band of Agreement 4 — yields no ARC; where an Asset is used mainly for gift or at-cost activity, its cost-coverage is carried through its living balance and, where genuinely short, the common reservoir (GT-4.4A, GT-4.8).
 
 ---
 

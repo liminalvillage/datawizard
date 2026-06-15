@@ -4,8 +4,8 @@ type: strategy
 status: active
 priority: high
 maturity: working
-created: 2026-06-10
-updated: 2026-06-10
+created: 2026-06-10T00:00:00.000Z
+updated: '2026-06-15'
 tags:
   - strategy
   - balance-review
@@ -18,6 +18,8 @@ tags:
 *A full in-depth review of the constellation (reviewed against GT v3.19, A1 v3.8, A2 v3.8, A3 v3.12, A4 v3.6, A5 v3.3, A6 v3.3, A7 v1.8, A8 v1.8, key annexes and companion docs as of 2026-06-10) focused on **balance between the parties**: where the contract architecture leaves one class exposed, over-protected, or without a remedy. Complements [[F1 Pre-Review - Fiscal Notes - 2026-06-10]] (fiscal exposure) - this review is contractual/relational. Companion deliverable: [[Constellation FAQ - Concerns by Agreement - 2026-06-10]], since rewritten as a plain-language signer's guide answering each class's concerns from the post-fix text.*
 
 > **STATUS - APPLIED.** All three fix chunks derived from this review were applied on 2026-06-10 with owner approval (clause text shown in chat first): GT → v3.20, A1 → v3.9, A2 → v3.9, A3 → v3.13, A4 → v3.7 (§5A renumbered: old 5A.3 → 5A.2, old 5A.4 → 5A.3), A5 → v3.4, A6 → v3.4, A7 → v1.9, A8 → v1.9; annexes A2-1, A5-1, A6-3 v1.2, A7-1 v1.2; LGR v1.9 (new LGR-7); Operational Procedures v1.7; Cheatsheet key-numbers synced. Every new clause is marked* (Pending F1)*. The gap descriptions below are retained as the analysis of record; each "fix direction" was implemented as described unless noted. Items X5, X7, A2-G2, A3-G3, A5 network-side, A8-G3 required no edit (resolved by design or by other fixes).*
+
+> **ADDENDUM - 2026-06-15 (new finding, addressed).** A balance seam not caught in the 2026-06-10 pass: an operator (Mentor, Partner, Venture) could monetize on an Asset entrusted gratuitously/at cost under Agreement 1 while the host Asset received only cost recovery, no share of the surplus the gifted context enabled. Resolved by the **Asset Regeneration Contribution (ARC)**: new **GT-4.9** (general, self-executing principle - value made on an entrusted Asset shares back to that Asset and the commons), figure in **LGR-9** (default 25%, floor 10%, provisional), applied via pointers in A4 §5.3A, A6 §10A.3, A7 §7.3, A3 §6.2. The one-share model also removed a duplication in A4 §5.2 (hub operational contribution + steward costs now met holon-side via ARC). GT → v3.25, A3 → v3.18, A4 → v3.9, A6 → v3.8, A7 → v1.12, LGR → v1.13. Every new clause *(Pending F1)*. Rationale of record: [[0.3 Decision Log]] (2026-06-15).*
 
 **Severity key.** **High** = could materially harm a class or be exploited; fix before signature. **Medium** = real but bounded; fix in next drafting pass. **Low** = polish, clarity, or transitional.
 

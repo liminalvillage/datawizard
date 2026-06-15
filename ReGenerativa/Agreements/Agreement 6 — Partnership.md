@@ -1,10 +1,10 @@
 ---
 title: Agreement 6 — Partnership
 type: agreement
-version: '3.7'
+version: '3.8'
 status: active
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 tags:
   - agreement
   - partnership
@@ -146,7 +146,7 @@ The collaboration is guided by:
 
 ## 10. Revenue Flow and Distribution
 
-**10.1** Project revenues flow as follows: the client pays the Vehicle Entity; agreed direct costs are covered; structure costs (including the NRC per Clause 10A) are deducted; the remaining Net Project Revenue is allocated among Partners according to validated shares.
+**10.1** Project revenues flow as follows: the client pays the Vehicle Entity; agreed direct costs are covered; structure costs (including the NRC and, where an entrusted Asset is used, the Asset Regeneration Contribution, per Clause 10A) are deducted; the remaining Net Project Revenue is allocated among Partners according to validated shares.
 
 **10.2** Each Partner shall issue the necessary invoice, receipt, or fiscal documentation. Distribution shall occur within thirty (30) days of receipt and accounting completion.
 
@@ -157,6 +157,8 @@ The collaboration is guided by:
 **10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
 
 **10A.2** The applicable rate is the **prevailing Network NRC Rate** (GT-4.4(a); LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue.
+
+**10A.3 Asset Regeneration Contribution.** *(Pending F1.)* Where a Project uses an Asset entrusted to the network under Agreement 1 (for example, a Project run at a Hub), the **Asset Regeneration Contribution** (GT-4.9) is a further structure cost: it is deducted from Project revenue — after the Network Regeneration Contribution and before Net Project Revenue is calculated for distribution to Partners — at the rate `r_ARC` (LGR-9), and routed to the host Asset holon. The Project Sheet may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9).
 
 **10A.3** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
 
