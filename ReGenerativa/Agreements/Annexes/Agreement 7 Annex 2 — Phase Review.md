@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-2
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 status: template
 tags:
   - annex
@@ -59,7 +59,7 @@ tags:
 | Financial self-sustainability demonstrated | ☐ Yes  ☐ Partially  ☐ No | [revenue data, cost coverage period] |
 | External client relationships established | ☐ Yes  ☐ No | [number of clients, revenue generated, duration] |
 | Governance structure capable of independent operation | ☐ Yes  ☐ Partially  ☐ No | [describe decision-making processes, internal roles] |
-| NRC payments current and compliant | ☐ Yes  ☐ No | [confirm rate, amounts paid, dates] |
+| Network Regeneration Contribution (NRC) payments current and compliant | ☐ Yes  ☐ No | [confirm rate, amounts paid, dates] |
 | Network service obligation maintained (min. 70% capacity) | ☐ Yes  ☐ Partially  ☐ No | [evidence of network service during Phase 2] |
 | Proposal for Phase 3 or Emergence submitted | ☐ Yes  ☐ No | [attach or reference] |
 
@@ -89,7 +89,7 @@ tags:
 
 **Planned external client types / sectors:** ___
 
-**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a) (current rate per LGR-2); applies at revenue recognition. Not negotiated per Venture.
+**NRC rate at transition:** prevailing NRC Rate per GT-4.4(a) (current rate per LGR-2); applies at revenue recognition. Not negotiated per Venture.
 
 **Fiscal arrangement:** ☐ Continue under Association umbrella  ☐ Venture will incorporate as: [legal form] by [DD/MM/YYYY]
 
@@ -110,7 +110,7 @@ tags:
 
 **Legal entity status:** ☐ Already incorporated as: [form, date]  ☐ Will incorporate by: [DD/MM/YYYY]
 
-**NRC rate at transition:** prevailing Network NRC Rate per GT-4.4(a) (current rate per LGR-2); applies at revenue recognition. Not negotiated per Venture.
+**NRC rate at transition:** prevailing NRC Rate per GT-4.4(a) (current rate per LGR-2); applies at revenue recognition. Not negotiated per Venture.
 
 **Network service commitment for Phase 3:**
 [Describe specifically how the minimum 40% network service capacity will be maintained]

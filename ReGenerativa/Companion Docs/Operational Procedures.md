@@ -8,7 +8,7 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-06-11'
+updated: '2026-06-15'
 version: '1.11'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
@@ -124,7 +124,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - If Venture falls to one Member: Association + remaining/former Members agree path within **30 days** (A7 §11.5)
 
 ### D.7 NRC Remittance
-- NRC transferred to Unified Fund (GT-1.10) within **30 days** of revenue receipt and accounting completion (A7 §7.2)
+- Network Regeneration Contribution (NRC) transferred to Unified Fund (GT-1.10) within **30 days** of revenue receipt and accounting completion (A7 §7.2)
 - Distributions to Venture Members within **30 days** of revenue receipt and accounting completion (A7 §7.3)
 
 ---
@@ -218,7 +218,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ## Section J — Unified Fund (GT-4)
 
 ### J.1 NRC at source
-- The Network NRC Rate (band, default, uniform application across active holons, and exemptions) and the post-Emergence perpetual rate (A7-3 §2) are defined in GT-4.4(a) and held as a parameter in LGR-2 (`r_NRC`) — not restated here. Operational remittance windows are in §D.7 (Ventures) and §E.1 (Partnerships).
+- The NRC Rate (band, default, uniform application across active holons, and exemptions) and the post-Emergence perpetual rate (A7-3 §2) are defined in GT-4.4(a) and held as a parameter in LGR-2 (`r_NRC`) — not restated here. Operational remittance windows are in §D.7 (Ventures) and §E.1 (Partnerships).
 
 ### J.2 The shape (every holon)
 - Every holon runs the same self-similar shape — NRC out → cost-coverage bucket → Steward discretionary allocation (the *delega di spesa*, GT-4.3) → upward overflow to the Elder Council (terminal). The buckets, ceilings, parameter symbols, and settlement-over-time (the living balance) are defined in GT-4.4 / GT-4.4A and held as parameters in LGR-2 — not restated here.

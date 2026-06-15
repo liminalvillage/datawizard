@@ -4,7 +4,7 @@ type: annex
 annex_ref: A6-3
 parent_agreement: Agreement 6 — Partnership
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 status: template
 tags:
   - annex
@@ -130,7 +130,7 @@ Contributions become Validated when:
 
 **Structure costs** (per [[Agreement 6 Annex 2 — Economics Schedule]] Part A):** €___ (estimated)
 
-**Network Regeneration Contribution:** the prevailing Network NRC Rate per GT-4.4(a) (current rate per LGR-2) applies at the time the Project's revenue is recognised. No per-Project negotiation (A6 §10A.2).
+**Network Regeneration Contribution (NRC):** the prevailing NRC Rate per GT-4.4(a) (current rate per LGR-2) applies at the time the Project's revenue is recognised. No per-Project negotiation (A6 §10A.2).
 
 **Network Regeneration Contribution** (computed): €___ (estimated)
 

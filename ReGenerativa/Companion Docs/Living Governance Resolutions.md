@@ -82,7 +82,7 @@ contribution-history data; revisable by Decision Log entry.
 
 ## LGR-2 — Unified Fund allocation parameters (GT-4.6)
 
-**Serves.** GT-4.6: per-holon parameters (NRC rate within 3–10%, cost-coverage target,
+**Serves.** GT-4.6: per-holon parameters (Network Regeneration Contribution [NRC] rate within 3–10%, cost-coverage target,
 discretionary ceiling, shape stiffness) are set by Board resolution (for the
 Association holon and network-wide defaults) and by Stewards within their mandate (for
 their own holon), held as Living Governance Resolutions. Also serves Agreement 8 §4.2
@@ -93,7 +93,7 @@ their own holon), held as Living Governance Resolutions. Also serves Agreement 8
 holon is the parameter values. Specific figures are deferred to Board ratification;
 the following framework applies:
 
-- **Network NRC Rate** (per GT-4.4(a)):
+- **NRC Rate** (per GT-4.4(a)):
   - `r_NRC` - the single uniform rate, within 3–10%, applied to all active holons at
     source. Set by Board. Absent a Board-ratified figure, the rate is 5%. Note: this
     is the rate for active operations; post-Emergence entities (A7-3 §2) carry their

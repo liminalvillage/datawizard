@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-1
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 status: template
 tags:
   - annex
@@ -14,7 +14,7 @@ tags:
   - demand-signal
 version: '1.3'
 ---
-*Annex 1 to the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]]. Activated at the moment a Venture Holon is approved. Documents the Demand Signal the venture is responding to, defines the venture's scope, phase, milestones, NRC rate, and membership. Contributing Members join by signing this document. File completed copies as: "A7-1 — [Venture Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
+*Annex 1 to the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]]. Activated at the moment a Venture Holon is approved. Documents the Demand Signal the venture is responding to, defines the venture's scope, phase, milestones, Network Regeneration Contribution (NRC) rate, and membership. Contributing Members join by signing this document. File completed copies as: "A7-1 — [Venture Name] — [YYYY-MM]". Forms an integral part of the Agreement.*
 
 ---
 
@@ -153,11 +153,11 @@ version: '1.3'
 | Phase | NRC Rate | Base |
 |---|---|---|
 | Phase 1 | Not applicable | No external revenue |
-| Phase 2 | Prevailing Network NRC Rate (GT-4.4(a)) | Net External Revenue |
-| Phase 3 | Prevailing Network NRC Rate (GT-4.4(a)) | Net External Revenue |
+| Phase 2 | Prevailing NRC Rate (GT-4.4(a)) | Net External Revenue |
+| Phase 3 | Prevailing NRC Rate (GT-4.4(a)) | Net External Revenue |
 | Post-Emergence | As per [[Agreement 7 Annex 3 — Emergence]] | |
 
-*The prevailing Network NRC Rate applies per GT-4.4(a) (current rate per LGR-2); not negotiable per Venture.*
+*The prevailing NRC Rate applies per GT-4.4(a) (current rate per LGR-2); not negotiable per Venture.*
 
 ---
 

@@ -10,7 +10,7 @@ tags:
   - intrapreneurship
   - ReGenerativa
 ---
-*Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, Network Regeneration Contribution, digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply without repetition.*
+*Incorporates the [[General Terms and Conditions]] in full. Standard provisions (Regenerative Covenant, Network Regeneration Contribution (NRC), digital infrastructure, data protection, force majeure, dispute resolution, governing law, severability) are set out therein and apply without repetition.*
 
 ---
 
@@ -130,7 +130,7 @@ tags:
 
 - **Capacity allocation:** Minimum 70% of capacity continues to serve the network; up to 30% may serve external clients
 - **External trading:** Permitted; the venture may operate under the Association's fiscal umbrella or its own legal entity if formed
-- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (GT-4.4(a))
+- **Network Regeneration Contribution:** the **prevailing NRC Rate** on Net External Revenue (GT-4.4(a))
 - **Association support:** Continued ecosystem access; reduced direct involvement; Association acts as reference client
 - **Duration:** As defined in the Venture Sheet; reviewed annually
 - **Exit criteria:** The venture is financially self-sustaining; has established external client relationships; has a governance structure capable of operating independently; and has a proposal for Phase 3 or Emergence
@@ -139,7 +139,7 @@ tags:
 
 - **Capacity allocation:** Minimum 40% of capacity continues to serve the network; up to 60% may serve external clients
 - **External trading:** Fully permitted; the venture is expected to operate under its own legal entity
-- **Network Regeneration Contribution:** the **prevailing Network NRC Rate** on Net External Revenue (GT-4.4(a))
+- **Network Regeneration Contribution:** the **prevailing NRC Rate** on Net External Revenue (GT-4.4(a))
 - **Association support:** Ecosystem membership; no direct incubation support
 - **Emergence trigger:** Venture Holon may initiate the Emergence process (Clause 10) at any point in Phase 3
 
@@ -278,4 +278,4 @@ Date: _________________________
 
 ## Contribution Recognition
 
-Contribution recognition follows GT-3.5. A Venture Member's Passport standing does not alter the Network Regeneration Contribution applicable to a Venture, which follows the prevailing Network NRC Rate (GT-4.4(a)), applied uniformly across active holons.
+Contribution recognition follows GT-3.5. A Venture Member's Passport standing does not alter the Network Regeneration Contribution applicable to a Venture, which follows the prevailing NRC Rate (GT-4.4(a)), applied uniformly across active holons.

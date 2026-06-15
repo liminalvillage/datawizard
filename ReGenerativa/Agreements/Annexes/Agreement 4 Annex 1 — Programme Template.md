@@ -4,7 +4,7 @@ type: annex
 annex_ref: A4-1
 parent_agreement: Agreement 4 — Mentorship
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-06-15'
 status: template
 tags:
   - annex
@@ -95,7 +95,7 @@ Mentor's costs (travel €___, accommodation €___, materials €___) are reimb
 | Steward and volunteer coordination | €___ | |
 | Communication and marketing | €___ | |
 | Administration | €___ | |
-| **Network Regeneration Contribution** (prevailing Network NRC Rate per GT-4.4(a); not negotiable per Programme) | per LGR-2 | |
+| **Network Regeneration Contribution (NRC)** (prevailing NRC Rate per GT-4.4(a); not negotiable per Programme) | per LGR-2 | |
 | **Total costs** | **€___** | |
 | **Net Programme Revenue available for distribution** | **€___** | |
 

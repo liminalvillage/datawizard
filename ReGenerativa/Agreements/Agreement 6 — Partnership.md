@@ -10,7 +10,7 @@ tags:
   - partnership
   - ReGenerativa
 ---
-*Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (GT-4) is treated as a structure cost and is operationalised in Clause 10A. The digital infrastructure provisions (GT-3) govern the Contribution Ledger (a plain, shared log — not a blockchain). Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
+*Incorporates the [[General Terms and Conditions]] in full. The Network Regeneration Contribution (NRC; GT-4) is treated as a structure cost and is operationalised in Clause 10A. The digital infrastructure provisions (GT-3) govern the Contribution Ledger (a plain, shared log — not a blockchain). Dispute resolution between Partners follows the external mediation path (GT-7.3) rather than the internal Probiviri path.*
 
 ---
 
@@ -156,7 +156,7 @@ The collaboration is guided by:
 
 **10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
 
-**10A.2** The applicable rate is the **prevailing Network NRC Rate** (GT-4.4(a); LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue.
+**10A.2** The applicable rate is the **prevailing NRC Rate** (GT-4.4(a); LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue.
 
 **10A.3 Asset Regeneration Contribution.** *(Pending F1.)* Where a Project uses an Asset entrusted to the network under Agreement 1 (for example, a Project run at a Hub), the **Asset Regeneration Contribution** (GT-4.9) is a further structure cost: it is deducted from Project revenue — after the Network Regeneration Contribution and before Net Project Revenue is calculated for distribution to Partners — at the rate `r_ARC` (LGR-9), and routed to the host Asset holon. The Project Sheet may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9).
 
