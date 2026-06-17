@@ -8,7 +8,7 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-06-15'
+updated: '2026-06-17'
 version: '1.11'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
@@ -243,6 +243,65 @@ The Association's governing body, acting through the designated **Register Curat
 - communicates the Register's state at each **seasonal gathering**.
 
 Until the network's digital infrastructure (GT-3.1) is operational, the Register is maintained by the Curator as a network-accessible controlled record; thereafter it lives in that infrastructure. The submission right, the 30-day review window, anonymisation, and the Register's non-obligating character remain in Agreement 7 §2 and are binding there.
+
+---
+
+## Section M — Safeguarding (GT-2A)
+
+*Operational mechanics for the [[Safeguarding Policy and Code of Conduct]] (companion doc). The safeguarding duty and the Code of Conduct are binding in GT-2A and that policy; the steps and timeframes below are operational and Board-tunable. The Elder-specific suspension mechanic is at G.2A. Provisional figures pending review.*
+
+### M.1 Designated Safeguarding Leads
+- Each hub names a Designated Safeguarding Lead (DSL), ordinarily a Steward, recorded in the Hub DNA (A1-5).
+- The Board names a network Safeguarding Lead; hub DSLs escalate to them; the network lead holds the relationship with the authorities.
+- Where a concern involves the DSL or the network lead, it escalates one level up (network lead / Board / Elder Council).
+
+### M.2 Suitability checks at onboarding
+- For roles working with minors or vulnerable adults: the *certificato penale del casellario giudiziale* and the anti-pedophilia certificate (art. 25-bis, DPR 313/2002) are obtained **before** the role begins and renewed every **24 months** (provisional).
+- All role-holders sign a suitability self-declaration at onboarding; a material change is disclosed promptly.
+
+### M.3 Raising and recording a concern
+- An accessible channel is published at each hub; any person may raise a concern to any DSL.
+- The receiver records it factually and contemporaneously and refers to the DSL within **24 hours**; no informal investigation by the receiver.
+
+### M.4 Precautionary suspension
+- On a credible concern, access to participants is suspended pending the outcome under **GT-6A.1** and the applicable role limb (A2 §7.1 / A4 §8 / A8 §8.4A via G.2A).
+- Written notice states the concern and that the suspension is precautionary and without prejudice; review proceeds under GT-7.
+
+### M.5 Reporting to authorities
+- Where Italian law requires it (a crime, or risk to a minor or vulnerable adult), the network Safeguarding Lead reports to the competent authorities; the internal process never substitutes for a mandatory report.
+
+### M.6 Records and retention
+- Safeguarding records are held securely, separately from the Contribution Ledger, on a need-to-know basis, under GDPR and GT-5; retention follows legal requirement.
+
+### M.7 Training and review
+- Role-appropriate safeguarding orientation is part of onboarding (member, steward, mentor, venture, elder).
+- The policy is reviewed at least annually and after any serious incident.
+
+---
+
+## Section N — Risk and Insurance
+
+*The consolidating map and register for the network's risk and insurance. The binding obligations already live in the agreements — Asset property + third-party liability + Art. 18 volunteer/participant accident cover + owner-as-additional-insured for real property + annual proof of cover (A1 §3.3); member/volunteer Art. 18 cover (A2 §3.4, §6). This section is the operational map (who holds what) and the register (per-hub policies and renewals), Board-tunable. Addresses Structural Gap SG3. Provisional, pending confirmation by the F1 lawyer and an insurance broker.*
+
+### N.1 Risk categories
+Each standing risk maps to a cover or an accepted-risk note: premises and property (the entrusted Assets); activities, events, and programmes (third-party / public liability); volunteers and participants (accident + liability, **mandatory under Art. 18 CTS**); professional delivery by mentors/practitioners (professional indemnity); governance (directors' and officers' exposure); data and cyber (the Ledger and platform, GT-3 / GT-5); environmental and site-specific; financial and fiscal.
+
+### N.2 Who holds what
+| Cover | Held / arranged by | Binding home |
+|---|---|---|
+| Asset property + third-party liability for activity on the Asset; **Art. 18** volunteer/participant accident cover | Association (per Asset) | A1 §3.3 |
+| Owner named **additional insured** (real property) + annual proof of cover | Association arranges | A1 §3.3 |
+| Member/volunteer **Art. 18** accident + liability during Association activity | Association | A2 §3.4, §6 |
+| Professional indemnity for independent delivery | Mentor / practitioner | A4 |
+| Venture-specific cover (incl. post-Emergence entities) | Venture / Emerged Entity | A7 |
+| Governance (D&O) and data/cyber | Association | this section (to procure) |
+
+### N.3 Per-hub register
+For each hub (Liminal Village, Casa Selva, ReFactory, and any future hub) the Association maintains a register recording: the policies in force, their cover and limits, renewal dates, the Art. 18 cover confirmation, and the certificate naming the Association (and the Owner, for real property) as insured. Proof of cover is collected **annually without request** (A1 §3.3).
+
+### N.4 Review and gaps
+- The Association reviews cover adequacy against the N.1 categories at least annually.
+- An identified gap or an **uninsured loss** is recorded, escalated to the Board, and either covered or recorded as an accepted risk with stated reasons.
 
 ---
 

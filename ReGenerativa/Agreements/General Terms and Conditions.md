@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.26'
+version: '3.27'
 status: active
 created: '2026-03-17'
-updated: '2026-06-15'
+updated: '2026-06-17'
 tags:
   - general-terms
   - ReGenerativa
@@ -66,6 +66,8 @@ tags:
 **GT-2.4** Regenerative targets may be defined in relevant Annexes and assessed using the Regenerative Impact Framework (GT-1.6). Targets are reviewed seasonally where possible, and aligned with the network's natural coordination rhythms. The covenant establishes a shared commitment, not a personal financial liability for non-attainment.
 
 **GT-2.5** Every agreement in this constellation incorporates this covenant. It is not a standard provision to be acknowledged and set aside — it is the animating purpose of every relationship the constellation governs.
+
+**GT-2.6 — Safeguarding.** *(Pending F1.)* The Association maintains a **Safeguarding Policy and Code of Conduct** (companion document), binding on all roles as part of this covenant (GT-2.5) and applied through the Operational Procedures (Section M); a credible safeguarding concern triggers precautionary suspension under GT-6A.1 and is reported to the competent authorities as the law requires. Where a role involves working with minors or vulnerable adults, the suitability checks required by Italian law (including the anti-pedophilia certificate, art. 25-bis DPR 313/2002) are a condition of that role.
 
 ---
 

@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-10T00:00:00.000Z
-updated: '2026-06-15'
+updated: '2026-06-17'
 tags:
   - strategy
   - faq
@@ -61,6 +61,9 @@ The English text you sign. An Italian translation prevails in court only if both
 
 **What happens to my personal data?**
 GDPR applies in full (GT-5). The Ledger stores only what recognition needs; you can export, correct, or delete your record at any time - deletion makes your old entries anonymous without erasing the network's history (GT-3.4).
+
+**Is it safe - what about safeguarding?**
+The network keeps a Safeguarding Policy and Code of Conduct binding on everyone (GT-2.6); anyone working with minors or vulnerable adults must pass the suitability checks the law requires. A credible safety concern leads to precautionary suspension and, where the law requires, a report to the authorities (GT-6A.1). How this runs day to day is in the Operational Procedures (Section M).
 
 ---
 
