@@ -61,7 +61,10 @@ Casa Selva is designed to be rooted in collective care and resilient beyond any 
 - Gatherings paced to natural rhythms
 - Land-based stewardship and restoration practice
 
-**What we are not suited for:** [to confirm — likely not large, high-tempo, or noise-intensive events, given the sanctuary character]
+**What we are not suited for:**
+- Large, high-tempo, or high-noise events
+- Party or purely recreational use
+- Busy, extractive schedules — this is a slow sanctuary for inner work
 
 ---
 
@@ -84,10 +87,10 @@ At Casa Selva we each take responsibility for the whole, contributing through ti
 - No recording or photography of other participants without explicit consent
 
 ### Substances
-[to confirm — must be stated by the steward, consistent with the Safeguarding Policy and Italian law]
+The property is substance-free during retreats and residencies: no alcohol, cannabis, or other substances during facilitated or shadow-work sessions, and plant medicine is not offered on the property. This supports the place's focus on nervous-system regulation and healing, and is applied consistently with the [[Safeguarding Policy and Code of Conduct]] (GT-2.6) and Italian law.
 
 ### Children and Animals
-[to confirm — note the hub's "intergenerational learning" framing; the actual policy must be stated]
+Children are welcome with a responsible adult, within designated zones and times — fitting the hub's intergenerational-learning character. Animals are permitted by prior notice and steward approval, and remain the owner's responsibility at all times.
 
 ---
 
@@ -100,7 +103,7 @@ At Casa Selva, daily life follows the body, the land, the seasons, and the cycle
 The hub participates in the network's Equinox and Solstice gatherings. *(Hub-specific seasonal practices: [to confirm].)*
 
 ### Daily rhythm
-[to confirm — the actual shape of a day]
+Set by the steward and adjusted seasonally, following the body, the land, and the cycles of sun and moon. The shared principle holds: a daily balance of rest and action, with shared meals, shared work, and shared quiet (see the Covenant and Cyclical timing above).
 
 ---
 
@@ -124,13 +127,30 @@ The hub participates in the network's Equinox and Solstice gatherings. *(Hub-spe
 
 *Note: the Network Regeneration Contribution (NRC) flows OUT of the Hub to the Association holon at source (GT-4.4(a)); it is not a Hub inflow.*
 
-**Contribution rates for stays:** [to confirm]
+**Contribution rates for stays** (four-tier model; € amounts [to confirm] by the Steward):
+
+| Stay type | Duration | Contribution |
+|---|---|---|
+| Work exchange | 1 week minimum | €0 — full contribution via work sessions |
+| Member stay | up to [n] nights | [€/night to confirm] + shared work |
+| Programme participant | per programme / retreat | per programme agreement |
+| External guest | per stay | [€/night to confirm] |
+
+*The Steward has discretion per contribution history and need; no one is turned away for lack of money (GT-3A.8), and no one exploits that generosity.*
 
 ---
 
 ## The Reckoning - What This Place Counts
 
-Default weighting applies until the steward sets otherwise: every contribution type weights equally (GT-3A.4). Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A). Given this hub's character, inner-work participation, relational/care work, and land stewardship are likely candidates for emphasis — **weights to be set by the steward: [to confirm].**
+Default weighting applies until the steward sets otherwise: every contribution type weights equally (GT-3A.4). Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A). Given this hub's character, inner-work participation, relational/care work, and land stewardship are likely candidates for emphasis — this hub's provisional weights (the Steward revises seasonally, recorded in the Decision Log):
+
+| Contribution type | Weight |
+|---|---|
+| Inner-work participation and holding the field | 1.4 |
+| Relational and care work | 1.3 |
+| Land stewardship | 1.3 |
+| Facilitation and hosting | 1.2 |
+| Documentation and storytelling | 1.0 |
 
 ---
 

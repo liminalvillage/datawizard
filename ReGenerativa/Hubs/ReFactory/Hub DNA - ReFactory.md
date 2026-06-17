@@ -60,7 +60,9 @@ Three hectares, six thousand cubic metres, one hub: a place where time slows dow
 - Residencies and incubation for third-sector initiatives and partnerships
 - Exhibitions, conferences, and community-built events
 
-**What we are not suited for:** [to confirm]
+**What we are not suited for:**
+- Silent-retreat-style stays — this is a working, collaborative, event-friendly space
+- Activities incompatible with active maker and fabrication safety
 
 ---
 
@@ -83,10 +85,10 @@ ReFactory is more than a place — it is a movement where diverse minds unite to
 - Workshop and maker-space safety rules apply: [to confirm]
 
 ### Substances
-[to confirm — must be stated by the steward, consistent with the Safeguarding Policy and Italian law]
+Maker and work areas are substance-free as a baseline — no substances, including alcohol, in workshops or during fabrication. Where alcohol is served at hosted events or social times, it is confined to designated areas and governed by the specific event agreement. Tobacco only in designated outdoor areas. Applied consistently with the [[Safeguarding Policy and Code of Conduct]] (GT-2.6) and Italian law.
 
 ### Children and Animals
-[to confirm]
+Children are welcome with a responsible adult, within designated zones and times. Animals are permitted by prior notice and steward approval, and remain the owner's responsibility at all times.
 
 ---
 
@@ -99,7 +101,7 @@ A place where time slows down and work resumes its natural rhythm. The event cal
 The hub participates in the network's Equinox and Solstice gatherings, and the monthly lunation cadence of the wider network. *(Hub-specific seasonal practices: [to confirm].)*
 
 ### Daily rhythm
-[to confirm]
+Set by the steward and adjusted seasonally. The shared principle holds: shared meals, shared work, and shared quiet, with the event calendar built by the community (see the Covenant above).
 
 ---
 
@@ -123,13 +125,30 @@ The hub participates in the network's Equinox and Solstice gatherings, and the m
 
 *Note: the Network Regeneration Contribution (NRC) flows OUT of the Hub to the Association holon at source (GT-4.4(a)); it is not a Hub inflow.*
 
-**Contribution rates for stays / spaces:** [to confirm]
+**Contribution rates for stays and spaces** (four-tier model; € amounts [to confirm] by the Steward):
+
+| Type | Duration | Contribution |
+|---|---|---|
+| Work exchange | 1 week minimum | €0 — full contribution via work sessions |
+| Member stay | up to [n] nights | [€/night to confirm] + shared work |
+| Programme / event participant | per programme or event | per programme or event agreement |
+| External guest | per stay | [€/night to confirm] |
+
+*Workshop, maker-space, and event-space use by external parties is set per event or use agreement. The Steward has discretion per contribution history and need; no one is turned away for lack of money (GT-3A.8), and no one exploits that generosity.*
 
 ---
 
 ## The Reckoning - What This Place Counts
 
-Default weighting applies until the steward sets otherwise: every contribution type weights equally (GT-3A.4). Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A). Given this hub's character, making/fabrication, co-creation, hosting/events, and garden/kitchen work are likely candidates for emphasis — **weights to be set by the steward: [to confirm].**
+Default weighting applies until the steward sets otherwise: every contribution type weights equally (GT-3A.4). Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A). Given this hub's character, making/fabrication, co-creation, hosting/events, and garden/kitchen work are likely candidates for emphasis — this hub's provisional weights (the Steward revises seasonally, recorded in the Decision Log):
+
+| Contribution type | Weight |
+|---|---|
+| Making and fabrication | 1.4 |
+| Co-creation labs | 1.3 |
+| Hosting and events | 1.2 |
+| Garden and kitchen | 1.2 |
+| Documentation and storytelling | 1.0 |
 
 ---
 

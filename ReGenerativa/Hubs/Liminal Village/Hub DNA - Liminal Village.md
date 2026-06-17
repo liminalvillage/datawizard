@@ -60,7 +60,10 @@ Together with other eco-initiatives around the village and around the globe, we 
 - Co-creation residencies and skill-shares across the three pillars
 - Eco-tech and open-source innovation work
 
-**What we are not suited for:** [to confirm — e.g. large conferences; high-noise late activities]
+**What we are not suited for:**
+- Hotel-style passive stays — this is participatory co-creation, not a venue to consume
+- Large conferences beyond the residential capacity
+- High-noise activities late at night
 
 ---
 
@@ -82,10 +85,10 @@ Coming here is not consumption. Every person present is part of what makes the p
 - No recording or photography of other participants without explicit consent
 
 ### Substances
-[to confirm — the hub's culture references entheogenics within its "Science and Spirituality" work; the actual policy on alcohol, tobacco, cannabis, and facilitated plant-medicine use must be stated by the steward and must be consistent with the Safeguarding Policy and Italian law]
+The property is substance-free, with the single exception of alcohol in moderation at shared social meals. Tobacco only in designated outdoor areas; no cannabis, other substances, or facilitated plant-medicine use on the property. Applied consistently with the [[Safeguarding Policy and Code of Conduct]] (GT-2.6) and Italian law.
 
 ### Children and Animals
-[to confirm]
+Children are welcome with a responsible adult, within designated zones and times. Animals are permitted by prior notice and steward approval, and remain the owner's responsibility at all times.
 
 ---
 
@@ -98,7 +101,7 @@ We align our activity to the lunar cycles, synchronising group working patterns 
 The hub participates in the network's seasonal coordination — Spring Equinox, Summer Solstice, Autumn Equinox, Winter Solstice gatherings. *(Hub-specific role at each: [to confirm].)*
 
 ### Daily rhythm
-[to confirm — shared meals, shared work, shared quiet, in the hub's actual pattern]
+Set by the steward and adjusted seasonally. The shared principle holds regardless: shared meals, shared work sessions, and shared quiet are the architecture of belonging here (see the Covenant above).
 
 ---
 
@@ -122,7 +125,14 @@ The hub participates in the network's seasonal coordination — Spring Equinox, 
 
 *Note: the Network Regeneration Contribution (NRC) flows OUT of the Hub to the Association holon at source (GT-4.4(a)); it is not a Hub inflow.*
 
-**Contribution rates for stays:** [to confirm]
+**Contribution rates for stays** (four-tier model; € amounts [to confirm] by the Steward):
+
+| Stay type | Duration | Contribution |
+|---|---|---|
+| Work exchange | 1 week minimum | €0 — full contribution via work sessions |
+| Member stay | up to [n] nights | [€/night to confirm] + shared work |
+| Programme participant | per programme | per programme agreement |
+| External guest | per stay | [€/night to confirm] |
 
 *Reference figures only once set: the steward has discretion per contribution history and need; no one is turned away for lack of money, and no one exploits that generosity.*
 
@@ -130,7 +140,15 @@ The hub participates in the network's seasonal coordination — Spring Equinox, 
 
 ## The Reckoning - What This Place Counts
 
-Default weighting applies until the steward sets otherwise: every contribution type weights equally (the network-wide Validated Contribution score, GT-3A.4). Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A). **This hub's weights:** [to confirm].
+Default weighting applies until the steward sets otherwise: every contribution type weights equally (the network-wide Validated Contribution score, GT-3A.4). Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A). **This hub's weights** (provisional; the Steward revises seasonally and records changes in the Decision Log):
+
+| Contribution type | Weight |
+|---|---|
+| Co-creation and building | 1.5 |
+| Land and permaculture care | 1.3 |
+| Facilitation and hosting | 1.2 |
+| Documentation and storytelling | 1.0 |
+| Kitchen and care | 1.0 |
 
 ---
 
