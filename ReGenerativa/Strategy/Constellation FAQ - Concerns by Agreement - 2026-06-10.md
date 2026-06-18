@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-10T00:00:00.000Z
-updated: '2026-06-17'
+updated: '2026-06-18'
 tags:
   - strategy
   - faq
@@ -64,6 +64,9 @@ GDPR applies in full (GT-5). The Ledger stores only what recognition needs; you 
 
 **Is it safe - what about safeguarding?**
 The network keeps a Safeguarding Policy and Code of Conduct binding on everyone (GT-2.6); anyone working with minors or vulnerable adults must pass the suitability checks the law requires. A credible safety concern leads to precautionary suspension and, where the law requires, a report to the authorities (GT-6A.1). How this runs day to day is in the Operational Procedures (Section M).
+
+**What if a hub harms the land — or is just struggling?**
+The two are handled differently. A hub struggling in good faith gets support — re-tuned targets, mentorship, mutual aid — never punishment; the covenant is a shared commitment, not a liability (GT-2.4). Active or persistent uncured harm engages a graduated, relational response: a conversation, re-tuning, then a change of stewards under A3 §16, and only at the last resort returning the Asset to its Owner. The Voice for the Land and the Unborn speaks in every such review (GT-2.7).
 
 ---
 

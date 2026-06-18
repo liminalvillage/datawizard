@@ -9,7 +9,7 @@ tags:
   - regenerative-covenant
 title: Regenerative Impact Framework
 type: companion-doc
-updated: '2026-05-24'
+updated: '2026-06-18'
 version: '1.3'
 ---
 *The Association's proprietary framework for classifying and measuring regenerative impact. Referenced in the [[General Terms and Conditions]] (GT-1.6 and GT-2), the [[Agreement 1 — Ownership| Ownership Agreement]] (Annex 2), the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4), and the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]] (Clause 2). This document specifies what the framework is, how it is applied, and how measurement works in practice.*
@@ -177,6 +177,10 @@ The Association synthesises all hub seasonal reports into an annual Regenerative
 
 When a new agreement is activated (Ownership, Intrapreneurship, Partnership), the Regenerative Impact Framework is used to classify the activities and set baseline measurements. This is the function served by [[Agreement 1 Annex 2 — Permitted Use and Regenerative Impact]] and [[Agreement 7 Annex 1 — Venture Sheet]].
 
+### From assessment to response
+
+The seasonal assessment is not only a record — it is the input to the network's **regenerative balance** (GT-2.7). A dimension persistently trending downward across seasons, or active harm to any dimension, opens a graduated, relational, reversible response: support and re-tuning for a hub struggling in good faith; and, only for wilful or persistent uncured harm, the graduated intervention of GT-4.8(b), up to the last resort of GT-2.7(d). Honest non-attainment is never a fault (GT-2.4); the assessment stays a practice of honest attention, never a score or a ranking.
+
 ---
 
 ## What the Framework Is Not
@@ -197,7 +201,7 @@ This framework is a living document. As the network learns what genuinely matter
 
 Proposed changes to the framework are discussed at the annual gathering and approved by the Board. Changes are recorded in the Decision Log with rationale.
 
-**Version:** 1.3 — May 2026
+**Version:** 1.4 — June 2026 *(added "From assessment to response" → GT-2.7)*
 **Next review:** Spring Equinox 2027
 
 ---

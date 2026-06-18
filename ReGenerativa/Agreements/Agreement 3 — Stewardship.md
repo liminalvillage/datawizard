@@ -1,10 +1,10 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.18'
+version: '3.19'
 status: active
 created: '2026-03-17'
-updated: '2026-06-15'
+updated: '2026-06-18'
 tags:
   - agreement
   - stewardship
@@ -103,6 +103,12 @@ tags:
 **5A.1** The Asset runs as a living balance per GT-4.4A, on the parameters of the Allocation Model (GT-4.6). The Stewards' first duty each cycle is to **cover the Asset's real operating need** — for a Hub, to heal the place — before directing any discretionary surplus; while a shortfall is carried, the discretionary envelope narrows per GT-4.4A(b).
 
 **5A.2** Within its band of tolerance the Stewards govern the Asset's own settings. Persistent shortfall beyond the band engages the graduated, reversible intervention of GT-4.8 — re-tune the Asset first, recompose or change its Stewards only as a last resort — triggered by the Asset's measured balance, not by judgement of person. The measured balance initiates review; it never of itself removes a Steward — any change of Stewards proceeds under the protections of Clause 16, after the relational conversation of GT-4.8(b).
+
+---
+
+## 5B. The Asset's Regenerative Balance
+
+**5B.1** The Asset also runs a **regenerative balance** (GT-2.7): its standing against the Regenerative Covenant, assessed each season through the Regenerative Impact Framework (GT-1.6) against the targets in Annex 2 §D and recorded in the Hub DNA living-progress table. Where a dimension trends persistently downward across seasons, or any dimension is actively harmed, GT-2.7 engages — support and re-tuning first for a hub struggling in good faith (honest non-attainment is never a fault, GT-2.4); and, only for wilful or persistent uncured harm, the graduated, reversible intervention of GT-4.8(b), up to the last resort of GT-2.7(d). As with the living balance (Clause 5A), the measured trend initiates review, not removal; any change of Stewards proceeds under Clause 16 after the relational conversation, and the Voice for the Land and the Unborn (A8-1 §1.6) speaks in the review. *(Pending F1.)*
 
 ---
 

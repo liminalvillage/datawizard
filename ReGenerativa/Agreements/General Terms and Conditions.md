@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.27'
+version: '3.28'
 status: active
 created: '2026-03-17'
-updated: '2026-06-17'
+updated: '2026-06-18'
 tags:
   - general-terms
   - ReGenerativa
@@ -68,6 +68,20 @@ tags:
 **GT-2.5** Every agreement in this constellation incorporates this covenant. It is not a standard provision to be acknowledged and set aside — it is the animating purpose of every relationship the constellation governs.
 
 **GT-2.6 — Safeguarding.** *(Pending F1.)* The Association maintains a **Safeguarding Policy and Code of Conduct** (companion document), binding on all roles as part of this covenant (GT-2.5) and applied through the Operational Procedures (Section M); a credible safeguarding concern triggers precautionary suspension under GT-6A.1 and is reported to the competent authorities as the law requires. Where a role involves working with minors or vulnerable adults, the suitability checks required by Italian law (including the anti-pedophilia certificate, art. 25-bis DPR 313/2002) are a condition of that role.
+
+**GT-2.7 — Regenerative balance and graduated response.** *(Pending F1.)* Just as a holon runs a financial living balance (GT-4.4A), every Asset and Hub holon runs a **regenerative balance**: its standing against the Regenerative Covenant (GT-2), assessed each season through the Regenerative Impact Framework (GT-1.6) against the targets in its Permitted Use annex (Agreement 1 Annex 2 §D) and snapshotted in its Hub DNA living-progress table. This balance is read as honest attention across the six dimensions — never as a single score or a ranking among hubs.
+
+(a) **What initiates a review.** A review opens where the seasonal assessment shows a dimension **persistently trending downward across multiple seasons**, or **active harm to any dimension**, read in good faith. It is triggered by the measured trend, not by judgement of person; and, honouring GT-2.4, honest non-attainment is never in itself a fault — the covenant is a shared commitment, not a liability.
+
+(b) **Support first (the struggling hub).** Where a hub struggles in good faith, the response is support, not sanction: re-tune its targets to the place's real carrying capacity and rhythms (sufficiency over maximisation); direct mentorship (Agreement 4) and network attention to the lagging dimension; and, where cost is the constraint, mutual aid from the common reservoir (GT-4.8(a)). A hub is never penalised for a hard season honestly met.
+
+(c) **Graduated response (persistent or wilful harm).** Where harm is active, or a downward trend persists despite support, the response follows the same graduated, reversible, depersonalised shape as GT-4.8(b), gentlest first: a **relational conversation** with the Stewards when the balance is first breached (convenable as a sensing circle under GT-3A.9); then **re-tuning and a remedy period**; then, only if harm persists uncured, **recomposition or change of Stewards** under Agreement 3 §16, the Stewards having been heard. The measured balance **initiates review; it never of itself removes a Steward or a hub.**
+
+(d) **Last resort.** Where harm to the covenant is wilful, sustained, and uncured after (c), the Association may withdraw the hub's standing in the network and return the Asset to its Owner under Agreement 1 §6. This terminal step is reserved for a place being actively degraded — never for one merely struggling.
+
+(e) **Earned regenerative autonomy.** The balance runs both ways. A hub that regenerates well over time earns a **wider band, lighter-touch review, and recognition** in the Network Passport (GT-3A). As in GT-4.8(c), measures that tighten attention may follow from the measured trend; measures that loosen it are a deliberate decision of the reviewer, so generosity is not gamed.
+
+(f) **Who reviews, and the Voice for the Land.** The seasonal assessment is prepared by the Steward(s) and reviewed by the Association; the **Voice for the Land and the Unborn** (Agreement 8 Annex 1 §1.6) speaks the interest of living systems and future generations into every regenerative review before any measure is taken. Until the Elder Council is constituted, review proceeds under GT-7.2.
 
 ---
 

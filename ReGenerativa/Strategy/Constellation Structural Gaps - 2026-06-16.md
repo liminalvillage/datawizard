@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: '2026-06-16'
-updated: '2026-06-17'
+updated: '2026-06-18'
 operator: Roberto Valenti
 edit_log:
   - >-
@@ -38,7 +38,9 @@ Plus two lower-tier, more strategic absences (inter-hub relations; the knowledge
 
 ---
 
-> **STATUS — 2026-06-17.** SG2 and SG3 addressed (first chunk of the fix programme). **SG2:** binding duty added as **GT-2.6**; producible [[Safeguarding Policy and Code of Conduct]] companion doc; mechanics in Operational Procedures **Section M**; Cheatsheet + FAQ synced. **SG3:** the binding obligations were found already in place (A1 §3.3 — Asset cover + Art. 18 + owner-additional-insured for real property + annual proof; A2 §3.4 — member/volunteer Art. 18), so no new clauses were needed; added only the consolidating map/register as Operational Procedures **Section N**. *Remaining operational follow-on:* each live hub (Liminal Village, Casa Selva, ReFactory) needs a named Designated Safeguarding Lead and its insurance register populated with real policy data; the three hubs are also not yet documented in `Hubs/`.
+> **STATUS — 2026-06-17.** SG2 and SG3 addressed (first chunk of the fix programme). **SG2:** binding duty added as **GT-2.6**; producible [[Safeguarding Policy and Code of Conduct]] companion doc; mechanics in Operational Procedures **Section M**; Cheatsheet + FAQ synced. **SG3:** the binding obligations were found already in place (A1 §3.3 — Asset cover + Art. 18 + owner-additional-insured for real property + annual proof; A2 §3.4 — member/volunteer Art. 18), so no new clauses were needed; added only the consolidating map/register as Operational Procedures **Section N**. *Remaining operational follow-on:* each live hub (Liminal Village, Casa Selva, ReFactory) needs a named Designated Safeguarding Lead and its insurance register populated with real policy data; the three hubs are also not yet documented in `Hubs/`. *(Hubs since stubbed in `Hubs/` with Hub DNA drafts, 2026-06-17.)*
+
+> **STATUS — 2026-06-18.** SG7 (the regeneration loop) addressed: **GT-2.7 — Regenerative balance and graduated response** (GT v3.28) feeds the RIF seasonal assessment into GT-4.8's graduated, relational, reversible shape — support-first for honest struggle (GT-2.4), graduated intervention for wilful/persistent harm up to returning the Asset (A1 §6), earned regenerative autonomy on the positive end, and the Voice for the Land and the Unborn (A8-1 §1.6) in every review; holistic trigger, no score. Supporting: A3 §5B, RIF "From assessment to response", Cheatsheet + FAQ synced.
 
 ## 1. The served have no standing
 
