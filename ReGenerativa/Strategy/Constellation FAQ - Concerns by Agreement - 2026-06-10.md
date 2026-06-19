@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-10T00:00:00.000Z
-updated: '2026-06-18'
+updated: '2026-06-19'
 tags:
   - strategy
   - faq
@@ -67,6 +67,9 @@ The network keeps a Safeguarding Policy and Code of Conduct binding on everyone 
 
 **What if a hub harms the land — or is just struggling?**
 The two are handled differently. A hub struggling in good faith gets support — re-tuned targets, mentorship, mutual aid — never punishment; the covenant is a shared commitment, not a liability (GT-2.4). Active or persistent uncured harm engages a graduated, relational response: a conversation, re-tuning, then a change of stewards under A3 §16, and only at the last resort returning the Asset to its Owner. The Voice for the Land and the Unborn speaks in every such review (GT-2.7).
+
+**I'm a guest or client, not a member — do I have rights or recourse?**
+Yes. The Participant and Community Charter states what the network promises anyone it serves: safety and dignity (GT-2.6), honest and fair dealing with clear terms and lawful cancellation/withdrawal, privacy (GT-5), a feedback channel, and a real complaint route — a non-member may use the GT-7 dispute ladder (GT-7.5), and your statutory consumer and data rights and access to the courts are never limited (GT-2.8).
 
 ---
 

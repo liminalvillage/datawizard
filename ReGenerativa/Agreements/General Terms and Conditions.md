@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.28'
+version: '3.29'
 status: active
 created: '2026-03-17'
-updated: '2026-06-18'
+updated: '2026-06-19'
 tags:
   - general-terms
   - ReGenerativa
@@ -82,6 +82,8 @@ tags:
 (e) **Earned regenerative autonomy.** The balance runs both ways. A hub that regenerates well over time earns a **wider band, lighter-touch review, and recognition** in the Network Passport (GT-3A). As in GT-4.8(c), measures that tighten attention may follow from the measured trend; measures that loosen it are a deliberate decision of the reviewer, so generosity is not gamed.
 
 (f) **Who reviews, and the Voice for the Land.** The seasonal assessment is prepared by the Steward(s) and reviewed by the Association; the **Voice for the Land and the Unborn** (Agreement 8 Annex 1 §1.6) speaks the interest of living systems and future generations into every regenerative review before any measure is taken. Until the Elder Council is constituted, review proceeds under GT-7.2.
+
+**GT-2.8 — Participants, guests, and the wider community.** *(Pending F1.)* The network exists to serve — its **participants and guests** (those on a stay, in a programme, or as the client of a Project) and the wider community, watershed, and bioregion in which each Hub sits. The Association and those who hold its resources owe the people they serve **honest, safe, and fair dealing**: truthful description and clear terms for any programme or stay, fair cancellation and withdrawal rights as required by consumer law, safety and dignity (GT-2.6), and privacy (GT-5; GT-3.4A). Participants and guests are received under the access rule (GT-3A.3) in good faith. Toward the wider community, each Hub holds the **community-ark commitment** (GT-2.3): to operate alongside local institutions rather than against them, to take no net harm from its place and watershed, and to remain a node of mutual aid and resilience in the bioregion it belongs to. The Association maintains a **Participant and Community Charter** (companion document) giving this effect; participants, guests, and neighbours may raise a concern or complaint under GT-7.5, and their feedback informs the regenerative assessment (GT-1.6) and may surface Network Demand Signals (GT-1.12). Statutory rights of consumers and data subjects are preserved and unaffected.
 
 ---
 
@@ -258,6 +260,8 @@ The **Network Regeneration Contribution** (GT-4.4(a)) and the **Asset Regenerati
 **GT-7.3** **External mediation** (for inter-entity disputes, or if Probiviri unavailable): mediation pursuant to Legislative Decree 28/2010.
 
 **GT-7.4** **Jurisdiction**: Court of Ascoli Piceno, Italy.
+
+**GT-7.5 — Participants and guests (non-members).** *(Pending F1.)* A participant, guest, or client who is not a Member may raise a complaint through the ladder of GT-7.1–7.3 (amicable resolution; internal mediation; external mediation), to the same effect as a Member, beginning with the host Steward and the Association. A safeguarding concern is handled under GT-2.6 and the Operational Procedures (Section M) rather than as an ordinary dispute. Nothing in this clause limits the person's statutory rights as a consumer or data subject, or their access to the ordinary courts (GT-7.4).
 
 ---
 

@@ -8,7 +8,7 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-06-17'
+updated: '2026-06-19'
 version: '1.11'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
@@ -302,6 +302,24 @@ For each hub (Liminal Village, Casa Selva, ReFactory, and any future hub) the As
 ### N.4 Review and gaps
 - The Association reviews cover adequacy against the N.1 categories at least annually.
 - An identified gap or an **uninsured loss** is recorded, escalated to the Board, and either covered or recorded as an accepted risk with stated reasons.
+
+---
+
+## Section O — Participant and community feedback and complaints (GT-2.8 / GT-7.5)
+
+*Operational mechanics for the [[Participant and Community Charter]]. The duties are binding in GT-2.8 and that charter; the steps below are operational and Board-tunable. Provisional figures pending review.*
+
+### O.1 Feedback channel
+- Each hub offers an accessible feedback channel for the people it serves and for neighbours/local community.
+- Feedback informs the hub's seasonal Regenerative Impact assessment (GT-1.6, dimensions B and E) and may be surfaced as a Network Demand Signal (GT-1.12) where it names an unmet need.
+
+### O.2 Complaints
+- A non-member (participant, guest, client, neighbour) raises a complaint through the ladder of GT-7 per **GT-7.5**, beginning with the host Steward and the Association; the Steward acknowledges within **7 days** (provisional) and logs it.
+- A **safety/safeguarding** concern is routed to the Designated Safeguarding Lead under Section M, not handled as an ordinary complaint.
+- Statutory consumer and data-subject rights, and access to the courts, are preserved throughout (GT-7.5).
+
+### O.3 Records
+- Complaint records are held under GDPR and GT-5; recurring patterns are reported to the Association and feed the regenerative assessment.
 
 ---
 
