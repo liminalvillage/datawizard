@@ -1,7 +1,7 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.30'
+version: '3.31'
 status: active
 created: '2026-03-17'
 updated: '2026-06-20'
@@ -84,6 +84,8 @@ tags:
 (f) **Who reviews, and the Voice for the Land.** The seasonal assessment is prepared by the Steward(s) and reviewed by the Association; the **Voice for the Land and the Unborn** (Agreement 8 Annex 1 §1.6) speaks the interest of living systems and future generations into every regenerative review before any measure is taken. Until the Elder Council is constituted, review proceeds under GT-7.2.
 
 **GT-2.8 — Participants, guests, and the wider community.** *(Pending F1.)* The network exists to serve — its **participants and guests** (those on a stay, in a programme, or as the client of a Project) and the wider community, watershed, and bioregion in which each Hub sits. The Association and those who hold its resources owe the people they serve **honest, safe, and fair dealing**: truthful description and clear terms for any programme or stay, fair cancellation and withdrawal rights as required by consumer law, safety and dignity (GT-2.6), and privacy (GT-5; GT-3.4A). Participants and guests are received under the access rule (GT-3A.3) in good faith. Toward the wider community, each Hub holds the **community-ark commitment** (GT-2.3): to operate alongside local institutions rather than against them, to take no net harm from its place and watershed, and to remain a node of mutual aid and resilience in the bioregion it belongs to. The Association maintains a **Participant and Community Charter** (companion document) giving this effect; participants, guests, and neighbours may raise a concern or complaint under GT-7.5, and their feedback informs the regenerative assessment (GT-1.6) and may surface Network Demand Signals (GT-1.12). Statutory rights of consumers and data subjects are preserved and unaffected.
+
+**GT-2.9 — The knowledge commons.** *(Pending F1.)* The constellation's own model — these agreements and General Terms, and the companion frameworks and templates (the Regenerative Impact Framework, Hub DNA, Operational Procedures, and the like) — is itself a commons, offered freely to others building regenerative networks. It is released under **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**: anyone may use and adapt it, with attribution, provided derivatives are shared under the same terms, so the commons stays open and improvements can return to it (the knowledge-and-cultural-vitality dimension of the covenant, GT-2.2(c)). This release covers the model only. It does **not** cover, and confers no right over: the personal data of members or participants (GT-5); information held private to a Hub or its Owner; or Venture intellectual property, governed by Agreement 7 §9. Sharing the model is how federation (GT-4.10) and the wider movement grow.
 
 ---
 

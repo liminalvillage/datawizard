@@ -46,6 +46,8 @@ Plus two lower-tier, more strategic absences (inter-hub relations; the knowledge
 
 > **STATUS — 2026-06-20.** SG8 addressed: **GT-4.10 — Federation (holons compose into holons)** unifies inter-hub clustering and cross-entity bioregional federation as one self-similar operation (Cluster = internal holon; federation = across legal entities, by agreement, F1-gated mechanics); **GT-11.8 — Hub exit and community continuity** (people, programmes, passports, and community needs survive a hub's departure). Supporting: [[Bioregional Federation - 2026-06-20]], Operational Procedures Section P, reader layer + MOC synced.
 
+> **STATUS — 2026-06-20 (SG9).** SG9 addressed: **GT-2.9 — The knowledge commons** releases the constellation model under **CC BY-SA 4.0** (model only; excludes personal data, hub-private info, and venture IP per A7 §9); **`ReGenerativa/LICENSE.md`** added; [[Knowledge Commons - 2026-06-20]] note; Cheatsheet + FAQ + MOC synced.
+
 ## 1. Participants and guests have no standing
 
 ### SG1. The people the hubs serve are absent from the architecture - High

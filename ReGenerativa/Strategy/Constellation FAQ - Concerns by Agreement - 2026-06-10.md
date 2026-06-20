@@ -74,6 +74,9 @@ Yes. The Participant and Community Charter states what the network promises anyo
 **What happens if my hub leaves the network?**
 The place may leave, but the people are not cut off. In-flight programmes and ventures are concluded fairly or moved to another hub; your Passport is portable, so your access continues at other hubs; a resident steward keeps their notice and housing protections (A3 §16); the Ledger and all Passports stay intact (nothing is voided); and the community's unmet needs carry forward into the Demand Register (GT-11.8). Co-located hubs can also cluster for mutual aid and coordination, and the network may federate with other commons in the same watershed (GT-4.10).
 
+**Can others copy or adopt this whole model?**
+Yes. The constellation's own model — the agreements, General Terms, and companion frameworks and templates — is a knowledge commons under CC BY-SA 4.0: anyone may use and adapt it with attribution, sharing their derivatives under the same licence (GT-2.9). It excludes personal data, hub-private information, and venture IP (A7 §9).
+
 ---
 
 ## Agreement 1 - Ownership: you lend a place or thing to the commons
