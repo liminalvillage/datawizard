@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-10T00:00:00.000Z
-updated: '2026-06-19'
+updated: '2026-06-20'
 tags:
   - strategy
   - faq
@@ -70,6 +70,9 @@ The two are handled differently. A hub struggling in good faith gets support —
 
 **I'm a guest or client, not a member — do I have rights or recourse?**
 Yes. The Participant and Community Charter states what the network promises anyone it serves: safety and dignity (GT-2.6), honest and fair dealing with clear terms and lawful cancellation/withdrawal, privacy (GT-5), a feedback channel, and a real complaint route — a non-member may use the GT-7 dispute ladder (GT-7.5), and your statutory consumer and data rights and access to the courts are never limited (GT-2.8).
+
+**What happens if my hub leaves the network?**
+The place may leave, but the people are not cut off. In-flight programmes and ventures are concluded fairly or moved to another hub; your Passport is portable, so your access continues at other hubs; a resident steward keeps their notice and housing protections (A3 §16); the Ledger and all Passports stay intact (nothing is voided); and the community's unmet needs carry forward into the Demand Register (GT-11.8). Co-located hubs can also cluster for mutual aid and coordination, and the network may federate with other commons in the same watershed (GT-4.10).
 
 ---
 

@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: '2026-06-16'
-updated: '2026-06-19'
+updated: '2026-06-20'
 operator: Roberto Valenti
 edit_log:
   - >-
@@ -43,6 +43,8 @@ Plus two lower-tier, more strategic absences (inter-hub relations; the knowledge
 > **STATUS — 2026-06-18.** SG7 (the regeneration loop) addressed: **GT-2.7 — Regenerative balance and graduated response** (GT v3.28) feeds the RIF seasonal assessment into GT-4.8's graduated, relational, reversible shape — support-first for honest struggle (GT-2.4), graduated intervention for wilful/persistent harm up to returning the Asset (A1 §6), earned regenerative autonomy on the positive end, and the Voice for the Land and the Unborn (A8-1 §1.6) in every review; holistic trigger, no score. Supporting: A3 §5B, RIF "From assessment to response", Cheatsheet + FAQ synced.
 
 > **STATUS — 2026-06-19.** SG1 addressed: **GT-2.8 — Participants, guests, and the wider community** (binding duty); the non-member complaint limb **GT-7.5**; the producible **[[Participant and Community Charter]]** (participants/guests + the community-ark relationship to neighbours, watershed, and bioregion); and **Operational Procedures Section O** (feedback channel → RIF + Demand Register; complaint handling). Reader layer + MOC synced.
+
+> **STATUS — 2026-06-20.** SG8 addressed: **GT-4.10 — Federation (holons compose into holons)** unifies inter-hub clustering and cross-entity bioregional federation as one self-similar operation (Cluster = internal holon; federation = across legal entities, by agreement, F1-gated mechanics); **GT-11.8 — Hub exit and community continuity** (people, programmes, passports, and community needs survive a hub's departure). Supporting: [[Bioregional Federation - 2026-06-20]], Operational Procedures Section P, reader layer + MOC synced.
 
 ## 1. Participants and guests have no standing
 

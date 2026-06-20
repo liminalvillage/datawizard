@@ -8,7 +8,7 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-06-19'
+updated: '2026-06-20'
 version: '1.11'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
@@ -320,6 +320,25 @@ For each hub (Liminal Village, Casa Selva, ReFactory, and any future hub) the As
 
 ### O.3 Records
 - Complaint records are held under GDPR and GT-5; recurring patterns are reported to the Association and feed the regenerative assessment.
+
+---
+
+## Section P — Hub exit and cluster coordination (GT-11.8 / GT-4.10)
+
+*Operational mechanics. The duties are binding in GT-11.8 (hub exit) and GT-4.10 (federation/clusters); the steps below are operational and Board-tunable. Provisional.*
+
+### P.1 Hub exit
+When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or network return under GT-2.7(d)):
+- in-flight programmes and ventures are concluded fairly or transferred to another hub;
+- affected participants, guests, and members are offered continued access at other hubs (Passport portability, GT-3A.5);
+- the resident Steward's Agreement 3 §16 notice and housing window are honoured;
+- the Hub's Ledger partition and all Passports are preserved (GT-13.4);
+- the departing community's unmet needs are entered in the Network Demand Register (GT-1.13).
+
+### P.2 Cluster coordination
+- Co-located hubs may activate a Cluster holon (GT-4.10(a)), ratified by the Board, with the seasonal gathering as its coordination forum.
+- A Cluster keeps a shared register of resources offered and needed among its hubs (tools, people, knowledge, overflow capacity); disputes among hubs follow GT-7.
+- Cross-entity federation (GT-4.10(b)) proceeds under a dedicated instrument; pending it, bioregional collaboration is by case-by-case agreement preserving each entity's autonomy and the access firewalls. Direction: [[Bioregional Federation - 2026-06-20]].
 
 ---
 

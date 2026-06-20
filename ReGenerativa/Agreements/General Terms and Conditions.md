@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.29'
+version: '3.30'
 status: active
 created: '2026-03-17'
-updated: '2026-06-19'
+updated: '2026-06-20'
 tags:
   - general-terms
   - ReGenerativa
@@ -223,6 +223,14 @@ The **Network Regeneration Contribution** (GT-4.4(a)) and the **Asset Regenerati
 
 (d) **Scope.** The ARC applies only to Assets entrusted under Agreement 1. Activity priced at cost, generating no Net Revenue — including the Resource-cost band of Agreement 4 — yields no ARC; where an Asset is used mainly for gift or at-cost activity, its cost-coverage is carried through its living balance and, where genuinely short, the common reservoir (GT-4.4A, GT-4.8).
 
+**GT-4.10 — Federation (holons compose into holons).** *(Pending F1.)* Federation is the same operation at every scale: holons group into a larger holon for mutual aid and coordination, running the same shape as every holon (GT-4.4) — covering the federation's own coordination cost, holding allocation right over shared surplus within its band, and **non-terminal**, so surplus overflows to the common reservoir (GT-4.4(d)) and no federation hoards. It confers no new governance vote (GT-11; one member, one vote) and no property right (GT-11.5). The pattern runs without limit:
+
+(a) **Within one legal entity.** Co-located Hub holons sharing a place, watershed, or bioregion form a **Cluster**: an internal holon for sharing tools, people, knowledge, and overflow beyond the reservoir's financial mutual aid; activated by its constituent hubs and ratified by the Board, with the seasonal gathering as its coordination forum and inter-hub disputes resolved under GT-7.
+
+(b) **Across legal entities.** The network — itself an ordinary holon (GT-4.4C) — federates with other associations, networks, and commons sharing a watershed or bioregion, **by agreement**, preserving each entity's autonomy and legal form, the non-distribution constraint (GT-4.5(g)), and the access firewalls (GT-3A.4 / 3A.4A); it may include mutual recognition of contribution and Passports (GT-3A) and shared Network Demand Signals (GT-1.12). Cross-entity mechanics are set in a dedicated instrument, subject to F1.
+
+The only thing that changes across scales is the legal boundary the federation crosses; the holonic shape is identical.
+
 ---
 
 ## GT-5. Data Protection
@@ -304,6 +312,8 @@ The **Network Regeneration Contribution** (GT-4.4(a)) and the **Asset Regenerati
 **GT-11.6 — Independent activities.** Every counterparty is free to pursue independent professional, creative, and entrepreneurial activities, consistent with the non-employment character of the constellation (GT-12.4). Without the Association's prior written agreement, no counterparty may use the Association's hubs, resources, participant lists, or name to organise or promote activities that compete with or divert participants from the Association's mission-aligned programmes. This rule does not restrict anyone's independent livelihood; it protects the integrity of the network's mission-bound spaces and jointly developed content. Role-specific extensions are stated in the individual agreements.
 
 **GT-11.7 — Stacked roles and conflicts of interest.** A person or entity holding more than one role in the constellation (GT-11.4) shall disclose the stack wherever their roles interact in a specific matter, and shall not confirm, approve, validate, or review their own act performed in another role — including confirming their own Ledger entries (GT-1.8), approving their own reimbursements or payments (GT-4.5(c)), or reporting on a matter to themselves in another capacity. Where recusal would leave no competent person, the matter is referred to the next competent allocator or to the Association. *(Pending F1.)*
+
+**GT-11.8 — Hub exit and community continuity.** *(Pending F1.)* Where a Hub leaves the network — by the Owner's withdrawal of the Asset (Agreement 1 §6) or the network's return of it (GT-2.7(d)) — the Asset's departure does not sever the people. The Association: (a) honours in-flight programmes and ventures to a fair conclusion or transfer to another hub; (b) preserves the network access of the Hub's participants, guests, and members, whose Passports are portable to other hubs (GT-3A.5); (c) maintains the resident Steward's protections under Agreement 3 §16 (notice, housing window); (d) keeps the Contribution Ledger and Passports intact (GT-13.4) — a Hub's departure renders no record void; and (e) carries the departing community's unmet needs into the Network Demand Register (GT-1.13). Continuity of relationship survives continuity of place. *(Pending F1.)*
 
 ---
 
