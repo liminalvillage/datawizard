@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: '2026-06-16'
-updated: '2026-06-20'
+updated: '2026-06-23'
 operator: Roberto Valenti
 edit_log:
   - >-
@@ -140,6 +140,34 @@ The constellation is itself valuable IP. A7 §9 licenses *venture* IP to the Ass
 - **Not duplicated here:** the inter-class balance gaps (Balance Review X1-A8-G3, mostly applied) and the developmental substrate gaps (Altitude doc, mostly applied). Conflict-of-interest, which the Altitude/Balance work might have left open, was in fact closed as **GT-11.7**.
 - **F1 interaction:** SG3 (insurance) overlaps the A1-G4 owner-liability F1 item; SG6 (capital) overlaps the F1 questions on ETS borrowing and the Asset Reserve as *riserva vincolata* ([[F1 Nota per il Commercialista - 2026-06-13]] §9). The rest (SG1, SG2, SG4, SG5, SG7, SG8, SG9) are **design gaps, not fiscal ones** - mostly addable ahead of the F1 gate, since they add subsystems rather than change money flows.
 - **Posture:** like the prior gap docs, this is a map for deciding, not a set of edits. Nothing is drafted into clauses here.
+
+---
+
+## For a fresh session — build spec for the remaining gaps (SG4, SG5, SG6)
+
+*Written 2026-06-23 as a self-contained handoff. SG1/2/3/7/8/9 are done (see STATUS notes above). Each remaining gap follows this session's rhythm: ground in the cited existing clauses; surface the design forks via a short owner Q&A (AskUserQuestion); draft, showing GT clause text for sign-off before writing (0.0 §9); sync the reader layer (Cheatsheet, FAQ, MOC); mark a STATUS here; commit on `fablesimplification`. **Read first:** this note; GT-2.6–2.9, GT-4.4B / 4.8 / 4.10, GT-11.8, GT-13; A1 §3.4 / §6 / §6.3A; [[Regeneration Annex - Value Return on Sale - 2026-06-11]] §9; the two F1 docs.*
+
+### SG4 — New-hub admission gate (Medium)
+- **Gap:** A1 §3.4 onboards an *Asset*; nothing governs admitting a *node* to the network — mission-fit, capacity-to-support, who decides, on what criteria.
+- **Reuse:** A1 §3.4 (investment gate); Hub DNA (A1-5, drafts now in `Hubs/`); RIF activation (A1 Annex 2); GT-2.7 (regenerative balance from day one); GT-4.10(a) (Cluster onboarding for co-located hubs).
+- **Decisions to surface:** approval body (Board vs Assembly — cf. the parked A1 §6.3A(b) question on whether immovable acquisition needs Assembly); strictness of the mission-fit + capacity-to-support test (don't over-extend the network); a trial/probation period before full hub status?; admitting an *external entity* (federation, GT-4.10(b)) vs a new owned/comodato hub.
+- **Output:** an Operational Procedures section (admission flow: expression of interest → mission-fit + capacity assessment → Hub DNA + Annex 2 baseline → A1 signed) + one light A1/GT clause stating the gate. Mostly operational; not F1-heavy.
+
+### SG5 — Network wind-down protocol (Medium)
+- **Gap:** dissolution is handled *fiscally* (GT-13; Art. 9 devoluzione of assets); no protocol for the *living system* — resident stewards' housing, in-flight ventures, comodato assets mid-term, the common reservoir, Ledger/Passport data, members and participants.
+- **Reuse / CHECK FIRST:** GT-13 already carries §13.2 dissolution protocol, §13.3 relational continuity at hubs, §13.4 ledger as public good, §13.5 Custodial Council; plus GT-11.8 (hub exit — the network-scale analog), A3 §16 (steward protections), A1 §6 (asset return), A7 (venture wind-down). **Much may already exist in GT-13 — the task is to fill the "people, not just assets" gap, not rebuild it.**
+- **Decisions to surface:** order of priority in wind-down (people first?); a steward housing guarantee on dissolution; does the Custodial Council carry the human estate?; successor-entity duties toward members, participants, and ventures.
+- **Output:** extend GT-13 (a relational/human-estate wind-down clause, sibling to §13.3) + an Operational Procedures wind-down sequence. Largely a GT-13 extension; not F1-heavy (devoluzione itself is settled).
+
+### SG6 — Capital / financing (High; partly F1-gated)
+- **Gap:** the path-to-commons (A1 §6.3A; Asset Reserve GT-4.4B) is **under-funded by construction** — per-asset reserve, non-overflowing; donations opportunistic; "topped up by Board allocation" names no source; the common reservoir is for *operating*, not capital. No financing instrument for €100k+ real-property acquisitions.
+- **Reuse:** GT-4.4B (Asset Reserve); A1 §6.3A + Regeneration Annex §9 (acquisition); Agreement 5 (donations/legacies earmarked to acquisition); GT-4.10 (federated/pooled capital); GT-4.8 (reservoir — operating, *not* capital; keep distinct).
+- **Decisions to surface:** per-asset reserve *vs* a network capital pool *vs* both; which external instruments are acceptable (mission-aligned debt? community/solidarity shares — fits ReFactory's "solidarity economy"? crowdfunding? grants only?); a dedicated "commons acquisition fund" holon?; the non-profit's risk appetite for debt.
+- **F1 dependencies (heavy):** ETS borrowing rules and security (links to the Regeneration Annex ipoteca question); Asset Reserve as *riserva vincolata* (F1 Nota §9); tax on acquisition (Nota §10); whether large capital raises disturb the Art. 79(5) commercial-prevalence test.
+- **Output:** a strategy/design note (capital architecture) + GT clause(s) (capital pooling / a commons-acquisition fund) + LGR parameters + a substantial F1 question set. The heaviest remaining gap; much parks behind F1.
+
+### Suggested order
+**SG5 then SG4** first (lighter — mostly Operational Procedures + a GT-13 extension, low F1), then **SG6** last (heaviest, most F1-gated) — unless capital is the live constraint, in which case start SG6.
 
 ---
 
