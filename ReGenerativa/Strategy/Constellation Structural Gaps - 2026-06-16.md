@@ -48,6 +48,8 @@ Plus two lower-tier, more strategic absences (inter-hub relations; the knowledge
 
 > **STATUS — 2026-06-20 (SG9).** SG9 addressed: **GT-2.9 — The knowledge commons** releases the constellation model under **CC BY-SA 4.0** (model only; excludes personal data, hub-private info, and venture IP per A7 §9); **`ReGenerativa/LICENSE.md`** added; [[Knowledge Commons - 2026-06-20]] note; Cheatsheet + FAQ + MOC synced.
 
+> **STATUS — 2026-06-24 (SG5).** SG5 addressed: **GT-13.7 — Caring for people when the network winds down** (GT v3.32), the human-estate sibling to GT-13.3, carrying *people* (not just records/property) through dissolution. People-first within whatever the law leaves after creditors and the mandatory Art. 9 devoluzione; the resident-Steward housing window of A3 §16.3 is triggered by dissolution as if by no-fault termination; in-flight programmes/ventures are finished or transferred and comodato Assets returned (A1 §6); the common reservoir stays mutual insurance to the end. The Custodial Council (GT-13.5) carries the human estate in the interim and a successor entity then owes the network-scale analog of GT-11.8 (hub exit). Supporting: Operational Procedures **Section H.2**; Cheatsheet (4th continuity layer + 14-day timing row), FAQ, MOC synced.
+
 ## 1. Participants and guests have no standing
 
 ### SG1. The people the hubs serve are absent from the architecture - High

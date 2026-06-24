@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.31'
+version: '3.32'
 status: active
 created: '2026-03-17'
-updated: '2026-06-20'
+updated: '2026-06-24'
 tags:
   - general-terms
   - ReGenerativa
@@ -356,3 +356,16 @@ If no successor entity is identified within 90 days of the Association entering 
 
 **GT-13.6 — Individual Agreement Survival**
 The relational rights and recognitions established in each individual agreement — including Passport record, Elder status, stewardship legacy, and named recognitions — survive the dissolution of the Association and are enforceable against any successor entity that assumes the constellation obligations under GT-13.2.
+
+**GT-13.7 — Caring for people when the network winds down** *(Pending F1.)*
+The clauses above (GT-13.2–13.6) protect the network's **records and property** if the Association is dissolved. This clause protects its **people**. Two things are fixed by Italian law and are not changed here: creditors are paid first, and any remaining assets pass to another Third Sector entity (Art. 9 CTS). Everything below concerns only the money and decisions the network still controls after those legal duties are met — chiefly the residual Unified Fund and common reservoir, which GT-13.5 already reserves for participant welfare.
+
+(a) **People come first.** Before any optional, relationship-based distribution, the network settles two things first: housing for Stewards who live at a hub, and the welfare of participants and guests. The common reservoir (GT-4.4A) keeps doing its job — mutual insurance — to the very end: it is spent on the holons and people who need it during wind-down, never pulled back to the centre.
+
+(b) **A home for resident Stewards.** A Steward who lives at a hub keeps the same housing window and rehousing help they would receive on an ordinary no-fault termination (Agreement 3 §16.3 — 30 or 90 days). Dissolution triggers this just as a termination notice would. The Custodial Council provides it first; the successor entity then carries it.
+
+(c) **Programmes and ventures already running.** A programme (Agreement 4) or venture (Agreement 7) under way is either brought to a fair finish or moved to a surviving hub or the successor entity — the same duty a hub owes its community when it leaves the network (GT-11.8(a)). Borrowed (comodato) Assets return to their owners on the terms of their own Agreement 1 (§6), and any venture using such an Asset is given a fair handover.
+
+(d) **Who looks after all this.** The Custodial Council (GT-13.5) — which already handles the fund and the search for a successor — also looks after this human estate in the meantime: housing, the running programmes and ventures, and participant welfare. Once a successor entity exists, it takes over.
+
+(e) **What a successor must continue.** A successor entity that takes on the constellation's obligations (GT-13.2) owes the whole network the same continuity that GT-11.8 makes a single departing hub owe its community: finish or transfer in-flight programmes and ventures; keep members', participants', and guests' network access and their portable Passports (GT-3A.5); maintain resident Stewards' protections (Agreement 3 §16); preserve the Contribution Ledger and Passports (GT-13.4); and carry any unmet community needs into the Network Demand Register (GT-1.13). The relationships outlast the organisation that held them.

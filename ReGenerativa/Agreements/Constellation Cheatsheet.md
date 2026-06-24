@@ -54,7 +54,7 @@ updated: '2026-06-20'
 | GT-10 | Anti-corruption |
 | GT-11 | Constellation cross-reference + Agreement Stacking (GT-11.4); no property, governance, or profit rights by role (GT-11.5); independent activities free, mission-bound resources protected (GT-11.6); stacked-role conflicts of interest (GT-11.7); hub exit and community continuity (GT-11.8) |
 | GT-12 | Fiscal compliance for paid collaborations |
-| GT-13 | Continuity and dissolution resilience — covenant survives the Association via succession protocol, distributed hub obligations, ledger as public good, Custodial Council |
+| GT-13 | Continuity and dissolution resilience — covenant survives the Association via succession protocol, distributed hub obligations, ledger as public good, Custodial Council; the human estate (resident-steward housing, in-flight programmes/ventures, participant welfare) is carried through wind-down (GT-13.7) |
 
 **Hierarchy:** Statute > individual agreement > General Terms. English text; Italian certified translation prevails in court.
 
@@ -122,6 +122,7 @@ Access to a specific Asset is always subject to asset-level controls, each reaso
 | Demand Signal publication | 30 days from submission | A7, Clause 2.2 |
 | Eldership eligibility | long, substantial contribution record | A8, Clause 2.1 |
 | Council allocation: posting / query window / response | 14 / 30 / 30 days | A8-1 §5.5.7 |
+| Wind-down notice to stewards/members/participants/ventures | 14 days from dissolution | GT-13.7; Op Proc H.2 |
 | Custodial Council activation (post-dissolution) | 90 days without successor | GT-13.5 |
 | Ledger public archive fallback | 180 days without successor | GT-13.4 |
 
@@ -158,13 +159,14 @@ The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(
 
 ## Continuity Beyond the Association — GT-13
 
-The constellation survives the legal entity. Three independent layers carry the covenant:
+The constellation survives the legal entity. Four independent layers carry the covenant:
 
 1. **Legal succession** — liquidators must seek a successor Third Sector entity (GT-13.2)
 2. **Distributed obligation** — hub owners (Agreement 1) acknowledge the relational fabric of their hub as a witness, not a service obligation (GT-13.3)
 3. **Ledger as public good** — Contribution Ledger and Passport data are network commons, with public archive fallback at 180 days (GT-13.4)
+4. **The human estate** — people are protected, not only records and property: resident Stewards keep their A3 §16.3 housing window, in-flight programmes and ventures are finished or transferred, and the common reservoir stays mutual insurance to the end; people come first within whatever the law leaves after creditors and devoluzione (GT-13.7)
 
-If no successor is identified in 90 days, the **Custodial Council** self-constitutes from hub owners and the Elder Council to administer remaining obligations (GT-13.5).
+If no successor is identified in 90 days, the **Custodial Council** self-constitutes from hub owners and the Elder Council to administer remaining obligations and the human estate (GT-13.5, GT-13.7(d)); a successor entity then carries the same continuity at network scale that GT-11.8 owes a single departing hub (GT-13.7(e)).
 
 ---
 

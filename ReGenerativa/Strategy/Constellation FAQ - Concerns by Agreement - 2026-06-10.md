@@ -54,7 +54,7 @@ In order: a direct good-faith conversation; internal mediation (the Elder Counci
 Always. Every agreement has an exit: Owner 90 days' notice, Member resign any time, Steward 30-90 days, Mentor per programme, Supporter for future support, Partner 90 days, Venture Member by written notice, Elder by withdrawal. Specifics are in each section below.
 
 **What happens if the Association itself dissolves?**
-A succession protocol triggers: a successor entity is sought, your Passport and recognitions survive and bind the successor, and the Ledger can never be sold or destroyed (GT-13). Hub owners and Elders can convene a Custodial Council to carry the network through (GT-13.5).
+A succession protocol triggers: a successor entity is sought, your Passport and recognitions survive and bind the successor, and the Ledger can never be sold or destroyed (GT-13). Hub owners and Elders can convene a Custodial Council to carry the network through (GT-13.5). People come first, not just records: within whatever the law leaves after creditors and the mandatory devoluzione of assets, resident stewards keep their housing window (A3 §16.3), running programmes and ventures are finished or moved, and the common reservoir stays mutual insurance to the end. A successor entity owes the whole network the same continuity a single departing hub owes its community (GT-13.7).
 
 **Which language governs?**
 The English text you sign. An Italian translation prevails in court only if both parties agreed and signed it (GT-8.3).

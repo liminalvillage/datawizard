@@ -200,6 +200,13 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - Custodial Council activation trigger: **90 days** post-dissolution without successor (GT-13.5)
 - Public archive fallback for Ledger data: **180 days** post-dissolution without successor (GT-13.4)
 
+### H.2 Wind-down of the human estate (GT-13.7)
+- On entering dissolution, notify all resident Stewards, members, participants with in-flight bookings, and active Ventures within **14 days**.
+- Resident Steward housing window per A3 §16.3 (**30 / 90 days**) runs from that notice; Custodial Council makes reasonable rehousing efforts within the network.
+- In-flight programmes (A4) and ventures (A7): each assessed for fair conclusion vs. transfer to a surviving hub or the successor; comodato Assets returned per A1 §6 with fair handover to any venture using them.
+- Common reservoir applied to participant welfare and human-estate needs through wind-down, never swept to the centre (GT-13.5, GT-13.7(a)).
+- Custodial Council carries the human estate (housing, in-flight work, participant welfare) from **90 days** until a successor is constituted, which then assumes it (GT-13.7(d)–(e)).
+
 ---
 
 ## Section I — Network Passport (GT-3A)
