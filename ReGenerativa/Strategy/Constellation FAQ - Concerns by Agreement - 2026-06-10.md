@@ -71,6 +71,9 @@ The two are handled differently. A hub struggling in good faith gets support —
 **I'm a guest or client, not a member — do I have rights or recourse?**
 Yes. The Participant and Community Charter states what the network promises anyone it serves: safety and dignity (GT-2.6), honest and fair dealing with clear terms and lawful cancellation/withdrawal, privacy (GT-5), a feedback channel, and a real complaint route — a non-member may use the GT-7 dispute ladder (GT-7.5), and your statutory consumer and data rights and access to the courts are never limited (GT-2.8).
 
+**How does a new hub or partner join the network?**
+Through one admission gate. Offering an asset is not the same as the network choosing to take a place on: a new node is screened for mission fit (and its ability to keep regenerative balance from the start, GT-2.7) and for whether the network actually has the capacity to support it — steward bandwidth, mentor reach, reservoir headroom — so growth never over-extends the whole. The Board decides; the node joins provisionally and reaches full hub status only after a review (about six months, aligned with the hub-activation window of A1 §3.9). The same screen applies whether you join as a Hub under Agreement 1 (owned or comodato) or as an external partner by federation; only the instrument that follows differs (GT-11.9).
+
 **What happens if my hub leaves the network?**
 The place may leave, but the people are not cut off. In-flight programmes and ventures are concluded fairly or moved to another hub; your Passport is portable, so your access continues at other hubs; a resident steward keeps their notice and housing protections (A3 §16); the Ledger and all Passports stay intact (nothing is voided); and the community's unmet needs carry forward into the Demand Register (GT-11.8). Co-located hubs can also cluster for mutual aid and coordination, and the network may federate with other commons in the same watershed (GT-4.10).
 

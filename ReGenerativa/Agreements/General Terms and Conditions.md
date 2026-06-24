@@ -1,7 +1,7 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.32'
+version: '3.33'
 status: active
 created: '2026-03-17'
 updated: '2026-06-24'
@@ -316,6 +316,13 @@ The only thing that changes across scales is the legal boundary the federation c
 **GT-11.7 — Stacked roles and conflicts of interest.** A person or entity holding more than one role in the constellation (GT-11.4) shall disclose the stack wherever their roles interact in a specific matter, and shall not confirm, approve, validate, or review their own act performed in another role — including confirming their own Ledger entries (GT-1.8), approving their own reimbursements or payments (GT-4.5(c)), or reporting on a matter to themselves in another capacity. Where recusal would leave no competent person, the matter is referred to the next competent allocator or to the Association. *(Pending F1.)*
 
 **GT-11.8 — Hub exit and community continuity.** *(Pending F1.)* Where a Hub leaves the network — by the Owner's withdrawal of the Asset (Agreement 1 §6) or the network's return of it (GT-2.7(d)) — the Asset's departure does not sever the people. The Association: (a) honours in-flight programmes and ventures to a fair conclusion or transfer to another hub; (b) preserves the network access of the Hub's participants, guests, and members, whose Passports are portable to other hubs (GT-3A.5); (c) maintains the resident Steward's protections under Agreement 3 §16 (notice, housing window); (d) keeps the Contribution Ledger and Passports intact (GT-13.4) — a Hub's departure renders no record void; and (e) carries the departing community's unmet needs into the Network Demand Register (GT-1.13). Continuity of relationship survives continuity of place. *(Pending F1.)*
+
+**GT-11.9 — Admitting a new node.** *(Pending F1.)* Where exit is governed above (GT-11.8), entry is governed here. Bringing a new place or partner into the network is a distinct act from signing Agreement 1 over an Asset: the network must choose to take it on, and must be able to support it. Every new node passes one gate before it joins:
+(a) **Mission fit.** The place or partner is screened for alignment with the Association's regenerative purpose (0.0 §1) and the constellation's values, including its capacity to keep regenerative balance from the start (GT-2.7).
+(b) **Capacity to support.** The network assesses whether it can actually support another node — steward bandwidth, mentor reach, and common-reservoir headroom — and may decline a well-fitting node it lacks the capacity to hold, so that growth never over-extends the whole.
+(c) **The Board decides.** Admission is approved by the Board (Consiglio Direttivo) as an operational decision under subsidiarity (GT-4.5(a)); the Assembly is engaged only where a major commitment requires it (for immovable acquisition, cf. Agreement 1 §6.3A).
+(d) **Provisional, then full.** A new node joins provisionally and reaches full hub status only after a review, ordinarily aligned with the hub-activation window of Agreement 1 §3.9 (about six months), confirming the place came alive and the fit held in practice.
+(e) **One gate, two doors.** The same screen applies whether the node joins as a Hub under Agreement 1 (owned or comodato) or as an external entity by federation (GT-4.10(b)); only the instrument that follows differs — Agreement 1 plus Hub DNA (A1-5) and the Regenerative Impact baseline (Annex 2) for a Hub, a federation agreement for an external partner.
 
 ---
 

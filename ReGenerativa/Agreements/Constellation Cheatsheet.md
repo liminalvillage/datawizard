@@ -52,7 +52,7 @@ updated: '2026-06-20'
 | GT-8 | Governing law — Italian, RUNTS, APS-ETS |
 | GT-9 | Entire agreement + severability |
 | GT-10 | Anti-corruption |
-| GT-11 | Constellation cross-reference + Agreement Stacking (GT-11.4); no property, governance, or profit rights by role (GT-11.5); independent activities free, mission-bound resources protected (GT-11.6); stacked-role conflicts of interest (GT-11.7); hub exit and community continuity (GT-11.8) |
+| GT-11 | Constellation cross-reference + Agreement Stacking (GT-11.4); no property, governance, or profit rights by role (GT-11.5); independent activities free, mission-bound resources protected (GT-11.6); stacked-role conflicts of interest (GT-11.7); hub exit and community continuity (GT-11.8); admitting a new node — mission-fit + capacity gate, Board decides, provisional then full (GT-11.9) |
 | GT-12 | Fiscal compliance for paid collaborations |
 | GT-13 | Continuity and dissolution resilience — covenant survives the Association via succession protocol, distributed hub obligations, ledger as public good, Custodial Council; the human estate (resident-steward housing, in-flight programmes/ventures, participant welfare) is carried through wind-down (GT-13.7) |
 
@@ -123,6 +123,7 @@ Access to a specific Asset is always subject to asset-level controls, each reaso
 | Eldership eligibility | long, substantial contribution record | A8, Clause 2.1 |
 | Council allocation: posting / query window / response | 14 / 30 / 30 days | A8-1 §5.5.7 |
 | Wind-down notice to stewards/members/participants/ventures | 14 days from dissolution | GT-13.7; Op Proc H.2 |
+| New node — provisional period before full hub status | ~6 months (aligned A1 §3.9) | GT-11.9; Op Proc Q.1 |
 | Custodial Council activation (post-dissolution) | 90 days without successor | GT-13.5 |
 | Ledger public archive fallback | 180 days without successor | GT-13.4 |
 

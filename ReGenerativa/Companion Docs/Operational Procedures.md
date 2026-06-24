@@ -349,6 +349,20 @@ When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or networ
 
 ---
 
+## Section Q — Admission of a new node (GT-11.9)
+
+*Operational mechanics. The gate is binding in GT-11.9; the steps below are operational and Board-tunable. Provisional.*
+
+### Q.1 Admission flow
+1. **Expression of interest** — a prospective owner, steward group, or partner entity submits an expression of interest to the Board.
+2. **Mission-fit + capacity assessment** — the Board (with the relevant Cluster/Stewards where co-located, GT-4.10(a)) assesses values/mission alignment (GT-11.9(a)) and the network's capacity to support the node — steward bandwidth, mentor reach, reservoir headroom (GT-11.9(b)). Either may be grounds to decline or defer; a well-fitting node may be declined for lack of capacity.
+3. **Board decision** — admission approved by the Board; recorded in the minutes and reported in the *bilancio sociale* (GT-11.9(c)).
+4. **Instrument** — for a Hub: Agreement 1 signed, Hub DNA drafted (A1-5), Regenerative Impact baseline set (Annex 2). For an external partner: federation agreement under GT-4.10(b) (GT-11.9(e)).
+5. **Provisional status** — the node joins provisionally; hub-activation duties run per A1 §3.9 (steward appointed, first activity scheduled, communicated to membership within 6 months).
+6. **Review to full status** — at the end of the provisional period (about 6 months), a review confirms the place came alive and the fit held; full hub status is confirmed, or the provisional period extended, or admission reversed (GT-11.9(d)).
+
+---
+
 ## Migration Roadmap
 
 The sections marked **(Migration Pending)** above are domains where operational details currently sit inside signed agreements. To move them fully into this document, each affected agreement requires a one-clause amendment replacing the specific timeframe with "in accordance with the Operational Procedures published by the Association."
