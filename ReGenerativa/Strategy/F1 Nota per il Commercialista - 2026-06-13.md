@@ -5,14 +5,16 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-13T00:00:00.000Z
-updated: '2026-06-15'
+updated: '2026-07-02'
 operator: Roberto Valenti
 edit_log:
   - RG S39 2026-06-13
-  - >-
-    RG 2026-06-15 — aggiunte domande 8-10 (ARC, riserva del bene,
+  - RG 2026-06-15 — aggiunte domande 8-10 (ARC, riserva del bene,
     acquisizione/bene comune) e nota presentazione NRC; fascicolo aggiornato a
     GT v3.26
+  - "RG S42 2026-07-02 — aggiunta domanda 12 (strumenti di capitale per
+    l'acquisizione: indebitamento ETS, capitale comunitario, crowdfunding, fondo
+    come riserva vincolata, Art. 79(5))"
 tags:
   - strategy
   - fiscal
@@ -127,6 +129,16 @@ La riserva di cui sopra consente alla rete, nel tempo, di **acquistare** il bene
 
 - **Visibilità integrale del registro** (impostazione attuale: ogni partizione visibile a tutti i partecipanti, GT-3.4A / LGR-8): eventuali implicazioni di documentazione fiscale; i profili privacy e di concorrenza sono in carico al legale.
 - I **clienti esterni** appaiono nel registro come codici progetto, salvo consenso a essere nominati.
+
+### 12. Strumenti di capitale per l'acquisizione di beni (in progettazione, non ancora redatto in clausole)
+
+È in progetto un'architettura di capitale per finanziare l'acquisto di beni immobili in proprietà permanente della rete (il "percorso verso il bene comune", Accordo 1 §6.3A): oltre alla riserva per singolo bene (domanda 9), un futuro **fondo di acquisizione a livello di rete**, alimentato da erogazioni liberali e lasciti vincolati allo scopo (Accordo 5), raccolta fondi/crowdfunding dedicati, eventuale capitale comunitario e debito mission-aligned. Nessuna clausola è ancora redatta; si chiede parere preliminare su:
+
+(a) la **capacità di indebitamento** di un'APS/ETS e le relative garanzie — inclusa l'ipoteca su immobili in proprietà, e i limiti per beni detenuti in comodato (collegata alla domanda 7(b));
+(b) la **forma ammissibile del capitale comunitario** per un'APS (prestito sociale? titoli di solidarietà tramite banca partner? l'equity è esclusa dal vincolo di non distribuzione);
+(c) il trattamento fiscale del **crowdfunding vincolato all'acquisizione** (erogazione liberale vs corrispettivo);
+(d) l'inquadramento di un futuro **fondo di acquisizione come riserva vincolata a livello di rete** (estende la domanda 9 dal singolo bene alla rete);
+(e) se una raccolta di capitale rilevante incida sul **test di prevalenza Art. 79(5)** (collegata alla domanda 5).
 
 ---
 

@@ -204,8 +204,8 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 - On entering dissolution, notify all resident Stewards, members, participants with in-flight bookings, and active Ventures within **14 days**.
 - Resident Steward housing window per A3 §16.3 (**30 / 90 days**) runs from that notice; Custodial Council makes reasonable rehousing efforts within the network.
 - In-flight programmes (A4) and ventures (A7): each assessed for fair conclusion vs. transfer to a surviving hub or the successor; comodato Assets returned per A1 §6 with fair handover to any venture using them.
-- Common reservoir applied to participant welfare and human-estate needs through wind-down, never swept to the centre (GT-13.5, GT-13.7(a)).
-- Custodial Council carries the human estate (housing, in-flight work, participant welfare) from **90 days** until a successor is constituted, which then assumes it (GT-13.7(d)–(e)).
+- Common reservoir applied to participant welfare and human-estate needs through wind-down, never swept to the centre (GT-13.5, GT-13.7).
+- Custodial Council carries the human estate (housing, in-flight work, participant welfare) from **90 days** until a successor is constituted, which then assumes it (GT-13.7).
 
 ---
 
@@ -355,11 +355,11 @@ When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or networ
 
 ### Q.1 Admission flow
 1. **Expression of interest** — a prospective owner, steward group, or partner entity submits an expression of interest to the Board.
-2. **Mission-fit + capacity assessment** — the Board (with the relevant Cluster/Stewards where co-located, GT-4.10(a)) assesses values/mission alignment (GT-11.9(a)) and the network's capacity to support the node — steward bandwidth, mentor reach, reservoir headroom (GT-11.9(b)). Either may be grounds to decline or defer; a well-fitting node may be declined for lack of capacity.
-3. **Board decision** — admission approved by the Board; recorded in the minutes and reported in the *bilancio sociale* (GT-11.9(c)).
-4. **Instrument** — for a Hub: Agreement 1 signed, Hub DNA drafted (A1-5), Regenerative Impact baseline set (Annex 2). For an external partner: federation agreement under GT-4.10(b) (GT-11.9(e)).
+2. **Mission-fit + capacity assessment** — the Board (with the relevant Cluster/Stewards where co-located, GT-4.10(a)) assesses values/mission alignment (including regenerative balance from the start, GT-2.7) and the network's capacity to support the node — steward bandwidth, mentor reach, reservoir headroom. Either may be grounds to decline or defer; a well-fitting node may be declined for lack of capacity.
+3. **Board decision** — admission approved by the Board; recorded in the minutes and reported in the *bilancio sociale*.
+4. **Instrument** — for a Hub: Agreement 1 signed, Hub DNA drafted (A1-5), Regenerative Impact baseline set (Annex 2). For an external partner: federation agreement under GT-4.10(b).
 5. **Provisional status** — the node joins provisionally; hub-activation duties run per A1 §3.9 (steward appointed, first activity scheduled, communicated to membership within 6 months).
-6. **Review to full status** — at the end of the provisional period (about 6 months), a review confirms the place came alive and the fit held; full hub status is confirmed, or the provisional period extended, or admission reversed (GT-11.9(d)).
+6. **Review to full status** — at the end of the provisional period (about 6 months), a review confirms the place came alive and the fit held; full hub status is confirmed, or the provisional period extended, or admission reversed.
 
 ---
 

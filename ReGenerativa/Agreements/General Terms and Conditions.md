@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.33'
+version: '3.34'
 status: active
 created: '2026-03-17'
-updated: '2026-06-24'
+updated: '2026-07-02'
 tags:
   - general-terms
   - ReGenerativa
@@ -317,12 +317,7 @@ The only thing that changes across scales is the legal boundary the federation c
 
 **GT-11.8 — Hub exit and community continuity.** *(Pending F1.)* Where a Hub leaves the network — by the Owner's withdrawal of the Asset (Agreement 1 §6) or the network's return of it (GT-2.7(d)) — the Asset's departure does not sever the people. The Association: (a) honours in-flight programmes and ventures to a fair conclusion or transfer to another hub; (b) preserves the network access of the Hub's participants, guests, and members, whose Passports are portable to other hubs (GT-3A.5); (c) maintains the resident Steward's protections under Agreement 3 §16 (notice, housing window); (d) keeps the Contribution Ledger and Passports intact (GT-13.4) — a Hub's departure renders no record void; and (e) carries the departing community's unmet needs into the Network Demand Register (GT-1.13). Continuity of relationship survives continuity of place. *(Pending F1.)*
 
-**GT-11.9 — Admitting a new node.** *(Pending F1.)* Where exit is governed above (GT-11.8), entry is governed here. Bringing a new place or partner into the network is a distinct act from signing Agreement 1 over an Asset: the network must choose to take it on, and must be able to support it. Every new node passes one gate before it joins:
-(a) **Mission fit.** The place or partner is screened for alignment with the Association's regenerative purpose (0.0 §1) and the constellation's values, including its capacity to keep regenerative balance from the start (GT-2.7).
-(b) **Capacity to support.** The network assesses whether it can actually support another node — steward bandwidth, mentor reach, and common-reservoir headroom — and may decline a well-fitting node it lacks the capacity to hold, so that growth never over-extends the whole.
-(c) **The Board decides.** Admission is approved by the Board (Consiglio Direttivo) as an operational decision under subsidiarity (GT-4.5(a)); the Assembly is engaged only where a major commitment requires it (for immovable acquisition, cf. Agreement 1 §6.3A).
-(d) **Provisional, then full.** A new node joins provisionally and reaches full hub status only after a review, ordinarily aligned with the hub-activation window of Agreement 1 §3.9 (about six months), confirming the place came alive and the fit held in practice.
-(e) **One gate, two doors.** The same screen applies whether the node joins as a Hub under Agreement 1 (owned or comodato) or as an external entity by federation (GT-4.10(b)); only the instrument that follows differs — Agreement 1 plus Hub DNA (A1-5) and the Regenerative Impact baseline (Annex 2) for a Hub, a federation agreement for an external partner.
+**GT-11.9 — Admitting a new node.** *(Pending F1.)* Where GT-11.8 governs exit, this clause governs entry: admitting a new place or partner is a distinct act from signing Agreement 1 over an Asset. Every new node passes one gate — mission fit (including regenerative balance from the start, GT-2.7) and the network's real capacity to support it; a well-fitting node may be declined for lack of capacity, so growth never over-extends the whole. The Board decides (GT-4.5(a)); the node joins provisionally and reaches full hub status after review (Operational Procedures, Section Q). The same gate applies whether the node joins as a Hub under Agreement 1 or as an external partner by federation (GT-4.10(b)); only the instrument that follows differs.
 
 ---
 
@@ -365,14 +360,4 @@ If no successor entity is identified within 90 days of the Association entering 
 The relational rights and recognitions established in each individual agreement — including Passport record, Elder status, stewardship legacy, and named recognitions — survive the dissolution of the Association and are enforceable against any successor entity that assumes the constellation obligations under GT-13.2.
 
 **GT-13.7 — Caring for people when the network winds down** *(Pending F1.)*
-The clauses above (GT-13.2–13.6) protect the network's **records and property** if the Association is dissolved. This clause protects its **people**. Two things are fixed by Italian law and are not changed here: creditors are paid first, and any remaining assets pass to another Third Sector entity (Art. 9 CTS). Everything below concerns only the money and decisions the network still controls after those legal duties are met — chiefly the residual Unified Fund and common reservoir, which GT-13.5 already reserves for participant welfare.
-
-(a) **People come first.** Before any optional, relationship-based distribution, the network settles two things first: housing for Stewards who live at a hub, and the welfare of participants and guests. The common reservoir (GT-4.4A) keeps doing its job — mutual insurance — to the very end: it is spent on the holons and people who need it during wind-down, never pulled back to the centre.
-
-(b) **A home for resident Stewards.** A Steward who lives at a hub keeps the same housing window and rehousing help they would receive on an ordinary no-fault termination (Agreement 3 §16.3 — 30 or 90 days). Dissolution triggers this just as a termination notice would. The Custodial Council provides it first; the successor entity then carries it.
-
-(c) **Programmes and ventures already running.** A programme (Agreement 4) or venture (Agreement 7) under way is either brought to a fair finish or moved to a surviving hub or the successor entity — the same duty a hub owes its community when it leaves the network (GT-11.8(a)). Borrowed (comodato) Assets return to their owners on the terms of their own Agreement 1 (§6), and any venture using such an Asset is given a fair handover.
-
-(d) **Who looks after all this.** The Custodial Council (GT-13.5) — which already handles the fund and the search for a successor — also looks after this human estate in the meantime: housing, the running programmes and ventures, and participant welfare. Once a successor entity exists, it takes over.
-
-(e) **What a successor must continue.** A successor entity that takes on the constellation's obligations (GT-13.2) owes the whole network the same continuity that GT-11.8 makes a single departing hub owe its community: finish or transfer in-flight programmes and ventures; keep members', participants', and guests' network access and their portable Passports (GT-3A.5); maintain resident Stewards' protections (Agreement 3 §16); preserve the Contribution Ledger and Passports (GT-13.4); and carry any unmet community needs into the Network Demand Register (GT-1.13). The relationships outlast the organisation that held them.
+GT-13.2–13.6 protect the network's records and property through dissolution; this clause protects its people. Creditors and the mandatory devoluzione of assets (Art. 9 CTS) are untouched. Within the discretion the law leaves — the residual Unified Fund and common reservoir, already reserved for participant welfare (GT-13.5) — people come first: housing for resident Stewards and the welfare of participants and guests are settled before any discretionary distribution, and the common reservoir remains mutual insurance to the end, never swept to the centre. Dissolution triggers a resident Steward's housing window and rehousing help exactly as a no-fault termination would (Agreement 3 §16.3), and comodato Assets return to their owners on the terms of their own Agreement 1 (§6). The Custodial Council (GT-13.5) carries this human estate — housing, in-flight programmes and ventures, participant welfare — until a successor entity exists; the successor then owes the whole network the same continuity GT-11.8 owes a single departing hub's community.

@@ -5,12 +5,14 @@ status: active
 priority: high
 maturity: working
 created: '2026-06-16'
-updated: '2026-06-23'
+updated: '2026-07-02'
 operator: Roberto Valenti
 edit_log:
-  - >-
-    RG S41 2026-06-16 — created: structural-gaps catalog (9 gaps across 4 edge
-    subsystems not addressed by the Balance Review or Altitude passes)
+  - "RG S41 2026-06-16 — created: structural-gaps catalog (9 gaps across 4 edge
+    subsystems not addressed by the Balance Review or Altitude passes)"
+  - RG S42 2026-07-02 — SG4/SG5 applied then slimmed (complexity review); SG6
+    resolved light (capital architecture note + F1 domanda 12, clause deferred);
+    all nine gaps addressed
 tags:
   - strategy
   - gaps
@@ -48,9 +50,11 @@ Plus two lower-tier, more strategic absences (inter-hub relations; the knowledge
 
 > **STATUS — 2026-06-20 (SG9).** SG9 addressed: **GT-2.9 — The knowledge commons** releases the constellation model under **CC BY-SA 4.0** (model only; excludes personal data, hub-private info, and venture IP per A7 §9); **`ReGenerativa/LICENSE.md`** added; [[Knowledge Commons - 2026-06-20]] note; Cheatsheet + FAQ + MOC synced.
 
-> **STATUS — 2026-06-24 (SG5).** SG5 addressed: **GT-13.7 — Caring for people when the network winds down** (GT v3.32), the human-estate sibling to GT-13.3, carrying *people* (not just records/property) through dissolution. People-first within whatever the law leaves after creditors and the mandatory Art. 9 devoluzione; the resident-Steward housing window of A3 §16.3 is triggered by dissolution as if by no-fault termination; in-flight programmes/ventures are finished or transferred and comodato Assets returned (A1 §6); the common reservoir stays mutual insurance to the end. The Custodial Council (GT-13.5) carries the human estate in the interim and a successor entity then owes the network-scale analog of GT-11.8 (hub exit). Supporting: Operational Procedures **Section H.2**; Cheatsheet (4th continuity layer + 14-day timing row), FAQ, MOC synced.
+> **STATUS — 2026-06-24 (SG5).** SG5 addressed: **GT-13.7 — Caring for people when the network winds down**, the human-estate sibling to GT-13.3, carrying *people* (not just records/property) through dissolution. People-first within whatever the law leaves after creditors and the mandatory Art. 9 devoluzione; the resident-Steward housing window of A3 §16.3 is triggered by dissolution as if by no-fault termination; in-flight programmes/ventures are finished or transferred and comodato Assets returned (A1 §6); the common reservoir stays mutual insurance to the end. The Custodial Council (GT-13.5) carries the human estate in the interim and a successor entity then owes the network-scale analog of GT-11.8 (hub exit). Supporting: Operational Procedures **Section H.2**; Cheatsheet (4th continuity layer + 14-day timing row), FAQ, MOC synced. *Slimmed 2026-07-02 (complexity review): five limbs compressed to one paragraph — the GT-11.8 restatement now a one-sentence cross-reference (GT v3.34).*
 
-> **STATUS — 2026-06-24 (SG4).** SG4 addressed: **GT-11.9 — Admitting a new node** (GT v3.33), the entry sibling to GT-11.8 (exit). Admitting a node is a distinct act from signing Agreement 1 over an Asset; every new node passes one gate: mission fit (incl. regenerative balance from the start, GT-2.7), an explicit capacity-to-support test (a well-fitting node may be declined for lack of capacity, so growth never over-extends), Board decision under subsidiarity (Assembly only for immovable acquisition, cf. A1 §6.3A), and a provisional period with a review before full hub status (~6 months, aligned A1 §3.9). One gate, two doors: the same screen for an Agreement-1 Hub (owned/comodato) and for an external federation partner (GT-4.10(b)); only the following instrument differs. Supporting: Operational Procedures **Section Q**; Cheatsheet (GT-11 row + provisional-review timing row), FAQ (paired entry/exit Q), MOC synced.
+> **STATUS — 2026-07-02 (SG6).** SG6 resolved **the light way** after a complexity review: no GT clause, no fund holon, no LGR — deliberately deferred until an acquisition is actually in view. The decided capital architecture is recorded in [[Capital Architecture - Funding the Path to Commons - 2026-07-02]]: the fund architecture is a 2×2 (local/shared × operating/capital) with three quadrants already built; the missing shared-capital quadrant (a Commons Acquisition Fund holon topping up per-asset reserves) is known, named, and parked. The per-asset **Asset Reserve (GT-4.4B) stays** — it is load-bearing (ARC and regenerated-value routing, replacement of ordinary assets, structural protection, portability). Owner choices: reserve + future network pool (both); all four instruments acceptable (grants/earmarked donations, solidarity shares, crowdfunding, mission-aligned debt); moderate debt appetite (Board decision within published limits, never secured on a comodato Asset without Owner consent). A1 §6.3A(c) left untouched until the Fund exists. Fiscal side: **domanda 12** added to [[F1 Nota per il Commercialista - 2026-06-13]] (ETS borrowing/ipoteca, solidarity-share form, crowdfunding, network-level riserva vincolata, Art. 79(5)). **With this, all nine gaps (SG1–SG9) are addressed.**
+
+> **STATUS — 2026-06-24 (SG4).** SG4 addressed: **GT-11.9 — Admitting a new node**, the entry sibling to GT-11.8 (exit). Admitting a node is a distinct act from signing Agreement 1 over an Asset; every new node passes one gate: mission fit (incl. regenerative balance from the start, GT-2.7), an explicit capacity-to-support test (a well-fitting node may be declined for lack of capacity, so growth never over-extends), Board decision under subsidiarity, and a provisional period with a review before full hub status (~6 months, aligned A1 §3.9). One gate, two doors: the same screen for an Agreement-1 Hub (owned/comodato) and for an external federation partner (GT-4.10(b)). Supporting: Operational Procedures **Section Q**; Cheatsheet, FAQ (paired entry/exit Q), MOC synced. *Slimmed 2026-07-02 (complexity review): GT-11.9 compressed to a four-sentence gate; mechanics live only in Op Proc Q (GT v3.34).*
 
 ## 1. Participants and guests have no standing
 

@@ -167,7 +167,7 @@ The constellation survives the legal entity. Four independent layers carry the c
 3. **Ledger as public good** — Contribution Ledger and Passport data are network commons, with public archive fallback at 180 days (GT-13.4)
 4. **The human estate** — people are protected, not only records and property: resident Stewards keep their A3 §16.3 housing window, in-flight programmes and ventures are finished or transferred, and the common reservoir stays mutual insurance to the end; people come first within whatever the law leaves after creditors and devoluzione (GT-13.7)
 
-If no successor is identified in 90 days, the **Custodial Council** self-constitutes from hub owners and the Elder Council to administer remaining obligations and the human estate (GT-13.5, GT-13.7(d)); a successor entity then carries the same continuity at network scale that GT-11.8 owes a single departing hub (GT-13.7(e)).
+If no successor is identified in 90 days, the **Custodial Council** self-constitutes from hub owners and the Elder Council to administer remaining obligations and the human estate (GT-13.5, GT-13.7); a successor entity then carries the same continuity at network scale that GT-11.8 owes a single departing hub (GT-13.7).
 
 ---
 
