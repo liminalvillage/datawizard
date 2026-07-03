@@ -3,7 +3,7 @@ title: Agreement 3 Annex 2 — Vehicle and Equipment Steward Onboarding
 type: annex
 annex_ref: A3-2
 parent_agreement: Agreement 3 — Stewardship
-status: template
+status: dormant
 created: '2026-05-31'
 updated: '2026-06-03'
 version: '1.0'

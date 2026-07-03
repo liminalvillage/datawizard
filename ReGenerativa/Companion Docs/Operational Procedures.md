@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-07-02'
-version: '1.12'
+updated: '2026-07-03'
+version: '1.13'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -35,132 +35,53 @@ When an agreement references "the Operational Procedures" or "the published proc
 
 Where an agreement currently contains a specific timeframe (e.g. "within 14 days"), that timeframe remains binding as written. Migration of timeframes from agreements to this document is a separate, deliberate process — requiring agreement amendment to insert the "per the Operational Procedures" clause. Until that migration happens, the agreement governs.
 
-Sections marked **(Migration Pending)** are domains where the agreement currently holds the operational detail. The procedures are recorded here for reference and to support the eventual migration; until the agreement is amended, the agreement remains authoritative.
+Where an agreement holds the operational detail, the section below names the topics and clauses without restating the figures — the agreement is authoritative, and the [[Constellation Cheatsheet]] Key Numbers table is the at-a-glance mirror. Only settings genuinely homed in this document (marked **Operational setting**) carry their figures here.
 
 ---
 
 ## Section A — Membership (Agreement 2)
 
-### A.1 Annual Renewal Cycle (Migration Pending)
+Binding in Agreement 2: renewal cycle and fee due date (§4.1, §9.2); suspension and its lapse (§7.1); termination for non-payment, renewal and restoration windows (§7.4); resignation and insurance cessation (§8).
 
-- Membership year currently runs from date of first admission, with annual administrative alignment to **31 January** (A2 §9.2)
-- Annual fee due by **31 January** of each year (A2 §4.1)
-- Grace period for non-payment before suspension: **reasonable** (A2 §7.1) — operationally, the Association applies a 30-day grace from due date
-- Suspension pending verification of an allegation lapses after **60 days** unless the exclusion procedure is opened (A2 §7.1)
-- Termination notice for non-payment: written, with **30 days** to renew and restore standing (A2 §7.4)
-- Membership restoration window: **90 days** from termination notice (A2 §7.4)
-
-### A.2 Resignation
-- Member may resign at any time by written notice (A2 §8.1)
-- No fee refund (A2 §8.1)
-- Insurance coverage ceases at date of resignation (A2 §8.2)
+**Operational setting:** grace period for non-payment before suspension — **30 days** from due date (operationalises the "reasonable grace period" of A2 §7.1).
 
 ---
 
 ## Section B — Stewardship (Agreement 3)
 
-### B.1 Termination Notice (binding in agreement)
-- Standard: **30 days** from date of written receipt
-- Extended: **90 days** if 12+ months continuous tenure (A3 §16.1)
-
-### B.2 Periodic Review
-- Review cadence proportionate to the Asset's intensity of use, and **no less often than annually** (A3 §14.2)
-- Seasonal gatherings (equinox, solstice) are the default coordination points (A3 §14.2)
-
-### B.2A Reimbursements (binding in agreement)
-- Valid, pre-approved, documented reimbursements payable by the Association within **60 days** of submission, regardless of holon liquidity (A3 §9.3)
-
-### B.3 Asset Activation
-- Steward appointed within **6 months** of Ownership Agreement commencement (A1 §3.9)
-- First activity or use scheduled and the Asset communicated to membership within the same period (for a Hub, the place; for other assets, the tool, vehicle, equipment, or land)
+Binding in the agreements: termination notice, standard and extended (A3 §16.1); reimbursement deadline regardless of holon liquidity (A3 §9.3); review cadence — proportionate to intensity of use, at least annual, seasonal gatherings as default coordination points (A3 §14.2); asset activation duties and window (A1 §3.9).
 
 ---
 
 ## Section C — Mentorship (Agreement 4)
 
-### C.1 Programme Publication and Promotion (Migration Pending)
-- Programme published within **14 days** of confirmation that it will proceed (A4 §5A.1)
-- Registration status update to Mentor no later than **21 days** before programme date (A4 §5A.2)
-- Mentor share paid within **30 days** of Programme completion and accounting reconciliation (A4 §5.3)
-- Resource-cost place allocation: minimum **1 Resource-cost place per programme** unless higher specified in the framework Mentorship Agreement (§4.3) or Programme Annex (A4 §1.3A)
-- Supersession deadline: **7 days** before the Programme (the logistics freeze; thereafter only unfilled places may be claimed) (A4 §4.5(b)–(c))
-- Rotation window for Resource-cost claims: provisional **6 lunations** — a claimant who has not held a place within it takes priority regardless of score (A4 §4.5(c))
-- Discernment place: where more than one Resource-cost place is offered, at least one is allocated by Mentor discernment of need and readiness, outside the score (A4 §4.5(g))
+Binding in Agreement 4: programme publication and registration-update deadlines (§5A.1–5A.2); Mentor share payment deadline (§5.3); minimum Resource-cost places (§1.3A, §4.2); logistics freeze and supersession (§4.5(b)–(c)); discernment place (§4.5(g)); framework minimum engagement (§1.5).
 
-### C.2 Framework Agreement Continuity
-- Minimum engagement: **1 confirmed programme within 12 months** of framework commencement, provided the Mentor has proposed at least one programme in writing (A4 §1.5)
-- If no programme confirmed after 12 months despite proposal, either Party may terminate framework
-
-### C.3 Programme Cancellation
-- Cancellation deadlines and refund tiers per individual Programme Annex
-- Default participant refund schedule: full refund >30 days, 50% refund 14–30 days, no refund <14 days (transferable)
+**Operational settings:**
+- Rotation window for Resource-cost claims: **6 lunations** (provisional) — a claimant who has not held a place within it takes priority regardless of score; revisable here per A4 §4.5(c).
+- Default participant refund schedule where a Programme Annex is silent: full refund >30 days before the Programme, 50% at 14–30 days, none <14 days (place transferable).
 
 ---
 
 ## Section D — Intrapreneurship (Agreement 7)
 
-### D.1 Demand Signal Lifecycle (Migration Pending)
-- Demand Signal published in Register within **30 days** of submission (A7 §2.2)
-- Demand Signal flagged as "long-unaddressed" after **6 months** without response (A7 §2.4)
-- Register state communicated at each **seasonal gathering** (A7 §2.4)
+Binding in Agreement 7: Demand Signal publication window (§2.2); Phase 1 support confirmation (§3.4); network introductions (§8.3(b)); Association remedy period (§8.4); phase transitions and annual Phase 2 review (§6.2); suspension, termination, dissolution, and one-member fallback (§11); NRC remittance and Member distributions (§7.2–7.3).
 
-### D.2 Venture Activation
-- Association confirms Phase 1 support details within **30 days** of activation (A7 §3.4)
-- Confirmation includes: hub access specifics, fiscal hosting mechanism, first client commitment
-
-### D.3 Network Introductions
-- Association makes minimum **3 introductions within 60 days** of activation (A7 §8.3b)
-
-### D.4 Phase Transition
-- Phase Transition Review per A7-2; requires written agreement of Association + two-thirds majority of Venture Members (A7 §6.2)
-- Annual review of Phase 2 ventures (A7 §6.2 Phase 2 Duration)
-
-### D.5 Association Remedy Period
-- If Association materially fails Phase 1 support obligations, Venture has **30 days** to give written notice; Association has **30 days** to remedy before Venture may request early Phase Transition Review (A7 §8.4)
-
-### D.6 Venture Termination
-- Suspension to termination if material breach unresolved within **60 days** of suspension (A7 §11.2)
-- Voluntary dissolution requires **30 days written notice** + two-thirds majority (A7 §11.3)
-- If Venture falls to one Member: Association + remaining/former Members agree path within **30 days** (A7 §11.5)
-
-### D.7 NRC Remittance
-- Network Regeneration Contribution (NRC) transferred to Unified Fund (GT-1.10) within **30 days** of revenue receipt and accounting completion (A7 §7.2)
-- Distributions to Venture Members within **30 days** of revenue receipt and accounting completion (A7 §7.3)
+Register curation — consolidation, retirement, the unaddressed flag, seasonal reporting — is in **Section L**.
 
 ---
 
 ## Section E — Partnership (Agreement 6)
 
-### E.1 Distribution
-- Partner distribution within **30 days** of receipt and accounting completion (A6 §10.2)
-- NRC remittance within **30 days** alongside Partner distributions (A6 §10A.3)
+Binding in Agreement 6: Partner distributions and NRC remittance (§10.2, §10A.4); withdrawal notice (§16.1); confidentiality survival (§14.2); resolution of unvalidated contributions at exit (§16.3).
 
-### E.2 Withdrawal
-- Partner withdrawal: **90 days written notice** (A6 §16.1)
-
-### E.3 Confidentiality
-- Confidentiality obligation continues for **3 years** after cessation of participation (A6 §14.2)
-
-### E.4 Contribution log
-- Field definitions, confirmation workflow, and dispute path are in [[Agreement 6 Annex 4 — Contribution Log|A6-4]] (see also Section K).
+Contribution log mechanics: [[Agreement 6 Annex 4 — Contribution Log|A6-4]] (see Section K).
 
 ---
 
 ## Section F — Ownership (Agreement 1)
 
-### F.1 Termination Notice (binding in agreement)
-- Either Party: **90 days written notice** without penalty (A1 §6.1)
-
-### F.2 Ownership Transfer (binding in agreement)
-- Owner notifies Association of intended transfer: **60 days** before planned date (A1 §6.3)
-- Steward notified of intended transfer: within **14 days** of Association notice (A1 §6.3)
-- Incoming owner provided with Agreement copies: within **14 days** of transfer (A1 §6.3)
-- Incoming owner confirmation period: **30 days** to accept Owner obligations (A1 §6.3)
-- Steward notified of outcome: within **14 days** of incoming owner response or 30-day expiry (A1 §6.3)
-
-### F.3 Maintenance Reporting
-- Association notifies Owner of extraordinary maintenance need: within **5 business days** of discovery (A1-3 Hub Care Protocol Section B)
-- Owner commences extraordinary maintenance: within **30 days** of notification (A1-3 Section C)
+Binding in Agreement 1 and its annexes: termination by notice (§6.1); ownership-transfer notice and the assumption cascade (§6.3); extraordinary-maintenance reporting and commencement (A1-3 Hub Care Protocol §B–C).
 
 ---
 
@@ -225,7 +146,7 @@ Sections marked **(Migration Pending)** are domains where the agreement currentl
 ## Section J — Unified Fund (GT-4)
 
 ### J.1 NRC at source
-- The NRC Rate (band, default, uniform application across active holons, and exemptions) and the post-Emergence perpetual rate (A7-3 §2) are defined in GT-4.4(a) and held as a parameter in LGR-2 (`r_NRC`) — not restated here. Operational remittance windows are in §D.7 (Ventures) and §E.1 (Partnerships).
+- The NRC Rate (band, default, uniform application across active holons, and exemptions) and the post-Emergence perpetual rate (A7-3 §2) are defined in GT-4.4(a) and held as a parameter in LGR-2 (`r_NRC`) — not restated here. Remittance deadlines are binding in A7 §7.2–7.3 and A6 §10.2 / §10A.4.
 
 ### J.2 The shape (every holon)
 - Every holon runs the same self-similar shape — NRC out → cost-coverage bucket → Steward discretionary allocation (the *delega di spesa*, GT-4.3) → upward overflow to the Elder Council (terminal). The buckets, ceilings, parameter symbols, and settlement-over-time (the living balance) are defined in GT-4.4 / GT-4.4A and held as parameters in LGR-2 — not restated here.
@@ -335,7 +256,7 @@ For each hub (Liminal Village, Casa Selva, ReFactory, and any future hub) the As
 *Operational mechanics. The duties are binding in GT-11.8 (hub exit) and GT-4.10 (federation/clusters); the steps below are operational and Board-tunable. Provisional.*
 
 ### P.1 Hub exit
-When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or network return under GT-2.7(d)):
+When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or network return under GT-2.7(b)):
 - in-flight programmes and ventures are concluded fairly or transferred to another hub;
 - affected participants, guests, and members are offered continued access at other hubs (Passport portability, GT-3A.5);
 - the resident Steward's Agreement 3 §16 notice and housing window are honoured;
@@ -363,17 +284,9 @@ When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or networ
 
 ---
 
-## Migration Roadmap
+## Migration Note
 
-The sections marked **(Migration Pending)** above are domains where operational details currently sit inside signed agreements. To move them fully into this document, each affected agreement requires a one-clause amendment replacing the specific timeframe with "in accordance with the Operational Procedures published by the Association."
-
-**Recommended migration sequence:**
-
-1. **Mentorship (A4)** — high frequency of operational changes likely as the network grows; biggest near-term benefit
-2. **Intrapreneurship (A7)** — many timeframes that may need tuning as ventures emerge
-3. **Membership (A2)** — small, contained set of timeframes
-
-Some timeframes should remain in agreements because they protect substantive rights (notice periods that protect a participant from sudden termination, for instance). Marked **(binding in agreement)** above; not candidates for migration.
+Where an agreement holds a specific timeframe, it is binding there. Moving a timeframe into this document requires a one-clause amendment ("in accordance with the Operational Procedures published by the Association"); candidates and sequence are a Board decision, sensibly taken after F1. Timeframes that protect substantive rights — termination notice, payment deadlines, housing windows — stay in the agreements and are not candidates.
 
 ---
 

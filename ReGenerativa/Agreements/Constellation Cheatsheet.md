@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-07-02'
+updated: '2026-07-03'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -41,10 +41,10 @@ updated: '2026-07-02'
 | Section | What it governs |
 |---|---|
 | GT-1 | Definitions (Asset + Hub-as-place, Asset DNA / Hub DNA, Regenerative Impact, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
-| GT-2 | Regenerative Covenant — 6 integral dimensions; the animating mandate of every agreement; safeguarding duty + Code of Conduct (GT-2.6 → [[Safeguarding Policy and Code of Conduct]]); regenerative homeostat (GT-2.7): the RIF balance vs Annex 2 §D targets engages the GT-4.8 graduated response — support-first, Voice for the Land in the loop; participants/guests + wider-community charter (GT-2.8 → [[Participant and Community Charter]]); the model itself is a knowledge commons under CC BY-SA 4.0 (GT-2.9) |
-| GT-3 | Digital infrastructure — Contribution Ledger (a plain shared log; one record partitioned by holon, GT-1.7; visibility per GT-3.4A / LGR-8 — currently all-visible); contribution recognition stated once for every agreement (GT-3.5); optional resource-sharing / H3 tools (roadmap) |
+| GT-2 | Regenerative Covenant — six integral dimensions, the animating mandate of every agreement; safeguarding duty (GT-2.6 → [[Safeguarding Policy and Code of Conduct]]); regenerative balance, support-first graduated response (GT-2.7); participants, guests, and the wider community (GT-2.8 → [[Participant and Community Charter]]); the model itself a knowledge commons, CC BY-SA 4.0 (GT-2.9) |
+| GT-3 | Contribution Ledger — one plain shared record, partitioned by holon (GT-1.7); visibility a network setting (GT-3.4A → LGR-8, currently all-visible); contribution recognition stated once for every agreement (GT-3.5) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — Network Regeneration Contribution (NRC) at the Board-set NRC Rate (uniform, within 3–10%; default 5%) at source; post-Emergence entities (A7-3) pay a perpetual rate negotiated at the moment of Emergence; every holon runs the same self-similar shape: NRC out → cost-coverage bucket → Steward discretionary → upward overflow to Elder Council (terminal). Where activity uses an Asset entrusted under A1, an **Asset Regeneration Contribution (ARC, GT-4.9)** is also taken — after the NRC, before the operator's share — and routed to the host Asset holon, where the same shape covers the Asset's cost first and regenerates it with the rest (NRC feeds the network; ARC feeds the Asset — the two are network/asset scopes of **one Regeneration Contribution**, GT-4.4C). The **Association holon is an ordinary holon** stewarded by the Board — same shape, non-terminal, so the network **can't hoard** (its surplus overflows to the council). Assets may hold an **Asset Reserve** (GT-4.4B): a protected line filling (to replacement cost `R`) between cost-coverage and discretionary, toward replacing or buying the Asset into **complete commons** (A1 §6.3A). **Settles over time (GT-4.4A) as a living balance**: heal-first, throttle-on-shortfall, give/absorb via the common reservoir; **graduated measured-balance intervention** (GT-4.8) — re-tune the holon first, change stewards last. Parameters in the **Allocation Model** (GT-4.6 → LGR-5); ARC rate in LGR-9. *(Pending F1.)* Plain-language walk-through: [[The Fund in Plain Language]]. Federation (GT-4.10): holons compose into holons at any level — co-located hubs cluster, the network federates with peer commons across legal entities. |
+| GT-4 | Unified Fund — one self-similar shape for every holon: **NRC at source → cost-coverage → Asset Reserve (GT-4.4B) → steward discretionary → overflow to the Elder Council** (the common reservoir, terminal). The ARC (GT-4.9) routes a share of activity on an entrusted Asset back to that Asset; the Association holon runs the same shape and can't hoard (GT-4.4C); settlement, mutual aid, and graduated intervention per GT-4.4A / GT-4.8; parameters in the Allocation Model (GT-4.6 → LGR); federation composes holons at any scale (GT-4.10). *(Pending F1.)* Plain language: [[The Fund in Plain Language]] |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-6A | Termination for serious cause — one shared standard for every agreement, either party; individual agreements add only role-specific causes or staged processes |
@@ -54,9 +54,9 @@ updated: '2026-07-02'
 | GT-10 | Anti-corruption |
 | GT-11 | Constellation cross-reference + Agreement Stacking (GT-11.4); no property, governance, or profit rights by role (GT-11.5); independent activities free, mission-bound resources protected (GT-11.6); stacked-role conflicts of interest (GT-11.7); hub exit and community continuity (GT-11.8); admitting a new node — mission-fit + capacity gate, Board decides, provisional then full (GT-11.9) |
 | GT-12 | Fiscal compliance for paid collaborations |
-| GT-13 | Continuity and dissolution resilience — covenant survives the Association via succession protocol, distributed hub obligations, ledger as public good, Custodial Council; the human estate (resident-steward housing, in-flight programmes/ventures, participant welfare) is carried through wind-down (GT-13.7) |
+| GT-13 | Continuity and dissolution resilience — succession protocol, Ledger as public good, Custodial Council (GT-13.2–13.6); the human estate (housing, in-flight work, participant welfare) carried through wind-down (GT-13.7) |
 
-**Hierarchy:** Statute > individual agreement > General Terms. English text; Italian certified translation prevails in court.
+**Hierarchy:** Statute > individual agreement > General Terms. English text governs; an Italian certified translation prevails in court only where agreed and signed by both Parties (GT-8.3).
 
 ---
 
@@ -83,9 +83,9 @@ There are **no tiers and no perk table**, and no record buys a vote. One rule go
 
 Each steward, mentor, or hub sets, in good faith, how many places are free and how price slides with contribution for the resource they hold. The purpose is abundance and circulation, not gatekeeping. The Passport is simply the portable, cumulative record of contribution the rule reads from. Full detail: [[Network Passport]].
 
-Access to a specific Asset is always subject to asset-level controls, each reasoned in writing and reviewable under GT-7: the Owner's exclusion right (A1 §2.7, final say with the Owner) and the Steward's access veto (A3 §4.4, overturnable on review). The Owner may also **require** a named person be given access (A1 §2.8) — which overrides a Steward's veto, subject only to safety, capacity, DNA, and law. All are asset-scoped — membership and Passport record are untouched. *(Pending F1.)*
+Asset-level access controls — the Owner's reasoned exclusion or required access for a named person (A1 §2.7–2.8) and the Steward's veto (A3 §4.4) — are asset-scoped and reviewable under GT-7; membership and Passport record are untouched. *(Pending F1.)*
 
-**Three readings of the record** *(Pending F1)*: **lifetime-cumulative** contribution governs *access* (the rule above), portable and rankless; **active/recent** contribution to a holon governs *allocation say* — your share of that holon's discretionary spend (GT-4.3; A2 §2.7) — local to where you tend, and administration only, never a governance vote; and **€-valued entries** in a Project or Venture partition compute *distribution* shares (A6 §9–§10; A7 §7) — euro values never feed the access measure (GT-3A.4). Plain-language walk-through: [[The Fund in Plain Language]].
+**Three readings, one record** *(Pending F1)*: **lifetime** contribution governs *access* (the rule above); **active/recent** contribution to a holon governs *allocation say* there (GT-4.3; A2 §2.7 — administration, never a governance vote); **€-valued** Project/Venture entries compute *distribution* shares only — euro never feeds access (GT-3A.4). Detail: [[Network Passport]] and [[The Fund in Plain Language]].
 
 ---
 
@@ -154,7 +154,7 @@ The **Elder Council** is the standing governance body of all participants who ho
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
-The **Elder Council** is the terminal holon in the upward overflow under GT-4.4(d). It runs the same allocation shape as every other holon: cost-coverage bucket (Operating — governance costs) and Steward discretionary (Mission Allocation, uncapped — Association mission spending under the A8 mandate, never personal income to elders), per GT-4.4. It is also the network's **common reservoir** (GT-4.4A, GT-4.8): healthy holons give surplus upward, struggling holons are caught from the same pool. Feeding up earns mutual insurance + earned autonomy locally, and **recognition** in the Passport (access standing + the Eldership clock) — but **no allocation voice and no Council seat**; the Council stays elder-based (A8 §2–§3, §4.2A). *(Pending F1.)*
+The Council is the **terminal holon** and the network's **common reservoir**: it runs the same GT-4.4 shape (Operating cost-coverage + uncapped Mission Allocation, never personal income), receives every holon's upward overflow, and catches holons in genuine shortfall (GT-4.4A, GT-4.8). Feeding the reservoir earns mutual insurance, earned autonomy, and Passport recognition — never a Council seat or allocation voice (A8 §4.2A). *(Pending F1.)*
 
 ---
 
@@ -186,7 +186,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 ## Dispute Resolution Path
 
 1. Good-faith discussion between Parties
-2. Internal — **Elder Council** (or Collegio dei Probiviri until Elder Council is constituted) — non-binding opinion
+2. Internal — **Elder Council** (until constituted: the Collegio dei Probiviri if elected; failing both, an ad-hoc panel of three uninvolved Members or Stewards convened by the Board within 30 days — GT-7.2) — non-binding opinion
 3. External mediation — Legislative Decree 28/2010
 4. Jurisdiction — Court of Ascoli Piceno
 
@@ -204,12 +204,12 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | A1-4 | Shared Infrastructure Contributions | Agreement 1 |
 | A1-5 | Hub DNA *(fuller Asset DNA for a place; cf. A1-2)* | Agreement 1 |
 | A1-6 | Asset Care Protocol *(general care for any Asset; parent of A1-3, A1-7)* | Agreement 1 |
-| A1-7 | Vehicle and Equipment Care Protocol *(asset-specific child of A1-6)* | Agreement 1 |
-| A1-8 | Land Care Protocol *(asset-specific child of A1-6)* | Agreement 1 |
+| A1-7 | Vehicle and Equipment Care Protocol *(child of A1-6; dormant — archived until needed)* | Agreement 1 |
+| A1-8 | Land Care Protocol *(child of A1-6; dormant — archived until needed)* | Agreement 1 |
 | A2-1 | Member Onboarding | Agreement 2 |
 | A3-1 | Steward Onboarding *(Hub/place form; parent of A3-2, A3-3)* | Agreement 3 |
-| A3-2 | Vehicle and Equipment Steward Onboarding *(asset-kind branch of A3-1)* | Agreement 3 |
-| A3-3 | Land Care Steward Onboarding *(asset-kind branch of A3-1)* | Agreement 3 |
+| A3-2 | Vehicle and Equipment Steward Onboarding *(branch of A3-1; dormant — archived until needed)* | Agreement 3 |
+| A3-3 | Land Care Steward Onboarding *(branch of A3-1; dormant — archived until needed)* | Agreement 3 |
 | A4-1 | Programme Annex Template | Agreement 4 |
 | A5-1 | Support Schedule | Agreement 5 |
 | A5-2 | Recognition Terms | Agreement 5 |

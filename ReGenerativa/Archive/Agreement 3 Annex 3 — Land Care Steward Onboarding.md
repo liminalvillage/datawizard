@@ -3,7 +3,7 @@ title: Agreement 3 Annex 3 — Land Care Steward Onboarding
 type: annex
 annex_ref: A3-3
 parent_agreement: Agreement 3 — Stewardship
-status: template
+status: dormant
 created: '2026-06-01'
 updated: '2026-06-03'
 version: '1.0'

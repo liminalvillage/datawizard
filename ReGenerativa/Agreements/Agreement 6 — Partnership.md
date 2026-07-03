@@ -1,10 +1,10 @@
 ---
 title: Agreement 6 — Partnership
 type: agreement
-version: '3.8'
+version: '3.9'
 status: active
 created: '2026-03-17'
-updated: '2026-06-15'
+updated: '2026-07-03'
 tags:
   - agreement
   - partnership
@@ -160,9 +160,9 @@ The collaboration is guided by:
 
 **10A.3 Asset Regeneration Contribution.** *(Pending F1.)* Where a Project uses an Asset entrusted to the network under Agreement 1 (for example, a Project run at a Hub), the **Asset Regeneration Contribution** (GT-4.9) is a further structure cost: it is deducted from Project revenue — after the Network Regeneration Contribution and before Net Project Revenue is calculated for distribution to Partners — at the rate `r_ARC` (LGR-9), and routed to the host Asset holon. The Project Sheet may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9).
 
-**10A.3** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
+**10A.4** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
 
-**10A.4** This Clause 10A is a stipulation in favour of a third party (Article 1411 of the Italian Civil Code) made by the Partners in favour of the Association, which holds a direct right to enforce the remittance of the NRC notwithstanding that it is not a signatory to this Agreement. *(Pending F1.)*
+**10A.5** This Clause 10A is a stipulation in favour of a third party (Article 1411 of the Italian Civil Code) made by the Partners in favour of the Association, which holds a direct right to enforce the remittance of the NRC notwithstanding that it is not a signatory to this Agreement. *(Pending F1.)*
 
 ---
 

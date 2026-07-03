@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-10T00:00:00.000Z
-updated: '2026-07-02'
+updated: '2026-07-03'
 tags:
   - strategy
   - faq
@@ -48,7 +48,7 @@ The Asset Regeneration Contribution (GT-4.9): where your activity makes money us
 No. You disclose the overlap wherever your roles interact, and you never confirm, approve, or review your own act performed in another role (GT-11.7).
 
 **How are disputes handled?**
-In order: a direct good-faith conversation; internal mediation (the Elder Council once it exists; until then an ad-hoc panel of three uninvolved Members or Stewards convened within 30 days); external mediation; and finally the Court of Ascoli Piceno (GT-7). If a contribution score or access decision just feels wrong, anyone affected can also ask for a sensing circle before the outcome is final (GT-3A.9).
+In order: a direct good-faith conversation; internal mediation (the Elder Council once it exists; until then the Collegio dei Probiviri if one is elected, or failing that an ad-hoc panel of three uninvolved Members or Stewards convened within 30 days — GT-7.2); external mediation; and finally the Court of Ascoli Piceno (GT-7). If a contribution score or access decision just feels wrong, anyone affected can also ask for a sensing circle before the outcome is final (GT-3A.9).
 
 **Can I leave?**
 Always. Every agreement has an exit: Owner 90 days' notice, Member resign any time, Steward 30-90 days, Mentor per programme, Supporter for future support, Partner 90 days, Venture Member by written notice, Elder by withdrawal. Specifics are in each section below.
@@ -270,7 +270,7 @@ Every contribution is logged and validated in the project's partition of the net
 Disputes go: discussion, then two-thirds majority - but above the threshold set in the Project Sheet, a neutral reviewer (a non-participating Partner or an external mediator) gives a written opinion first (§8.3). Validation must also actively surface easily under-logged work like coordination and care (§8.1), and a project can reserve an ex-ante slice for exactly that relational work (§9.3).
 
 **What does the network take, and why?**
-The uniform NRC off project revenue before distribution - the structure cost of building inside the commons (brand, infrastructure, ledger, network). No per-project negotiation, by design (§10A). The Association holds a direct legal right to it even though it does not sign this agreement (§10A.4).
+The uniform NRC off project revenue before distribution - the structure cost of building inside the commons (brand, infrastructure, ledger, network). No per-project negotiation, by design (§10A). The Association holds a direct legal right to it even though it does not sign this agreement (§10A.5).
 
 **What do I keep if I leave?**
 90 days' notice, and you keep distribution rights on everything validated before exit; work still unvalidated at exit is resolved within 60 days through the normal process (§16). Confidentiality runs 3 years (§14.2).

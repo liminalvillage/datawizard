@@ -1,10 +1,10 @@
 ---
 title: Agreement 4 — Mentorship
 type: agreement
-version: '3.9'
+version: '3.10'
 status: active
 created: '2026-03-17'
-updated: '2026-06-15'
+updated: '2026-07-03'
 tags:
   - agreement
   - mentorship
@@ -192,7 +192,7 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 ## 11. No Governance or Property Rights
 
-**11.1** The general exclusions of GT-11.5 apply: the Mentor acquires no governance, property, exclusivity, or profit right over any hub or asset of the Association, or in the Association itself, by virtue of this Agreement.
+**11.1** *(GT-11.5 applies without role-specific extension; exclusive-occupancy exclusions are in Clauses 3.3 and 7.3.)*
 
 ---
 

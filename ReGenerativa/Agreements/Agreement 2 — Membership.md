@@ -1,10 +1,10 @@
 ---
 title: Agreement 2 — Membership
 type: agreement
-version: '3.10'
+version: '3.11'
 status: active
 created: '2026-03-17'
-updated: '2026-06-11'
+updated: '2026-07-03'
 tags:
   - agreement
   - membership
@@ -40,8 +40,6 @@ tags:
 **1.3** Membership is open and based on the spirit of participation and solidarity, in compliance with Article 23 of the Third Sector Code, which guarantees open, non-discriminatory membership.
 
 **1.4** Membership is a prerequisite for natural persons holding any active role in the ReGenerativa constellation (GT-11.4). A natural person may not serve as Steward, Mentor, or Intrapreneur unless they hold a current Membership Agreement in good standing. Legal entities — cooperatives, companies, and other organisations — may hold the Sponsorship Agreement (Agreement 5) or the Partnership Agreement (Agreement 6) without being members of the Association. A natural person entering a Partnership Agreement in their individual capacity is also required to hold a current Membership Agreement.
-
-Stewardship (Agreement 3) formalises, for a particular Asset, the mandate every Member already carries under Clause 2.7 (see GT-11.4). *(Pending F1.)*
 
 ---
 
@@ -184,9 +182,3 @@ Date: _________________________
 ## Linked Annexes
 
 - [[Agreement 2 Annex 1 — Member Onboarding]] — complete one per member per hub visit; the member's introduction to the hub — their skills, needs, rhythms, personal covenant, ecological practice, and story; read by the steward before arrival and retained in the hub's living record
-
----
-
-## Contribution Recognition
-
-Contribution recognition follows GT-3.5.

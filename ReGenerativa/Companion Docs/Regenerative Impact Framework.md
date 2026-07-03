@@ -9,8 +9,8 @@ tags:
   - regenerative-covenant
 title: Regenerative Impact Framework
 type: companion-doc
-updated: '2026-06-18'
-version: '1.3'
+updated: '2026-07-03'
+version: '1.4'
 ---
 *The Association's proprietary framework for classifying and measuring regenerative impact. Referenced in the [[General Terms and Conditions]] (GT-1.6 and GT-2), the [[Agreement 1 — Ownership| Ownership Agreement]] (Annex 2), the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4), and the [[Agreement 7 — Intrapreneurship|Intrapreneurship Agreement]] (Clause 2). This document specifies what the framework is, how it is applied, and how measurement works in practice.*
 
@@ -179,7 +179,7 @@ When a new agreement is activated (Ownership, Intrapreneurship, Partnership), th
 
 ### From assessment to response
 
-The seasonal assessment is not only a record — it is the input to the network's **regenerative balance** (GT-2.7). A dimension persistently trending downward across seasons, or active harm to any dimension, opens a graduated, relational, reversible response: support and re-tuning for a hub struggling in good faith; and, only for wilful or persistent uncured harm, the graduated intervention of GT-4.8(b), up to the last resort of GT-2.7(d). Honest non-attainment is never a fault (GT-2.4); the assessment stays a practice of honest attention, never a score or a ranking.
+The seasonal assessment is not only a record — it is the input to the network's **regenerative balance** (GT-2.7). A dimension persistently trending downward across seasons, or active harm to any dimension, opens a graduated, relational, reversible response: support and re-tuning for a hub struggling in good faith; and, only for wilful or persistent uncured harm, the graduated intervention of GT-4.8(b), up to the last resort of GT-2.7(b). Honest non-attainment is never a fault (GT-2.4); the assessment stays a practice of honest attention, never a score or a ranking.
 
 ---
 

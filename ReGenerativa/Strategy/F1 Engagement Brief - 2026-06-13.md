@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-13T00:00:00.000Z
-updated: '2026-06-15'
+updated: '2026-07-03'
 operator: Roberto Valenti
 edit_log:
   - RG S39 2026-06-13
@@ -64,7 +64,7 @@ The original F1 scope: the whole Unified Fund machinery — one fiscal host, hol
 ## Block 3 — Contract law (lawyer)
 
 1. **Regeneration Annex** ([[Regeneration Annex - Value Return on Sale - 2026-06-11]], §8 — six questions). Headline: ***comodato modale* compatibility** — can a gratuitous loan carry a sale-triggered value-return burden without recharacterisation (registration tax, lease rules)? Plus: ipoteca tax treatment for an ETS; *prelazione agraria* interaction with the contractual ROFR; the Owner→Association premium as liberal donation; 5-year clawback enforceability post-termination; OMI index determinacy / valuer fallback.
-2. **Balance-review clauses** (2026-06-10): A6 §10A.4 Art. 1411 third-party-beneficiary mechanism; GT-8.3 translation rule; A1 owner-liability residue (Art. 2053 c.c.); GT-6A.1 staged-process substitutions in A3 §16.2 / A4 §12.3; A8 §8.4A safeguarding suspension; GT-6A.1 either-party extension of termination for cause.
+2. **Balance-review clauses** (2026-06-10): A6 §10A.5 Art. 1411 third-party-beneficiary mechanism *(renumbered from §10A.4, 2026-07-03)*; GT-8.3 translation rule; A1 owner-liability residue (Art. 2053 c.c.); GT-6A.1 staged-process substitutions in A3 §16.2 / A4 §12.3; A8 §8.4A safeguarding suspension; GT-6A.1 either-party extension of termination for cause.
 3. **Stewardship seam fixes** (2026-06-11): A3 §3.3 restructure-notice rule; A3 §14.3 21-day responsiveness clock; A3 §16.2 documented-grounds safeguard.
 4. **This week's structural moves** (low risk, quick confirms): GT-1.7 → GT-3.4A visibility relocation; GT-3A.9 sensing-circle pause (confirm the 14-day pause cannot be read as suspending payment obligations); GT-4.8(b) measured-removal rule.
 5. **Owner/Steward access controls** (2026-06-13/14): A1 §2.6 (Owner designates Stewards per period), §2.7 (Owner access veto, reasoned, GT-7-reviewable), §2.8 (Owner designated access), A3 §4.4 (Steward access veto). Question: does reasoned, asset-scoped, reviewable exclusion of a **member** from a specific Asset sit within APS democratic-participation and equal-treatment requirements (member rights under the CTS / Statute; anti-discrimination)? The exclusion is asset-scoped by design (membership and Passport untouched) — confirm that suffices.

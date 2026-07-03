@@ -3,7 +3,7 @@ title: Agreement 1 Annex 8 — Land Care Protocol
 type: annex
 annex_ref: A1-8
 parent_agreement: Agreement 1 — Ownership
-status: template
+status: dormant
 created: '2026-05-31'
 updated: '2026-06-03'
 version: '1.1'

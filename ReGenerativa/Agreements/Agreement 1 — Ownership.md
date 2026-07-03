@@ -1,10 +1,10 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.12'
+version: '3.13'
 status: active
 created: '2026-03-17'
-updated: '2026-06-15'
+updated: '2026-07-03'
 tags:
   - agreement
   - ownership
@@ -184,11 +184,5 @@ Date: _________________________
 - [[Agreement 1 Annex 4 — Shared Infrastructure]]
 - [[Agreement 1 Annex 5 — Hub DNA]]
 - [[Agreement 1 Annex 6 — Asset Care Protocol]] *(general care for any Asset)*
-- [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] *(asset-specific child of Annex 6, for vehicles/equipment/power tools)*
-- [[Agreement 1 Annex 8 — Land Care Protocol]] *(asset-specific child of Annex 6, for land cared for as land)*
-
----
-
-## Contribution Recognition
-
-Contribution recognition follows GT-3.5.
+- [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] *(asset-specific child of Annex 6; dormant — archived until the network stewards such an asset)*
+- [[Agreement 1 Annex 8 — Land Care Protocol]] *(asset-specific child of Annex 6; dormant — archived until the network stewards such an asset)*
