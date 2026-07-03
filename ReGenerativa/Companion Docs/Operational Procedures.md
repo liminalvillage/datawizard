@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-06-20'
-version: '1.11'
+updated: '2026-07-02'
+version: '1.12'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 

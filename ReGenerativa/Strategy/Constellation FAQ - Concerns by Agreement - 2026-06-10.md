@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-10T00:00:00.000Z
-updated: '2026-06-20'
+updated: '2026-07-02'
 tags:
   - strategy
   - faq
