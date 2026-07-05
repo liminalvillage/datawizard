@@ -2,8 +2,6 @@
 title: The Fund in Plain Language
 type: companion
 status: draft
-maturity: draft
-priority: medium
 created: '2026-06-03'
 updated: '2026-07-05'
 tags:
@@ -15,9 +13,9 @@ tags:
 
 # The Fund in Plain Language
 
-*The plain-language companion to the Unified Fund (GT-4). The General Terms promise every member the right to understand how the network's money works without reading the math (GT-4.6); this is that explanation. It describes the **shape** the network is committing to. The exact figures — the size of the network's slice, how often things settle, how much room each place has — are still being set and await the F1 legal/fiscal review; they live in the [[Living Governance Resolutions]] (LGR-5). The shape below does not change with them.* *(Pending F1.)*
+*The plain-language companion to the Unified Fund (GT-4). The General Terms promise every member the right to understand how the network's money works without reading the math (GT-4.6); this is that explanation. It describes the **shape** the network is committing to. The exact figures — the size of the network's slice, how often things settle, how much room each place has — are set and revised by Board resolution in the Association's parameter register (the Living Governance Resolutions). The shape below does not change with them.*
 
-*For the precise rules, see the [[General Terms and Conditions]] (GT-4); for the design thinking behind it, the [[Membership as Stewardship and the Common Reservoir - 2026-05-30|strategy note]].*
+*For the precise rules, see the [[General Terms and Conditions]] (GT-4).*
 
 ---
 
@@ -37,7 +35,7 @@ When a place takes in money, it moves through the same five steps everywhere in 
 4. **Lasting surplus rises to the commons.** What a place keeps not needing, season after season, flows up to a shared pool held by the Elder Council. It does not pile up privately.
 5. **A place that falls genuinely short is caught.** If a place cannot cover its own costs for real and sustained reasons, that same shared pool carries it — so no place fails for lack of cover alone.
 
-*(How big the slice is, how often this settles, and how much room a place has before surplus overflows or shortfall is caught are all still being decided — see LGR-5, pending F1.)*
+*(How big the slice is, how often this settles, and how much room a place has before surplus overflows or shortfall is caught are Board-set parameters in the Association's parameter register, LGR-5.)*
 
 A place in a lean stretch is not punished: its free spending simply narrows in proportion to the gap, and the gap is worked off gently over time rather than clawed back all at once. Overspending heals itself this way and never becomes a network matter; only a real, structural shortfall reaches the common pool.
 
@@ -91,9 +89,9 @@ However the figures are finally set, the Fund is bound by a handful of plain gua
 6. **The floor holds** — the basic access guarantees are never reduced by any version of the model.
 7. **Transparency** — every flow is recorded and reported in the annual *bilancio sociale*.
 
-## What is still being decided
+## The tunable figures
 
-Awaiting the **F1 legal/fiscal review**, and set in the [[Living Governance Resolutions]] (LGR-5) rather than here:
+Set and revised by Board resolution in the Association's parameter register (LGR-5) rather than here:
 
 - the size of the network's slice (a uniform rate, within a narrow band);
 - how often the cycle settles;
@@ -104,4 +102,4 @@ The shape on this page is what the network is committing to. These figures tune 
 
 ---
 
-*Plain-language companion to GT-4. Not a legal instrument — the binding text is in the [[General Terms and Conditions]] and the [[Living Governance Resolutions]]. (Pending F1.)*
+*Plain-language companion to GT-4. Not a legal instrument — the binding text is in the [[General Terms and Conditions]] and the Association's governance resolutions.*

@@ -32,7 +32,7 @@ updated: '2026-07-03'
 
 **Prerequisite chain:** Membership (A2) must be active before any other agreement can be held by a natural person.
 **Stacking:** Any combination of agreements may be held simultaneously. New role = sign the relevant agreement only. No transition process required (GT-11.4).
-**Membership = stewardship (gradient):** every Member carries a standing mandate to tend (A2 §2.7); Stewardship (A3) formalises it for a particular hub. Allocation say over a holon's discretionary spend scales with active contribution — administration, never a governance vote (one member, one vote stands). Each holon declares its own **value system** for that division — a weighted combination of indicators it chooses (menu in LGR-5 §D), egalitarian by default (GT-4.3A). *(Pending F1.)*
+**Membership = stewardship (gradient):** every Member carries a standing mandate to tend (A2 §2.7); Stewardship (A3) formalises it for a particular hub. Allocation say over a holon's discretionary spend scales with active contribution — administration, never a governance vote (one member, one vote stands). Each holon declares its own **value system** for that division — a weighted combination of indicators it chooses (menu in LGR-5 §D), egalitarian by default (GT-4.3A).
 
 ---
 
@@ -44,7 +44,7 @@ updated: '2026-07-03'
 | GT-2 | Regenerative Covenant — six integral dimensions, the animating mandate of every agreement; safeguarding duty (GT-2.6 → [[Safeguarding Policy and Code of Conduct]]); regenerative balance, support-first graduated response (GT-2.7); participants, guests, and the wider community (GT-2.8 → [[Participant and Community Charter]]); the model itself a knowledge commons, CC BY-SA 4.0 (GT-2.9) |
 | GT-3 | Contribution Ledger — one plain shared record, partitioned by holon (GT-1.7); visibility a network setting (GT-3.4A → LGR-8, currently all-visible); contribution recognition stated once for every agreement (GT-3.5) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — one self-similar shape for every holon: **NRC at source → cost-coverage → Asset Reserve (GT-4.4B) → steward discretionary → overflow to the Elder Council** (the common reservoir, terminal). The ARC (GT-4.9) routes a share of activity on an entrusted Asset back to that Asset; the Association holon runs the same shape and can't hoard (GT-4.4C); settlement, mutual aid, and graduated intervention per GT-4.4A / GT-4.8; parameters in the Allocation Model (GT-4.6 → LGR); federation composes holons at any scale (GT-4.10). *(Pending F1.)* Plain language: [[The Fund in Plain Language]] |
+| GT-4 | Unified Fund — one self-similar shape for every holon: **NRC at source → cost-coverage → Asset Reserve (GT-4.4B) → steward discretionary → overflow to the Elder Council** (the common reservoir, terminal). The ARC (GT-4.9) routes a share of activity on an entrusted Asset back to that Asset; the Association holon runs the same shape and can't hoard (GT-4.4C); settlement, mutual aid, and graduated intervention per GT-4.4A / GT-4.8; parameters in the Allocation Model (GT-4.6 → LGR); federation composes holons at any scale (GT-4.10). Plain language: [[The Fund in Plain Language]] |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-6A | Termination for serious cause — one shared standard for every agreement, either party; individual agreements add only role-specific causes or staged processes |
@@ -83,9 +83,9 @@ There are **no tiers and no perk table**, and no record buys a vote. One rule go
 
 Each steward, mentor, or hub sets, in good faith, how many places are free and how price slides with contribution for the resource they hold. The purpose is abundance and circulation, not gatekeeping. The Passport is simply the portable, cumulative record of contribution the rule reads from. Full detail: [[Network Passport]].
 
-Asset-level access controls — the Owner's reasoned exclusion or required access for a named person (A1 §2.7–2.8) and the Steward's veto (A3 §4.4) — are asset-scoped and reviewable under GT-7; membership and Passport record are untouched. *(Pending F1.)*
+Asset-level access controls — the Owner's reasoned exclusion or required access for a named person (A1 §2.7–2.8) and the Steward's veto (A3 §4.4) — are asset-scoped and reviewable under GT-7; membership and Passport record are untouched.
 
-**Three readings, one record** *(Pending F1)*: **lifetime** contribution governs *access* (the rule above); **active/recent** contribution to a holon governs *allocation say* there (GT-4.3; A2 §2.7 — administration, never a governance vote); **€-valued** Project/Venture entries compute *distribution* shares only — euro never feeds access (GT-3A.4). Detail: [[Network Passport]] and [[The Fund in Plain Language]].
+**Three readings, one record**: **lifetime** contribution governs *access* (the rule above); **active/recent** contribution to a holon governs *allocation say* there (GT-4.3; A2 §2.7 — administration, never a governance vote); **€-valued** Project/Venture entries compute *distribution* shares only — euro never feeds access (GT-3A.4). Detail: [[Network Passport]] and [[The Fund in Plain Language]].
 
 ---
 
@@ -95,11 +95,11 @@ Asset-level access controls — the Owner's reasoned exclusion or required acces
 |---|---|---|
 | Annual membership fee | €25 | A2, Clause 4.1 |
 | NRC Rate (active holons, Board-set, uniform) | within 3–10% (default 5% absent Board figure) | GT-4.4(a), LGR-2 |
-| Asset Regeneration Contribution (ARC) — activity on an entrusted Asset | default 25%, floor 10% (provisional) of Net Revenue after NRC, to host Asset holon | GT-4.9, LGR-9 *(pending F1)* |
-| Asset Reserve target `R` (per asset) | replacement cost (provisional; `R` = 0 if no replaceable capital) | GT-4.4B, LGR-2 *(pending F1)* |
-| Settlement cycle (living balance) | one lunation (~29.53 days) | GT-4.4A, LGR-5 *(pending F1)* |
-| Band of tolerance `n` (sovereign zone ±nC) | provisional 3 lunations-of-cost, earned wider | GT-4.8, LGR-5 *(pending F1)* |
-| Downward backstop `k` (Association absorbs) | provisional 6 lunations | GT-4.8, LGR-5 *(pending F1)* |
+| Asset Regeneration Contribution (ARC) — activity on an entrusted Asset | default 25%, floor 10% (provisional) of Net Revenue after NRC, to host Asset holon | GT-4.9, LGR-9 |
+| Asset Reserve target `R` (per asset) | replacement cost (provisional; `R` = 0 if no replaceable capital) | GT-4.4B, LGR-2 |
+| Settlement cycle (living balance) | one lunation (~29.53 days) | GT-4.4A, LGR-5 |
+| Band of tolerance `n` (sovereign zone ±nC) | provisional 3 lunations-of-cost, earned wider | GT-4.8, LGR-5 |
+| Downward backstop `k` (Association absorbs) | provisional 6 lunations | GT-4.8, LGR-5 |
 | Post-Emergence NRC (negotiated at Emergence, locked perpetually as undilutable share) | within 3–10% | A7-3 §2 |
 | Ownership termination notice | 90 days | A1, Clause 6.1 |
 | Stewardship notice — standard | 30 days | A3, Clause 16.1 |
@@ -154,7 +154,7 @@ The **Elder Council** is the standing governance body of all participants who ho
 
 The Council convenes annually at a designated **Council Seat** (a hub formally recognised as the network's seat of elder governance, rotating per Council determination).
 
-The Council is the **terminal holon** and the network's **common reservoir**: it runs the same GT-4.4 shape (Operating cost-coverage + uncapped Mission Allocation, never personal income), receives every holon's upward overflow, and catches holons in genuine shortfall (GT-4.4A, GT-4.8). Feeding the reservoir earns mutual insurance, earned autonomy, and Passport recognition — never a Council seat or allocation voice (A8 §4.2A). *(Pending F1.)*
+The Council is the **terminal holon** and the network's **common reservoir**: it runs the same GT-4.4 shape (Operating cost-coverage + uncapped Mission Allocation, never personal income), receives every holon's upward overflow, and catches holons in genuine shortfall (GT-4.4A, GT-4.8). Feeding the reservoir earns mutual insurance, earned autonomy, and Passport recognition — never a Council seat or allocation voice (A8 §4.2A).
 
 ---
 
@@ -178,8 +178,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | [[Regenerative Impact Framework]]               | Measurement spec for all 6 covenant dimensions; seasonal hub assessment format    |
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
-| [[Living Governance Resolutions]]               | Holds revisable figures the agreements defer to (each resolution's current status is recorded in its own Status line in the register) |
-| [[The Fund in Plain Language]]                   | Plain-language walk-through of the Unified Fund (GT-4) for members — the shape and guarantees without the math; provisional figures fenced (pending F1) |
+| [[The Fund in Plain Language]]                   | Plain-language walk-through of the Unified Fund (GT-4) for members — the shape and guarantees without the math; provisional figures set by Board resolution |
 
 ---
 

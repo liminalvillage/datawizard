@@ -50,7 +50,7 @@ how many places are free and how price slides — applying the rule in good fait
 recording a free or below-cost place as a discretionary decision with its reason
 (GT-3A.3). The purpose is abundance and circulation, not gatekeeping. Someone who has
 given a great deal to the network tends to move toward the front and toward free;
-someone new pays nearer full price and builds their record from there. *(Pending F1.)*
+someone new pays nearer full price and builds their record from there.
 
 ---
 
@@ -71,7 +71,7 @@ venture, and the Association holds its own partition. Visibility is a tunable ne
 setting (GT-3.4A; LGR-8), currently: every partition visible to all — and never less
 than your own entries, your holons' partitions, and the Association's full view. The
 same record is read three ways, and keeping the readings apart is what lets
-contribution matter without ever becoming a rank over people. *(Pending F1.)*
+contribution matter without ever becoming a rank over people.
 
 - **For access — lifetime, portable, rankless.** Your whole cumulative record informs
   your place on the sliding scale (GT-3A.3) as one signal among several: a stronger

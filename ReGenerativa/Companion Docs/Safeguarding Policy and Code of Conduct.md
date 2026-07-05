@@ -2,16 +2,8 @@
 title: Safeguarding Policy and Code of Conduct
 type: companion-doc
 status: active
-priority: high
-maturity: draft
 created: '2026-06-16'
 updated: '2026-06-16'
-operator: Roberto Valenti
-edit_log:
-  - >-
-    RG S41 2026-06-16 — created: safeguarding policy + code of conduct (closes
-    Structural Gap SG2); binding duty proposed as GT-2A, mechanics in
-    Operational Procedures Section M
 tags:
   - companion-doc
   - safeguarding
@@ -20,7 +12,7 @@ tags:
 
 # Safeguarding Policy and Code of Conduct
 
-> **Status — draft, pending review.** This is the producible, named safeguarding document the network can hand to an insurer, the RUNTS, or a safeguarding audit. Its **binding duty** lives in the General Terms (proposed **GT-2A**, *Pending F1*); its **operational mechanics** (designated leads, vetting steps, reporting workflow, timeframes) live in **Operational Procedures Section M**. This policy must be reviewed by a safeguarding-competent advisor and, for the Italian mandatory-reporting and vetting specifics, by the F1 lawyer before adoption. Addresses Structural Gap **SG2** ([[Constellation Structural Gaps - 2026-06-16]]).
+> This is the network's safeguarding document — the one it hands to an insurer, the RUNTS, or a safeguarding audit. Its **binding duty** lives in the General Terms (**GT-2.6**); its **operational mechanics** (designated leads, vetting steps, reporting workflow, timeframes) live in **Operational Procedures Section M**.
 
 ---
 
@@ -85,4 +77,4 @@ Role-appropriate safeguarding orientation is part of onboarding (member, steward
 
 ---
 
-*Binding duty: proposed GT-2A (Pending F1). Mechanics: [[Operational Procedures]] Section M. Enforcement limbs: GT-6A.1, A2 §7.1, A4 §8, A8 §8.4A. Related: [[Constellation Structural Gaps - 2026-06-16]] (SG2), [[Regenerative Impact Framework]] (dimension b, Human Health and Well-Being).*
+*Binding duty: GT-2.6. Mechanics: [[Operational Procedures]] Section M. Enforcement limbs: GT-6A.1, A2 §7.1, A4 §8, A8 §8.4A. Related: [[Regenerative Impact Framework]] (dimension b, Human Health and Well-Being).*

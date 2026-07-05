@@ -93,7 +93,7 @@ tags:
 
 **4.5** All Venture Members' contributions are recorded in the Contribution Ledger (GT-3) from the moment of joining. The dynamic share logic of the [[Agreement 6 — Partnership|Partnership Agreement]] (Clauses 9–10) applies to revenue distribution within the holon, adapted to the phase structure of this Agreement.
 
-**4.6 Allocation as a holon (living balance).** As a holon under GT-4, the Venture runs the living balance of GT-4.4A on the parameters of the Allocation Model (GT-4.6; LGR-5), its discretionary envelope directed by the Venture Members as co-stewards per GT-4.3 (Agreement 2 §2.7). This contribution-weighted allocation is administration of delegated resources, distinct from both the revenue distribution of Clause 4.5 and the equal internal governance vote of Clause 4.3. *(Pending F1.)*
+**4.6 Allocation as a holon (living balance).** As a holon under GT-4, the Venture runs the living balance of GT-4.4A on the parameters of the Allocation Model (GT-4.6; LGR-5), its discretionary envelope directed by the Venture Members as co-stewards per GT-4.3 (Agreement 2 §2.7). This contribution-weighted allocation is administration of delegated resources, distinct from both the revenue distribution of Clause 4.5 and the equal internal governance vote of Clause 4.3.
 
 ---
 
@@ -143,7 +143,7 @@ tags:
 - **Association support:** Ecosystem membership; no direct incubation support
 - **Emergence trigger:** Venture Holon may initiate the Emergence process (Clause 10) at any point in Phase 3
 
-**6.3** At each phase, the minimum network-service obligation applies to capacity, not revenue. Capacity is measured by the metric declared in the Venture Sheet at activation (default: Venture Member hours per lunation), and Phase Reviews assess the floors against that metric. *(Pending F1.)*
+**6.3** At each phase, the minimum network-service obligation applies to capacity, not revenue. Capacity is measured by the metric declared in the Venture Sheet at activation (default: Venture Member hours per lunation), and Phase Reviews assess the floors against that metric.
 
 **6.4** The phase structure is a floor, not a ceiling. A Venture Holon may choose to maintain a higher proportion of network service at any phase. This is encouraged and recognised in the Contribution Ledger as a Validated Contribution of the holon to the commons.
 
@@ -155,7 +155,7 @@ tags:
 
 **7.2 During Phases 2 and 3:** External revenue may be invoiced through the Association (if the venture has not yet incorporated) or through the venture's own legal entity. In either case, the Network Regeneration Contribution is calculated on Net External Revenue and transferred to the Unified Fund (GT-1.10) within 30 days of receipt.
 
-**7.3 Distribution among Venture Members:** After the NRC, the Asset Regeneration Contribution where the venture operates on an Asset entrusted under Agreement 1 (GT-4.9; rate per LGR-9, routed to the host Asset holon), and any agreed operating costs, Net Revenue is distributed among Venture Members per the dynamic share logic of Agreement 6 (Clauses 9–10), within thirty (30) days of revenue receipt and accounting completion. *(Pending F1.)*
+**7.3 Distribution among Venture Members:** After the NRC, the Asset Regeneration Contribution where the venture operates on an Asset entrusted under Agreement 1 (GT-4.9; rate per LGR-9, routed to the host Asset holon), and any agreed operating costs, Net Revenue is distributed among Venture Members per the dynamic share logic of Agreement 6 (Clauses 9–10), within thirty (30) days of revenue receipt and accounting completion.
 
 **7.4 Fiscal documentation:** Each Venture Member is responsible for their own fiscal obligations arising from distributions received. The Association or the venture's legal entity shall apply withholding taxes as required by Italian law (GT-12).
 
@@ -203,7 +203,7 @@ tags:
 
 **10.1** Emergence is the process by which the Venture Holon formally separates from the Association's incubation framework and becomes a fully independent legal entity. It is available from Phase 3 onward.
 
-**10.2** Emergence is initiated by a two-thirds majority of Venture Members and must be agreed in writing by the Association. Neither Party can force Emergence on the other. The Association shall not refuse Emergence without written reasons against the following criteria: the venture's NRC and fiscal obligations are settled; the documented Demand Signal remains served or has been formally retired; and the terms of Annex 3 (rate, intellectual property, preferred-client) are agreed or referable to mediation. A refusal is re-examined at each annual Phase 3 review, and persistent refusal without sustainable reasons may be referred to dispute resolution under GT-7. *(Pending F1.)*
+**10.2** Emergence is initiated by a two-thirds majority of Venture Members and must be agreed in writing by the Association. Neither Party can force Emergence on the other. The Association shall not refuse Emergence without written reasons against the following criteria: the venture's NRC and fiscal obligations are settled; the documented Demand Signal remains served or has been formally retired; and the terms of Annex 3 (rate, intellectual property, preferred-client) are agreed or referable to mediation. A refusal is re-examined at each annual Phase 3 review, and persistent refusal without sustainable reasons may be referred to dispute resolution under GT-7.
 
 **10.3** The terms of Emergence are defined in **[[Agreement 7 Annex 3 — Emergence]]**, which addresses:
 - The legal form of the Emerged Entity
@@ -218,7 +218,7 @@ tags:
 
 ## 11. Suspension and Termination
 
-**11.1 Suspension by the Association:** If the Venture Holon materially breaches the Network-First Ruleset, fails to pay the NRC, engages in conduct inconsistent with the Regenerative Covenant, or operates in ways that create legal or reputational risk for the Association, the Association may suspend ecosystem support pending resolution. Except in cases of immediate danger or legal necessity, the Association first states the breach in writing and hears the Venture Members; the suspension notice states the cure required. *(Pending F1.)*
+**11.1 Suspension by the Association:** If the Venture Holon materially breaches the Network-First Ruleset, fails to pay the NRC, engages in conduct inconsistent with the Regenerative Covenant, or operates in ways that create legal or reputational risk for the Association, the Association may suspend ecosystem support pending resolution. Except in cases of immediate danger or legal necessity, the Association first states the breach in writing and hears the Venture Members; the suspension notice states the cure required.
 
 **11.2 Termination by the Association:** If a material breach is not resolved within 60 days of suspension, the Association may terminate this Agreement. Accrued NRC obligations survive termination.
 

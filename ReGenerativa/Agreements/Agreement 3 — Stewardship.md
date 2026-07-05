@@ -32,23 +32,23 @@ tags:
 
 ## 1. Nature and Purpose of the Role
 
-**1.1** The Association operates a network of regenerative hubs and stewards a range of shared **Assets** (GT-1.4) — places, land, buildings, equipment, tools, and vehicles — through which it carries out institutional, educational, ecological, cultural, social, and community-building activities. *(Pending F1.)*
+**1.1** The Association operates a network of regenerative hubs and stewards a range of shared **Assets** (GT-1.4) — places, land, buildings, equipment, tools, and vehicles — through which it carries out institutional, educational, ecological, cultural, social, and community-building activities.
 
-**1.2** By this Agreement, the Association entrusts the Steward (or, where the Asset is co-stewarded, the Stewards jointly) with the operational stewardship of **[name / description of the asset, place, or project]** (the "Asset") for the period and under the conditions set out herein. Where the Asset is a place at which activities are carried out, it is a **Hub** (GT-1.4), and the references to "Hub" in this Agreement apply; where the Asset is not a place — a tool, a vehicle, equipment, or land used without gathering — references to "Hub" are read as "the Asset", and the place-specific duties (door, rhythms, gatherings, Hub DNA) apply only so far as they are relevant. *(Pending F1.)*
+**1.2** By this Agreement, the Association entrusts the Steward (or, where the Asset is co-stewarded, the Stewards jointly) with the operational stewardship of **[name / description of the asset, place, or project]** (the "Asset") for the period and under the conditions set out herein. Where the Asset is a place at which activities are carried out, it is a **Hub** (GT-1.4), and the references to "Hub" in this Agreement apply; where the Asset is not a place — a tool, a vehicle, equipment, or land used without gathering — references to "Hub" are read as "the Asset", and the place-specific duties (door, rhythms, gatherings, Hub DNA) apply only so far as they are relevant.
 
-**1.2A Interpretation.** Throughout this Agreement, "the Asset" is the general term for the thing entrusted; "the Hub" is used where a provision concerns a place specifically. Each Asset is entrusted **purpose-bound**, for the specific use and within the specific limitations of its **Asset DNA** (GT-1.5) — expressed, for a simple asset, in the Permitted Use annex (Agreement 1 Annex 2), and for a Hub in the fuller Hub DNA (Agreement 1 Annex 5). The Steward's care is held against that DNA. *(Pending F1.)*
+**1.2A Interpretation.** Throughout this Agreement, "the Asset" is the general term for the thing entrusted; "the Hub" is used where a provision concerns a place specifically. Each Asset is entrusted **purpose-bound**, for the specific use and within the specific limitations of its **Asset DNA** (GT-1.5) — expressed, for a simple asset, in the Permitted Use annex (Agreement 1 Annex 2), and for a Hub in the fuller Hub DNA (Agreement 1 Annex 5). The Steward's care is held against that DNA.
 
 **1.3** The Steward's role — held individually or collectively by co-stewards (Clause 3.3) — is that of a delegated custodian, coordinator, and guardian of the Hub's functioning, acting on behalf of the Association and within the Association's legal and organisational framework.
 
-**1.4** The Steward's principal mandate is to **keep the Asset sound and put it to good regenerative use** — to optimise resource inputs and maximise regenerative outputs in relation to the Asset, its activities, its people, and its wider ecosystem, within the purpose and limitations of its Asset DNA (Clause 1.2A) - honouring the carrying capacity and rhythms of the Asset and its people, including rest, fallow, and ecological limits, as part of regenerative use; sufficiency over maximisation. *(Pending F1.)*
+**1.4** The Steward's principal mandate is to **keep the Asset sound and put it to good regenerative use** — to optimise resource inputs and maximise regenerative outputs in relation to the Asset, its activities, its people, and its wider ecosystem, within the purpose and limitations of its Asset DNA (Clause 1.2A) - honouring the carrying capacity and rhythms of the Asset and its people, including rest, fallow, and ecological limits, as part of regenerative use; sufficiency over maximisation.
 
 **1.5** This Agreement does **not** grant the Steward autonomous possession of the underlying asset, nor constitute a subletting or transfer of the Association's upstream right of use. The general exclusions of GT-11.5 (no ownership, tenancy, governance, or profit rights) and GT-12.4 (no employment relationship) apply.
 
-**1.6** The Steward accepts the role in order to help the Association ensure that the Asset remains sound, well-used, safe, and (where it is a place) welcoming, and that it functions as a regenerative node capable of creating more value with fewer extractive inputs. *(Pending F1.)*
+**1.6** The Steward accepts the role in order to help the Association ensure that the Asset remains sound, well-used, safe, and (where it is a place) welcoming, and that it functions as a regenerative node capable of creating more value with fewer extractive inputs.
 
 **1.7 Membership prerequisite.** The Steward must hold a current Membership Agreement in good standing per Agreement 2, Clause 1.4 (see GT-11.4).
 
-**1.8 Origin in membership.** This Agreement formalises, for this Asset, the standing mandate every Member already holds under Agreement 2, Clause 2.7 (GT-11.4); it does not create it. *(Pending F1.)*
+**1.8 Origin in membership.** This Agreement formalises, for this Asset, the standing mandate every Member already holds under Agreement 2, Clause 2.7 (GT-11.4); it does not create it.
 
 ---
 
@@ -68,7 +68,7 @@ tags:
 
 **3.2** Specific duties may include: day-to-day coordination of the space; welcoming and orienting members, participants, facilitators, and guests; upholding the Hub DNA and practical rules; organising the calendar of stays, events, and use periods; making visible what tasks, needs, or opportunities exist; ensuring the Hub is left in good order; facilitating communication between the Association and local users; and identifying opportunities for greater regenerative impact.
 
-**3.3 Co-stewardship and shares.** An Asset may be stewarded by one Steward or by several co-stewards together. Where several, they hold a single collective *delega di spesa* over the Asset's discretionary envelope, **divided in proportion to each Steward's recorded active contribution** to the Asset (GT-3A, and Agreement 2 Clause 2.7) under the holon's declared value system (GT-4.3A), recomputed on the cadence set in the Allocation Model. Co-stewards exercise this authority jointly and account for it jointly. The Association may revise the stewardship structure as needed — but not silently: a revision affecting a serving Steward's mandate or share is preceded by a conversation with the affected Stewards and written notice of at least thirty (30) days stating the reasons; a revision that would end a Steward's mandate is a termination and proceeds under Clause 16. *(Pending F1.)*
+**3.3 Co-stewardship and shares.** An Asset may be stewarded by one Steward or by several co-stewards together. Where several, they hold a single collective *delega di spesa* over the Asset's discretionary envelope, **divided in proportion to each Steward's recorded active contribution** to the Asset (GT-3A, and Agreement 2 Clause 2.7) under the holon's declared value system (GT-4.3A), recomputed on the cadence set in the Allocation Model. Co-stewards exercise this authority jointly and account for it jointly. The Association may revise the stewardship structure as needed — but not silently: a revision affecting a serving Steward's mandate or share is preceded by a conversation with the affected Stewards and written notice of at least thirty (30) days stating the reasons; a revision that would end a Steward's mandate is a termination and proceeds under Clause 16.
 
 ---
 
@@ -80,7 +80,7 @@ tags:
 
 **4.3** The Steward shall support forms of use that deepen mission alignment and enhance regenerative quality, while discouraging uses that are wasteful, extractive, passive, or manifestly incompatible with the Association's mission, the Hub DNA, the applicable Owner conditions, safety requirements, or applicable law.
 
-**4.4 Steward's Access Veto.** The Steward may decline or revoke a member's or participant's access to the Asset by notice stating the reasons. The veto is asset-scoped: it does not affect the person's membership, Network Passport record, or standing elsewhere in the network. It is subordinate to the Owner's rights under Agreement 1: the Steward may not admit a person the Owner has excluded (Agreement 1, Clause 2.7), nor deny access to a person the Owner has designated for access (Agreement 1, Clause 2.8), subject to the safety, capacity, and DNA limits stated there. The affected person may refer the veto to review under GT-7, including the interim panel of GT-7.2; the veto stands pending review, and the review may confirm it or restore access. Clause 11.2 applies to the exercise of this power. *(Pending F1.)*
+**4.4 Steward's Access Veto.** The Steward may decline or revoke a member's or participant's access to the Asset by notice stating the reasons. The veto is asset-scoped: it does not affect the person's membership, Network Passport record, or standing elsewhere in the network. It is subordinate to the Owner's rights under Agreement 1: the Steward may not admit a person the Owner has excluded (Agreement 1, Clause 2.7), nor deny access to a person the Owner has designated for access (Agreement 1, Clause 2.8), subject to the safety, capacity, and DNA limits stated there. The affected person may refer the veto to review under GT-7, including the interim panel of GT-7.2; the veto stands pending review, and the review may confirm it or restore access. Clause 11.2 applies to the exercise of this power.
 
 ---
 
@@ -98,7 +98,7 @@ tags:
 
 ## 5A. The Asset's Living Balance
 
-*(Pending F1.)*
+
 
 **5A.1** The Asset runs a living balance per GT-4.4A, on the parameters of the Allocation Model (GT-4.6). The Stewards' first duty each cycle is to cover the Asset's real operating need before directing any discretionary surplus; persistent shortfall beyond the band engages the graduated intervention of GT-4.8. The measured balance initiates review — it never of itself removes a Steward: any change of Stewards proceeds under Clause 16, after the relational conversation of GT-4.8(b).
 
@@ -106,7 +106,7 @@ tags:
 
 ## 5B. The Asset's Regenerative Balance
 
-**5B.1** The Asset likewise runs a regenerative balance per GT-2.7, assessed each season through the Regenerative Impact Framework (GT-1.6) against Annex 2 §D and recorded in the Hub DNA living-progress table — support first for honest struggle (GT-2.4), graduated response only for wilful or persistent uncured harm (GT-2.7(b)), any change of Stewards under Clause 16, with the Voice for the Land and the Unborn (A8-1 §1.6) speaking in the review. *(Pending F1.)*
+**5B.1** The Asset likewise runs a regenerative balance per GT-2.7, assessed each season through the Regenerative Impact Framework (GT-1.6) against Annex 2 §D and recorded in the Hub DNA living-progress table — support first for honest struggle (GT-2.4), graduated response only for wilful or persistent uncured harm (GT-2.7(b)), any change of Stewards under Clause 16, with the Voice for the Land and the Unborn (A8-1 §1.6) speaking in the review.
 
 ---
 
@@ -114,7 +114,7 @@ tags:
 
 **6.1** The Steward may propose or support the organisation of workshops, retreats, educational programmes, gatherings, and other hosted activities at the Hub, provided they are consistent with the Association's mission, the Hub DNA, the Association's approval procedures, and the applicable Ownership Agreement.
 
-**6.2** The Steward shall not independently appropriate event income as personal revenue merely because they are stewarding the Hub. All financial flows linked to events shall be accounted for through the Association or through a written structure expressly approved by the Association. Where a hosted event generates surplus, the Asset Regeneration Contribution applies to that surplus (GT-4.9; rate per LGR-9), routed to the Asset holon so that surplus made at the Asset regenerates it. *(Pending F1.)*
+**6.2** The Steward shall not independently appropriate event income as personal revenue merely because they are stewarding the Hub. All financial flows linked to events shall be accounted for through the Association or through a written structure expressly approved by the Association. Where a hosted event generates surplus, the Asset Regeneration Contribution applies to that surplus (GT-4.9; rate per LGR-9), routed to the Asset holon so that surplus made at the Asset regenerates it.
 
 ---
 
@@ -148,11 +148,11 @@ tags:
 
 ## 9. Reimbursements
 
-**9.1** The Association may reimburse the Steward only for expenses actually incurred, connected with the stewardship role, pre-approved or otherwise accepted, and documented appropriately. Reimbursement is analytical only — item by item, against receipts; self-certified expenses are admissible solely within the bounds of Art. 17(4) CTS (a prior Board deliberation, and within the statutory per-day and per-month caps), and flat-rate reimbursements are never made: a forfait payment to a volunteer would constitute remuneration (Art. 17(3) CTS). *(Pending F1.)*
+**9.1** The Association may reimburse the Steward only for expenses actually incurred, connected with the stewardship role, pre-approved or otherwise accepted, and documented appropriately. Reimbursement is analytical only — item by item, against receipts; self-certified expenses are admissible solely within the bounds of Art. 17(4) CTS (a prior Board deliberation, and within the statutory per-day and per-month caps), and flat-rate reimbursements are never made: a forfait payment to a volunteer would constitute remuneration (Art. 17(3) CTS).
 
 **9.2** Reimbursable expenses may include travel, fuel, tolls, local purchases, food for common activities, materials, emergency operational expenses, and communication or logistical expenses.
 
-**9.3 Source of reimbursement.** Reimbursements are paid from the Asset holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. As part of cost-coverage, valid reimbursements are met before the discretionary envelope is filled and are therefore unaffected by the discretionary narrowing of GT-4.4A(b) (Clause 5A.1). *(Pending F1.)* Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row). In every case, a valid, pre-approved, documented reimbursement is an obligation of the Association payable within sixty (60) days of submission, regardless of the holon's liquidity; the Association recovers the amount from the holon's future cost-coverage. *(Pending F1.)*
+**9.3 Source of reimbursement.** Reimbursements are paid from the Asset holon's cost-coverage bucket under GT-4.4(b), of which the Association is the fiscal host. As part of cost-coverage, valid reimbursements are met before the discretionary envelope is filled and are therefore unaffected by the discretionary narrowing of GT-4.4A(b) (Clause 5A.1). Where local cost-coverage cannot meet a valid reimbursement, the Steward may seek top-up via Board allocation from the Association holon's discretionary bucket (GT-4.4(c)), or in cases of hardship, request Elder Council allocation (GT-4.4(c), Elder Council row). In every case, a valid, pre-approved, documented reimbursement is an obligation of the Association payable within sixty (60) days of submission, regardless of the holon's liquidity; the Association recovers the amount from the holon's future cost-coverage.
 
 ---
 
@@ -192,7 +192,7 @@ tags:
 
 **14.2** The Parties may agree to periodic review meetings at a cadence proportionate to the Asset's intensity of use, and no less often than annually, to assess stewardship effectiveness and whether any change in role or structure is needed. The Parties may align review periods with the Association's seasonal calendar, including but not limited to the equinox and solstice gatherings that serve as natural coordination points for the network.
 
-**14.3 Association responsiveness.** Where this Agreement requires the Association's approval or written authorisation (including Clauses 6.1, 6.2, 7.1, 7.3, and 8A.1), the Association shall respond to a documented request within twenty-one (21) days — approving, declining with reasons, or stating when a decision will be made. Silence is not approval; a request left without response beyond that period may be escalated by the Steward under GT-7, including the interim panel of GT-7.2. *(Pending F1.)*
+**14.3 Association responsiveness.** Where this Agreement requires the Association's approval or written authorisation (including Clauses 6.1, 6.2, 7.1, 7.3, and 8A.1), the Association shall respond to a documented request within twenty-one (21) days — approving, declining with reasons, or stating when a decision will be made. Silence is not approval; a request left without response beyond that period may be escalated by the Steward under GT-7, including the interim panel of GT-7.2.
 
 ---
 
@@ -210,11 +210,11 @@ tags:
 
 Notice runs from the date of written receipt. The Parties may agree a shorter period by mutual written consent.
 
-**16.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misuse of the Hub, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, refusal to hand over records or keys, or persistent disregard of the Association's lawful instructions; and, on the Steward's side, the Association exposing the Steward to serious unaddressed risks. Except where the cause is danger to persons or the Asset, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond. Where the Association invokes danger, safety, or misappropriation to terminate without that window, the termination notice shall state the documented grounds. The Steward may refer the invocation to review under GT-7.2 after the fact; where the invoked ground is not substantiated, the termination takes effect as termination by notice under Clause 16.1, and the Steward's entitlements under Clauses 16.1 and 16.3 — including the housing window — are owed in full. *(Pending F1.)*
+**16.2 Immediate Termination for Cause.** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misuse of the Hub, serious breach of DNA or Owner conditions, unauthorised private appropriation of revenues, refusal to hand over records or keys, or persistent disregard of the Association's lawful instructions; and, on the Steward's side, the Association exposing the Steward to serious unaddressed risks. Except where the cause is danger to persons or the Asset, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond. Where the Association invokes danger, safety, or misappropriation to terminate without that window, the termination notice shall state the documented grounds. The Steward may refer the invocation to review under GT-7.2 after the fact; where the invoked ground is not substantiated, the termination takes effect as termination by notice under Clause 16.1, and the Steward's entitlements under Clauses 16.1 and 16.3 — including the housing window — are owed in full.
 
 **16.3** Upon termination, the Steward shall cease presenting themselves as steward, hand over keys, records, and relevant information, cooperate in transition, and leave the Hub in the agreed condition. If events have been scheduled within the notice period, the Steward shall either complete their stewardship obligations for those events or assist in finding a suitable replacement.
 
-Where the Steward resides at the Hub, the obligation to vacate the accommodation follows the full notice period of Clause 16.1 even on termination for cause — except where the cause is danger to persons, safety, or misappropriation — and the Association shall make reasonable efforts to assist the Steward in finding interim accommodation within the network. *(Pending F1.)*
+Where the Steward resides at the Hub, the obligation to vacate the accommodation follows the full notice period of Clause 16.1 even on termination for cause — except where the cause is danger to persons, safety, or misappropriation — and the Association shall make reasonable efforts to assist the Steward in finding interim accommodation within the network.
 
 ---
 
@@ -252,17 +252,13 @@ Date: _________________________
 
 ### Own Annexes
 
-- [[Agreement 3 Annex 1 — Steward Onboarding]] — the steward's introduction (vision, priorities, what they will protect, how they will hold the role, seasonal and handover notes); the **Hub (place)** onboarding form, parent of the asset-kind branches below
-- [[Agreement 3 Annex 2 — Vehicle and Equipment Steward Onboarding]] — asset-kind branch for a vehicle, equipment, or power tool *(dormant — archived until the network stewards such an asset)*
-- [[Agreement 3 Annex 3 — Land Care Steward Onboarding]] — asset-kind branch for land tended as land *(dormant — archived until the network stewards such an asset)*
+- [[Agreement 3 Annex 1 — Steward Onboarding]] — the steward's introduction (vision, priorities, what they will protect, how they will hold the role, seasonal and handover notes); the **Hub (place)** onboarding form (asset-kind variants are drafted when the network first stewards such an asset)
 
 ### Annexes from the Ownership Agreement also referenced here
 
 - [[Agreement 1 Annex 5 — Hub DNA]] — the living identity document of the Hub, referenced in Clause 4; sets out the covenant, rhythms, ecology, economy, and story that the Steward upholds and updates seasonally
 - [[Agreement 1 Annex 6 — Asset Care Protocol]] — the general care protocol for any Asset (responsibility split, register, maintenance cadence and log, damage, lifecycle); referenced in Clause 10.1
 - [[Agreement 1 Annex 3 — Hub Care Protocol]] — place-specific care child for when the Asset is a Hub; ongoing maintenance and end-of-stay cleaning
-- [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] — asset-specific care child *(dormant — archived until needed)*
-- [[Agreement 1 Annex 8 — Land Care Protocol]] — asset-specific care child *(dormant — archived until needed)*
 
 Cost-coverage targets and stewardship cycle terms may also be recorded in a separate signed annex appended to this Agreement.
 

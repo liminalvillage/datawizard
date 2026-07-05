@@ -58,7 +58,7 @@ tags:
 
 **"Validated Contribution"** means a Contribution accepted according to the validation rules.
 
-**"Contribution Ledger"** means the Project's partition of the Association's one Contribution Ledger (GT-1.7), in which Contributions are recorded and validated. Its visibility follows the network setting of GT-3.4A (currently: all network participants); every Partner on the Project sees it in full at any setting. *(Pending F1.)*
+**"Contribution Ledger"** means the Project's partition of the Association's one Contribution Ledger (GT-1.7), in which Contributions are recorded and validated. Its visibility follows the network setting of GT-3.4A (currently: all network participants); every Partner on the Project sees it in full at any setting.
 
 **"Net Project Revenue"** means Project revenue after deduction of agreed direct costs, structure costs, and taxes.
 
@@ -130,7 +130,7 @@ The collaboration is guided by:
 
 **8.2** The Partners use a simple shared digital record to ensure traceability and transparency of contributions (see [[Agreement 6 Annex 4 — Contribution Log|A6-4]]).
 
-**8.3** Disputes regarding validation shall be addressed first among participating Partners, then by two-thirds majority if unresolved. Where the disputed value exceeds the threshold set in the Project Sheet, the dispute is first reviewed by a neutral reviewer — a Partner not participating in the Project, or a mediator per GT-7.3 — whose written opinion is considered before the two-thirds vote is final. *(Pending F1.)*
+**8.3** Disputes regarding validation shall be addressed first among participating Partners, then by two-thirds majority if unresolved. Where the disputed value exceeds the threshold set in the Project Sheet, the dispute is first reviewed by a neutral reviewer — a Partner not participating in the Project, or a mediator per GT-7.3 — whose written opinion is considered before the two-thirds vote is final.
 
 ---
 
@@ -140,7 +140,7 @@ The collaboration is guided by:
 
 **9.2** Shares may change over time as new Contributions are made and validated, ensuring distribution remains responsive to actual effort and value creation.
 
-**9.3 Relational contribution share.** Where the participating Partners so provide in the Project Sheet, a slice of Net Project Revenue — fixed **ex ante** in the Project Sheet as a percentage, before work begins — is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition under Clause 8 against criteria stated in the Project Sheet. This slice exists so that the work that holds a Project together is not structurally starved by measures that count only hours and milestones. Distributions from it follow the same fiscal documentation as all other distributions (Clause 10.2; GT-12), and the slice is never retroactively resized. The slice shall not exceed the network ceiling held with the Unified Fund parameters (LGR-2; default **fifteen percent (15%)** of Net Project Revenue) unless the Project Sheet records a written justification for the higher figure; and each distribution from it is invoiced with a description of the actual service rendered (coordination, facilitation, relational stewardship) at its normal value — never as a generic contribution share. *(Pending F1.)*
+**9.3 Relational contribution share.** Where the participating Partners so provide in the Project Sheet, a slice of Net Project Revenue — fixed **ex ante** in the Project Sheet as a percentage, before work begins — is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition under Clause 8 against criteria stated in the Project Sheet. This slice exists so that the work that holds a Project together is not structurally starved by measures that count only hours and milestones. Distributions from it follow the same fiscal documentation as all other distributions (Clause 10.2; GT-12), and the slice is never retroactively resized. The slice shall not exceed the network ceiling held with the Unified Fund parameters (LGR-2; default **fifteen percent (15%)** of Net Project Revenue) unless the Project Sheet records a written justification for the higher figure; and each distribution from it is invoiced with a description of the actual service rendered (coordination, facilitation, relational stewardship) at its normal value — never as a generic contribution share.
 
 ---
 
@@ -154,15 +154,15 @@ The collaboration is guided by:
 
 ## 10A. Network Regeneration Contribution
 
-**10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners. Where the paying party is a **separate legal person** (a Vehicle Entity), the Contribution is the fee for defined network services — the licence and use of the network's marks, frameworks, and templates; the digital platform and Contribution Ledger infrastructure; network coordination and Network Demand Signals; and access to the constellation's ecosystem — invoiced by the Association with VAT (GT-4.4(a)), and is not a donation. *(Pending F1.)*
+**10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners. Where the paying party is a **separate legal person** (a Vehicle Entity), the Contribution is the fee for defined network services — the licence and use of the network's marks, frameworks, and templates; the digital platform and Contribution Ledger infrastructure; network coordination and Network Demand Signals; and access to the constellation's ecosystem — invoiced by the Association with VAT (GT-4.4(a)), and is not a donation.
 
 **10A.2** The applicable rate is the **prevailing NRC Rate** (GT-4.4(a); LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue.
 
-**10A.3 Asset Regeneration Contribution.** *(Pending F1.)* Where a Project uses an Asset entrusted to the network under Agreement 1 (for example, a Project run at a Hub), the **Asset Regeneration Contribution** (GT-4.9) is a further structure cost: it is deducted from Project revenue — after the Network Regeneration Contribution and before Net Project Revenue is calculated for distribution to Partners — at the rate `r_ARC` (LGR-9), and routed to the host Asset holon. The Project Sheet may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9).
+**10A.3 Asset Regeneration Contribution.** Where a Project uses an Asset entrusted to the network under Agreement 1 (for example, a Project run at a Hub), the **Asset Regeneration Contribution** (GT-4.9) is a further structure cost: it is deducted from Project revenue — after the Network Regeneration Contribution and before Net Project Revenue is calculated for distribution to Partners — at the rate `r_ARC` (LGR-9), and routed to the host Asset holon. The Project Sheet may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9).
 
 **10A.4** The NRC is transferred to the Unified Fund (GT-1.10) within thirty (30) days of receipt and accounting completion, alongside Partner distributions under Clause 10.2. Where a Vehicle Entity is used, it is responsible for calculating, withholding, and remitting the NRC. Where no Vehicle Entity exists, the coordinating Partner for the Project is responsible.
 
-**10A.5** This Clause 10A is a stipulation in favour of a third party (Article 1411 of the Italian Civil Code) made by the Partners in favour of the Association, which holds a direct right to enforce the remittance of the NRC notwithstanding that it is not a signatory to this Agreement. *(Pending F1.)*
+**10A.5** This Clause 10A is a stipulation in favour of a third party (Article 1411 of the Italian Civil Code) made by the Partners in favour of the Association, which holds a direct right to enforce the remittance of the NRC notwithstanding that it is not a signatory to this Agreement.
 
 ---
 
@@ -220,7 +220,7 @@ The collaboration is guided by:
 - Confidentiality obligations
 - Obligations relating to shared IP
 
-**16.3** A withdrawing or excluded Partner retains distribution rights attributable to Validated Contributions made prior to exit, but loses rights to future Project decisions and economics. Contributions logged but not yet validated at the date of exit are validated or rejected through the process of Clause 8 within sixty (60) days, and validated entries count toward the exiting Partner's retained distribution rights. *(Pending F1.)*
+**16.3** A withdrawing or excluded Partner retains distribution rights attributable to Validated Contributions made prior to exit, but loses rights to future Project decisions and economics. Contributions logged but not yet validated at the date of exit are validated or rejected through the process of Clause 8 within sixty (60) days, and validated entries count toward the exiting Partner's retained distribution rights.
 
 ---
 

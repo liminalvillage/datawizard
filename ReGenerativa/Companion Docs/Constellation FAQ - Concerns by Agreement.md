@@ -1,13 +1,11 @@
 ---
-title: Constellation FAQ - Concerns by Agreement - 2026-06-10
-type: strategy
+title: Constellation FAQ - Concerns by Agreement
+type: companion-doc
 status: active
-priority: high
-maturity: working
 created: 2026-06-10T00:00:00.000Z
 updated: '2026-07-03'
 tags:
-  - strategy
+  - companion-doc
   - faq
   - signer-guide
   - ReGenerativa
@@ -15,9 +13,8 @@ tags:
 
 # Constellation FAQ - A Signer's Guide
 
-*You are thinking about signing one of the eight agreements. This guide answers the questions people actually have before signing - what you commit to, what you receive, what it costs, what can go wrong, and how you leave - in plain language, with the clause to check in brackets. It lessens the burden of reading the full text; it does not replace it. Where this guide and the agreement differ, the agreement governs. Clauses marked* (Pending F1) *in the agreements await the Association's formal legal and fiscal review.*
+*You are thinking about signing one of the eight agreements. This guide answers the questions people actually have before signing - what you commit to, what you receive, what it costs, what can go wrong, and how you leave - in plain language, with the clause to check in brackets. It lessens the burden of reading the full text; it does not replace it. Where this guide and the agreement differ, the agreement governs.*
 
-*Review history: the concerns below were surfaced by [[Constellation Balance Review - 2026-06-10]]; the protections cited were applied to the agreement texts on 2026-06-10.*
 
 ---
 
@@ -352,8 +349,8 @@ By nomination (the Board, the Council, or three stewards together) or self-appli
 ## One honest answer that applies everywhere
 
 **Is any of the economic machinery final?**
-Not yet. Every clause marked *(Pending F1)* - the fund's allocation shape, the living balance, value systems, the NRC's tax characterisation, the reservoir returns - awaits the formal legal and fiscal review and Board ratification of the working figures (LGR-2, LGR-5). Signing today means trusting the architecture and the review gate. The agreements say so on their face; this guide says it out loud.
+Not yet. Every clause marked - the fund's allocation shape, the living balance, value systems, the NRC's tax characterisation, the reservoir returns - awaits the formal legal and fiscal review and Board ratification of the working figures (LGR-2, LGR-5). Signing today means trusting the architecture and the review gate. The agreements say so on their face; this guide says it out loud.
 
 ---
 
-*Working strategy document, maintained alongside the agreements; candidate for promotion to Companion Docs after owner review and F1. Analysis trail: [[Constellation Balance Review - 2026-06-10]] and [[0.3 Decision Log]] (2026-06-10).*
+*Companion document, maintained alongside the agreements.*

@@ -17,8 +17,7 @@ tags:
 
 > **General parent / specific child.** This protocol holds what is true of caring for *any* Asset. The asset-specific detail lives in a child protocol matched to the kind of thing being cared for:
 > - **Place (Hub)** → [[Agreement 1 Annex 3 — Hub Care Protocol]] (kitchen, bathrooms, grounds, end-of-stay cleaning, ecological restoration).
-> - **Vehicle / equipment / power tool** → [[Agreement 1 Annex 7 — Vehicle and Equipment Care Protocol]] *(dormant, in Archive — activate when the network stewards such an asset)*.
-> - **Land used without gathering** → [[Agreement 1 Annex 8 — Land Care Protocol]] *(dormant, in Archive — activate when the network stewards such an asset)*.
+> - **Vehicle / equipment / power tool, or land used without gathering** → a dedicated child protocol is drafted when the network first stewards such an asset; until then, this parent applies directly.
 > - **Hand tool / simple item** → the register and post-use care below may suffice with no further child.
 >
 > Where a child protocol exists for the Asset's kind, use it alongside this parent; where none yet exists, this parent applies and is adapted in good faith.

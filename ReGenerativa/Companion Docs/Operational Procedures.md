@@ -209,7 +209,7 @@ Until the network's digital infrastructure (GT-3.1) is operational, the Register
 
 ## Section N — Risk and Insurance
 
-*The consolidating map and register for the network's risk and insurance. The binding obligations already live in the agreements — Asset property + third-party liability + Art. 18 volunteer/participant accident cover + owner-as-additional-insured for real property + annual proof of cover (A1 §3.3); member/volunteer Art. 18 cover (A2 §3.4, §6). This section is the operational map (who holds what) and the register (per-hub policies and renewals), Board-tunable. Addresses Structural Gap SG3. Provisional, pending confirmation by the F1 lawyer and an insurance broker.*
+*The consolidating map and register for the network's risk and insurance. The binding obligations already live in the agreements — Asset property + third-party liability + Art. 18 volunteer/participant accident cover + owner-as-additional-insured for real property + annual proof of cover (A1 §3.3); member/volunteer Art. 18 cover (A2 §3.4, §6). This section is the operational map (who holds what) and the register (per-hub policies and renewals), Board-tunable. Provisional, pending confirmation by an insurance broker.*
 
 ### N.1 Risk categories
 Each standing risk maps to a cover or an accepted-risk note: premises and property (the entrusted Assets); activities, events, and programmes (third-party / public liability); volunteers and participants (accident + liability, **mandatory under Art. 18 CTS**); professional delivery by mentors/practitioners (professional indemnity); governance (directors' and officers' exposure); data and cyber (the Ledger and platform, GT-3 / GT-5); environmental and site-specific; financial and fiscal.
@@ -266,7 +266,7 @@ When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or networ
 ### P.2 Cluster coordination
 - Co-located hubs may activate a Cluster holon (GT-4.10(a)), ratified by the Board, with the seasonal gathering as its coordination forum.
 - A Cluster keeps a shared register of resources offered and needed among its hubs (tools, people, knowledge, overflow capacity); disputes among hubs follow GT-7.
-- Cross-entity federation (GT-4.10(b)) proceeds under a dedicated instrument; pending it, bioregional collaboration is by case-by-case agreement preserving each entity's autonomy and the access firewalls. Direction: [[Bioregional Federation - 2026-06-20]].
+- Cross-entity federation (GT-4.10(b)) proceeds under a dedicated instrument; pending it, bioregional collaboration is by case-by-case agreement preserving each entity's autonomy and the access firewalls.
 
 ---
 
@@ -284,9 +284,9 @@ When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or networ
 
 ---
 
-## Section R — Fiscal monitoring and readiness (F1 fixes F-3, F-6, F-10, F-11)
+## Section R — Fiscal monitoring and readiness
 
-*Standing fiscal disciplines from the F1 workstream. Provisional pending the formal F1 review; the classifications below follow [[F1 Simulated Commercialista Opinion - 2026-07-03]] and are confirmed or amended by the real advisor.*
+*Standing fiscal disciplines adopted with the Association's legal/fiscal review. The classifications below are maintained with the Association's fiscal advisor.*
 
 ### R.1 Art. 79(5) / DM 107/2021 dashboard
 Quarterly, the Board reviews the commercial / non-commercial ratio. Stream classification:
@@ -296,7 +296,7 @@ Quarterly, the Board reviews the commercial / non-commercial ratio. Stream class
 | Membership fees (A2) | non-commercial |
 | Donations, restricted gifts, legacies (A5) | non-commercial |
 | Occasional public fundraising (Art. 79(4)) | non-commercial |
-| Resource-cost band to members (A4; Art. 85) | non-commercial (verify vs Statute) |
+| Resource-cost band to members (A4; Art. 85) | non-commercial |
 | Market-rate band to the public (A4) | commercial |
 | External Regeneration Contribution fees (GT-4.4(a): Vehicle Entities, Emerged Entities) | commercial |
 | Partnership flows received by the Association (A6) | commercial |
@@ -304,8 +304,8 @@ Quarterly, the Board reviews the commercial / non-commercial ratio. Stream class
 
 Alert threshold: commercial at **25%** of overall revenues (headroom before the 30% DM 107/2021 ceiling; Art. 79(5-bis/ter) margins soften a one-off breach, the dashboard keeps it one-off). Annual confirmation in the relazione di missione.
 
-### R.2 VAT readiness
-Verify the status of the member-corrispettivi VAT reform (D.L. 146/2021) as the first item of the formal F1 engagement. Standing plan: partita IVA (the external Regeneration Contribution fees are taxable in any case); dispensa ex Art. 36-bis DPR 633/72 on exempt operations; taxable streams segregated in the accounts.
+### R.2 VAT compliance
+Standing arrangement: partita IVA (the external Regeneration Contribution fees are taxable in any case); dispensa ex Art. 36-bis DPR 633/72 on exempt operations; taxable streams segregated in the accounts. The member-corrispettivi VAT regime (D.L. 146/2021) is tracked with the fiscal advisor.
 
 ### R.3 Donor separation
 Allocation and access decisions are made without reference to the donor record (GT-3A.4A; A5 §8.4). The annual review spot-checks this.
@@ -320,7 +320,7 @@ At each settlement, the euro-valued distribution entries in Project and Venture 
 
 ## Migration Note
 
-Where an agreement holds a specific timeframe, it is binding there. Moving a timeframe into this document requires a one-clause amendment ("in accordance with the Operational Procedures published by the Association"); candidates and sequence are a Board decision, sensibly taken after F1. Timeframes that protect substantive rights — termination notice, payment deadlines, housing windows — stay in the agreements and are not candidates.
+Where an agreement holds a specific timeframe, it is binding there. Moving a timeframe into this document requires a one-clause amendment ("in accordance with the Operational Procedures published by the Association"); candidates and sequence are a Board decision. Timeframes that protect substantive rights — termination notice, payment deadlines, housing windows — stay in the agreements and are not candidates.
 
 ---
 

@@ -54,7 +54,7 @@ tags:
 
 **3.1** All support received shall be **recorded in the Contribution Ledger** (General Terms GT-3) as a Validated Contribution of the Supporter. The contribution record tracks the value, form, destination, and purpose of the support.
 
-Recording is for recognition and the network's memory. Per GT-3A.4A, support given under this Agreement does not raise the Supporter's access priority or lower their prices under the access rule (GT-3A.3), and carries no weight in any Programme allocation score (Agreement 4 §4.5): recognition of giving is non-economic (Clause 4), preserving its liberal character (*spirito di liberalità*). *(Pending F1.)*
+Recording is for recognition and the network's memory. Per GT-3A.4A, support given under this Agreement does not raise the Supporter's access priority or lower their prices under the access rule (GT-3A.3), and carries no weight in any Programme allocation score (Agreement 4 §4.5): recognition of giving is non-economic (Clause 4), preserving its liberal character (*spirito di liberalità*).
 
 **3.2** The Supporter may earmark support, subject to the Association's acceptance, for:
 - Operational costs of a specific hub
@@ -71,7 +71,7 @@ Recording is for recognition and the network's memory. Per GT-3A.4A, support giv
 - Regeneration of land, water, soil, or non-human living systems held by the network, on their own behalf
 - A multi-generational endowment held for future stewards rather than spent in the current cycle
 
-**3.3** If the original destination becomes impossible or impracticable, the Association shall consult the Supporter and seek a good-faith reallocation aligned as closely as possible with the original intent. Where no reallocation is agreed within a reasonable time, unused purpose-restricted funds are, at the Supporter's election, returned to the Supporter — where return is permissible under the gift's fiscal classification (Clause 8.1) — or retained for the Association's general statutory purposes. *(Pending F1.)*
+**3.3** If the original destination becomes impossible or impracticable, the Association shall consult the Supporter and seek a good-faith reallocation aligned as closely as possible with the original intent. Where no reallocation is agreed within a reasonable time, unused purpose-restricted funds are, at the Supporter's election, returned to the Supporter — where return is permissible under the gift's fiscal classification (Clause 8.1) — or retained for the Association's general statutory purposes.
 
 ---
 
@@ -117,7 +117,7 @@ Recording is for recognition and the network's memory. Per GT-3A.4A, support giv
 
 **8.3** The Parties acknowledge that the Association is not promising any financial return on the support.
 
-**8.4 Liberality documentation.** *(Pending F1.)* For every erogazione liberale: payment by traceable means (bank transfer or card — a condition of the Supporter's Art. 83 CTS relief); a receipt stating that the gift carries no counter-performance; in-kind contributions valued per DM 28 November 2019 (independent appraisal where required); and an annual summary provided to the Supporter on request. Recognition under Clause 4 is never economic, and allocation and access decisions across the network are made without reference to the donor record (GT-3A.4A).
+**8.4 Liberality documentation.** For every erogazione liberale: payment by traceable means (bank transfer or card — a condition of the Supporter's Art. 83 CTS relief); a receipt stating that the gift carries no counter-performance; in-kind contributions valued per DM 28 November 2019 (independent appraisal where required); and an annual summary provided to the Supporter on request. Recognition under Clause 4 is never economic, and allocation and access decisions across the network are made without reference to the donor record (GT-3A.4A).
 
 ---
 

@@ -2,23 +2,15 @@
 title: Participant and Community Charter
 type: companion-doc
 status: active
-priority: high
-maturity: draft
 created: '2026-06-19'
 updated: '2026-06-19'
-operator: Roberto Valenti
-edit_log:
-  - >-
-    RG S41 2026-06-19 — created: charter for participants, guests, and the wider
-    community (closes Structural Gap SG1); binding duty proposed as GT-2.8,
-    complaint limb GT-7.5, mechanics in Operational Procedures Section O
 tags:
   - companion-doc
   - participants
   - community
   - ReGenerativa
 ---
-> **Status — draft, pending review.** The producible charter for the participants and guests the network serves and the communities around its hubs — the class the constellation otherwise governs only as objects of the rules. Its **binding duty** lives in the General Terms (proposed **GT-2.8**, *Pending F1*); the **complaint route** is the non-member limb of **GT-7.5**; the **mechanics** (feedback channel, complaint handling) live in **Operational Procedures Section O**. Consumer-law specifics are confirmed at F1. Addresses Structural Gap **SG1** ([[Constellation Structural Gaps - 2026-06-16]]).
+> The charter for the participants and guests the network serves and the communities around its hubs. Its **binding duty** lives in the General Terms (**GT-2.8**); the **complaint route** is the non-member limb of **GT-7.5**; the **mechanics** (feedback channel, complaint handling) live in **Operational Procedures Section O**.
 
 ---
 
@@ -36,7 +28,7 @@ Anyone the network receives without their needing to hold a role: programme part
 ### What we promise
 
 - **Safety and dignity.** Everyone is safeguarded from harm and treated with the dignity floor the network holds for all (GT-2.6; the Safeguarding Policy and Code of Conduct). Dignity does not depend on contribution.
-- **Honest, fair dealing.** Truthful description of any programme or stay, clear pricing and terms before you commit, and fair cancellation and withdrawal rights as required by consumer law (Italian *Codice del Consumo*). No mis-selling; the price is what was stated. *(Specifics per programme agreement and confirmed at F1.)*
+- **Honest, fair dealing.** Truthful description of any programme or stay, clear pricing and terms before you commit, and fair cancellation and withdrawal rights as required by consumer law (Italian *Codice del Consumo*). No mis-selling; the price is what was stated.
 - **Privacy.** Your personal data is handled under GDPR and GT-5; clients appear in the Ledger only as project codes unless you consent to be named (GT-3.4A).
 - **Fair reception.** You are received under the network's sliding-scale access rule in good faith (GT-3A.3) — priority and price follow contribution, never unfair discrimination. *(The unconditional no-turn-away floor of GT-3A.8 is a benefit of membership; hubs nonetheless extend hospitality to participants and guests as capacity allows.)*
 - **A voice and a way to be heard.** A feedback channel at each hub (Operational Procedures O.1), and a real complaint route: a concern or complaint may be raised through **GT-7.5** (beginning with the host Steward and the Association); a **safety concern** is handled through safeguarding (GT-2.6, Section M). Your statutory rights as a consumer or data subject, and your access to the courts, are never limited by this charter.
@@ -57,4 +49,4 @@ Every Hub is a **community ark** (GT-2.3): a node of resilience that operates *a
 
 ---
 
-*Binding duty: proposed GT-2.8 (Pending F1). Complaint route: GT-7.5. Safeguarding: GT-2.6 and the [[Safeguarding Policy and Code of Conduct]]. Mechanics: [[Operational Procedures]] Section O. Feedback feeds [[Regenerative Impact Framework]] (dimensions B, E) and the Network Demand Register. Related: [[Constellation Structural Gaps - 2026-06-16]] (SG1).*
+*Binding duty: GT-2.8. Complaint route: GT-7.5. Safeguarding: GT-2.6 and the [[Safeguarding Policy and Code of Conduct]]. Mechanics: [[Operational Procedures]] Section O. Feedback feeds [[Regenerative Impact Framework]] (dimensions B, E) and the Network Demand Register.*

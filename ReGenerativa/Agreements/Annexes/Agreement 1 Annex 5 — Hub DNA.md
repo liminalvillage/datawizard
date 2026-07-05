@@ -212,7 +212,7 @@ Contribution-based stays include participation in shared work. Types of work at 
 
 ## The Reckoning — What This Place Counts
 
-*Every hub recognises contribution in its own way. This section names what this place counts most for the purposes of Resource-cost contribution-priority claims under [[Agreement 4 — Mentorship]] §4.5(d). A guest who has given here in the ways below will be recognised here, and their claim priority will reflect that. The weightings are revised by the Steward(s) seasonally and recorded in the Decision Log. Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A).*
+*Every hub recognises contribution in its own way. This section names what this place counts most for the purposes of Resource-cost contribution-priority claims under [[Agreement 4 — Mentorship]] §4.5(d). A guest who has given here in the ways below will be recognised here, and their claim priority will reflect that. The weightings are revised by the Steward(s) seasonally and recorded with the hub's governance records. Monetary and material gifts are recognised under Agreement 5 but carry no weight in any access or claim score (GT-3A.4A).*
 
 **Default weighting.** Where this section is silent on a contribution type, that type weights equally with all others (the network-wide Validated Contribution score applies).
 

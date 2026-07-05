@@ -47,7 +47,7 @@ token, no on-chain identifier, no automated validator assignment, and no formal
 dispute-threshold machinery. Two things stay off the log: personal-identity mappings,
 held minimally by the Association as data controller (GT-5, GT-3.4); and client
 identities, which appear as project codes unless the client consents to be named.
-*(Pending F1.)*
+
 
 Recommended columns: date, Partner, project code, contribution type, quantity
 (hours / milestone / value units), confirmed-by, confirmed-on.
@@ -69,7 +69,7 @@ Contributions are converted to a common € equivalent using the rates in
 Project Sheet. Shares are applied to Net Project Revenue after the cost waterfall
 (Agreement 6, Clause 10). These € valuations exist for distribution only: the same
 entries count toward a Partner's network access standing as contributions of their
-kind, never at their euro value (GT-3A.4). *(Pending F1.)*
+kind, never at their euro value (GT-3A.4).
 
 ---
 

@@ -74,9 +74,9 @@ If no Programme has been confirmed after twelve (12) months despite the Mentor h
 
 - **Market rate** — full price for external participants and the general public;
 - **Member-friendly rate** — a discounted price for Association members in good standing;
-- **Resource-cost places** — for persons with the highest Validated Contribution to the network (per the Contribution Ledger, GT-3), priced to cover only the slot's direct delivery cost (a generalised composition of: materials + food + direct logistical costs). The Mentor's labour, time, and expertise are the gift; the recipient covers the consumables their slot uses. The Asset's standing cost is carried by the host Asset holon under GT-4.9, not charged to the gift slot. *(Pending F1.)* Eligibility is determined by the Association, or jointly with the Mentor, from the Contribution Ledger.
+- **Resource-cost places** — for persons with the highest Validated Contribution to the network (per the Contribution Ledger, GT-3), priced to cover only the slot's direct delivery cost (a generalised composition of: materials + food + direct logistical costs). The Mentor's labour, time, and expertise are the gift; the recipient covers the consumables their slot uses. The Asset's standing cost is carried by the host Asset holon under GT-4.9, not charged to the gift slot. Eligibility is determined by the Association, or jointly with the Mentor, from the Contribution Ledger.
 
-The Network Regeneration Contribution is deducted at source per GT-4.4(a) from each band's Net Revenue (GT-1.9); the Resource-cost band, priced at direct delivery cost only, therefore generates no Net Revenue and carries no contribution. *(Pending F1.)*
+The Network Regeneration Contribution is deducted at source per GT-4.4(a) from each band's Net Revenue (GT-1.9); the Resource-cost band, priced at direct delivery cost only, therefore generates no Net Revenue and carries no contribution.
 
 **4.2 Pricing parameters (two levels).** Pricing parameters are set at two levels: **framework defaults**, recorded at signing of this Agreement where it operates as a framework agreement for multiple Programmes, and **per-Programme values** in each Programme Annex. The Programme Annex prevails for its Programme; the framework default applies where the Annex is silent. The parameters at both levels are:
 - the market rate (per Programme hour or per Programme format);
@@ -94,11 +94,11 @@ Where both levels are silent on a parameter, at least one (1) Resource-cost slot
 
 **4.5 Resource-cost places — the contribution-priority claim.**
 
-**(a) Window.** The claim window opens when the Programme is published under Clause 5A.1 and closes at the moment the Programme commences. Claims to unfilled places are permitted until commencement; supersession is permitted only until the logistics freeze in (b). The registration status update under Clause 5A.2 reports the claim-list state at that date; supersessions occurring after the Clause 5A.2 status update are notified to the Mentor immediately. *(Pending F1.)*
+**(a) Window.** The claim window opens when the Programme is published under Clause 5A.1 and closes at the moment the Programme commences. Claims to unfilled places are permitted until commencement; supersession is permitted only until the logistics freeze in (b). The registration status update under Clause 5A.2 reports the claim-list state at that date; supersessions occurring after the Clause 5A.2 status update are notified to the Mentor immediately.
 
 **(b) Logistics freeze.** For per-name logistical allocations (accommodation, dietary, materials, name tags), the Resource-cost list at **seven (7) days before the Programme** is the planning basis. The freeze is also the supersession deadline (c): after it, the list is fixed, and only unfilled places may still be claimed.
 
-**(c) Claim, supersession, and rotation.** During the claim window, any member in good standing may claim a Resource-cost place. Until the logistics freeze (b), a member with a strictly higher contribution score may supersede a current claimant — except that, so the gift circulates rather than concentrates, a claimant who has **not** held a Resource-cost place within the rotation window (provisional: the preceding six lunations; revisable per the Operational Procedures) takes priority over one who has, regardless of relative score; within each group, the score governs. Each claim and supersession is recorded in the Contribution Ledger. *(Pending F1.)*
+**(c) Claim, supersession, and rotation.** During the claim window, any member in good standing may claim a Resource-cost place. Until the logistics freeze (b), a member with a strictly higher contribution score may supersede a current claimant — except that, so the gift circulates rather than concentrates, a claimant who has **not** held a Resource-cost place within the rotation window (provisional: the preceding six lunations; revisable per the Operational Procedures) takes priority over one who has, regardless of relative score; within each group, the score governs. Each claim and supersession is recorded in the Contribution Ledger.
 
 **(d) Scoring rule.** For a Programme hosted at a Hub, the contribution score is the member's Validated Contribution weighted by the Hub's DNA scoring rule (see [[Agreement 1 Annex 5 — Hub DNA|A1-5]], "The Reckoning"). For a Programme not bound to a Hub, the network-wide Passport contribution measure (GT-3A.4) applies. In all cases, monetary and material support given under Agreement 5 carries no weight in this score (GT-3A.4A).
 
@@ -106,7 +106,7 @@ Where both levels are silent on a parameter, at least one (1) Resource-cost slot
 
 **(f) Sponsorship.** A Resource-cost slot's direct delivery cost may be underwritten by a Supporter under Agreement 5 §3.2. The claim mechanic is unaffected by sponsorship.
 
-**(g) Discernment place.** Where a Programme offers more than one Resource-cost place, at least one of them is allocated outside the contribution score, by the Mentor's discernment of need and readiness — with the host hub's Steward consulted where the Programme is hub-hosted — and recorded in the Contribution Ledger like any other claim. Where exactly one place is offered, the Programme Annex designates its mode (default: contribution-priority). *(Pending F1.)*
+**(g) Discernment place.** Where a Programme offers more than one Resource-cost place, at least one of them is allocated outside the contribution score, by the Mentor's discernment of need and readiness — with the host hub's Steward consulted where the Programme is hub-hosted — and recorded in the Contribution Ledger like any other claim. Where exactly one place is offered, the Programme Annex designates its mode (default: contribution-priority).
 
 ---
 
@@ -114,11 +114,11 @@ Where both levels are silent on a parameter, at least one (1) Resource-cost slot
 
 **5.1** **All ticketing, registration, payment processing, and fiscal documentation** shall be handled by or through the Association. The Mentor shall not independently collect participant payments unless expressly authorised in writing.
 
-**5.2** Programme revenue shall first cover: payment processing and fiscal charges; food, accommodation, materials, and logistics; the **Network Regeneration Contribution** (General Terms GT-4.4(a)); and, where the Programme uses an Asset entrusted under Agreement 1, the **Asset Regeneration Contribution** (GT-4.9; see §5.3A). The Asset's operating costs and Steward reimbursement are met through the Asset holon's cost-coverage bucket (GT-4.4(b)), funded by the Asset Regeneration Contribution; the network's administration and promotion are met by the Network Regeneration Contribution. Neither is charged separately to Programme revenue. *(Pending F1.)*
+**5.2** Programme revenue shall first cover: payment processing and fiscal charges; food, accommodation, materials, and logistics; the **Network Regeneration Contribution** (General Terms GT-4.4(a)); and, where the Programme uses an Asset entrusted under Agreement 1, the **Asset Regeneration Contribution** (GT-4.9; see §5.3A). The Asset's operating costs and Steward reimbursement are met through the Asset holon's cost-coverage bucket (GT-4.4(b)), funded by the Asset Regeneration Contribution; the network's administration and promotion are met by the Network Regeneration Contribution. Neither is charged separately to Programme revenue.
 
-**5.3** After costs, the Network Regeneration Contribution, and the Asset Regeneration Contribution (§5.3A), the Mentor receives their agreed share according to the formula in the **Programme Financial Annex**. Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover. The Mentor's share is paid within thirty (30) days of Programme completion and accounting reconciliation. *(Pending F1.)*
+**5.3** After costs, the Network Regeneration Contribution, and the Asset Regeneration Contribution (§5.3A), the Mentor receives their agreed share according to the formula in the **Programme Financial Annex**. Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover. The Mentor's share is paid within thirty (30) days of Programme completion and accounting reconciliation.
 
-**5.3A Asset Regeneration Contribution.** *(Pending F1.)* Where the Programme uses an Asset entrusted under Agreement 1 (for a place, the host Hub), the **Asset Regeneration Contribution** (GT-4.9) is deducted from Programme Net Revenue — after the Network Regeneration Contribution and before the Mentor's share (§5.3) — at the rate `r_ARC` held in LGR-9, and routed to the host Asset holon, where it covers the Asset's operating costs and Steward reimbursement first and regenerates the Asset with the remainder. The Programme Financial Annex may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9). Resource-cost places, priced at direct delivery cost, generate no Net Revenue and carry no Asset Regeneration Contribution.
+**5.3A Asset Regeneration Contribution.** Where the Programme uses an Asset entrusted under Agreement 1 (for a place, the host Hub), the **Asset Regeneration Contribution** (GT-4.9) is deducted from Programme Net Revenue — after the Network Regeneration Contribution and before the Mentor's share (§5.3) — at the rate `r_ARC` held in LGR-9, and routed to the host Asset holon, where it covers the Asset's operating costs and Steward reimbursement first and regenerates the Asset with the remainder. The Programme Financial Annex may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9). Resource-cost places, priced at direct delivery cost, generate no Net Revenue and carry no Asset Regeneration Contribution.
 
 **5.4** The Parties may define a minimum viable threshold below which the Programme may be cancelled, rescheduled, or renegotiated.
 
@@ -186,7 +186,7 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 **10.2** If the Programme is cancelled due to the Mentor's unjustified withdrawal, the Association may withhold agreed reimbursements for avoidable losses or require reimbursement of direct costs already incurred.
 
-**10.3** If a confirmed Programme is cancelled due to the Association's unjustified decision — not force majeure, not venue failure handled per Clause 7.1, and not under-subscription below the minimum viable threshold of the Programme Annex — the Association reimburses the Mentor's documented preparation costs up to the cap set in the Programme Annex. *(Pending F1.)*
+**10.3** If a confirmed Programme is cancelled due to the Association's unjustified decision — not force majeure, not venue failure handled per Clause 7.1, and not under-subscription below the minimum viable threshold of the Programme Annex — the Association reimburses the Mentor's documented preparation costs up to the cap set in the Programme Annex.
 
 ---
 
@@ -198,7 +198,7 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 ## 11A. Independent Activities and Non-Competition
 
-**11A.1** Independent activities are governed by GT-11.6. In addition, the Mentor shall not, without the Association's prior written agreement, independently replicate a Programme developed jointly with the Association at a competing location within the same territory, for twelve (12) months following the delivery of that jointly developed Programme. The territory is defined per Programme in the Programme Annex; absent a definition, it is the province of the host hub. The Parties shall first seek a good-faith conversation before treating any such activity as a breach. *(Pending F1.)*
+**11A.1** Independent activities are governed by GT-11.6. In addition, the Mentor shall not, without the Association's prior written agreement, independently replicate a Programme developed jointly with the Association at a competing location within the same territory, for twelve (12) months following the delivery of that jointly developed Programme. The territory is defined per Programme in the Programme Annex; absent a definition, it is the province of the host hub. The Parties shall first seek a good-faith conversation before treating any such activity as a breach.
 
 ---
 
@@ -208,7 +208,7 @@ Hub access is a condition of Programme delivery, not a discretionary offer. If a
 
 **12.2** Either Party may terminate for future Programmes by written notice, without prejudice to obligations already accrued.
 
-**12.3** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misrepresentation, unauthorised collection of participant payments, violation of hub rules, or serious harm to participants or the Association's reputation. Except where the cause is danger to participants, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond. *(Pending F1.)*
+**12.3** Either Party may terminate immediately for serious cause per GT-6A. For this role, serious cause additionally includes: misrepresentation, unauthorised collection of participant payments, violation of hub rules, or serious harm to participants or the Association's reputation. Except where the cause is danger to participants, safety, or misappropriation, termination for cause is preceded by written notice of the breach and seven (7) days for the other Party to respond.
 
 ---
 
