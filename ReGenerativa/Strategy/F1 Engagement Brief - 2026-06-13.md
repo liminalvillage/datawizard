@@ -32,7 +32,7 @@ tags:
 
 ## What F1 is
 
-The formal engagement of two professionals **before anything is signed**: a **commercialista** versed in Third Sector (ETS) fiscal rules, and a **Third Sector lawyer** for the contract-law side (possibly one firm covering both). Every clause drafted since March 2026 is an unsigned draft carrying *(Pending F1)* — currently ~96 markers across 15 files. F1 is the ratification gate: the advisors opine, the drafts are amended per their advice, the markers clear, signing begins.
+The formal engagement of two professionals **before anything is signed**: a **commercialista** versed in Third Sector (ETS) fiscal rules, and a **Third Sector lawyer** for the contract-law side (possibly one firm covering both). Every clause drafted since March 2026 is an unsigned draft carrying *(Pending F1)* — currently ~150 markers across ~27 files. F1 is the ratification gate: the advisors opine, the drafts are amended per their advice, the markers clear, signing begins.
 
 The 2026-06-10 internal fiscal pre-review ([[F1 Pre-Review - Fiscal Notes - 2026-06-10]]) arms this engagement; it explicitly does not substitute for it. It was reasoned from the CTS and general practice **without** the Statute or current Agenzia delle Entrate circulars — both must be in the advisors' hands.
 
@@ -95,7 +95,7 @@ Pre-drafted or one-to-three-sentence fixes needing only advisor confirmation:
 
 ## Handover package
 
-1. General Terms and Conditions (GT) v3.26 — especially GT-3A and GT-4 (incl. GT-4.4B Asset Reserve, GT-4.4C network-as-holon, GT-4.9 ARC)
+1. General Terms and Conditions (GT) v3.36 — especially GT-3A (access rule, rewritten with plural criteria per fix F-3) and GT-4 (incl. GT-4.4(a) internal/external NRC split, GT-4.4B Asset Reserve, GT-4.4C network-as-holon, GT-4.5(g) rewritten, GT-4.9 ARC)
 2. Agreements 1–8 + all annexes
 3. Living Governance Resolutions + Operational Procedures
 4. [[F1 Pre-Review - Fiscal Notes - 2026-06-10]] (written to arm this engagement)

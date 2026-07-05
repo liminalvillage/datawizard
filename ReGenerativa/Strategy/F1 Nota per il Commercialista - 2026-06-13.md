@@ -18,6 +18,8 @@ edit_log:
   - "RG S44 2026-07-05 — fascicolo: aggiunta la pre-analisi simulata (F1
     Simulated Commercialista Opinion) e nota che le bozze incorporano i
     correttivi F-1..F-12"
+  - "RG S44 2026-07-05 (bis) — domande attualizzate alle bozze corrette:
+    note di aggiornamento per le domande 1-8 e 10; fascicolo a GT v3.36"
 tags:
   - strategy
   - fiscal
@@ -71,11 +73,15 @@ Per le unità interne il NRC è una movimentazione interna dell'unico soggetto: 
 
 **Si chiede:** la qualificazione del NRC per ciascun tipo di pagatore; il margine disponibile rispetto ai limiti DM 107/2021; il trattamento IVA. **Tutte le altre risposte dipendono da questa.**
 
+*Aggiornamento (2026-07-05):* le bozze già recepiscono questa lettura (correttivo F-1): GT-4.4(a), A6 §10A.1 e A7-3 §2.1A distinguono ora il NRC interno (allocazione contabile, mai fatturata) dal NRC verso soggetti giuridici esterni, ridefinito come **corrispettivo fatturato con IVA per servizi di rete enumerati** (marchi, piattaforma, coordinamento, accesso all'ecosistema; per le entità post-Emergence, un paniere di servizi continuativi). **La domanda diventa: confermare o correggere la qualificazione così redatta**, oltre a margine DM 107/2021 e trattamento IVA.
+
 ### 2. Tenuta del firewall GT-3A.4A (liberalità delle donazioni)
 
 Il disegno precedente permetteva che il sostegno monetario (Accordo 5) alimentasse il punteggio che determina priorità e prezzi di accesso. L'abbiamo eliminato con **esclusione totale** (non una semplice riduzione di peso), proprio perché un pagamento che genera benefici economici concreti rischia la riqualificazione in corrispettivo: il donatore perderebbe i benefici dell'**Art. 83 CTS** (detrazione 30% IRPEF o deduzione fino al 10% del reddito), l'incasso diventerebbe ricavo commerciale (IRES, IVA 22%, fatturazione), e si aprirebbe il profilo della **distribuzione indiretta ex Art. 8(2) CTS**.
 
 **Si chiede:** conferma che l'esclusione totale, come redatta (GT-3A.4A, con specchi in A5 §3.1 e A4 §4.5(d)), tenga; e indicazioni sulla documentazione della liberalità da mantenere.
+
+*Aggiornamento (2026-07-05):* la documentazione della liberalità è ora redatta in bozza (correttivo F-10): A5 §8.4 (mezzi tracciabili, ricevuta senza controprestazione, valorizzazione in natura ex DM 28/11/2019, riepilogo annuale) e Op Proc Sezione R.3 (le decisioni di allocazione e accesso non consultano mai il registro donatori). Si chiede conferma o integrazione della checklist.
 
 ### 3. Art. 17(3) CTS — volontariato e regola di accesso
 
@@ -83,24 +89,32 @@ L'attività del volontario non può essere retribuita **in alcun modo, nemmeno d
 
 Mitigazioni già nel testo: nessuna fascia o tariffario; il contributo non è ridotto alle sole ore; nessuna conversione fissa ore→euro; discrezionalità in buona fede di chi gestisce la risorsa (GT-3A.3, GT-3A.4); posto a discernimento e rotazione nella riforma dei posti a costo-risorsa dell'Accordo 4 (§4.5).
 
-**Si chiede:** un parere esplicito sulla difendibilità del collegamento residuo come **criterio mutualistico di accesso** e non come compenso; e quali ulteriori attenuazioni siano eventualmente necessarie.
+*Aggiornamento (2026-07-05):* GT-3A.3 è stato riscritto (correttivo F-3) per rafforzare la lettura mutualistica: il contributo è ora **uno tra più criteri** (accanto a bisogno, aderenza alla missione, rotazione); nessun tasso di conversione contributo→prezzo; ogni posto gratuito o sotto costo è una **decisione discrezionale registrata con motivazione**, mai un livello raggiunto automaticamente da un punteggio; igiene di linguaggio (mai "guadagnare/riscattare/credito" vicino all'accesso, Op Proc R.4). Lo specchio member-facing (Network Passport) è allineato.
+
+**Si chiede:** un parere esplicito sulla difendibilità del collegamento residuo, così attenuato, come **criterio mutualistico di accesso** e non come compenso; e se occorra spingersi oltre (fino allo sganciamento totale registro→gratuità).
 
 ### 4. Quota relazionale nei progetti commerciali (Accordo 6 §9.3)
 
 Nei progetti tra partner autonomi una quota del distribuibile riconosce il lavoro relazionale e di coordinamento. Quattro condizioni sono già nel testo per evitare schemi di spostamento di reddito (per esempio verso un partner in *regime forfettario*): quota fissata **ex ante** nel Project Sheet; **criteri scritti e oggettivi** di validazione; **documentazione fiscale piena** (stessa filiera di fatturazione di ogni altra distribuzione, GT-12); **separazione dei ruoli** (chi riceve il lavoro di cura retribuito lo fa per contratto, non come volontario).
 
-**Si chiede:** conferma che le quattro condizioni siano sufficienti.
+**Si chiede:** conferma che le condizioni siano sufficienti.
+
+*Aggiornamento (2026-07-05):* alle quattro condizioni se ne aggiungono due in bozza (correttivo F-4): **tetto di proporzionalità** fissato ex ante (parametro di rete `s_rel_max` in LGR-2, default 15% del distribuibile; superabile solo con giustificazione scritta nel Project Sheet) e **fatturazione a valore normale** con descrizione del servizio effettivo (coordinamento, facilitazione), mai come "quota contributo" generica. Si chiede conferma che le sei condizioni chiudano il profilo di spostamento di reddito.
 
 ### 5. Riforma IVA e monitoraggio Art. 79(5)
 
 - **Riforma IVA per gli enti associativi**: l'abrogazione del regime di esclusione IVA dei corrispettivi dei soci (D.L. 146/2021, più volte differita — ultima proroga da noi verificata: 1 gennaio 2026) potrebbe ora essere in vigore, con passaggio a regime di **esenzione con obblighi** di registrazione e adempimento. **Si chiede** lo stato attuale e l'impatto sugli adempimenti di ogni fascia di prezzo.
 - **Art. 79(5) CTS**: flussi NRC + fasce a prezzo di mercato + flussi di partnership vanno monitorati annualmente rispetto al test di prevalenza commerciale/non commerciale. **Si chiede** di impostare insieme un cruscotto di monitoraggio stabile, non una verifica a consuntivo.
 
+*Aggiornamento (2026-07-05):* una bozza del cruscotto esiste (correttivo F-6): Op Proc Sezione R.1 — classificazione dei flussi per lato del test (i flussi interni NRC/ARC/riserva non entrano mai nel rapporto), revisione trimestrale del Consiglio, soglia di allerta al 25%, conferma annuale nella relazione di missione; R.2 registra il piano di adeguamento IVA (partita IVA; dispensa ex Art. 36-bis DPR 633/72 sulle operazioni esenti). Si chiede di validare classificazione e soglie.
+
 ### 6. Legittimità fiscale dell'impianto GT-4 nel suo complesso
 
 Lo schema del fondo unificato (un solo soggetto, partizioni interne, saldi riportati tra cicli, trasferimenti interni verso e dalla riserva comune, sistemi di valorizzazione del contributo dichiarati per unità) è l'oggetto originario della revisione F1.
 
-**Si chiede:** (a) se vi siano eventi fiscali nascosti nei flussi interni (trasferimenti tra partizioni, riporti, assorbimenti dalla riserva); (b) se la formulazione del vincolo di non distribuzione in GT-4.5(g), che elenca "reddito personale, stipendio, pensione, distribuzione di utili", rischi di leggere come esaustiva una platea che l'Art. 8 CTS definisce più ampia (segnalazione interna recente); (c) il corretto inquadramento dell'obbligo di rimborso spese ai custodi entro 60 giorni (Accordo 3 §9.3).
+**Si chiede:** (a) se vi siano eventi fiscali nascosti nei flussi interni (trasferimenti tra partizioni, riporti, assorbimenti dalla riserva); (b) se la formulazione del vincolo di non distribuzione in GT-4.5(g) tenga; (c) il corretto inquadramento dell'obbligo di rimborso spese ai custodi entro 60 giorni (Accordo 3 §9.3).
+
+*Aggiornamento (2026-07-05):* sul punto (b), GT-4.5(g) è stato riscritto (correttivo F-2): l'elenco ("reddito personale, stipendio, pensione, distribuzione di utili") è ora espressamente **non esaustivo** e ancorato alle fattispecie presunte dell'**Art. 8(2)-(3) CTS** — si chiede conferma della nuova formulazione. Sul punto (c), A3 §9.1 ora prevede (correttivo F-5) rimborso solo **analitico e documentato**, autocertificazione solo nei limiti dell'Art. 17(4) CTS, mai forfait — si chiede conferma. Inoltre: il termine "mutual insurance" per la riserva comune è stato qualificato (correttivo F-9) come metafora interna, mai promessa verso soggetti esterni (GT-4.8(d); A7-3 §2.1A).
 
 ### 7. Profili fiscali dell'Annesso Rigenerazione (in progettazione, non ancora redatto in clausole)
 
@@ -108,13 +122,15 @@ Lo schema del fondo unificato (un solo soggetto, partizioni interne, saldi ripor
 
 Riferimento: nota di progetto *Regeneration Annex - Value Return on Sale - 2026-06-11* (in inglese).
 
+*Aggiornamento (2026-07-05):* sul punto (a) il disegno ha scelto (correttivo F-7, §8A della nota di progetto): il versamento resta un **onere (modus) azionabile** — quindi **non** erogazione liberale e senza beneficio Art. 83 per il proprietario sulla quota obbligatoria; un eventuale **versamento volontario aggiuntivo** alla vendita resta vera liberalità con Art. 83; clausola espressa che il modus non costituisce corrispettivo del godimento. Si chiede conferma di questa struttura (enforceability al posto della deducibilità) e del trattamento in capo all'associazione come provento patrimoniale non commerciale, fuori campo IVA.
+
 ### 8. Contributo di rigenerazione del bene (ARC, GT-4.9) — nuovo flusso
 
 L'ARC è una quota (default 25%, minimo 10%) del ricavo netto — calcolata **dopo** il NRC e prima della distribuzione all'operatore — destinata all'**holon del bene** quando un'attività economica (un programma dell'Accordo 4, un progetto dell'Accordo 6, una venture dell'Accordo 7, un evento dell'Accordo 3) si svolge su un bene affidato in comodato. Resta una movimentazione **interna** all'unico soggetto (dall'holon dell'attività all'holon del bene), analoga al NRC interno.
 
 **Si chiede:** (a) conferma che l'ARC, tra holon dello stesso soggetto, non costituisca evento fiscale né operazione IVA (come per il NRC interno, domanda 1); (b) che, essendo flusso interno, non rilevi come ricavo commerciale ai fini dei limiti DM 107/2021 e del test Art. 79(5); (c) un profilo collegato: la riforma dei posti a costo-risorsa dell'Accordo 4 ha **tolto la voce \"uso del bene a ora\" dal prezzo del posto gratuito/agevolato**, spostando il costo strutturale del bene sull'holon del bene (coperto via ARC) — si chiede se ciò modifichi l'analisi di decommercializzazione dei corrispettivi verso i soci (Art. 85 CTS) per le fasce a costo-risorsa.
 
-**Nota di presentazione (collegata alla domanda 1):** NRC e ARC sono ora concepiti come i due ambiti di un unico \"contributo di rigenerazione\". Resta aperta la scelta se il **NRC** vada **presentato** come trattenuta alla fonte (come oggi, GT-4.4(a)) oppure come voce di copertura costi nel target `C` di ogni holon; è una scelta di rappresentazione contabile/fiscale su cui si chiede indicazione.
+**Nota di presentazione (collegata alla domanda 1):** NRC e ARC sono concepiti come i due ambiti di un unico \"contributo di rigenerazione\". *Aggiornamento (2026-07-05):* la scelta di presentazione è stata risolta in bozza insieme alla domanda 1 (correttivo F-1): tra holon interni la presentazione è fiscalmente indifferente e GT-4.4(a) mantiene la trattenuta alla fonte; verso soggetti esterni non c'è scelta — è una **fattura**. Si chiede conferma.
 
 ### 9. Riserva del bene per sostituzione/acquisto (Asset Reserve, GT-4.4B)
 
@@ -125,6 +141,8 @@ Ogni holon-bene può accantonare una **riserva di capitale protetta**, alimentat
 ### 10. Acquisizione del bene e passaggio a bene comune permanente (Accordo 1 §6.3A)
 
 La riserva di cui sopra consente alla rete, nel tempo, di **acquistare** il bene dal proprietario (diritto di prelazione; opzione di acquisto a valore equo prefissato, se il proprietario la concede in Annex 1) o di **riceverlo in donazione** (Accordo 5), portandolo in **proprietà permanente** dell'associazione, soggetto al vincolo di non distribuzione e alla devoluzione ex Art. 9 CTS (non più rivendibile fuori dal Terzo Settore).
+
+*Aggiornamento (2026-07-05):* A1 §6.3A ora prevede in bozza (correttivo F-8): metodo di valutazione **determinabile senza nuova negoziazione** (perizia asseverata indipendente ancorata a riferimenti OMI, **al netto degli investimenti finanziati dalla rete**), prezzo **mai superiore al valore di perizia** (a presidio dell'Art. 8(3) verso un proprietario-socio); e, prima dell'esercizio: dichiarazione in atto di utilizzo diretto entro cinque anni (**Art. 82(4) CTS**), piano di utilizzo nel fascicolo del Consiglio, verifica statutaria dell'eventuale competenza assembleare. Si chiede conferma del percorso così redatto.
 
 **Si chiede:** (a) il trattamento fiscale dell'**acquisto** del bene (imposta di registro, ipotecaria e catastale; eventuali agevolazioni per l'acquisto di immobili strumentali da parte di un ETS); (b) la via della **donazione** del bene all'associazione (per il donante, Art. 83; assenza di distribuzione indiretta); (c) indicazioni sul **metodo di valutazione equa** da fissare in Annex 1; (d) profilo condiviso col legale: se l'opzione di acquisto o il diritto di prelazione possano concorrere a far **riqualificare il comodato** in rapporto oneroso. Questa domanda è speculare alla **domanda 7** (Annesso Rigenerazione), che tratta lo stesso asse comodato↔vendita dal lato del proprietario che vende a terzi.
 
@@ -147,9 +165,9 @@ La riserva di cui sopra consente alla rete, nel tempo, di **acquistare** il bene
 
 ## Fascicolo allegato
 
-1. **Termini Generali e Condizioni (GT) v3.26** — in particolare GT-3A (regola di accesso) e GT-4 (fondo unificato, incl. GT-4.4B riserva del bene, GT-4.4C rete-come-holon, GT-4.9 ARC)
+1. **Termini Generali e Condizioni (GT) v3.36** — in particolare GT-3A (regola di accesso, riscritta con criteri plurali) e GT-4 (fondo unificato, incl. GT-4.4(a) split interno/esterno del NRC, GT-4.4B riserva del bene, GT-4.4C rete-come-holon, GT-4.5(g) riformulato, GT-4.9 ARC)
 2. **Accordi 1–8** con annessi
-3. **Living Governance Resolutions** (parametri rivedibili: aliquota NRC e target riserva del bene `R` in LGR-2, modello di allocazione in LGR-5, visibilità in LGR-8, aliquota ARC in LGR-9) e **Operational Procedures**
+3. **Living Governance Resolutions** (parametri rivedibili: aliquota NRC, target riserva del bene `R` e tetto quota relazionale `s_rel_max` in LGR-2, modello di allocazione in LGR-5, visibilità in LGR-8, aliquota ARC in LGR-9) e **Operational Procedures** (incl. la nuova Sezione R: cruscotto Art. 79(5), adeguamento IVA, separazione donatori, riconciliazione registro-fatture)
 4. **F1 Pre-Review - Fiscal Notes - 2026-06-10** — pre-analisi interna in inglese che arma questa revisione (non la sostituisce)
 4-bis. **F1 Simulated Commercialista Opinion - 2026-07-03** — seconda pre-analisi interna (simulata, in inglese) che risponde in via preliminare a tutte le 12 domande di questa nota; le bozze incorporano già i correttivi F-1..F-12 lì proposti (fee di rete fatturabile per i pagatori esterni, vincolo di non distribuzione ancorato all'Art. 8, criteri plurali di accesso, tetto alla quota relazionale, disciplina rimborsi Art. 17, cruscotto Art. 79(5), e altri). Il vostro parere conferma o corregge sia le domande sia i correttivi.
 5. **Regeneration Annex - Value Return on Sale - 2026-06-11** — nota di progetto (in inglese)
