@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-13T00:00:00.000Z
-updated: '2026-07-03'
+updated: '2026-07-05'
 operator: Roberto Valenti
 edit_log:
   - RG S39 2026-06-13
@@ -13,6 +13,9 @@ edit_log:
     RG 2026-06-15 — added Block 1 #6-8 (ARC, Asset Reserve, NRC presentation),
     Block 2 reserve/network-holon clauses, Block 3 #5-6 (access controls, asset
     acquisition); handover GT v3.26
+  - >-
+    RG S44 2026-07-05 — handover package: added the simulated opinion (item
+    4-bis); drafts amended with its fixes F-1..F-12 ahead of the real review
 tags:
   - strategy
   - fiscal
@@ -96,6 +99,7 @@ Pre-drafted or one-to-three-sentence fixes needing only advisor confirmation:
 2. Agreements 1–8 + all annexes
 3. Living Governance Resolutions + Operational Procedures
 4. [[F1 Pre-Review - Fiscal Notes - 2026-06-10]] (written to arm this engagement)
+4-bis. [[F1 Simulated Commercialista Opinion - 2026-07-03]] — a second internal pre-analysis (simulated) answering all twelve Nota questions; the drafts already carry its fixes **F-1..F-12** (external NRC as invoiced services fee, Art. 8-anchored non-distribution wording, plural access criteria, relational-share ceiling, Art. 17 reimbursement discipline, Art. 79(5) dashboard in Op Proc Section R, and others). The advisors review the amended drafts and confirm or correct both the questions and the fixes.
 5. [[Regeneration Annex - Value Return on Sale - 2026-06-11]]
 6. **The Statute** — the advisors must check the drafts against it; the pre-review explicitly did not
 7. For the commercialista: [[F1 Nota per il Commercialista - 2026-06-13]] (Italian context note covering Blocks 1, 2, and the fiscal side of 3)

@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: working
 created: 2026-06-13T00:00:00.000Z
-updated: '2026-07-02'
+updated: '2026-07-05'
 operator: Roberto Valenti
 edit_log:
   - RG S39 2026-06-13
@@ -15,6 +15,9 @@ edit_log:
   - "RG S42 2026-07-02 — aggiunta domanda 12 (strumenti di capitale per
     l'acquisizione: indebitamento ETS, capitale comunitario, crowdfunding, fondo
     come riserva vincolata, Art. 79(5))"
+  - "RG S44 2026-07-05 — fascicolo: aggiunta la pre-analisi simulata (F1
+    Simulated Commercialista Opinion) e nota che le bozze incorporano i
+    correttivi F-1..F-12"
 tags:
   - strategy
   - fiscal
@@ -148,6 +151,7 @@ La riserva di cui sopra consente alla rete, nel tempo, di **acquistare** il bene
 2. **Accordi 1–8** con annessi
 3. **Living Governance Resolutions** (parametri rivedibili: aliquota NRC e target riserva del bene `R` in LGR-2, modello di allocazione in LGR-5, visibilità in LGR-8, aliquota ARC in LGR-9) e **Operational Procedures**
 4. **F1 Pre-Review - Fiscal Notes - 2026-06-10** — pre-analisi interna in inglese che arma questa revisione (non la sostituisce)
+4-bis. **F1 Simulated Commercialista Opinion - 2026-07-03** — seconda pre-analisi interna (simulata, in inglese) che risponde in via preliminare a tutte le 12 domande di questa nota; le bozze incorporano già i correttivi F-1..F-12 lì proposti (fee di rete fatturabile per i pagatori esterni, vincolo di non distribuzione ancorato all'Art. 8, criteri plurali di accesso, tetto alla quota relazionale, disciplina rimborsi Art. 17, cruscotto Art. 79(5), e altri). Il vostro parere conferma o corregge sia le domande sia i correttivi.
 5. **Regeneration Annex - Value Return on Sale - 2026-06-11** — nota di progetto (in inglese)
 6. **Statuto dell'associazione** — da verificare contro le bozze: la pre-analisi interna è stata condotta **senza** esaminare lo Statuto né le circolari AdE correnti
 

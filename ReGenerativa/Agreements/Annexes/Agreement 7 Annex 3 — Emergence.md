@@ -4,7 +4,7 @@ type: annex
 annex_ref: A7-3
 parent_agreement: Agreement 7 — Intrapreneurship
 created: '2026-03-17'
-updated: '2026-06-15'
+updated: '2026-07-05'
 status: template
 tags:
   - annex
@@ -68,6 +68,8 @@ The Association and the Venture Members entered into the Intrapreneurship Agreem
 ## 2. Post-Emergence Network Regeneration Contribution
 
 **2.1 Perpetual obligation.** The Emerged Entity shall pay a Network Regeneration Contribution on Net External Revenue **in perpetuity**, in recognition of the ecosystem support received during incubation and as the permanent regenerative link to the network that made the venture possible.
+
+**2.1A Continuing services.** *(Pending F1.)* The Contribution is the fee for the continuing services the Emerged Entity receives for as long as it pays: the licence of the network's marks, frameworks, and shared story (Clauses 4 and 8); continued preferred network access (Clause 3); continued recognition of its people's Network Passports (GT-3A); and access to network coordination and Network Demand Signals. It is invoiced by the Association with VAT (GT-4.4(a)) and is not a donation. Support from the common reservoir, where ever extended to an Emerged Entity, is discretionary solidarity support, never an insurance promise.
 
 **Post-emergence NRC rate (negotiated at the moment of Emergence, locked perpetually):** ___% — within the range three percent (3%) to ten percent (10%) per GT-4. Once set under this Agreement, this rate becomes the **static perpetual rate** for the Emerged Entity, independent of any subsequent change to the active NRC Rate.
 

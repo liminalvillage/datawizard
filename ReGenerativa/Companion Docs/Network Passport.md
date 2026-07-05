@@ -9,8 +9,8 @@ tags:
   - access-rule
 title: Network Passport — Portable Contribution Record
 type: companion-doc
-updated: '2026-06-11'
-version: '3.6'
+updated: '2026-07-05'
+version: '3.7'
 ---
 *Companion document to [[General Terms and Conditions]] GT-3A. It describes the
 Network Passport and the single access rule. It is not a legal agreement.*
@@ -39,16 +39,18 @@ belongs more than anyone else, and no record buys a vote (see *One ledger, three
 ## The Access Rule (the whole participant-facing system)
 
 > **Access to the network's shared resources — programmes, hub stays, priority booking
-> — is offered on a sliding scale from full price to free, in order of standing
-> contribution. The more you have contributed, the higher your priority and the lower
-> your price, up to and including free.**
+> — is offered on a sliding scale from full price to free. Standing contribution is
+> one signal among several — alongside need, mission fit, and rotation. The more you
+> have contributed, the stronger that signal — but no recorded measure of itself
+> entitles anyone to a price or a place.**
 
-That is the entire mechanism. There is no perk table. Each steward, mentor, or hub
-sets, for the resource they hold, how many places are free and how price slides with
-contribution — applying the rule in good faith. The purpose is abundance and
-circulation, not gatekeeping. Someone who has given a great deal to the network moves
-toward the front and toward free; someone new pays nearer full price and builds their
-record from there.
+That is the entire mechanism. There is no perk table and no conversion rate between
+contribution and price. Each steward, mentor, or hub sets, for the resource they hold,
+how many places are free and how price slides — applying the rule in good faith, and
+recording a free or below-cost place as a discretionary decision with its reason
+(GT-3A.3). The purpose is abundance and circulation, not gatekeeping. Someone who has
+given a great deal to the network tends to move toward the front and toward free;
+someone new pays nearer full price and builds their record from there. *(Pending F1.)*
 
 ---
 
@@ -71,9 +73,11 @@ than your own entries, your holons' partitions, and the Association's full view.
 same record is read three ways, and keeping the readings apart is what lets
 contribution matter without ever becoming a rank over people. *(Pending F1.)*
 
-- **For access — lifetime, portable, rankless.** Your whole cumulative record sets
-  your place on the sliding scale (GT-3A.3): higher priority, lower price, up to free.
-  It never resets, follows you across every hub, and ranks no one above anyone.
+- **For access — lifetime, portable, rankless.** Your whole cumulative record informs
+  your place on the sliding scale (GT-3A.3) as one signal among several: a stronger
+  signal, weighed in the steward's recorded discretion — never an automatic
+  entitlement. It never resets, follows you across every hub, and ranks no one above
+  anyone.
 - **For allocation say — active, local, delegated.** Where you actively tend a holon,
   your *recent* contribution there sets your share of that holon's delegated spending
   envelope (GT-4.3; Agreement 2 §2.7) — administration of delegated resources, never a

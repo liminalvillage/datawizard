@@ -1,10 +1,10 @@
 ---
 title: Agreement 3 — Stewardship
 type: agreement
-version: '3.20'
+version: '3.21'
 status: active
 created: '2026-03-17'
-updated: '2026-07-03'
+updated: '2026-07-05'
 tags:
   - agreement
   - stewardship
@@ -148,7 +148,7 @@ tags:
 
 ## 9. Reimbursements
 
-**9.1** The Association may reimburse the Steward only for expenses actually incurred, connected with the stewardship role, pre-approved or otherwise accepted, and documented appropriately.
+**9.1** The Association may reimburse the Steward only for expenses actually incurred, connected with the stewardship role, pre-approved or otherwise accepted, and documented appropriately. Reimbursement is analytical only — item by item, against receipts; self-certified expenses are admissible solely within the bounds of Art. 17(4) CTS (a prior Board deliberation, and within the statutory per-day and per-month caps), and flat-rate reimbursements are never made: a forfait payment to a volunteer would constitute remuneration (Art. 17(3) CTS). *(Pending F1.)*
 
 **9.2** Reimbursable expenses may include travel, fuel, tolls, local purchases, food for common activities, materials, emergency operational expenses, and communication or logistical expenses.
 

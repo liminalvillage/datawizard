@@ -5,7 +5,7 @@ status: active
 priority: medium
 maturity: working
 created: 2026-07-02
-updated: 2026-07-02
+updated: '2026-07-05'
 operator: Roberto Valenti
 edit_log:
   - "RG S42 2026-07-02 — created: SG6 resolution — capital architecture recorded
@@ -58,6 +58,17 @@ Three quadrants exist. SG6 is precisely the fourth: shared capital.
 ## F1 dependencies (asked as domanda 12 in the Nota)
 
 (a) ETS borrowing capacity and security — including ipoteca on owned vs comodato property (links Nota Q7(b)); (b) the admissible legal form of community/solidarity shares for an APS (social lending? titoli di solidarietà via partner bank? equity is excluded by non-distribution); (c) fiscal treatment of acquisition-earmarked crowdfunding (liberalità vs corrispettivo); (d) a future acquisition pool as *riserva vincolata* at network level (extends Nota Q9 from asset to network scale); (e) whether a large capital raise disturbs the Art. 79(5) commercial-prevalence test (links Nota Q5).
+
+## Debt and community-capital rails (simulated F1 answer, fix F-12 - 2026-07-05)
+
+*From [[F1 Simulated Commercialista Opinion - 2026-07-03]]; the real F1 confirms or amends. These are the hard rails any future capital clause or LGR must carry:*
+
+- **Interest cap.** Interest paid to any lender other than banks/authorised intermediaries above **4 points over the reference rate is presumed indirect distribution (Art. 8(3) CTS)** — every mission-aligned or community loan prices under that line.
+- **Member loans.** Members only, no public solicitation, non-transferable instruments, written terms (staying clear of raccolta di risparmio tra il pubblico, Art. 11 TUB). The cooperative *prestito sociale* regime is not available to an APS.
+- **Institutional route.** Titoli di solidarietà (Art. 77 CTS) via a partner bank once the acquisition pool is real.
+- **Crowdfunding.** Donation-based only (Art. 83 relief if traceable; occasional campaigns per Art. 79(4)); rewards strictly symbolic — material rewards make the receipts commercial corrispettivi.
+- **Fund accounting.** The network pool is a riserva vincolata in two lines — Board-destined avanzi vs donor-restricted gifts/legacies — kept separate from day one (different reversibility). No Art. 10 patrimonio destinato at this scale.
+- **Security.** Mortgages only on owned property; comodato Assets cannot be hypothecated by the Association; immovable borrowing is straordinaria amministrazione — Statute check on Assembly authorisation.
 
 ---
 

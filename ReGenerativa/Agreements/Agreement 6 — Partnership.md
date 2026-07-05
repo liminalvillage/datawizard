@@ -1,10 +1,10 @@
 ---
 title: Agreement 6 — Partnership
 type: agreement
-version: '3.9'
+version: '3.10'
 status: active
 created: '2026-03-17'
-updated: '2026-07-03'
+updated: '2026-07-05'
 tags:
   - agreement
   - partnership
@@ -140,7 +140,7 @@ The collaboration is guided by:
 
 **9.2** Shares may change over time as new Contributions are made and validated, ensuring distribution remains responsive to actual effort and value creation.
 
-**9.3 Relational contribution share.** Where the participating Partners so provide in the Project Sheet, a slice of Net Project Revenue — fixed **ex ante** in the Project Sheet as a percentage, before work begins — is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition under Clause 8 against criteria stated in the Project Sheet. This slice exists so that the work that holds a Project together is not structurally starved by measures that count only hours and milestones. Distributions from it follow the same fiscal documentation as all other distributions (Clause 10.2; GT-12), and the slice is never retroactively resized. *(Pending F1.)*
+**9.3 Relational contribution share.** Where the participating Partners so provide in the Project Sheet, a slice of Net Project Revenue — fixed **ex ante** in the Project Sheet as a percentage, before work begins — is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition under Clause 8 against criteria stated in the Project Sheet. This slice exists so that the work that holds a Project together is not structurally starved by measures that count only hours and milestones. Distributions from it follow the same fiscal documentation as all other distributions (Clause 10.2; GT-12), and the slice is never retroactively resized. The slice shall not exceed the network ceiling held with the Unified Fund parameters (LGR-2; default **fifteen percent (15%)** of Net Project Revenue) unless the Project Sheet records a written justification for the higher figure; and each distribution from it is invoiced with a description of the actual service rendered (coordination, facilitation, relational stewardship) at its normal value — never as a generic contribution share. *(Pending F1.)*
 
 ---
 
@@ -154,7 +154,7 @@ The collaboration is guided by:
 
 ## 10A. Network Regeneration Contribution
 
-**10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners.
+**10A.1** Economic activities carried out under this Agreement contribute to the **Unified Fund** (GT-1.10). The Network Regeneration Contribution is a structure cost and is deducted from Project revenue before Net Project Revenue is calculated for distribution to Partners. Where the paying party is a **separate legal person** (a Vehicle Entity), the Contribution is the fee for defined network services — the licence and use of the network's marks, frameworks, and templates; the digital platform and Contribution Ledger infrastructure; network coordination and Network Demand Signals; and access to the constellation's ecosystem — invoiced by the Association with VAT (GT-4.4(a)), and is not a donation. *(Pending F1.)*
 
 **10A.2** The applicable rate is the **prevailing NRC Rate** (GT-4.4(a); LGR-2). There is no per-Project negotiation of the rate; the rate in effect at the time the Project's revenue is recognised applies to that revenue.
 

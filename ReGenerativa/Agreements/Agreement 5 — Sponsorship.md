@@ -1,10 +1,10 @@
 ---
 title: Agreement 5 — Sponsorship
 type: agreement
-version: '3.4'
+version: '3.5'
 status: active
 created: '2026-03-17'
-updated: '2026-06-10'
+updated: '2026-07-05'
 tags:
   - agreement
   - sponsorship
@@ -116,6 +116,8 @@ Recording is for recognition and the network's memory. Per GT-3A.4A, support giv
 **8.2** The Association shall issue the appropriate receipt or fiscal documentation consistent with the legal classification.
 
 **8.3** The Parties acknowledge that the Association is not promising any financial return on the support.
+
+**8.4 Liberality documentation.** *(Pending F1.)* For every erogazione liberale: payment by traceable means (bank transfer or card — a condition of the Supporter's Art. 83 CTS relief); a receipt stating that the gift carries no counter-performance; in-kind contributions valued per DM 28 November 2019 (independent appraisal where required); and an annual summary provided to the Supporter on request. Recognition under Clause 4 is never economic, and allocation and access decisions across the network are made without reference to the donor record (GT-3A.4A).
 
 ---
 

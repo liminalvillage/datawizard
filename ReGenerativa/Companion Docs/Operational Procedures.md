@@ -8,8 +8,8 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-07-03'
-version: '1.13'
+updated: '2026-07-05'
+version: '1.14'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
 
@@ -281,6 +281,40 @@ When a Hub leaves the network (Owner withdrawal under Agreement 1 §6, or networ
 4. **Instrument** — for a Hub: Agreement 1 signed, Hub DNA drafted (A1-5), Regenerative Impact baseline set (Annex 2). For an external partner: federation agreement under GT-4.10(b).
 5. **Provisional status** — the node joins provisionally; hub-activation duties run per A1 §3.9 (steward appointed, first activity scheduled, communicated to membership within 6 months).
 6. **Review to full status** — at the end of the provisional period (about 6 months), a review confirms the place came alive and the fit held; full hub status is confirmed, or the provisional period extended, or admission reversed.
+
+---
+
+## Section R — Fiscal monitoring and readiness (F1 fixes F-3, F-6, F-10, F-11)
+
+*Standing fiscal disciplines from the F1 workstream. Provisional pending the formal F1 review; the classifications below follow [[F1 Simulated Commercialista Opinion - 2026-07-03]] and are confirmed or amended by the real advisor.*
+
+### R.1 Art. 79(5) / DM 107/2021 dashboard
+Quarterly, the Board reviews the commercial / non-commercial ratio. Stream classification:
+
+| Stream | Side of the test |
+|---|---|
+| Membership fees (A2) | non-commercial |
+| Donations, restricted gifts, legacies (A5) | non-commercial |
+| Occasional public fundraising (Art. 79(4)) | non-commercial |
+| Resource-cost band to members (A4; Art. 85) | non-commercial (verify vs Statute) |
+| Market-rate band to the public (A4) | commercial |
+| External Regeneration Contribution fees (GT-4.4(a): Vehicle Entities, Emerged Entities) | commercial |
+| Partnership flows received by the Association (A6) | commercial |
+| Internal NRC, ARC, Asset Reserve accrual, reservoir transfers | neither — internal, never in the ratio |
+
+Alert threshold: commercial at **25%** of overall revenues (headroom before the 30% DM 107/2021 ceiling; Art. 79(5-bis/ter) margins soften a one-off breach, the dashboard keeps it one-off). Annual confirmation in the relazione di missione.
+
+### R.2 VAT readiness
+Verify the status of the member-corrispettivi VAT reform (D.L. 146/2021) as the first item of the formal F1 engagement. Standing plan: partita IVA (the external Regeneration Contribution fees are taxable in any case); dispensa ex Art. 36-bis DPR 633/72 on exempt operations; taxable streams segregated in the accounts.
+
+### R.3 Donor separation
+Allocation and access decisions are made without reference to the donor record (GT-3A.4A; A5 §8.4). The annual review spot-checks this.
+
+### R.4 Access-language hygiene
+In every document, form, and interface, the words *earn, redeem, credit, balance, spend* are never used in connection with access to network resources. The Passport shows contribution; it never shows a price. Free or below-cost places are recorded as discretionary decisions with their reason (GT-3A.3).
+
+### R.5 Ledger-to-invoice reconciliation
+At each settlement, the euro-valued distribution entries in Project and Venture partitions are reconciled against the invoices actually issued (GT-12); divergences are corrected before the next cycle.
 
 ---
 

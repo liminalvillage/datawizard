@@ -1,10 +1,10 @@
 ---
 title: Agreement 1 — Ownership
 type: agreement
-version: '3.13'
+version: '3.14'
 status: active
 created: '2026-03-17'
-updated: '2026-07-03'
+updated: '2026-07-05'
 tags:
   - agreement
   - ownership
@@ -132,9 +132,9 @@ Unless the incoming owner agrees in writing to assume the Owner's obligations, t
 
 (a) **Right of first refusal.** Should the Owner decide to sell or otherwise transfer the Asset (Clause 6.3), the Association may acquire it on terms no less favourable than any bona fide third-party offer, exercisable in writing within thirty (30) days of the Owner's notice.
 
-(b) **Standing purchase option (optional).** Where the Owner so elects in Annex 1, the Association holds a standing option to purchase the Asset at a fair valuation determined by the method recorded there (failing which, by an independent valuer appointed jointly). This Agreement does not otherwise oblige the Owner to sell.
+(b) **Standing purchase option (optional).** Where the Owner so elects in Annex 1, the Association holds a standing option to purchase the Asset at a fair valuation determined by the method recorded there (failing which, by an independent valuer appointed jointly). The method shall be determinable without fresh negotiation — an independent sworn appraisal anchored to observable market references (OMI ranges), **net of network-funded improvements**, so the network does not repurchase value it itself financed — and the price paid by the Association shall in no case exceed the appraised fair value. This Agreement does not otherwise oblige the Owner to sell.
 
-(c) **Funding.** An acquisition under (a) or (b) is funded from the Asset holon's Asset Reserve (GT-4.4B), topped up where necessary by Board allocation; it is proposed by the host Steward(s) and approved by the Board.
+(c) **Funding.** An acquisition under (a) or (b) is funded from the Asset holon's Asset Reserve (GT-4.4B), topped up where necessary by Board allocation; it is proposed by the host Steward(s) and approved by the Board. Before exercise: the acquisition deed declares the Asset's direct use for institutional activities within five years (Art. 82(4) CTS), the Board file records the direct-use plan, and any authorisation the Statute requires of the Assembly for the acquisition of immovable property is obtained.
 
 (d) **Donation route.** The Owner may instead donate the Asset into the commons under Agreement 5, with the fiscal treatment of a donation.
 

@@ -5,7 +5,7 @@ status: active
 priority: high
 maturity: draft
 created: 2026-06-11T00:00:00.000Z
-updated: '2026-06-15'
+updated: '2026-07-05'
 tags:
   - strategy
   - ownership
@@ -102,6 +102,15 @@ Retained from the design conversation as garnish, not engine. A natural-person O
 4. **Art. 8 CTS confirmation** - confirm the Owner → Association premium flow is a liberal donation with no indirect-distribution exposure, and check deductibility (Art. 83 CTS).
 5. **Clawback enforceability** - the 5-year post-termination tapering obligation: enforceable as drafted, or does it need its own security/registration to survive termination of A1?
 6. **OMI baseline mechanics** - is the OMI zone index sufficiently determinate for a formula clause, or should the Annex name a fallback (e.g. a jointly appointed valuer) where OMI granularity fails?
+
+### 8A. Simulated F1 answers applied (fix F-7 - 2026-07-05)
+
+*From [[F1 Simulated Commercialista Opinion - 2026-07-03]]; the real F1 confirms or amends. Question 4 above resolves as an either/or the design now records:*
+
+- **Enforceability over donor relief.** The value-return is drafted as an enforceable *modus* on the comodato. Its payment is performance of an obligation, **not** an erogazione liberale: the Owner takes **no Art. 83 relief** on the mandatory share, and the Annex says so plainly. On the Association's side it is a non-commercial patrimonial receipt — outside IRES commercial income, outside VAT.
+- **Voluntary top-up.** At sale, the Owner may elect to pay more than the mandatory share; the excess, being spontaneous, is a true liberalità with Art. 83 relief. The two flows are never mixed in documentation.
+- **Anti-recharacterisation clause.** The Annex carries an express clause: *the modus does not constitute consideration for the enjoyment of the Asset, which remains gratuitous.* The burden stays contingent (only on sale), residual (only on appreciation above the OMI benchmark), and conditioned on the network's investment threshold; its expected value stays demonstrably below a market rent for the same period.
+- **Ipoteca caution.** Do not assume the fixed-rate Art. 82 treatment for registering the hypothec in the financial model; the exact line item is verified with the notary in the real F1 (question 2 above stands).
 
 ## 9. Purchase-side valuation and value-sharing (A1 §6.3A)
 

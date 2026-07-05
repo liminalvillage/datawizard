@@ -5,7 +5,7 @@ status: draft
 maturity: draft
 priority: medium
 created: '2026-06-03'
-updated: '2026-06-15'
+updated: '2026-07-05'
 tags:
   - ReGenerativa
   - fund
@@ -69,7 +69,7 @@ In the Association it is always **one member, one vote**. Contribution changes w
 
 ## The common reservoir: insurance, not charity
 
-The shared pool the healthy feed and the struggling draw from is **mutual insurance**. Feeding it in good seasons is, in effect, paying the premium on the cover that catches you in hard ones. So it rewards giving without making it a sacrifice:
+The shared pool the healthy feed and the struggling draw from is **mutual insurance** — a metaphor: solidarity inside one association, not an insurance product, and never a promise to anyone outside it (GT-4.8(d)). Feeding it in good seasons is, in effect, paying the premium on the cover that catches you in hard ones. So it rewards giving without making it a sacrifice:
 
 - **first call** on the pool's help when you need it;
 - a **longer leash** — a place that proves steady earns more room to run itself;

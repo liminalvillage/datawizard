@@ -2,11 +2,11 @@
 title: Living Governance Resolutions
 type: governance-document
 status: active
-version: '1.14'
+version: '1.15'
 priority: high
 maturity: working
 created: 2026-05-16T00:00:00.000Z
-updated: '2026-06-15'
+updated: '2026-07-05'
 tags:
   - governance
   - ReGenerativa
@@ -128,6 +128,12 @@ the following framework applies:
   - Single-signature ceiling - EUR amount per transaction, set by Board;
   - Supermajority threshold for Council Allocation - EUR amount triggering
     full-Council supermajority, set by Board.
+- **Relational contribution share ceiling** (per Agreement 6 §9.3):
+  - `s_rel_max` - the network default ceiling on a Project's relational
+    contribution share, as a percentage of Net Project Revenue. Absent a
+    Board-ratified figure, the default is **15%**. A Project Sheet may exceed
+    it only with a recorded written justification (A6 §9.3). Guards the slice
+    against income-shifting readings (F1 fix F-4). *(Pending F1.)*
 
 **Basis.** The Unified Fund's self-similar allocation shape (GT-4.4) requires
 parameters to operate. Setting these as Living Governance Resolutions allows them to
