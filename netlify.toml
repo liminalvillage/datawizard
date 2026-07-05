@@ -5,6 +5,10 @@
   base = "website"
   command = "bash build.sh"
   publish = "public"
+  # With base=website, Netlify's default change detection ignores commits that
+  # only touch the vault content outside it. Build when website/, the vault, or
+  # this file changed. (Runs from the base directory; non-zero exit = build.)
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ../ReGenerativa ../netlify.toml"
 
 [build.environment]
   # Quartz v4 requires Node >= 22.
