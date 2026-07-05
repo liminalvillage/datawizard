@@ -42,8 +42,8 @@ version: '1.3'
 **Signal summary:** [One paragraph. What is the unmet need the network has documented? In whose words did it first appear? How has it recurred?]
 
 **Signal source(s):**
-☐ Network Demand Register (published signal — reference above)
-☐ New signal submitted alongside this proposal — describe below
+- ☐ Network Demand Register (published signal — reference above)
+- ☐ New signal submitted alongside this proposal — describe below
 
 **If new signal — document the observed demand:**
 
@@ -56,11 +56,11 @@ version: '1.3'
 **How long has this signal been visible in the network?** [e.g. "6 months across 3 hubs" / "First observed at Autumn Equinox gathering 2025"]
 
 **Who in the network most acutely experiences this unmet need?**
-☐ Members (hub circulation, skills access)
-☐ Stewards (operational support)
-☐ Hubs (infrastructure, services)
-☐ The Association itself (administrative, governance, or strategic capacity)
-☐ Other: ___
+- ☐ Members (hub circulation, skills access)
+- ☐ Stewards (operational support)
+- ☐ Hubs (infrastructure, services)
+- ☐ The Association itself (administrative, governance, or strategic capacity)
+- ☐ Other: ___
 
 **What currently happens because this need is unmet?**
 [Concrete description — what fails, what is delayed, what burden falls elsewhere, what opportunity is missed]
@@ -107,8 +107,8 @@ version: '1.3'
 **First milestone review date:** [DD/MM/YYYY]
 
 **Capacity metric (A7 §6.3):** the measure against which the phase floors (100% / 70% / 40% network service) are assessed at every Phase Review.
-☐ Venture Member hours per lunation *(default)*
-☐ Other: ___ — rationale: ___
+- ☐ Venture Member hours per lunation *(default)*
+- ☐ Other: ___ — rationale: ___
 
 **Insurance note:** Phase 1 venture work is covered by Members' Agreement 2 insurance only when performed as official volunteer activity (A2 §6.1–6.2). Activities outside that scope require cover noted here: [e.g. "not applicable" / specific policy]
 
@@ -170,12 +170,12 @@ version: '1.3'
 **Fiscal hosting mechanism:** [Describe how the Association will receive and process payments for Phase 1 network services]
 
 **First client commitment:**
-☐ The Association commits to commission the following service/product from the venture during Phase 1:
+- ☐ The Association commits to commission the following service/product from the venture during Phase 1:
 - Service/product: ___
 - Estimated value: €___
 - Timeline: ___
-☐ First client is a named network member/hub who generated the Demand Signal (with their consent): ___
-☐ Not applicable — venture serves network through non-commercial contribution
+- ☐ First client is a named network member/hub who generated the Demand Signal (with their consent): ___
+- ☐ Not applicable — venture serves network through non-commercial contribution
 
 **Network introductions (at least 3 within 60 days of activation):**
 1. [Name/role/hub — to be confirmed within 60 days]

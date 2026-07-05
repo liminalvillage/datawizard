@@ -136,12 +136,12 @@ Resource-cost places cover their own direct delivery cost (Agreement 4 Clause 4.
 ## Intellectual Property Specific to This Programme
 
 **Recording / photography during the Programme:**
-☐ Permitted with participant consent for Association use  ☐ Not permitted  ☐ Permitted with conditions: ___
+- ☐ Permitted with participant consent for Association use  ☐ Not permitted  ☐ Permitted with conditions: ___
 
 **Mentor's materials (slides, handouts, exercises):**
-☐ Shared with participants for personal use only
-☐ May be reproduced by the Association for future Programmes (with Mentor's approval)
-☐ Remain exclusively with the Mentor; handouts provided at Programme only
+- ☐ Shared with participants for personal use only
+- ☐ May be reproduced by the Association for future Programmes (with Mentor's approval)
+- ☐ Remain exclusively with the Mentor; handouts provided at Programme only
 
 **Co-created materials (if any):** [describe or state "not applicable"]
 

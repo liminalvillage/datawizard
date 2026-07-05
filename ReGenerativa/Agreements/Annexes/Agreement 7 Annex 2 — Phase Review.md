@@ -124,10 +124,10 @@ tags:
 *To be completed by the Association's authorised representative.*
 
 **Association's view of the transition request:**
-☐ Approved — transition effective [DD/MM/YYYY]
-☐ Approved with conditions — conditions: ___
-☐ Deferred — reason: ___ — resubmit by: [DD/MM/YYYY]
-☐ Declined — reason: ___
+- ☐ Approved — transition effective [DD/MM/YYYY]
+- ☐ Approved with conditions — conditions: ___
+- ☐ Deferred — reason: ___ — resubmit by: [DD/MM/YYYY]
+- ☐ Declined — reason: ___
 
 **Association notes:**
 [Any observations, concerns, commitments, or offers of support for the incoming phase]

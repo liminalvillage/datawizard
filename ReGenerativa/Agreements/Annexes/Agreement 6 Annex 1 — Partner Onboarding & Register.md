@@ -73,20 +73,20 @@ By signing this form, the undersigned:
 
 *Indicate primary areas of competency and contribution that this Partner brings to the Framework.*
 
-☐ Strategic design and systems thinking
-☐ Software development and digital infrastructure
-☐ Design, communication, and visual content
-☐ Project management and coordination
-☐ Client acquisition and relationship management
-☐ Facilitation, education, and community building
-☐ Legal, fiscal, and administrative support
-☐ Ecological and land-based practice
-☐ Finance and accounting
-☐ Pre-existing intellectual property (specify): ___
-☐ Relationships, networks, and market access (specify): ___
-☐ Tools, equipment, or physical infrastructure (specify): ___
-☐ Direct funding capacity
-☐ Other: _______________________________________________
+- ☐ Strategic design and systems thinking
+- ☐ Software development and digital infrastructure
+- ☐ Design, communication, and visual content
+- ☐ Project management and coordination
+- ☐ Client acquisition and relationship management
+- ☐ Facilitation, education, and community building
+- ☐ Legal, fiscal, and administrative support
+- ☐ Ecological and land-based practice
+- ☐ Finance and accounting
+- ☐ Pre-existing intellectual property (specify): ___
+- ☐ Relationships, networks, and market access (specify): ___
+- ☐ Tools, equipment, or physical infrastructure (specify): ___
+- ☐ Direct funding capacity
+- ☐ Other: _______________________________________________
 
 ---
 

@@ -49,11 +49,11 @@ Structure costs are distinct from:
 
 Structure costs are allocated to each Project using the following method:
 
-☐ **Pro rata by Project revenue** — each Project bears structure costs in proportion to its share of total Framework revenue in the period.
+- ☐ **Pro rata by Project revenue** — each Project bears structure costs in proportion to its share of total Framework revenue in the period.
 
-☐ **Flat fee per Project** — each Project bears a fixed structure cost of €___ regardless of size.
+- ☐ **Flat fee per Project** — each Project bears a fixed structure cost of €___ regardless of size.
 
-☐ **Hybrid** — [describe]: ___
+- ☐ **Hybrid** — [describe]: ___
 
 **Billing cycle:** Structure costs are reconciled ☐ monthly  ☐ quarterly  ☐ annually  ☐ per Project close.
 

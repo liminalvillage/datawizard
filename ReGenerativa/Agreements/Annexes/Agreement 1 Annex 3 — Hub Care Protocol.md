@@ -95,58 +95,58 @@ This protocol ensures that the Asset is left in a clean, orderly, and safe condi
 
 ### Kitchen
 
-☐ All surfaces wiped down (countertops, hob, oven exterior)
-☐ Oven and hob cleaned inside (if used for cooking residue)
-☐ Fridge cleared of perishable items and wiped inside
-☐ Dishes washed and stored (or dishwasher run and emptied)
-☐ Sink cleaned and unblocked
-☐ Food waste composted or disposed of correctly
-☐ Bins emptied and bags replaced
-☐ Floor swept and mopped
-☐ Gas / electrical appliances switched off
+- ☐ All surfaces wiped down (countertops, hob, oven exterior)
+- ☐ Oven and hob cleaned inside (if used for cooking residue)
+- ☐ Fridge cleared of perishable items and wiped inside
+- ☐ Dishes washed and stored (or dishwasher run and emptied)
+- ☐ Sink cleaned and unblocked
+- ☐ Food waste composted or disposed of correctly
+- ☐ Bins emptied and bags replaced
+- ☐ Floor swept and mopped
+- ☐ Gas / electrical appliances switched off
 
 ### Bathrooms
 
-☐ Toilets cleaned (bowl, seat, exterior)
-☐ Showers and baths cleaned (tiles, tray, fixtures)
-☐ Sinks and taps cleaned
-☐ Mirrors wiped
-☐ Floors mopped
-☐ Towels collected for washing (or left as agreed with Owner)
-☐ Supplies checked and noted if running low (soap, toilet paper, cleaning products)
+- ☐ Toilets cleaned (bowl, seat, exterior)
+- ☐ Showers and baths cleaned (tiles, tray, fixtures)
+- ☐ Sinks and taps cleaned
+- ☐ Mirrors wiped
+- ☐ Floors mopped
+- ☐ Towels collected for washing (or left as agreed with Owner)
+- ☐ Supplies checked and noted if running low (soap, toilet paper, cleaning products)
 
 ### Bedrooms and Sleeping Areas
 
-☐ Beds stripped (sheets and pillowcases collected for washing or left as agreed)
-☐ Surfaces dusted
-☐ Windows closed and latched
-☐ Floors swept or vacuumed
-☐ All personal items removed by participants
+- ☐ Beds stripped (sheets and pillowcases collected for washing or left as agreed)
+- ☐ Surfaces dusted
+- ☐ Windows closed and latched
+- ☐ Floors swept or vacuumed
+- ☐ All personal items removed by participants
 
 ### Common Areas (Living Room, Dining, Workshop, etc.)
 
-☐ Furniture returned to original or agreed configuration
-☐ All equipment and tools stored in designated locations
-☐ Floors swept / vacuumed / mopped
-☐ Doors and windows closed and locked
-☐ Any borrowed or rearranged items returned
+- ☐ Furniture returned to original or agreed configuration
+- ☐ All equipment and tools stored in designated locations
+- ☐ Floors swept / vacuumed / mopped
+- ☐ Doors and windows closed and locked
+- ☐ Any borrowed or rearranged items returned
 
 ### Outdoor Areas
 
-☐ Outdoor furniture returned to stored or agreed position
-☐ BBQ / fire pit area cleaned (ash disposed of safely when cold)
-☐ Waste sorted and placed in correct bins / composting system
-☐ Paths and entry area clear of debris
-☐ Gates closed and locked (where applicable)
+- ☐ Outdoor furniture returned to stored or agreed position
+- ☐ BBQ / fire pit area cleaned (ash disposed of safely when cold)
+- ☐ Waste sorted and placed in correct bins / composting system
+- ☐ Paths and entry area clear of debris
+- ☐ Gates closed and locked (where applicable)
 
 ### Utilities and Security
 
-☐ All lights switched off
-☐ Heating / cooling set to agreed standby level (or switched off)
-☐ Water supply isolation valve checked (if applicable in winter)
-☐ All windows and external doors locked
-☐ Keys returned to designated location or person
-☐ Alarm (if applicable) set per agreed protocol
+- ☐ All lights switched off
+- ☐ Heating / cooling set to agreed standby level (or switched off)
+- ☐ Water supply isolation valve checked (if applicable in winter)
+- ☐ All windows and external doors locked
+- ☐ Keys returned to designated location or person
+- ☐ Alarm (if applicable) set per agreed protocol
 
 ---
 

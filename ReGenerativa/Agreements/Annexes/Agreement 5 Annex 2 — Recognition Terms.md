@@ -20,9 +20,9 @@ tags:
 
 **Nature of recognition:**
 
-☐ **Non-promotional recognition** — Acknowledgement of the Supporter's contribution for transparency and community purposes (e.g. supporter directory listing, mention in annual report). Does not constitute a counter-performance. Consistent with donation / erogazione liberale classification.
+- ☐ **Non-promotional recognition** — Acknowledgement of the Supporter's contribution for transparency and community purposes (e.g. supporter directory listing, mention in annual report). Does not constitute a counter-performance. Consistent with donation / erogazione liberale classification.
 
-☐ **Corrispettivo promotional recognition** — The Supporter receives defined promotional visibility (e.g. logo placement, event co-branding, featured placement on website). This is a counter-performance and may affect the fiscal classification of the support. See Clause 4.3 of the Agreement and seek fiscal advice.
+- ☐ **Corrispettivo promotional recognition** — The Supporter receives defined promotional visibility (e.g. logo placement, event co-branding, featured placement on website). This is a counter-performance and may affect the fiscal classification of the support. See Clause 4.3 of the Agreement and seek fiscal advice.
 
 ---
 
@@ -31,23 +31,23 @@ tags:
 *Check all that apply. Specify details where relevant.*
 
 **Digital presence:**
-☐ Listed in the Association's public supporter directory
-☐ Name / logo on Association website — section: [___] — duration: [___]
-☐ Mention in [e.g. newsletter / social media] — frequency: [e.g. once at announcement, once at completion]
-☐ Featured in impact report / bilancio sociale
+- ☐ Listed in the Association's public supporter directory
+- ☐ Name / logo on Association website — section: [___] — duration: [___]
+- ☐ Mention in [e.g. newsletter / social media] — frequency: [e.g. once at announcement, once at completion]
+- ☐ Featured in impact report / bilancio sociale
 
 **Physical presence at hubs:**
-☐ Name / logo displayed at [hub name] — location: [e.g. "entrance wall plaque"] — duration: [e.g. duration of Agreement]
-☐ Named recognition on a specific item (e.g. "this solar system supported by [Supporter]")
+- ☐ Name / logo displayed at [hub name] — location: [e.g. "entrance wall plaque"] — duration: [e.g. duration of Agreement]
+- ☐ Named recognition on a specific item (e.g. "this solar system supported by [Supporter]")
 
 **Event and community recognition:**
-☐ Mention at opening / closing of events at supported hub(s)
-☐ Invitation to [___] gatherings per year (as guest, not as speaker unless separately agreed)
-☐ Recognition in event communications (programme, social posts)
+- ☐ Mention at opening / closing of events at supported hub(s)
+- ☐ Invitation to [___] gatherings per year (as guest, not as speaker unless separately agreed)
+- ☐ Recognition in event communications (programme, social posts)
 
 **Storytelling and media:**
-☐ Feature story in Association communication channels — format: [e.g. written article / video] — timeline: [___]
-☐ Permitted to use Association's name in own communications in the following terms: [specify exactly — e.g. "Proud supporter of ReGenerativa APS"]
+- ☐ Feature story in Association communication channels — format: [e.g. written article / video] — timeline: [___]
+- ☐ Permitted to use Association's name in own communications in the following terms: [specify exactly — e.g. "Proud supporter of ReGenerativa APS"]
 
 ---
 

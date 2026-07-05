@@ -118,8 +118,8 @@ The Association and the Venture Members entered into the Intrapreneurship Agreem
 | [describe] | [Name(s) / Emerged Entity] | [e.g. Non-exclusive, perpetual, royalty-free] | [describe] |
 
 **4.4** **Association's equity in IP (if applicable):**
-☐ Not applicable
-☐ The Association holds a ___% ownership share in the following jointly developed IP: [describe]. Commercial exploitation of this IP requires the Association's written consent.
+- ☐ Not applicable
+- ☐ The Association holds a ___% ownership share in the following jointly developed IP: [describe]. Commercial exploitation of this IP requires the Association's written consent.
 
 ---
 

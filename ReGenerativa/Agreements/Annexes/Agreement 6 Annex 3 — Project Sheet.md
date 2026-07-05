@@ -87,11 +87,11 @@ version: '1.3'
 
 **How contributions will be measured in this Project:**
 
-☐ **Hours** — at rates defined in [[Agreement 6 Annex 2 — Economics Schedule]] (Part B)
-☐ **Fixed milestones** — as defined in Section 3 above
-☐ **Agreed value units** — describe: ___
-☐ **Market replacement value** — describe: ___
-☐ **Hybrid** — describe: ___
+- ☐ **Hours** — at rates defined in [[Agreement 6 Annex 2 — Economics Schedule]] (Part B)
+- ☐ **Fixed milestones** — as defined in Section 3 above
+- ☐ **Agreed value units** — describe: ___
+- ☐ **Market replacement value** — describe: ___
+- ☐ **Hybrid** — describe: ___
 
 **Tracking tool / ledger:** [e.g. "Shared Contribution Log per [[Agreement 6 Annex 4 — Contribution Log]]" or "Shared spreadsheet, in line with A6-4"]
 
@@ -103,11 +103,11 @@ version: '1.3'
 
 Contributions become Validated when:
 
-☐ Peer validation by at least one other Partner involved in the Project
-☐ Project lead approval (name: ___)
-☐ Milestone confirmation (client sign-off / delivery confirmation)
-☐ Simple majority of participating Partners
-☐ Documentary evidence (invoice, commit log, deliverable receipt, etc.)
+- ☐ Peer validation by at least one other Partner involved in the Project
+- ☐ Project lead approval (name: ___)
+- ☐ Milestone confirmation (client sign-off / delivery confirmation)
+- ☐ Simple majority of participating Partners
+- ☐ Documentary evidence (invoice, commit log, deliverable receipt, etc.)
 
 **Dispute resolution if validation is contested:** First among participating Partners; then two-thirds majority; then GT-7 if unresolved.
 
@@ -142,8 +142,8 @@ Contributions become Validated when:
 
 **Relational contribution share (A6 §9.3 — optional, fixed at activation):**
 
-☐ Not used in this Project
-☐ **___%** of Net Project Revenue is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition.
+- ☐ Not used in this Project
+- ☐ **___%** of Net Project Revenue is reserved for relational and stewardship contributions (coordination, facilitation, care of the collaboration), validated qualitatively by peer recognition.
 - **Validation criteria (observable, stated ex ante):** [e.g. convened and documented the weekly coordination; resolved a named conflict; held client relationship through a difficult phase]
 - **Eligible Partners:** ☐ All participating Partners  ☐ Named: ___
 - Recipients invoice per A6 §10.2 / GT-12 like any other distribution. The percentage is not retroactively resizable.

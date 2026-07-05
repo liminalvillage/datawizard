@@ -24,15 +24,15 @@ version: '1.2'
 
 The Owner permits the Association to use the Asset for the following purposes:
 
-☐ Residential stays for members, stewards, mentors, volunteers, and participants in Association activities
-☐ Educational workshops, courses, and training programmes
-☐ Ecological restoration and land care activities
-☐ Retreats, residencies, and gatherings of a cultural, spiritual, or community nature
-☐ Food growing, permaculture, and agroforestry activities
-☐ Artistic and creative residencies
-☐ Administrative and coordination work of the Association
-☐ Events open to the public (subject to applicable licences and noise restrictions)
-☐ Other (specify): _______________________________________________
+- ☐ Residential stays for members, stewards, mentors, volunteers, and participants in Association activities
+- ☐ Educational workshops, courses, and training programmes
+- ☐ Ecological restoration and land care activities
+- ☐ Retreats, residencies, and gatherings of a cultural, spiritual, or community nature
+- ☐ Food growing, permaculture, and agroforestry activities
+- ☐ Artistic and creative residencies
+- ☐ Administrative and coordination work of the Association
+- ☐ Events open to the public (subject to applicable licences and noise restrictions)
+- ☐ Other (specify): _______________________________________________
 
 **Maximum simultaneous occupancy permitted:** ___ persons (overnight) / ___ persons (day use)
 

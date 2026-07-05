@@ -30,15 +30,15 @@ tags:
 
 **Primary classification:**
 
-☐ **Donation (erogazione liberale)** — Monetary gift with no counter-performance. Ownership transfers fully to the Association. May qualify for tax deduction under Art. 83 of the Third Sector Code for the Supporter, subject to applicable conditions.
+- ☐ **Donation (erogazione liberale)** — Monetary gift with no counter-performance. Ownership transfers fully to the Association. May qualify for tax deduction under Art. 83 of the Third Sector Code for the Supporter, subject to applicable conditions.
 
-☐ **Fundraising contribution** — Monetary or in-kind contribution made in the context of a fundraising campaign. Art. 7 CTS applies. No counter-performance.
+- ☐ **Fundraising contribution** — Monetary or in-kind contribution made in the context of a fundraising campaign. Art. 7 CTS applies. No counter-performance.
 
-☐ **Corrispettivo sponsorship** — Monetary or in-kind support in exchange for defined recognition or promotional visibility (see Annex 2). Different accounting and VAT treatment applies.
+- ☐ **Corrispettivo sponsorship** — Monetary or in-kind support in exchange for defined recognition or promotional visibility (see Annex 2). Different accounting and VAT treatment applies.
 
-☐ **In-kind contribution** — Goods, services, equipment, or consumables. Ownership transfers to the Association upon delivery and acceptance.
+- ☐ **In-kind contribution** — Goods, services, equipment, or consumables. Ownership transfers to the Association upon delivery and acceptance.
 
-☐ **Mixed** — describe: ___
+- ☐ **Mixed** — describe: ___
 
 *Note: The Parties are responsible for ensuring correct fiscal classification. The Association shall issue documentation consistent with the classification selected above.*
 
@@ -79,13 +79,13 @@ tags:
 **Destination:** ☐ Unrestricted (general mission)  ☐ Purpose-restricted (see below)  ☐ Milestone-based (see below)
 
 **If purpose-restricted, specify destination:**
-☐ Hub: [name]
-☐ Project: [name]
-☐ Person / role: [e.g. "scholarship for a steward"]
-☐ Infrastructure: [e.g. "solar installation at Hub X"]
-☐ Programme: [e.g. "mentorship programme on regenerative design"]
-☐ Unified Fund (Association holon)
-☐ Other: ___
+- ☐ Hub: [name]
+- ☐ Project: [name]
+- ☐ Person / role: [e.g. "scholarship for a steward"]
+- ☐ Infrastructure: [e.g. "solar installation at Hub X"]
+- ☐ Programme: [e.g. "mentorship programme on regenerative design"]
+- ☐ Unified Fund (Association holon)
+- ☐ Other: ___
 
 **If milestone-based, specify conditions for release:**
 [e.g. "Second instalment of €5,000 to be released upon completion of solar installation at Hub X, verified by photographs and installer certificate"]
