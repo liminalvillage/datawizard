@@ -20,5 +20,4 @@
 # Secrets (OPENAI_API_KEY) live in the Netlify UI, never here.
 [functions]
   directory = "netlify/functions"
-  node_bundler = "esbuild"
   included_files = ["netlify/functions/corpus.md"]
