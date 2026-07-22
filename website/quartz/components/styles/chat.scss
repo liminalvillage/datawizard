@@ -6,16 +6,17 @@
     bottom: 1.25rem;
     right: 1.25rem;
     z-index: 900;
-    width: 3rem;
     height: 3rem;
+    padding: 0 1.1rem;
     border: none;
-    border-radius: 50%;
+    border-radius: 1.5rem;
     background-color: var(--secondary);
     color: var(--light);
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
+    gap: 0.5rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
     transition: background-color 0.2s ease;
 
@@ -24,8 +25,62 @@
     }
 
     svg {
-      width: 1.4rem;
-      height: 1.4rem;
+      width: 1.3rem;
+      height: 1.3rem;
+      flex-shrink: 0;
+    }
+
+    .chat-toggle-label {
+      font-family: inherit;
+      font-size: 0.9rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+  }
+
+  .chat-hint {
+    position: fixed;
+    bottom: 5rem;
+    right: 1.25rem;
+    z-index: 899;
+    max-width: 230px;
+    padding: 0.6rem 0.8rem;
+    background-color: var(--light);
+    color: var(--darkgray);
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    font-size: 0.82rem;
+    line-height: 1.4;
+    cursor: pointer;
+    animation: chat-hint-in 0.4s ease 1s both;
+
+    &::after {
+      content: "";
+      position: absolute;
+      bottom: -6px;
+      right: 1.6rem;
+      width: 10px;
+      height: 10px;
+      background-color: var(--light);
+      border-right: 1px solid var(--lightgray);
+      border-bottom: 1px solid var(--lightgray);
+      transform: rotate(45deg);
+    }
+
+    &[hidden] {
+      display: none;
+    }
+  }
+
+  @keyframes chat-hint-in {
+    from {
+      opacity: 0;
+      transform: translateY(6px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
     }
   }
 

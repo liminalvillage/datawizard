@@ -164,8 +164,24 @@ document.addEventListener("nav", () => {
   const clear = widget.querySelector<HTMLButtonElement>(".chat-clear")
   const form = widget.querySelector<HTMLFormElement>(".chat-form")
   const input = widget.querySelector<HTMLTextAreaElement>(".chat-input")
+  const hint = widget.querySelector<HTMLElement>(".chat-hint")
 
-  const onToggle = () => setPanelOpen(!panelOpen)
+  // First-visit hint: point new visitors at the button until they use it once.
+  const hintDismissed = () => localStorage.getItem("chat-hint-dismissed") === "true"
+  const dismissHint = () => {
+    localStorage.setItem("chat-hint-dismissed", "true")
+    if (hint) hint.hidden = true
+  }
+  if (hint) hint.hidden = hintDismissed() || panelOpen
+  const onHintClick = () => {
+    dismissHint()
+    setPanelOpen(true)
+  }
+
+  const onToggle = () => {
+    dismissHint()
+    setPanelOpen(!panelOpen)
+  }
   const onClose = () => setPanelOpen(false)
   const onClear = () => {
     abortController?.abort()
@@ -195,6 +211,7 @@ document.addEventListener("nav", () => {
   clear?.addEventListener("click", onClear)
   form?.addEventListener("submit", onSubmit)
   input?.addEventListener("keydown", onKeydown)
+  hint?.addEventListener("click", onHintClick)
   document.addEventListener("keydown", onEsc)
   window.addCleanup(() => {
     toggle?.removeEventListener("click", onToggle)
@@ -202,6 +219,7 @@ document.addEventListener("nav", () => {
     clear?.removeEventListener("click", onClear)
     form?.removeEventListener("submit", onSubmit)
     input?.removeEventListener("keydown", onKeydown)
+    hint?.removeEventListener("click", onHintClick)
     document.removeEventListener("keydown", onEsc)
   })
 

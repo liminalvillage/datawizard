@@ -7,10 +7,13 @@ export default (() => {
   const ChatWidget: QuartzComponent = (_props: QuartzComponentProps) => {
     return (
       <div class="chat-widget">
+        <div class="chat-hint" hidden>
+          Questions about the agreements? Ask here — in any language.
+        </div>
         <button
           class="chat-toggle"
-          aria-label="Ask about the agreements"
-          title="Ask about the agreements"
+          aria-label="Ask a question about the agreements"
+          title="Ask a question about the agreements"
         >
           <svg
             role="img"
@@ -22,9 +25,10 @@ export default (() => {
             stroke-linecap="round"
             stroke-linejoin="round"
           >
-            <title>Ask about the agreements</title>
+            <title>Ask a question about the agreements</title>
             <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z" />
           </svg>
+          <span class="chat-toggle-label">Ask a question</span>
         </button>
         <div class="chat-panel" hidden>
           <div class="chat-header">
