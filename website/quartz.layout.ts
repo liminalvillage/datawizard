@@ -11,8 +11,18 @@ import * as Component from "./quartz/components"
 // helper that is undefined in that scope. Everything is inlined for a/b.
 const explorerOptions = {
   sortFn: (a: any, b: any) => {
-    const sa = a.isFolder ? "" : a.displayName.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()
-    const sb = b.isFolder ? "" : b.displayName.toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()
+    const sa = a.isFolder
+      ? ""
+      : a.displayName
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, " ")
+          .trim()
+    const sb = b.isFolder
+      ? ""
+      : b.displayName
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, " ")
+          .trim()
     const ma = sa.match(/agreement (\d+)/)
     const mb = sb.match(/agreement (\d+)/)
     let ra: number
@@ -43,7 +53,7 @@ const explorerOptions = {
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [Component.ChatWidget()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",

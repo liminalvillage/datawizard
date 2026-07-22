@@ -31,4 +31,16 @@ mv "content/Agreements/Annexes" "content/Annexes"
 # Synthesize the public homepage (keeps the Obsidian vault free of an index.md).
 cp site/index.md content/index.md
 
+# Build the AI-chat corpus from the exact published content. Deterministic
+# ordering (LC_ALL=C sort) keeps the output byte-identical across builds so
+# the Anthropic prompt cache stays warm across deploys.
+mkdir -p netlify/functions
+{
+  echo "ReGenerativa Constellation of Agreements — full corpus for the Q&A assistant."
+  find content -name '*.md' | LC_ALL=C sort | while IFS= read -r f; do
+    printf '\n\n========== DOCUMENT: %s ==========\n\n' "${f#content/}"
+    cat "$f"
+  done
+} > netlify/functions/corpus.md
+
 npx quartz build
