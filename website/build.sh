@@ -48,7 +48,7 @@ mkdir -p netlify/functions
 # external without shipping node_modules, so we bundle everything ourselves.
 # The createRequire banner satisfies CJS `require` calls esbuild emits when
 # inlining dual-format packages into ESM output.
-npx esbuild functions-src/chat.mts --bundle --platform=node --format=esm \
+./node_modules/.bin/esbuild functions-src/chat.mts --bundle --platform=node --format=esm \
   --outfile=netlify/functions/chat.mjs \
   --banner:js="import { createRequire } from 'node:module'; const require = createRequire(import.meta.url);"
 
