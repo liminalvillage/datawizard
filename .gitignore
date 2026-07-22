@@ -6,6 +6,8 @@ website/build/
 website/.docusaurus/
 website/.cache-loader/
 website/.netlify/
+.netlify/
+website/deno.lock
 # Quartz build artifacts and the build-time copy of the vault
 website/public/
 website/content/
