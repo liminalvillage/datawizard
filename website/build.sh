@@ -43,4 +43,13 @@ mkdir -p netlify/functions
   done
 } > netlify/functions/corpus.md
 
+# Bundle the chat function into a single self-contained file. Netlify's own
+# function bundlers (both esbuild and the default) left the `openai` import
+# external without shipping node_modules, so we bundle everything ourselves.
+# The createRequire banner satisfies CJS `require` calls esbuild emits when
+# inlining dual-format packages into ESM output.
+npx esbuild functions-src/chat.mts --bundle --platform=node --format=esm \
+  --outfile=netlify/functions/chat.mjs \
+  --banner:js="import { createRequire } from 'node:module'; const require = createRequire(import.meta.url);"
+
 npx quartz build
