@@ -7,7 +7,7 @@ tags:
   - constellation
 title: Introduction — A Constellation of Agreements
 type: introduction
-updated: '2026-06-11'
+updated: '2026-07-23'
 ---
 
 # A Constellation of Agreements for a Regenerative Commons
@@ -104,6 +104,27 @@ These agreements are thresholds. Crossing one is a choice to be in relationship 
 The agreements are designed to be held together. A member may also be a steward and a mentor. A steward may also be an intrapreneur. Each agreement is self-contained, and entering a new role means only signing the relevant agreement — the constellation expands naturally as relationships deepen and roles multiply.
 
 What animates all of it — the ground beneath every clause and commitment — is the Regenerative Covenant: the shared promise to leave every place, every relationship, and every system more alive than when it was received. Not as an aspiration. As a practice. Assessed, reviewed, held to account across six dimensions of a living world: the land, the body, the knowledge, the economy, the community, and the governance that holds them all in honest relationship with each other.
+
+---
+
+## The Vessel: Purpose and Mission
+
+All of this is held by a legal vessel. ReGenerativa is formally **"Regenerativa Associazione di Promozione Sociale" (ReGenerativa APS)**, a non-profit social promotion association founded on 21 June 2025 in Castorano (AP), Italy, under the Italian Third Sector Code (D.Lgs. 117/2017). The Association pursues civic, solidaristic and socially useful aims, without profit, through the voluntary contribution of its members. Its Statute states the mission:
+
+> The Association promotes personal and collective wellbeing through residencies, retreats, experiences, workshops, events and courses organised across a network of diverse and interconnected places, fostering human, environmental and spatial regeneration through circular-economy practices, collaborative governance, and a technological infrastructure that tracks and coordinates resources, contributions and impacts.
+
+In particular, the Association exists to favour participation, inclusion and the full development of the person, and to help each person realise their potential for growth. The Statute commits it to activities of general interest under article 5 of the Code:
+
+- **Social inclusion and support** - services that remove situations of need and difficulty, help people develop their potential (physical health as well as psychological, social and relational wellbeing), and build a culture of inclusion.
+- **Socio-health services** - integrated care paths that support people whose state of need, disability or marginalisation affects their health.
+- **Environment and territory** - safeguarding the environment and the careful, rational use of natural resources: monitoring and restoring land and ecosystems, environmental education, promoting ecology, reuse and the circular economy, and caring for animals.
+- **Regeneration of spaces** - reviving disused or underused spaces, buildings and sites through adaptive reuse for social, cultural, ecological and community purposes, with particular attention to inner areas and territories facing depopulation or post-earthquake reconstruction.
+- **Education and research** - university and post-university courses, and scientific research of social interest in fields related to the environment, ecology and sustainable development.
+- **Culture and community** - cultural, artistic and recreational activities: events, publications, and places for people to gather, create and learn together.
+
+The Statute also codifies the network's distributed shape: the Association can articulate its operations into **holons** ("oloni") - territorial hubs or thematic projects with delegated decision-making and managerial autonomy, operating within and on behalf of the Association. Each holon directs its own ring-fenced project fund, while the Association's elected Council keeps overall supervision and responsibility. This is the legal form of the network described above, and of the financial architecture told in [[The Fund in Plain Language]].
+
+And it binds the Association to commitments the constellation relies on: no distribution of profits or surpluses to anyone, ever; open, democratic membership, with admission decided without discrimination and the Association governed by its members through the assembly; and, should the Association ever be dissolved, the devolution of its remaining assets to other Third Sector entities, never to individuals. The Statute itself is the legal text and prevails over this summary.
 
 ---
 
