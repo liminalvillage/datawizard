@@ -1,6 +1,6 @@
 ---
 created: '2026-05-16'
-updated: '2026-07-23'
+updated: '2026-08-27'
 status: active
 type: overview
 tags:
@@ -74,6 +74,8 @@ It looks after six things:
 - **community** and the culture of how we are together
 - **honest, open governance**
 
+That promise faces the living world. A second one faces each other: the **[[Mutual Prosperity Covenant]]** — to leave every *person* more free than you found them. The network supports people to build real livelihoods and genuine autonomy, and when that support helps create value, an agreed part of it comes back so someone else can be supported in turn. Support here is never a debt, a failed attempt never becomes one, and no one's belonging depends on what they produce.
+
 ---
 
 ## Your contribution travels with you
@@ -84,6 +86,8 @@ There are no tiers and no points to chase, and contribution never buys a vote �
 
 And where you actively *tend* a place, your recent contribution there also gives you a proportionate say in how that place's shared spending is directed — a way of sharing care, not a rank over anyone.
 
+And the network gives back in kind. It is not only a record of what you have given: it is a commons that invests in you — mentoring, expertise, introductions, tools, and the collective attention of the group turned on your project one person at a time. The point of that support is your independence, never your dependence, so where the commons carries someone while they build, the arrangement asks for real work on that livelihood out in the wider world — an amount of hours the person and the supporting group agree together before it starts, revisable when life changes, and never a condition of belonging. What you build stays yours. When it prospers, an agreed and bounded part of the value returns to the commons and becomes the next person's beginning.
+
 ---
 
 ## Where to go next
@@ -91,6 +95,7 @@ And where you actively *tend* a place, your recent contribution there also gives
 - Want the deeper thinking (about trust, scale, and relationship)? Read the **[[Introduction — A Constellation of Agreements|Introduction]]**.
 - Want the full detail (clauses, numbers, timelines)? See the **[[Constellation Cheatsheet]]** and the individual agreements.
 - Want to understand how the money works, in plain terms? See **[[The Fund in Plain Language]]**.
+- Want to know what the network commits to *you*, and you to it? Read the **[[Mutual Prosperity Covenant]]**.
 - Thinking about signing? The **[[Constellation FAQ - Concerns by Agreement|Constellation FAQ]]** answers the practical questions signers actually ask — costs, commitments, exits, what can go wrong.
 - Ready to take up a role? The next step is simply to read that one agreement. Nothing here commits you to anything; the agreements are thresholds you choose to cross.
 

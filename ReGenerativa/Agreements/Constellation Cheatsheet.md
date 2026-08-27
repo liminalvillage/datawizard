@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-07-03'
+updated: '2026-08-27'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -75,6 +75,22 @@ Assessed using the [[Regenerative Impact Framework]]. Targets in Annexes. Review
 
 ---
 
+## The Mutual Prosperity Covenant
+
+The people-facing twin of the Regenerative Covenant: that promise leaves every **place** more alive; this one leaves every **person** more free. Stated in the [[Mutual Prosperity Covenant]]; reasoned in the [[Introduction — A Constellation of Agreements|Introduction]] ("Mutual Prosperity").
+
+| | Commitment |
+|---|---|
+| Ground | Value is not determined by money; no one must arrive wealthy. Community must increase autonomy, not replace it — success is measured by increased freedom, not increased need (GT-11.6). |
+| The network gives | Mentoring, expertise, introductions, tools, and collective intelligence focused on one person at a time (**Wise Crowds**). Where it extends to money or resources, through the Unified Fund (GT-4). |
+| The person gives | Concentrated hours on their own livelihood outside the internal network economy — **the amount agreed collectively and in advance**, per arrangement. A term of a support arrangement, revisable when capacity changes; **never a condition of belonging**. |
+| Protections | Support is not debt (no obligation, no authority purchased — GT-4.5, GT-11.5). Failure is not debt. Belonging is not productivity; membership stays open (Art. 23 CTS; A2 §2.1 — one member, one vote). |
+| The return | Where support helps create economic value, an agreed portion returns to the commons — the NRC/ARC principle applied to a person. Each arrangement names scope, income basis, portion, threshold, duration, cap. |
+| Not | Not an investment, loan, equity, security, or claim on future income beyond the agreed terms. No surplus is distributed to anyone (A2 §5.2; GT-4.5). What a person builds stays theirs. |
+| Status | Statement of intent; binds only through a written support arrangement. Clause 13 (the return) pending legal and fiscal review before any arrangement is signed. |
+
+---
+
 ## Network Passport — The Access Rule
 
 There are **no tiers and no perk table**, and no record buys a vote. One rule governs access to all network resources:
@@ -101,6 +117,7 @@ Asset-level access controls — the Owner's reasoned exclusion or required acces
 | Band of tolerance `n` (sovereign zone ±nC) | provisional 3 lunations-of-cost, earned wider | GT-4.8, LGR-5 |
 | Downward backstop `k` (Association absorbs) | provisional 6 lunations | GT-4.8, LGR-5 |
 | Post-Emergence NRC (negotiated at Emergence, locked perpetually as undilutable share) | within 3–10% | A7-3 §2 |
+| Support-arrangement rhythm (hours on own livelihood) | no network-wide figure — set collectively per arrangement, in advance | Mutual Prosperity Covenant §6 |
 | Ownership termination notice | 90 days | A1, Clause 6.1 |
 | Stewardship notice — standard | 30 days | A3, Clause 16.1 |
 | Stewardship notice — extended (12+ months tenure) | 90 days | A3, Clause 16.1 |
@@ -179,6 +196,7 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
 | [[The Fund in Plain Language]]                   | Plain-language walk-through of the Unified Fund (GT-4) for members — the shape and guarantees without the math; provisional figures set by Board resolution |
+| [[Mutual Prosperity Covenant]]                  | The people-facing twin of the Regenerative Covenant: autonomy, support that is not debt, and the return of created value to the commons |
 
 ---
 
