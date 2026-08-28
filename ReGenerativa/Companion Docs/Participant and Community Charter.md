@@ -3,7 +3,7 @@ title: Participant and Community Charter
 type: companion-doc
 status: active
 created: '2026-06-19'
-updated: '2026-06-19'
+updated: '2026-08-28'
 tags:
   - companion-doc
   - participants
@@ -27,7 +27,7 @@ Anyone the network receives without their needing to hold a role: programme part
 
 ### What we promise
 
-- **Safety and dignity.** Everyone is safeguarded from harm and treated with the dignity floor the network holds for all (GT-2.6; the Safeguarding Policy and Code of Conduct). Dignity does not depend on contribution.
+- **Safety and dignity.** Everyone is safeguarded from harm and treated with the Dignity Floor the network holds for all (GT-1.14; GT-2.6; the Safeguarding Policy and Code of Conduct). Dignity does not depend on contribution.
 - **Honest, fair dealing.** Truthful description of any programme or stay, clear pricing and terms before you commit, and fair cancellation and withdrawal rights as required by consumer law (Italian *Codice del Consumo*). No mis-selling; the price is what was stated.
 - **Privacy.** Your personal data is handled under GDPR and GT-5; clients appear in the Ledger only as project codes unless you consent to be named (GT-3.4A).
 - **Fair reception.** You are received under the network's sliding-scale access rule in good faith (GT-3A.3) — priority and price follow contribution, never unfair discrimination. *(The unconditional no-turn-away floor of GT-3A.8 is a benefit of membership; hubs nonetheless extend hospitality to participants and guests as capacity allows.)*

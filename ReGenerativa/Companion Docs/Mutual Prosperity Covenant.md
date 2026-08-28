@@ -3,7 +3,7 @@ title: Mutual Prosperity Covenant
 type: companion-doc
 status: draft
 created: '2026-08-27'
-updated: '2026-08-27'
+updated: '2026-08-28'
 tags:
   - companion-doc
   - covenant
@@ -19,7 +19,7 @@ tags:
 
 The constellation is built around places: land offered, hubs tended, surplus circulating between them. But a network of beautifully tended places full of people who cannot make a living is not regenerative. Whatever else a commons does, it has to work at the scale of a single human life.
 
-This covenant states what the network and its people commit to each other so that it does. It is a statement of shared intent, not a contract: it grants no rights and imposes no obligations by itself. Where it becomes binding, it does so through a written support arrangement between a person and the commons, and through the agreements and General Terms it points to.
+This covenant states what the network and its people commit to each other so that it does. It is a statement of shared intent, not a contract: it grants no rights and imposes no obligations by itself. Where it becomes binding, it does so through a written **Support Arrangement** (GT-1.15) between a person and the commons. The General Terms adopt this covenant in **GT-2.10** and fix five guarantees no arrangement may vary: belonging is not productivity; support is not debt; capacity moves; the return is bounded; where money moves, GT-4 governs.
 
 **In one sentence:** we help each other become free, and when that freedom creates abundance, we circulate part of it so more people can become free too.
 
@@ -139,7 +139,7 @@ Bounded, temporary, and pointed at the mission.
 
 **What it is not.** It is not an investment and not a loan. It creates no equity, no security, no ownership of anything the person builds, and no claim on their future income beyond the terms agreed. The Association distributes no profit or surplus to anyone, ever (Agreement 2 Clause 5.2; Statute; GT-4.5), and nothing returned here becomes anyone's personal income. What a person builds stays theirs.
 
-> **Status.** This clause states intent. The instrument that makes any particular return binding - its form under Italian law and the Third Sector Code, and its treatment for tax - is to be settled with the Association's legal and fiscal advisors before any arrangement is signed. No one should sign one on the strength of this page alone.
+> **Status.** This clause states intent; its guarantees are fixed in GT-2.10(d). The instrument that makes any particular return binding - its form under Italian law and the Third Sector Code, and its treatment for tax - is to be settled with the Association's legal and fiscal advisors and held as LGR-10 before any arrangement is signed. No one should sign one on the strength of this page alone.
 
 ### 14. Prosperity replenishes the commons
 
@@ -169,4 +169,4 @@ We pool capacity so people can build viable lives. We support individuals becaus
 
 *Companion to the [[Introduction — A Constellation of Agreements|Introduction]] ("Mutual Prosperity") and the [[Constellation Overview]]. Twin of the Regenerative Covenant (GT-2). Money and flows: GT-4 and [[The Fund in Plain Language]]. Recognition and access: GT-3A and the [[Network Passport]]. Independent work: GT-11.6. No rights by role: GT-11.5. Those the network serves without a role are covered by the [[Participant and Community Charter]].*
 
-*Not a legal instrument. Draft pending legal review of Clause 13.*
+*Not a legal instrument. Adopted as shared intent by GT-2.10; Clause 13's instrument pending legal review (LGR-10).*

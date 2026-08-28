@@ -1,10 +1,10 @@
 ---
 title: General Terms and Conditions
 type: general-terms
-version: '3.36'
+version: '3.37'
 status: active
 created: '2026-03-17'
-updated: '2026-07-05'
+updated: '2026-08-28'
 tags:
   - general-terms
   - ReGenerativa
@@ -17,7 +17,7 @@ tags:
 
 **GT-1.1** **"Association"** means ReGenerativa APS — ETS, tax code 92074380442, registered in the RUNTS, with registered office in Castorano (AP), Italy.
 
-**GT-1.2** **"Statute"** means the Association's foundational constitutional document, registered 21 June 2025.
+**GT-1.2** **"Statute"** means the Association's foundational constitutional document, registered 21 June 2025, as amended ([[Statuto - ReGenerativa APS]]; English translation: [[Statute - ReGenerativa APS]]).
 
 **GT-1.3** **"Third Sector Code"** means Italian Legislative Decree 3 July 2017, No. 117.
 
@@ -40,6 +40,10 @@ tags:
 **GT-1.12** **"Network Demand Signal"** means a documented pattern of recurring unmet peer-to-peer requests surfaced through normal network operation — through member interactions, steward observations, hub seasonal reports, or gathering discussions — and submitted to the Association for inclusion in the Network Demand Register. A Demand Signal is the network's own market research: evidence that a need exists, expressed by the community that experiences it.
 
 **GT-1.13** **"Network Demand Register"** means the living, publicly visible record maintained by the Association of active Network Demand Signals — patterns of unmet need that any member may respond to, including through the activation of a Venture Holon under the Intrapreneurship Agreement (Agreement 7). The Register is the foundation of the intrapreneurship system and the primary mechanism through which the network converts distributed peer-to-peer requests into structured ventures.
+
+**GT-1.14** **"Dignity Floor"** means the baseline owed to every person the network touches — member, participant, guest, client, or neighbour — regardless of role, contribution, or standing: safety from harm and the Code of Conduct (GT-2.6); honest, safe, and fair dealing (GT-2.8); privacy (GT-5); and a route to be heard (GT-7.5). No contribution measure, allocation, or role modifies it. It is distinct from the **access floor** of GT-3A.8, which is a benefit of membership.
+
+**GT-1.15** **"Support Arrangement"** means a written arrangement under the Mutual Prosperity Covenant (GT-2.10) by which the commons supports a named person while they build a livelihood or project, stating the support offered, its duration, any agreed rhythm of work, and any agreed return of value to the commons.
 
 ---
 
@@ -80,6 +84,14 @@ tags:
 **GT-2.8 — Participants, guests, and the wider community.** The network exists to serve — its **participants and guests** (those on a stay, in a programme, or as the client of a Project) and the wider community, watershed, and bioregion in which each Hub sits. The Association and those who hold its resources owe the people they serve **honest, safe, and fair dealing**: truthful description and clear terms for any programme or stay, fair cancellation and withdrawal rights as required by consumer law, safety and dignity (GT-2.6), and privacy (GT-5; GT-3.4A). Participants and guests are received under the access rule (GT-3A.3) in good faith. Toward the wider community, each Hub holds the **community-ark commitment** (GT-2.3): to operate alongside local institutions rather than against them, to take no net harm from its place and watershed, and to remain a node of mutual aid and resilience in the bioregion it belongs to. The Association maintains a **Participant and Community Charter** (companion document) giving this effect; participants, guests, and neighbours may raise a concern or complaint under GT-7.5, and their feedback informs the regenerative assessment (GT-1.6) and may surface Network Demand Signals (GT-1.12). Statutory rights of consumers and data subjects are preserved and unaffected.
 
 **GT-2.9 — The knowledge commons.** The constellation's own model — these agreements and General Terms, and the companion frameworks and templates (the Regenerative Impact Framework, Hub DNA, Operational Procedures, and the like) — is itself a commons, offered freely to others building regenerative networks. It is released under **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)**: anyone may use and adapt it, with attribution, provided derivatives are shared under the same terms, so the commons stays open and improvements can return to it (the knowledge-and-cultural-vitality dimension of the covenant, GT-2.2(c)). This release covers the model only. It does **not** cover, and confers no right over: the personal data of members or participants (GT-5); information held private to a Hub or its Owner; or Venture intellectual property, governed by Agreement 7 §9. Sharing the model is how federation (GT-4.10) and the wider movement grow.
+
+**GT-2.10 — The Mutual Prosperity Covenant.** The Regenerative Covenant faces the living world; its twin, the **Mutual Prosperity Covenant** (companion document), faces the people: the commitment that every person who passes through the network leaves it more free than they arrived. The Association adopts it as a statement of shared intent that every agreement in the constellation is read in the light of; it creates no rights or obligations by itself. It binds only through a **Support Arrangement** (GT-1.15), and any such arrangement shall respect the following, which no arrangement may vary:
+(a) **Belonging is not productivity.** No term of a Support Arrangement — including any agreed rhythm of hours — conditions membership, voice, the Dignity Floor (GT-1.14), the access floor (GT-3A.8), or the vote (Agreement 2 Clause 2.1).
+(b) **Support is not debt.** Receiving support creates no personal obligation to those who gave it and confers on them no authority, vote, or allocation voice (GT-4.5(d), (g); GT-11.5). Failure to reach an outcome creates no debt.
+(c) **Capacity moves.** An agreed rhythm is revised openly, on either side's initiative, when a person's capacity changes; belonging is never withdrawn for reduced capacity.
+(d) **The return is bounded.** Where an arrangement provides for a return of value to the commons, it names in writing its scope, the income basis it is read against, the portion, the threshold below which nothing is due, its duration, and any cap. The return confers on the Association no equity, security, ownership, or claim on the person's income beyond the stated terms, and nothing returned becomes anyone's personal income (GT-4.5(g)). This is the person-scope of the one Regeneration Contribution (GT-4.4C); it is distinct from any stake an Emerged Entity may elect to offer under Agreement 7 Annex 3 §5, which is a separate, optional instrument between the Association and a legal person.
+(e) **Where money moves, GT-4 governs.** Support that takes the form of network resources or money moves through the Unified Fund under its ordinary rules; support that takes the form of a Programme moves under Agreement 4.
+The form of a Support Arrangement, and the legal and fiscal characterisation of any return under (d), are settled with the Association's legal and fiscal advisors and held as a Living Governance Resolution (LGR-10) before any arrangement is signed.
 
 ---
 
@@ -138,7 +150,7 @@ These entitlements require no funding from the Unified Fund; they are absorbed a
 (b) **Asset holons** (Hubs and other stewarded assets) — under Agreement 1, stewarded per Agreement 3;
 (c) **Project holons** — under Agreement 6;
 (d) **Venture holons** — under Agreement 7;
-(e) **Elder Council holon** — under Agreement 8, the Council acting as its own collective Steward; terminal in the upward flow.
+(e) **Elder Council holon** — under Agreement 8, the Council acting as its own collective Steward; terminal in the upward flow. Until the Council is constituted, the Board stewards this holon per GT-4.4D.
 
 **GT-4.3 — Steward allocation rights.** Every Steward of a holon holds a *delega di spesa* from the Association: delegated authority to allocate resources within the holon's collective, within the holon's mandate, under the ceiling, and within the hard rails of GT-4.5. Where a holon has more than one Steward, allocation rights are shared and exercised collectively through the holon's own internal decision-making process — which the Stewards establish (consensus, sociocracy, majority, or other), with each co-Steward holding voice and participation, and every relevant decision recorded. Where the Allocation Model so provides, the collective discretionary envelope is **divided among co-Stewards in proportion to each one's recorded active contribution** to the holon (GT-3A; Agreement 2 Clause 2.7), recomputed on the Model's cadence; this weighting governs administration of the delegated envelope only and confers no governance vote (GT-11; Agreement 2 Clause 2.1). Where a holon has a single Steward, the Steward decides alone under personal responsibility. For the Association holon, the Board acts as the collective Steward, exercising allocation rights through collective Board deliberation per the Statute and its bylaws. For the Elder Council, the Council acts as the collective Steward of its own holon per its charter.
 
@@ -186,6 +198,8 @@ The **Board (Consiglio Direttivo) is the network holon's Steward** — it direct
 
 The **Network Regeneration Contribution** (GT-4.4(a)) and the **Asset Regeneration Contribution** (GT-4.9) are the **network-scope and asset-scope of one principle**: using a shared holon's resource — the network's infrastructure, or an entrusted Asset — carries a contribution to that holon's regeneration, covering its cost-coverage and feeding the one shape. Between internal holons the Contribution is presented as an at-source deduction (GT-4.4(a)); toward separate legal persons it is an invoiced fee for network services (GT-4.4(a)); its purpose — covering the network holon's cost-coverage and regeneration — is the same either way.
 
+**GT-4.4D — Until the Elder Council is constituted.** Wherever GT-4 assigns a function to the Elder Council or the Elder Council holon — receiving upward overflow (GT-4.4(d)), holding the common reservoir (GT-4.4A(c)–(d)), absorbing a holon in genuine shortfall (GT-4.8(a)), the allocation of last resort (GT-4.4(c)), and the returns on feeding the reservoir (GT-4.8(d)) — the **Board (Consiglio Direttivo)** performs that function until the Council is constituted under Agreement 8. The Board does so as steward of the Elder Council holon, **kept as a separate collective from the Association holon** on the fiscal-hosting platform, so the reservoir is never merged with the network's own cost-coverage or discretionary bucket, and under the same rails: the two-thirds decision threshold of the Council's charter (Agreement 8 Annex 1 §5.5.4) applies to the Board's own deliberation; every allocation is posted within fourteen (14) days and open to member and steward query under §5.5.7 of that charter; the hard rails of GT-4.5 and the reporting of GT-4.7 apply in full; and the Voice for the Land and the Unborn is spoken by a Member the Board designates for each decision. On the Council's constitution, the reservoir, its records, and any pending queries pass to the Council without further instrument. This clause governs the Fund only; interim mediation stays under GT-7.2 and interim regenerative review under GT-2.7(c).
+
 **GT-4.5 — Hard rails.** Every allocator (Board for the Association holon, Stewards for Hub/Venture/Project holons, Elder Council for its own holon) operates within the same procedural rails:
 (a) **Subsidiarity** — within mandate, under the ceiling, with the cost-coverage bucket secured, the allocator decides; no higher-level pre-approval of in-scope spend;
 (b) **Two-part purpose test** — every expense must serve both the local mandate AND the Association's integral-regeneration purpose;
@@ -215,7 +229,7 @@ The **Network Regeneration Contribution** (GT-4.4(a)) and the **Asset Regenerati
 
 (b) **Complement to the NRC.** Where the NRC returns a share of activity to the *network*, the ARC returns a share to the *Asset that hosts it*, so that value drawn from a gift given at cost regenerates the gift rather than being privatised by the operator. The ARC is a local distribution to the host holon, not a network carve-out; the Association holon, the Elder Council, and non-economic inflows do not levy it. NRC and ARC are the network-scope and asset-scope of the one Regeneration Contribution (GT-4.4C).
 
-(c) **Override within a floor.** The economic annex of the activity (the Programme Financial Annex under Agreement 4; the Project economics under Agreement 6; the Venture Sheet under Agreement 7) may set a rate different from the default, but only with the written agreement of the host Asset's Steward(s) — who hold the Asset's interest — and never below `r_ARC_min`. Where the operator is also the host Steward, GT-11.7 applies and the Association names another to represent the Asset.
+(c) **Override within a floor.** The economic annex of the activity (the Programme Annex under Agreement 4; the Project economics under Agreement 6; the Venture Sheet under Agreement 7) may set a rate different from the default, but only with the written agreement of the host Asset's Steward(s) — who hold the Asset's interest — and never below `r_ARC_min`. Where the operator is also the host Steward, GT-11.7 applies and the Association names another to represent the Asset.
 
 (d) **Scope.** The ARC applies only to Assets entrusted under Agreement 1. Activity priced at cost, generating no Net Revenue — including the Resource-cost band of Agreement 4 — yields no ARC; where an Asset is used mainly for gift or at-cost activity, its cost-coverage is carried through its living balance and, where genuinely short, the common reservoir (GT-4.4A, GT-4.8).
 

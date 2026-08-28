@@ -8,7 +8,7 @@ tags:
   - governance
 title: Operational Procedures
 type: companion-doc
-updated: '2026-07-05'
+updated: '2026-08-28'
 version: '1.14'
 ---
 *Companion document to the constellation. Sets out the operational time periods, procedures, and workflow details that the agreements reference but do not themselves prescribe. This document is not a legal agreement — it is the living procedural layer that the Association maintains and updates as the network learns. Changes to this document require Board resolution, not amendment to any signed agreement.*
@@ -145,6 +145,8 @@ Binding in Agreement 1 and its annexes: termination by notice (§6.1); ownership
 
 ## Section J — Unified Fund (GT-4)
 
+*Fund parameters (`r_NRC`, `r_ARC`, cadence, band, value systems) are held in the [[Living Governance Resolutions]]; this section only maps where each is applied.*
+
 ### J.1 NRC at source
 - The NRC Rate (band, default, uniform application across active holons, and exemptions) and the post-Emergence perpetual rate (A7-3 §2) are defined in GT-4.4(a) and held as a parameter in LGR-2 (`r_NRC`) — not restated here. Remittance deadlines are binding in A7 §7.2–7.3 and A6 §10.2 / §10A.4.
 
@@ -174,9 +176,9 @@ Until the network's digital infrastructure (GT-3.1) is operational, the Register
 
 ---
 
-## Section M — Safeguarding (GT-2A)
+## Section M — Safeguarding (GT-2.6)
 
-*Operational mechanics for the [[Safeguarding Policy and Code of Conduct]] (companion doc). The safeguarding duty and the Code of Conduct are binding in GT-2A and that policy; the steps and timeframes below are operational and Board-tunable. The Elder-specific suspension mechanic is at G.2A. Provisional figures pending review.*
+*Operational mechanics for the [[Safeguarding Policy and Code of Conduct]] (companion doc). The safeguarding duty and the Code of Conduct are binding in GT-2.6 and that policy; the steps and timeframes below are operational and Board-tunable. The Elder-specific suspension mechanic is at G.2A. Provisional figures pending review.*
 
 ### M.1 Designated Safeguarding Leads
 - Each hub names a Designated Safeguarding Lead (DSL), ordinarily a Steward, recorded in the Hub DNA (A1-5).

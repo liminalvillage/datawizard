@@ -3,7 +3,7 @@ title: Safeguarding Policy and Code of Conduct
 type: companion-doc
 status: active
 created: '2026-06-16'
-updated: '2026-06-16'
+updated: '2026-08-28'
 tags:
   - companion-doc
   - safeguarding
@@ -24,9 +24,9 @@ It applies to **every hub and every activity, physical and digital**, and to **e
 
 ## 2. Principles
 
-- **Dignity floor.** Every person carries a baseline of safety and respect that no contribution score, role, or seniority modifies (cf. GT-3A.8, the access floor).
-- **No-harm precedes all else.** Where any provision of the constellation conflicts with safeguarding, safeguarding prevails (GT-2A).
-- **Power awareness.** Stewards, mentors, and elders hold real power over participants' standing, access, and belonging (the Ledger concentration noted in the Balance Review, X5). The greater the power, the greater the duty of care and the boundary discipline.
+- **Dignity Floor.** Every person carries a baseline of safety and respect that no contribution score, role, or seniority modifies (GT-1.14; distinct from the members' access floor, GT-3A.8).
+- **No-harm precedes all else.** Where any provision of the constellation conflicts with safeguarding, safeguarding prevails (GT-2.6).
+- **Power awareness.** Stewards, mentors, and elders hold real power over participants' standing, access, and belonging. The greater the power, the greater the duty of care and the boundary discipline.
 - **Believe, record, refer.** Concerns are taken seriously, recorded factually, and referred — never minimised, never investigated informally by the person who received them.
 
 ## 3. Code of Conduct (binds all roles)

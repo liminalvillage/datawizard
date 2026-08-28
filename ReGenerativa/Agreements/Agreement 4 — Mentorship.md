@@ -4,7 +4,7 @@ type: agreement
 version: '3.10'
 status: active
 created: '2026-03-17'
-updated: '2026-07-03'
+updated: '2026-08-28'
 tags:
   - agreement
   - mentorship
@@ -116,9 +116,9 @@ Where both levels are silent on a parameter, at least one (1) Resource-cost slot
 
 **5.2** Programme revenue shall first cover: payment processing and fiscal charges; food, accommodation, materials, and logistics; the **Network Regeneration Contribution** (General Terms GT-4.4(a)); and, where the Programme uses an Asset entrusted under Agreement 1, the **Asset Regeneration Contribution** (GT-4.9; see §5.3A). The Asset's operating costs and Steward reimbursement are met through the Asset holon's cost-coverage bucket (GT-4.4(b)), funded by the Asset Regeneration Contribution; the network's administration and promotion are met by the Network Regeneration Contribution. Neither is charged separately to Programme revenue.
 
-**5.3** After costs, the Network Regeneration Contribution, and the Asset Regeneration Contribution (§5.3A), the Mentor receives their agreed share according to the formula in the **Programme Financial Annex**. Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover. The Mentor's share is paid within thirty (30) days of Programme completion and accounting reconciliation.
+**5.3** After costs, the Network Regeneration Contribution, and the Asset Regeneration Contribution (§5.3A), the Mentor receives their agreed share according to the formula in the **Programme Annex** (Agreement 4 Annex 1, Financial Model). Available models: fixed fee, revenue share, hybrid (base + variable), or cost-cover. The Mentor's share is paid within thirty (30) days of Programme completion and accounting reconciliation.
 
-**5.3A Asset Regeneration Contribution.** Where the Programme uses an Asset entrusted under Agreement 1 (for a place, the host Hub), the **Asset Regeneration Contribution** (GT-4.9) is deducted from Programme Net Revenue — after the Network Regeneration Contribution and before the Mentor's share (§5.3) — at the rate `r_ARC` held in LGR-9, and routed to the host Asset holon, where it covers the Asset's operating costs and Steward reimbursement first and regenerates the Asset with the remainder. The Programme Financial Annex may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9). Resource-cost places, priced at direct delivery cost, generate no Net Revenue and carry no Asset Regeneration Contribution.
+**5.3A Asset Regeneration Contribution.** Where the Programme uses an Asset entrusted under Agreement 1 (for a place, the host Hub), the **Asset Regeneration Contribution** (GT-4.9) is deducted from Programme Net Revenue — after the Network Regeneration Contribution and before the Mentor's share (§5.3) — at the rate `r_ARC` held in LGR-9, and routed to the host Asset holon, where it covers the Asset's operating costs and Steward reimbursement first and regenerates the Asset with the remainder. The Programme Annex may set a different rate only with the written agreement of the host Asset's Steward(s), and never below the floor `r_ARC_min` (LGR-9). Resource-cost places, priced at direct delivery cost, generate no Net Revenue and carry no Asset Regeneration Contribution.
 
 **5.4** The Parties may define a minimum viable threshold below which the Programme may be cancelled, rescheduled, or renegotiated.
 

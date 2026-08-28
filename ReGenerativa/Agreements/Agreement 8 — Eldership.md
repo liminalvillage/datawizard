@@ -3,7 +3,7 @@ title: Agreement 8 — Eldership
 type: agreement
 version: '1.10'
 created: '2026-04-14'
-updated: '2026-06-11'
+updated: '2026-08-28'
 status: active
 tags:
   - agreement
@@ -38,7 +38,7 @@ tags:
 
 **1.3** This Agreement is the instrument of that honour. It creates enforceable rights in favour of the Elder and binding obligations on the Association and its successors. It survives the dissolution of the Association per GT-13.
 
-**1.4 Holon status.** For the purposes of GT-4, the Elder Council is treated as the **Elder Council holon** (as defined in GT-1.10 and GT-4.2(e)) — the terminal holon in the upward overflow per GT-4.4(d) — holding allocation rights over the portion of the Unified Fund routed to it, exercised collectively per its charter ([[Agreement 8 Annex 1 — Elder Council Charter|A8-1]] §5.5).
+**1.4 Holon status.** For the purposes of GT-4, the Elder Council is treated as the **Elder Council holon** (as defined in GT-1.10 and GT-4.2(e)) — the terminal holon in the upward overflow per GT-4.4(d) — holding allocation rights over the portion of the Unified Fund routed to it, exercised collectively per its charter ([[Agreement 8 Annex 1 — Elder Council Charter|A8-1]] §5.5). Until the Council is constituted, the Board stewards this holon under GT-4.4D.
 
 ---
 
@@ -46,7 +46,7 @@ tags:
 
 **2.1 Eligibility.** This Agreement is available exclusively to natural persons; no legal entity may hold it. It recognises sustained, long-term contribution to the network; the operative eligibility requirement is the contribution standing set out in Clause 2.2.
 
-**2.2 Contribution Standing.** The Elder must hold, or have held, at least one other agreement in the constellation for a minimum period defined by the Association's governance body and published as a living governance resolution (see Living Governance Resolutions, Resolution LGR-1, dated 2026-05-16). The threshold is set in that resolution (currently five (5) years; see LGR-1), not in this Agreement, so it can evolve without amending this Agreement.
+**2.2 Contribution Standing.** The Elder must hold, or have held, at least one other agreement in the constellation for a minimum period defined by the Association's governance body and published as a living governance resolution (see Living Governance Resolutions, Resolution LGR-1, dated 2026-05-16). The threshold is set in that resolution (currently five (5) years; three (3) for the founding cohort as defined there; see LGR-1), not in this Agreement, so it can evolve without amending this Agreement.
 
 **2.3 Nomination and Invitation.** Entry into Eldership may occur by:
 

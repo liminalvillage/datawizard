@@ -1,6 +1,6 @@
 ---
 created: '2026-05-16'
-updated: '2026-08-27'
+updated: '2026-08-28'
 status: active
 type: overview
 tags:
@@ -56,8 +56,8 @@ The word *constellation* is deliberate. These are not rungs on a ladder, and no 
 
 - **Each agreement is complete on its own.** You do not need the others for one to work.
 - **They are designed to be held together.** A member can also steward a hub and mentor in it. Adding a role never reopens the ones you already hold; you just sign the new agreement.
-- **Two things sit in the background.** One shared rulebook (the General Terms) keeps every agreement consistent — including the shared rules on how contributions are recognised, how any agreement ends for serious cause, what no role can ever grant, and your freedom to pursue independent work (GT-3.5, GT-6A, GT-11.5, GT-11.6) — and the Association's Statute sits above them all (its purpose and mission are summarised in the [[Introduction — A Constellation of Agreements|Introduction]]). You do not need to read either to take part.
-- **The Association holds the network's money.** It acts as one shared account through which every hub, project, and venture passes its earnings — each one keeping its own envelope inside, directed by its own stewards. Each place looks after its own running costs first, shares any lasting surplus with the wider network, and is caught by the network if it falls genuinely short — so no place is left to fail alone, and none simply hoards. Some figures in the financial model are still being finalised — they are marked where they appear; the shape and the promises are settled.
+- **Two things sit in the background.** One shared rulebook (the General Terms) keeps every agreement consistent — including the shared rules on how contributions are recognised, how any agreement ends for serious cause, what no role can ever grant, and your freedom to pursue independent work (GT-3.5, GT-6A, GT-11.5, GT-11.6) — and the Association's [[Statute - ReGenerativa APS|Statute]] sits above them all (its purpose and mission are summarised in the [[Introduction — A Constellation of Agreements|Introduction]]). You do not need to read either to take part.
+- **The Association holds the network's money.** It acts as one shared account through which every hub, project, and venture passes its earnings — each one keeping its own envelope inside, directed by its own stewards. Each place looks after its own running costs first, shares any lasting surplus with the wider network, and is caught by the network if it falls genuinely short — so no place is left to fail alone, and none simply hoards. Some figures in the financial model are still being finalised — they are collected, with their status, in the [[Living Governance Resolutions]]; the shape and the promises are settled.
 
 ---
 

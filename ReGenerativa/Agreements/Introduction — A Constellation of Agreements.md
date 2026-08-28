@@ -7,7 +7,7 @@ tags:
   - constellation
 title: Introduction — A Constellation of Agreements
 type: introduction
-updated: '2026-08-27'
+updated: '2026-08-28'
 ---
 
 
@@ -121,7 +121,7 @@ Three protections make such support safe to accept.
 
 **Capacity moves.** Illness, family, grief and exhaustion all narrow what a person can do, sometimes for a long season. Agreements are adapted openly when that happens, and belonging is not withdrawn because someone's capacity changed.
 
-Then, when it works — and sometimes it will — the last commitment closes the circle. Where the network's support has helped create economic value, an agreed portion of that value returns to the commons. This is not an investment and not a claim on anyone's future: the Association holds no equity, no share of a person's income, and no right to distribute a surplus to anybody, ever. It is the principle the Fund already runs everywhere else, applied to a person's success rather than a hub's. Each arrangement names its own terms in writing: what the support was, what income it is read against, what portion, above what threshold, and for how long. What returns funds the next person's support, the shared infrastructure, the tools and the education, the seed capital for what has not been tried yet.
+Then, when it works — and sometimes it will — the last commitment closes the circle. Where the network's support has helped create economic value, an agreed portion of that value returns to the commons. This is not an investment and not a claim on anyone's future: the Association takes no equity in a person, no share of their income beyond the terms agreed, and has no right to distribute a surplus to anybody, ever. It is the principle the Fund already runs everywhere else, applied to a person's success rather than a hub's. Each arrangement names its own terms in writing: what the support was, what income it is read against, what portion, above what threshold, and for how long. What returns funds the next person's support, the shared infrastructure, the tools and the education, the seed capital for what has not been tried yet.
 
 This is why the network is neither a charity nor a collection of individuals sharing overheads. A charity gives to people who need. A market lends to people who can repay. This is a third thing: **we help each other become free, and when that freedom creates abundance, we circulate part of it so more people can become free too.**
 
@@ -176,7 +176,7 @@ The Statute commits it to activities of general interest under article 5 of the 
 
 The Statute also codifies the network's distributed shape: the Association can articulate its operations into **holons** ("oloni") - territorial hubs or thematic projects with delegated decision-making and managerial autonomy, operating within and on behalf of the Association. Each holon directs its own ring-fenced project fund, while the Association's elected Council keeps overall supervision and responsibility. This is the legal form of the network described above, and of the financial architecture told in [[The Fund in Plain Language]].
 
-And it binds the Association to commitments the constellation relies on: no distribution of profits or surpluses to anyone, ever; open, democratic membership, with admission decided without discrimination and the Association governed by its members through the assembly; and, should the Association ever be dissolved, the devolution of its remaining assets to other Third Sector entities, never to individuals. The Statute itself is the legal text and prevails over this summary.
+And it binds the Association to commitments the constellation relies on: no distribution of profits or surpluses to anyone, ever; open, democratic membership, with admission decided without discrimination and the Association governed by its members through the assembly; and, should the Association ever be dissolved, the devolution of its remaining assets to other Third Sector entities, never to individuals. The Statute itself is the legal text and prevails over this summary: [[Statute - ReGenerativa APS]] (English) and [[Statuto - ReGenerativa APS]] (Italian, governing).
 
 ---
 

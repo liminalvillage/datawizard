@@ -3,7 +3,7 @@ title: The Fund in Plain Language
 type: companion
 status: draft
 created: '2026-06-03'
-updated: '2026-07-05'
+updated: '2026-08-28'
 tags:
   - ReGenerativa
   - fund
@@ -13,7 +13,7 @@ tags:
 
 # The Fund in Plain Language
 
-*The plain-language companion to the Unified Fund (GT-4). The General Terms promise every member the right to understand how the network's money works without reading the math (GT-4.6); this is that explanation. It describes the **shape** the network is committing to. The exact figures — the size of the network's slice, how often things settle, how much room each place has — are set and revised by Board resolution in the Association's parameter register (the Living Governance Resolutions). The shape below does not change with them.*
+*The plain-language companion to the Unified Fund (GT-4). The General Terms promise every member the right to understand how the network's money works without reading the math (GT-4.6); this is that explanation. It describes the **shape** the network is committing to. The exact figures — the size of the network's slice, how often things settle, how much room each place has — are set and revised by Board resolution in the Association's parameter register (the [[Living Governance Resolutions]]). The shape below does not change with them.*
 
 *For the precise rules, see the [[General Terms and Conditions]] (GT-4).*
 

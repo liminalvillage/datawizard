@@ -8,7 +8,7 @@ tags:
   - reference
 title: Constellation Cheatsheet
 type: cheatsheet
-updated: '2026-08-27'
+updated: '2026-08-28'
 ---
 
 # ReGenerativa — Constellation Cheatsheet
@@ -41,10 +41,10 @@ updated: '2026-08-27'
 | Section | What it governs |
 |---|---|
 | GT-1 | Definitions (Asset + Hub-as-place, Asset DNA / Hub DNA, Regenerative Impact, Contribution Ledger, Network Passport, Demand Signal, Demand Register, etc.) |
-| GT-2 | Regenerative Covenant — six integral dimensions, the animating mandate of every agreement; safeguarding duty (GT-2.6 → [[Safeguarding Policy and Code of Conduct]]); regenerative balance, support-first graduated response (GT-2.7); participants, guests, and the wider community (GT-2.8 → [[Participant and Community Charter]]); the model itself a knowledge commons, CC BY-SA 4.0 (GT-2.9) |
+| GT-2 | Regenerative Covenant — six integral dimensions, the animating mandate of every agreement; its people-facing twin, the Mutual Prosperity Covenant, adopted as shared intent and binding only through a Support Arrangement (GT-2.10); safeguarding duty (GT-2.6 → [[Safeguarding Policy and Code of Conduct]]); regenerative balance, support-first graduated response (GT-2.7); participants, guests, and the wider community (GT-2.8 → [[Participant and Community Charter]]); the model itself a knowledge commons, CC BY-SA 4.0 (GT-2.9) |
 | GT-3 | Contribution Ledger — one plain shared record, partitioned by holon (GT-1.7); visibility a network setting (GT-3.4A → LGR-8, currently all-visible); contribution recognition stated once for every agreement (GT-3.5) |
 | GT-3A | Network Passport — portable cumulative contribution record + the single sliding-scale access rule (no tiers/perks), GDPR |
-| GT-4 | Unified Fund — one self-similar shape for every holon: **NRC at source → cost-coverage → Asset Reserve (GT-4.4B) → steward discretionary → overflow to the Elder Council** (the common reservoir, terminal). The ARC (GT-4.9) routes a share of activity on an entrusted Asset back to that Asset; the Association holon runs the same shape and can't hoard (GT-4.4C); settlement, mutual aid, and graduated intervention per GT-4.4A / GT-4.8; parameters in the Allocation Model (GT-4.6 → LGR); federation composes holons at any scale (GT-4.10). Plain language: [[The Fund in Plain Language]] |
+| GT-4 | Unified Fund — one self-similar shape for every holon (the Board stewards the Elder Council holon and the reservoir until the Council exists, GT-4.4D): **NRC at source → cost-coverage → Asset Reserve (GT-4.4B) → steward discretionary → overflow to the Elder Council** (the common reservoir, terminal). The ARC (GT-4.9) routes a share of activity on an entrusted Asset back to that Asset; the Association holon runs the same shape and can't hoard (GT-4.4C); settlement, mutual aid, and graduated intervention per GT-4.4A / GT-4.8; parameters in the Allocation Model (GT-4.6 → LGR); federation composes holons at any scale (GT-4.10). Plain language: [[The Fund in Plain Language]] |
 | GT-5 | Data protection (GDPR + Italian law) |
 | GT-6 | Force majeure |
 | GT-6A | Termination for serious cause — one shared standard for every agreement, either party; individual agreements add only role-specific causes or staged processes |
@@ -56,7 +56,7 @@ updated: '2026-08-27'
 | GT-12 | Fiscal compliance for paid collaborations |
 | GT-13 | Continuity and dissolution resilience — succession protocol, Ledger as public good, Custodial Council (GT-13.2–13.6); the human estate (housing, in-flight work, participant welfare) carried through wind-down (GT-13.7) |
 
-**Hierarchy:** Statute > individual agreement > General Terms. English text governs; an Italian certified translation prevails in court only where agreed and signed by both Parties (GT-8.3).
+**Hierarchy (GT-11.2):** Statute > upstream agreement (as between the Association and the upstream counterparty) > individual agreement > General Terms. English text governs; an Italian certified translation prevails in court only where agreed and signed by both Parties (GT-8.3).
 
 ---
 
@@ -87,7 +87,7 @@ The people-facing twin of the Regenerative Covenant: that promise leaves every *
 | Protections | Support is not debt (no obligation, no authority purchased — GT-4.5, GT-11.5). Failure is not debt. Belonging is not productivity; membership stays open (Art. 23 CTS; A2 §2.1 — one member, one vote). |
 | The return | Where support helps create economic value, an agreed portion returns to the commons — the NRC/ARC principle applied to a person. Each arrangement names scope, income basis, portion, threshold, duration, cap. |
 | Not | Not an investment, loan, equity, security, or claim on future income beyond the agreed terms. No surplus is distributed to anyone (A2 §5.2; GT-4.5). What a person builds stays theirs. |
-| Status | Statement of intent; binds only through a written support arrangement. Clause 13 (the return) pending legal and fiscal review before any arrangement is signed. |
+| Status | Adopted as shared intent in GT-2.10; binds only through a written Support Arrangement (GT-1.15), whose five guarantees GT-2.10(a)–(e) fix. Form and fiscal treatment of the return held in LGR-10, pending legal and fiscal review before any arrangement is signed. |
 
 ---
 
@@ -137,7 +137,7 @@ Asset-level access controls — the Owner's reasoned exclusion or required acces
 | Intrapreneurship network introductions | 3 within 60 days | A7, Clause 8.3b |
 | Association remedy period if obligations fail | 30 days from written notice | A7, Clause 8.4 |
 | Demand Signal publication | 30 days from submission | A7, Clause 2.2 |
-| Eldership eligibility | long, substantial contribution record | A8, Clause 2.1 |
+| Eldership eligibility | 5 years holding another constellation agreement (3 for the founding cohort) + a long, substantial contribution record | A8 §2.2, LGR-1 |
 | Council allocation: posting / query window / response | 14 / 30 / 30 days | A8-1 §5.5.7 |
 | Wind-down notice to stewards/members/participants/ventures | 14 days from dissolution | GT-13.7; Op Proc H.2 |
 | New node — provisional period before full hub status | ~6 months (aligned A1 §3.9) | GT-11.9; Op Proc Q.1 |
@@ -196,6 +196,8 @@ If no successor is identified in 90 days, the **Custodial Council** self-constit
 | [[Network Passport]]                            | The portable contribution record + the single sliding-scale access rule           |
 | [[Operational Procedures]]                      | Operational time periods, workflows, and procedural detail referenced by agreements; amendable by Board resolution without agreement amendment |
 | [[The Fund in Plain Language]]                   | Plain-language walk-through of the Unified Fund (GT-4) for members — the shape and guarantees without the math; provisional figures set by Board resolution |
+| [[Statute - ReGenerativa APS]]                  | The Association's Statute (English translation; Italian text: [[Statuto - ReGenerativa APS]]) - prevails over the General Terms and every agreement (GT-11.2) |
+| [[Living Governance Resolutions]]               | The parameter register every agreement points to (LGR-1 to LGR-10): the figures, who sets them, and their current provisional values |
 | [[Mutual Prosperity Covenant]]                  | The people-facing twin of the Regenerative Covenant: autonomy, support that is not debt, and the return of created value to the commons |
 
 ---
