@@ -8,7 +8,10 @@
   # With base=website, Netlify's default change detection ignores commits that
   # only touch the vault content outside it. Build when website/, the vault, or
   # this file changed. (Runs from the base directory; non-zero exit = build.)
-  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ../ReGenerativa ../netlify.toml"
+  # Guard: if CACHED_COMMIT_REF is empty (first build, or after a cancelled
+  # deploy) the diff would silently compare against the working tree and
+  # return 0 -> "no content change". Force a build in that case.
+  ignore = "test -n \"$CACHED_COMMIT_REF\" && test \"$CACHED_COMMIT_REF\" != \"$COMMIT_REF\" && git diff --quiet \"$CACHED_COMMIT_REF\" \"$COMMIT_REF\" -- . ../ReGenerativa ../netlify.toml"
 
 [build.environment]
   # Quartz v4 requires Node >= 22.
