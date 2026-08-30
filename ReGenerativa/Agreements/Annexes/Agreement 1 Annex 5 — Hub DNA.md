@@ -11,7 +11,7 @@ tags:
   - place-identity
 title: Agreement 1 Annex 5 — Hub DNA
 type: annex
-updated: '2026-06-10'
+updated: '2026-08-30'
 version: '1.1'
 ---
 *Annex 5 to the [[Agreement 1 — Ownership|Ownership Agreement]]. Complete one per hub. The Hub DNA is the living expression of a hub's identity — its values, rhythms, expectations, and offerings. It is also referenced in the [[Agreement 3 — Stewardship|Stewardship Agreement]] (Clause 4) and the [[Agreement 4 — Mentorship|Mentorship Agreement]] (Clause 2.2). File completed documents as: "Hub DNA — [Hub Name].md" in the Hubs/[Hub Name]/ folder.*
@@ -139,6 +139,8 @@ The Association's coordination follows the seasons. This hub participates in:
 - **Winter Solstice gathering:** [date / format]
 
 [Describe any hub-specific seasonal practices — harvests, plantings, openings, closings]
+
+**Residence cycle:** [season / lunation / lunar phase — the unit of time a Member commits to in order to count as *in residence* under the Internal Regulation Art. 6; one lunation if left blank]
 
 ### Work Sessions
 

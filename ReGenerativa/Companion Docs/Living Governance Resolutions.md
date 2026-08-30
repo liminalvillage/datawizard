@@ -3,7 +3,7 @@ title: Living Governance Resolutions
 type: companion
 status: draft
 created: '2026-08-28'
-updated: '2026-08-28'
+updated: '2026-08-30'
 tags:
   - ReGenerativa
   - governance
